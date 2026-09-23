@@ -450,12 +450,12 @@ Submissions are reviewed before inclusion.
 
 ## Website previews / 网站截图
 
-Screenshots captured on 22 September 2026. / 截图摄于 2026 年 9 月 22 日。
+Live website screenshots captured on 23 September 2026. Click either image to open the corresponding language version. / 截图采自 2026 年 9 月 23 日的线上网站，点击图片进入对应语言版本。
 
 ### 中文网站
 
-[![ANTI-AI ARCHIVE — 中文网站截图](assets/website-zh.png)](https://www.salondesrefuses.cn/zh)
+[![ANTI-AI ARCHIVE — 中文网站截图](assets/website-zh-2026-09-23.jpg)](https://salondesrefuses.cn/zh)
 
 ### English website
 
-[![ANTI-AI ARCHIVE — English website screenshot](assets/website-en.png)](https://www.salondesrefuses.cn/en)
+[![ANTI-AI ARCHIVE — English website screenshot](assets/website-en-2026-09-23.jpg)](https://salondesrefuses.cn/en)
