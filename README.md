@@ -1,6 +1,5 @@
 # ANTI-AI ARCHIVE · 2022–PRESENT
 
-## SALON DES REFUSÉS
 ### Global movements, creative labour, cultural conflict, and the politics of generative AI
 
 🧩 [中文网站](https://www.salondesrefuses.cn/)  
@@ -22,7 +21,7 @@ The archive follows these conflicts across visual art, illustration, photography
 
 # 中文介绍
 
-**ANTI-AI ARCHIVE / SALON DES REFUSÉS** 是一个持续建设中的全球研究档案，记录自 2022 年以来围绕生成式人工智能产生的反对、拒绝、组织行动、协商、诉讼、平台治理、劳动冲突、商业谈判与制度变化。
+**ANTI-AI ARCHIVE** 是一个持续建设中的全球研究档案，记录自 2022 年以来围绕生成式人工智能产生的反对、拒绝、组织行动、协商、诉讼、平台治理、劳动冲突、商业谈判与制度变化。
 
 本项目并不把“反 AI”理解为一个统一的政治立场，也不把这一历史简化为“人类与机器的对抗”。
 
@@ -443,7 +442,7 @@ Submissions are reviewed before inclusion.
 🧩 https://www.salondesrefuses.cn/  
 🧩 https://www.salondesrefuses.cn/en
 
-**ANTI-AI ARCHIVE · SALON DES REFUSÉS**  
+**ANTI-AI ARCHIVE**  
 **2022–PRESENT**
 
 ---
