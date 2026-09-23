@@ -6,20 +6,6 @@
 🧩 [中文网站](https://www.salondesrefuses.cn/)  
 🧩 [English website](https://www.salondesrefuses.cn/en)  
 
-[引用 / Cite](CITATION.cff) · [参与 / Contribute](CONTRIBUTING.md) · [入门任务 / Good first issues](docs/GOOD_FIRST_ISSUES.md)
-
-[![Anti-AI Archive — English website preview](assets/website-en.png)](https://www.salondesrefuses.cn/en)
-
-<details>
-<summary>中文网页截图 / Chinese website preview</summary>
-
-[![ANTI-AI ARCHIVE — 中文网站预览](assets/website-zh.png)](https://www.salondesrefuses.cn/zh)
-
-</details>
-
-*Website screenshots captured on 22 September 2026. / 网页截图摄于 2026 年 9 月 22 日。*
-
-
 ANTI-AI ARCHIVE is an ongoing research project documenting the global history of resistance, negotiation, conflict, and institutional change surrounding generative AI since 2022.
 
 It does not treat “anti-AI” as a single ideology, nor as a simple opposition between humans and machines.
@@ -459,3 +445,17 @@ Submissions are reviewed before inclusion.
 
 **ANTI-AI ARCHIVE · SALON DES REFUSÉS**  
 **2022–PRESENT**
+
+---
+
+## Website previews / 网站截图
+
+Screenshots captured on 22 September 2026. / 截图摄于 2026 年 9 月 22 日。
+
+### 中文网站
+
+[![ANTI-AI ARCHIVE — 中文网站截图](assets/website-zh.png)](https://www.salondesrefuses.cn/zh)
+
+### English website
+
+[![ANTI-AI ARCHIVE — English website screenshot](assets/website-en.png)](https://www.salondesrefuses.cn/en)
