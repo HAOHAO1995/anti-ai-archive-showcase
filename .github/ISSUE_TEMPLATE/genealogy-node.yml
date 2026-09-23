@@ -1,0 +1,51 @@
+{
+  "name": "Genealogy node / 谱系节点",
+  "description": "Genealogy node / 谱系节点 — evidence and original links / 请附证据与原链接",
+  "title": "[Genealogy] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Public submission: do not include private drafts, personal sensitive information or third-party full texts. / 公开提交，请勿包含私有草稿、敏感个人信息或第三方全文。"
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "context",
+      "attributes": {
+        "label": "Paper, model, artist or system; date and precision / 论文、模型、艺术家或系统及日期精度"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "evidence",
+      "attributes": {
+        "label": "Original source URL(s), publication date and language / 原始来源链接、发布日期与语言"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "proposal",
+      "attributes": {
+        "label": "Historical significance and proposed relation, with uncertainty / 历史意义与建议关系，请保留不确定性"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "review",
+      "attributes": {
+        "label": "Translation origin and review / 翻译来源与审校",
+        "description": "If relevant, distinguish AI-assisted text, your translation and independent review. / 如涉及翻译，请区分 AI 辅助、本人翻译与独立审校。"
+      }
+    }
+  ]
+}

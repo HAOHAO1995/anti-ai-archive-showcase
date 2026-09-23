@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this research archive and its original sources. / 请引用本研究档案及其原始证据来源。"
+title: "Anti-AI Archive: Art, Creative Labour & Histories of Refusal"
+type: dataset
+authors:
+  - family-names: "Chen"
+    given-names: "Haohao"
+url: "https://salondesrefuses.cn"
+repository-artifact: "https://github.com/HAOHAO1995/anti-ai-archive-showcase"
+abstract: "A bilingual public catalogue of generative-AI conflicts and an AI-art genealogy. / 生成式 AI 冲突与 AI 艺术谱系的双语公开编目。"
+keywords:
+  - generative AI
+  - art history
+  - creative labour
+  - digital humanities
