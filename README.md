@@ -451,12 +451,12 @@ Submissions are reviewed before inclusion.
 
 ## Website previews / 网站截图
 
-Live website screenshots captured on 23 September 2026. Click either image to open the corresponding language version. / 截图采自 2026 年 9 月 23 日的线上网站，点击图片进入对应语言版本。
+Live website screenshots captured on 25 September 2026. Click either image to open the corresponding language version. / 截图采自 2026 年 9 月 25 日的线上网站，点击图片进入对应语言版本。
 
 ### 中文网站
 
-[![ANTI-AI ARCHIVE — 中文网站截图](assets/website-zh-2026-09-23.jpg)](https://salondesrefuses.cn/zh)
+[![ANTI-AI ARCHIVE — 中文网站截图](assets/website-zh-2026-09-25.jpg)](https://salondesrefuses.cn/zh)
 
 ### English website
 
-[![ANTI-AI ARCHIVE — English website screenshot](assets/website-en-2026-09-23.jpg)](https://salondesrefuses.cn/en)
+[![ANTI-AI ARCHIVE — English website screenshot](assets/website-en-2026-09-25.jpg)](https://salondesrefuses.cn/en)
