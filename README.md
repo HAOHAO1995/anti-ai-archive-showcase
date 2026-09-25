@@ -1,9 +1,11 @@
 # ANTI-AI ARCHIVE · 2022–PRESENT
 
+**LUOCAO / CHEN HAOHAO**
+
 ### Global movements, creative labour, cultural conflict, and the politics of generative AI
 
-🧩 [中文网站](https://www.salondesrefuses.cn/)  
-🧩 [English website](https://www.salondesrefuses.cn/en)  
+🧩 [中文网站](https://salondesrefuses.cn/)  
+🧩 [English website](https://salondesrefuses.cn/en)  
 
 ANTI-AI ARCHIVE is an ongoing research project documenting the global history of resistance, negotiation, conflict, and institutional change surrounding generative AI since 2022.
 
@@ -439,8 +441,8 @@ Submissions are reviewed before inclusion.
 
 ## Visit the archive
 
-🧩 https://www.salondesrefuses.cn/  
-🧩 https://www.salondesrefuses.cn/en
+🧩 [中文网站](https://salondesrefuses.cn/zh)  
+🧩 [English website](https://salondesrefuses.cn/en)
 
 **ANTI-AI ARCHIVE**  
 **2022–PRESENT**
