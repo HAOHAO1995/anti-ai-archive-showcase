@@ -2,9 +2,9 @@
 
 **LUOCAO / CHEN HAOHAO**
 
-### Global movements, creative labour, cultural conflict, and the politics of generative AI
+### A history of art, creative labour and refusal: interests and politics behind anti-AI movements since 2022
 
-🧩 [中文网站](https://salondesrefuses.cn/)  
+🧩 [中文网站](https://salondesrefuses.cn/zh)<br>
 🧩 [English website](https://salondesrefuses.cn/en)  
 
 ANTI-AI ARCHIVE is an ongoing research project documenting the global history of resistance, negotiation, conflict, and institutional change surrounding generative AI since 2022.
@@ -22,6 +22,8 @@ The archive follows these conflicts across visual art, illustration, photography
 ---
 
 # 中文介绍
+
+### 艺术、创意劳动和拒绝的历史：2022年以来的反AI运动背后的利益与政治
 
 **ANTI-AI ARCHIVE** 是一个持续建设中的全球研究档案，记录自 2022 年以来围绕生成式人工智能产生的反对、拒绝、组织行动、协商、诉讼、平台治理、劳动冲突、商业谈判与制度变化。
 
@@ -451,7 +453,11 @@ Submissions are reviewed before inclusion.
 
 ## Website previews / 网站截图
 
-Live website screenshots captured on 25 September 2026. Click either image to open the corresponding language version. / 截图采自 2026 年 9 月 25 日的线上网站，点击图片进入对应语言版本。
+The live website now uses dark glass cards with more generous spacing, bilingual reading rooms and an interactive art-history timeline. / 当前网站采用暗黑玻璃卡片与更疏朗的间距，提供双语阅览室和交互式艺术史时间线。
+
+[Current Chinese homepage / 最新中文主页](https://salondesrefuses.cn/zh) · [Current English homepage / 最新英文主页](https://salondesrefuses.cn/en) · [中文阅览室](https://salondesrefuses.cn/zh/documents) · [English reading room](https://salondesrefuses.cn/en/documents)
+
+The images below show the website on 25 September 2026, before the current dark-glass revision. Click either image to open the current language version. / 以下为 2026 年 9 月 25 日的历史截图，早于当前暗黑玻璃改版；点击图片可打开对应语言的最新网站。
 
 ### 中文网站
 
