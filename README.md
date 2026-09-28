@@ -7,6 +7,24 @@
 🧩 [中文网站](https://salondesrefuses.cn/zh)<br>
 🧩 [English website](https://salondesrefuses.cn/en)  
 
+## Current website figures / 当前网站规模
+
+Updated on 28 September 2026 from the currently deployed website edition; the research snapshot is dated 23 September 2026. / 2026 年 9 月 28 日按当前已部署的网站版本同步；研究快照日期为 2026 年 9 月 23 日。
+
+| Catalogue / 编目 | Total / 总数 |
+| --- | ---: |
+| Cases / 案例 | **236** |
+| Events / 事件 | **410** |
+| Documents & essays / 文献与文章 | **518** |
+| Sources / 来源 | **576** |
+| People & organisations in the index / 人物与机构索引 | **349** |
+| Place categories / 地区分类 | **40** |
+| Art-history timeline nodes / 艺术史时间线节点 | **222** |
+
+The reading-room total includes 516 catalogue records and 2 authored essays. The people index contains 349 entries linked to events; the published data contains 351 people/organisation records in total. Figures count records once across Chinese and English versions, exclude unpublished research, and describe catalogue size rather than independent verification of every claim. / 阅览室总数包含 516 条文献编目与 2 篇作者文章。人物与机构索引显示关联事件的 349 项，发布数据中共保存 351 条人物与机构记录。中英文版本不重复计数，未发布研究不计入；数字反映编目规模，不表示全部主张均已独立核实。
+
+[September update and historical figures / 九月更新与历史数字](updates/2026-09.md)
+
 ANTI-AI ARCHIVE is an ongoing research project documenting the global history of resistance, negotiation, conflict, and institutional change surrounding generative AI since 2022.
 
 It does not treat “anti-AI” as a single ideology, nor as a simple opposition between humans and machines.
