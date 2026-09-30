@@ -25,6 +25,11 @@ The reading-room total includes 516 catalogue records and 2 authored essays. The
 
 [September update and historical figures / 九月更新与历史数字](updates/2026-09.md)
 
+All **222 AI art-history nodes** now have independent Chinese and English detail pages (**444 reading pages**, not additional historical nodes), with research accounts, date notes, citations and original-source links. Select a card to preview it; use Read or double-click to open the detail page. / 全部 **222 个 AI 艺术史节点**现已提供独立中英文详情页（共 **444 个阅读页面**，不重复计为历史节点），包含研究说明、日期备注、出处与原始资料链接。单击卡片预览，点击“阅读”或双击进入详情。
+
+[AI Art History / 艺术史目录](https://salondesrefuses.cn/en/topics/ai-art-history) · [示例节点：中文](https://salondesrefuses.cn/zh/art-history/001) · [Example node: English](https://salondesrefuses.cn/en/art-history/001)
+
+
 ANTI-AI ARCHIVE is an ongoing research project documenting the global history of resistance, negotiation, conflict, and institutional change surrounding generative AI since 2022.
 
 It does not treat “anti-AI” as a single ideology, nor as a simple opposition between humans and machines.
