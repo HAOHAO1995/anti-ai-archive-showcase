@@ -1,7 +1,7 @@
 {
-  "name": "Missing / new source · 缺失或新增来源",
+  "name": "Missing case / 缺失案例",
   "description": "Provide a specific proposal and original evidence. / 请提供具体建议与原始证据。",
-  "title": "[Source] ",
+  "title": "[Case] ",
   "body": [
     {
       "type": "markdown",
@@ -58,7 +58,7 @@
       "id": "requested_change",
       "attributes": {
         "label": "Requested addition / correction / 建议补充或修正",
-        "description": "Identify the original title, publisher and author, and explain which claim it supports. State whether it is primary or secondary evidence. / 写明原题、出版者、作者及支持的主张，并说明一手或二手属性。"
+        "description": "Describe the continuing dispute, actors, region and dated developments; link any related existing case to avoid duplication. / 说明持续争议、主体、地区与有日期的发展；如有相关案例请链接，避免重复。"
       },
       "validations": {
         "required": true

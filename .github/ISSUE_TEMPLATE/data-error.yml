@@ -1,19 +1,20 @@
 {
-  "name": "Data error / 数据错误",
-  "description": "Data error / 数据错误 — evidence and original links / 请附证据与原链接",
-  "title": "[Data] ",
+  "name": "Metadata correction / 元数据纠错",
+  "description": "Provide a specific proposal and original evidence. / 请提供具体建议与原始证据。",
+  "title": "[Metadata] ",
   "body": [
     {
       "type": "markdown",
       "attributes": {
-        "value": "Public submission: do not include private drafts, personal sensitive information or third-party full texts. / 公开提交，请勿包含私有草稿、敏感个人信息或第三方全文。"
+        "value": "Issues are public. Do not submit private drafts, sensitive personal information, credentials or third-party full texts. Unknown dates and languages may be marked unknown. / Issues 为公开内容，请勿提交私有草稿、敏感个人信息、凭据或第三方全文。日期或语言未知时请注明未知。"
       }
     },
     {
-      "type": "textarea",
-      "id": "context",
+      "type": "input",
+      "id": "archive_record",
       "attributes": {
-        "label": "Dataset version, file and record IDs / 数据版本、文件与编号"
+        "label": "Archive page / case / 档案页面或案例",
+        "description": "URL or stable ID; for a new case or source, write “not yet catalogued”. / 提供网址或稳定编号；新案例或来源可填“尚未编目”。"
       },
       "validations": {
         "required": true
@@ -21,9 +22,32 @@
     },
     {
       "type": "textarea",
-      "id": "evidence",
+      "id": "source_url",
       "attributes": {
-        "label": "Original source URL(s), publication date and language / 原始来源链接、发布日期与语言"
+        "label": "Original source URL / 原始来源网址",
+        "description": "Link the original public evidence, preserving its language. For a broken link, include the affected URL. / 链接公开原始证据，保留原语言；失效链接问题请提供原失效网址。"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "publication_date",
+      "attributes": {
+        "label": "Publication date / 来源发布日期",
+        "description": "Use the precision supported by the source, or “unknown”; distinguish this from the event date. / 按来源支持的精度填写，未知则注明；与事件日期区分。"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source_language",
+      "attributes": {
+        "label": "Source language / 来源语言",
+        "description": "Original language, and any verified official translation if relevant; unknown is acceptable. / 原语言及已核实的官方译本（如相关）；允许注明未知。"
       },
       "validations": {
         "required": true
@@ -31,9 +55,10 @@
     },
     {
       "type": "textarea",
-      "id": "proposal",
+      "id": "requested_change",
       "attributes": {
-        "label": "Expected versus actual data; reproduction steps / 预期与实际数据、复现步骤"
+        "label": "Requested addition / correction / 建议补充或修正",
+        "description": "Identify the field, current value, proposed value and supporting evidence. Preserve unknown dates and date precision. / 指明字段、现值、建议值与证据，保留未知日期及真实日期精度。"
       },
       "validations": {
         "required": true
@@ -41,10 +66,13 @@
     },
     {
       "type": "textarea",
-      "id": "review",
+      "id": "supporting_context",
       "attributes": {
-        "label": "Translation origin and review / 翻译来源与审校",
-        "description": "If relevant, distinguish AI-assisted text, your translation and independent review. / 如涉及翻译，请区分 AI 辅助、本人翻译与独立审校。"
+        "label": "Supporting context (optional) / 补充说明（可选）",
+        "description": "Relevant evidence, attribution, limitations or review status. Links and short descriptions suffice. / 相关证据、归属、限制或审查状态；链接与简要说明即可。"
+      },
+      "validations": {
+        "required": false
       }
     }
   ]

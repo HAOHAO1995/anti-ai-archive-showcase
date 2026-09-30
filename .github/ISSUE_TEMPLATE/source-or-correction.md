@@ -12,8 +12,8 @@ assignees: ''
 
 ### 公开原始来源 / Public original source
 
-网址、原语言标题、作者或机构、发布日期（如可确认）。
-URL, original-language title, author or institution, and publication date if known.
+网址、原语言标题、来源语言、作者或机构、发布日期（未知可注明；保留日期精度）。
+URL, original-language title, source language, author or institution, and publication date at its known precision (or unknown).
 
 ### 具体建议 / Specific suggestion
 

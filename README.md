@@ -1,493 +1,191 @@
 # ANTI-AI ARCHIVE · 2022–PRESENT
 
-**LUOCAO / CHEN HAOHAO**
+**一个持续记录自 2022 年以来生成式 AI 抵抗、协商与治理的全球研究档案。**
 
-### A history of art, creative labour and refusal: interests and politics behind anti-AI movements since 2022
+A global research archive tracing resistance, negotiation and governance around generative AI since 2022.
 
-🧩 [中文网站](https://salondesrefuses.cn/zh)<br>
-🧩 [English website](https://salondesrefuses.cn/en)  
-
-## Current website figures / 当前网站规模
-
-Updated on 28 September 2026 from the currently deployed website edition; the research snapshot is dated 23 September 2026. / 2026 年 9 月 28 日按当前已部署的网站版本同步；研究快照日期为 2026 年 9 月 23 日。
+LUOCAO / CHEN HAOHAO
 
 | Catalogue / 编目 | Total / 总数 |
 | --- | ---: |
 | Cases / 案例 | **236** |
 | Events / 事件 | **410** |
-| Documents & essays / 文献与文章 | **518** |
+| Documents & Essays / 文献与文章 | **518** |
 | Sources / 来源 | **576** |
-| People & organisations in the index / 人物与机构索引 | **349** |
-| Place categories / 地区分类 | **40** |
-| Art-history timeline nodes / 艺术史时间线节点 | **222** |
+| People & Organisations / 人物与机构 | **349** |
+| Art-History Timeline Nodes / 艺术史时间线节点 | **222** |
+| Languages / 语言 | Chinese / English / 中英双语 |
 
-The reading-room total includes 516 catalogue records and 2 authored essays. The people index contains 349 entries linked to events; the published data contains 351 people/organisation records in total. Figures count records once across Chinese and English versions, exclude unpublished research, and describe catalogue size rather than independent verification of every claim. / 阅览室总数包含 516 条文献编目与 2 篇作者文章。人物与机构索引显示关联事件的 349 项，发布数据中共保存 351 条人物与机构记录。中英文版本不重复计数，未发布研究不计入；数字反映编目规模，不表示全部主张均已独立核实。
+## Explore / 探索
 
-[September update and historical figures / 九月更新与历史数字](updates/2026-09.md)
+- [中文网站](https://salondesrefuses.cn/zh)
+- [English Website](https://salondesrefuses.cn/en)
+- [Research Method / 研究方法](docs/methodology.md)
+- [Selected Cases / 重点案例](docs/selected-entry-points.md)
+- [Research Updates / 研究更新](updates/README.md)
+- [Cite This Project / 引用本项目](docs/citation.md)
+- [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-All **222 AI art-history nodes** now have independent Chinese and English detail pages (**444 reading pages**, not additional historical nodes), with research accounts, date notes, citations and original-source links. Select a card to preview it; use Read or double-click to open the detail page. / 全部 **222 个 AI 艺术史节点**现已提供独立中英文详情页（共 **444 个阅读页面**，不重复计为历史节点），包含研究说明、日期备注、出处与原始资料链接。单击卡片预览，点击“阅读”或双击进入详情。
+## Current Status / 当前状态
 
-The three introductory guide cards also open independent Chinese and English reading pages. The art-history catalogue and the right-hand timeline follow each other as you scroll, and the repeated guide and node list beneath the catalogue have been removed. / 前三张导读卡片也提供独立中英文阅读页。艺术史卡片目录与右侧时间轴支持双向滚动联动，目录下方重复的导读与节点列表已移除。
+| Field / 项目 | Status / 状态 |
+| --- | --- |
+| Status / 状态 | Active research archive / 持续更新中的研究档案 |
+| Coverage / 覆盖时间 | 2022–present / 2022–至今 |
+| Languages / 语言 | Chinese / English / 中英双语 |
+| Last archive statistics sync / 最近统计同步 | 28 September 2026 / 2026 年 9 月 28 日 |
+| Research snapshot date / 研究快照日期 | 23 September 2026 / 2026 年 9 月 23 日 |
 
-[AI Art History / 艺术史目录](https://salondesrefuses.cn/en/topics/ai-art-history) · [示例节点：中文](https://salondesrefuses.cn/zh/art-history/001) · [Example node: English](https://salondesrefuses.cn/en/art-history/001)
+The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **516 catalogue records + 2 authored essays**. People & Organisations counts **349 event-linked index entries**, from **351 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
 
+以上为该次同步记录的已部署版本规模，不是当天新增量，也不代表全部主张已经独立核实。文献与文章包含 **516 条编目＋2 篇作者文章**；人物与机构为 **351 条记录中关联事件的 349 项索引**。中英文不重复计数，未发布研究不计入。[历史数字与计数说明](updates/2026-09.md)。
 
-ANTI-AI ARCHIVE is an ongoing research project documenting the global history of resistance, negotiation, conflict, and institutional change surrounding generative AI since 2022.
+## Research Question / 核心研究问题
 
-It does not treat “anti-AI” as a single ideology, nor as a simple opposition between humans and machines.
+> Who is allowed to capture, train on, transform, reproduce, simulate, circulate, monetise, and govern cultural information — and under what conditions?
+>
+> 谁能够获取、训练、转换、复制、模拟、传播、商业化并治理文化信息——又是在什么条件下？
 
-Instead, the archive traces how disputes over **artistic style, training data, authorship, labour, likeness, consent, copyright, platform governance, licensing, model access, and technical infrastructure** have developed across different regions and creative industries.
+ANTI-AI ARCHIVE does not treat “anti-AI” as a single ideology or reduce these disputes to humans versus machines. It studies how generative AI reorganises power around style, training data, authorship, labour, likeness and voice, consent, copyright, licensing, platform governance and technical infrastructure.
 
-Its central question is:
+ANTI-AI ARCHIVE 不把“反 AI”视为统一意识形态，也不把相关争议简化为“人类与机器”的冲突。它关注生成式 AI 进入文化生产后，围绕风格、训练数据、作者身份、劳动、肖像与声音、同意、版权、许可、平台治理与技术基础设施的权力关系如何被重新组织。
 
-> **Who is allowed to capture, train on, transform, reproduce, simulate, circulate, monetise, and govern cultural information — and under what conditions?**
+## What You Can Use Here / 你可以在这里使用什么
 
-The archive follows these conflicts across visual art, illustration, photography, music, literature, publishing, film, performance, games, cultural institutions, platforms, unions, courts, governments, rights holders, and AI companies.
+| Material / 材料 | Entry / 入口 |
+| --- | --- |
+| Research method and questions / 研究方法与问题 | [Methodology](docs/methodology.md) · [Research questions](docs/research-questions.md) |
+| Research notes, updates and historical statistics / 研究札记、更新与历史统计 | [Update index / 更新索引](updates/README.md) |
+| Selected cases and reading routes / 重点案例与阅读路径 | [Selected entry points / 重点入口](docs/selected-entry-points.md) |
+| Citation metadata and guidance / 引用元数据与指南 | [CITATION.cff](CITATION.cff) · [Citation / 引用](docs/citation.md) |
+| Contribution guidance / 贡献指南 | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| Public visuals and website screenshots / 公共视觉材料与网站截图 | [Assets / 视觉材料](assets/README.md) |
 
----
+The complete internal research dataset is **not published in this showcase repository**. Selected structured public snapshots may be released as the archive develops, subject to the [data release policy](docs/data-release-policy.md). Public visibility does not itself grant a reuse license.
 
-# 中文介绍
+完整内部研究数据集**目前不在此展示仓库中公开**。随着档案发展，未来可能依照[数据发布政策](docs/data-release-policy.md)逐步发布经过筛选的结构化公开快照。公开可见不等于已经授予复用许可。
 
-### 艺术、创意劳动和拒绝的历史：2022年以来的反AI运动背后的利益与政治
+## Research Patterns Emerging from the Archive / 从档案中逐渐浮现的研究模式
 
-**ANTI-AI ARCHIVE** 是一个持续建设中的全球研究档案，记录自 2022 年以来围绕生成式人工智能产生的反对、拒绝、组织行动、协商、诉讼、平台治理、劳动冲突、商业谈判与制度变化。
-
-本项目并不把“反 AI”理解为一个统一的政治立场，也不把这一历史简化为“人类与机器的对抗”。
-
-档案真正关注的是：随着生成式 AI 进入文化生产，围绕 **风格、训练数据、作者身份、劳动、声音与肖像、同意、版权、平台规则、模型访问权、授权机制和技术基础设施** 的权利关系如何被重新组织。
-
-项目持续追问：
-
-> **谁有权抓取、训练、模仿、生成、复制、模拟、传播、授权和商业化文化信息？这些权力又是在什么条件下成立的？**
-
-档案覆盖视觉艺术、插画、摄影、音乐、文学、出版、电影、表演、游戏、文化机构、平台、工会、法院、政府、权利方与 AI 公司，并通过编年记录、案例档案、文献目录与原始来源，追踪这些冲突如何随时间发生变化。
-
----
-
-# From refusal to infrastructure
-
-One recurring pattern in the archive is that resistance to generative AI has increasingly moved beyond symbolic protest.
-
-Refusal does not simply disappear.
-
-It becomes encoded.
-
-Into **contracts**.  
-Into **metadata**.  
-Into **platform defaults**.  
-Into **labour agreements**.  
-Into **licensing systems**.  
-Into **crawler rules**.  
-Into **technical access controls**.  
-Into **law**.
-
-The archive therefore follows not only moments of protest, but the longer process through which cultural resistance can become governance.
-
-A provisional historical trajectory visible across the materials is:
+**From refusal to infrastructure. / 从拒绝到基础设施。**
 
 **Style → Data → Consent → Labour → Infrastructure → Control**
 
-Alongside this runs another transformation:
+**风格 → 数据 → 同意 → 劳动 → 基础设施 → 控制**
 
 **Symbolic refusal → Contractual refusal → Technical refusal → Infrastructural refusal**
 
-These are not fixed historical stages, and they often overlap. They are working research patterns used to organise and test the archive as it grows.
-
----
-
-# 从拒绝到基础设施
-
-目前档案中已经反复出现一个重要变化：
-
-对生成式 AI 的抵抗正在逐渐超出象征性的抗议。
-
-**拒绝并没有消失，而是在被编码。**
-
-它被写入：
-
-- 合同
-- 元数据
-- 平台默认设置
-- 劳动协议
-- 授权制度
-- 爬虫规则
-- 技术访问控制
-- 法律
-
-因此，本项目不仅记录“谁反对 AI”，也追踪这些拒绝如何逐渐转化为制度、技术与经济结构。
-
-目前从材料中可以观察到一条暂时性的研究路径：
-
-**风格 → 数据 → 同意 → 劳动 → 基础设施 → 控制**
-
-另一条并行路径是：
-
 **象征性拒绝 → 合同性拒绝 → 技术性拒绝 → 基础设施性拒绝**
 
-这些并不是严格的历史阶段，而是随着档案扩展持续接受检验和修正的研究模式。
+These are provisional research patterns emerging from the materials, not predetermined historical stages. They overlap and remain open to revision, verification or rejection as evidence grows.
 
----
+这些是从材料中逐步浮现的暂定研究模式，并非预设的固定历史阶段。它们相互重叠，并将随新证据继续被修正、验证或推翻。
 
-# What the archive is tracking
+**Refusal becomes encoded. / 拒绝被编码进系统。**
 
-The project currently follows several recurring areas of conflict:
+- contracts / 合同
+- metadata / 元数据
+- platform defaults / 平台默认设置
+- labour agreements / 劳动协议
+- licensing systems / 许可制度
+- crawler rules / 爬虫规则
+- technical access controls / 技术访问控制
+- law / 法律
 
-### 1. Style and imitation
-How are artistic styles identified, copied, learned, reproduced, or contested through generative systems?
+## Research Scope / 研究范围
 
-### 2. Training data and scraping
-What kinds of cultural material enter training pipelines, and under what technical, legal, or contractual conditions?
+The archive follows visual art, illustration, photography, music, literature, publishing, film, performance, games, cultural institutions, platforms, unions, courts, governments, rights holders and AI companies. Eight recurring questions organise the research: style and imitation; training data and scraping; consent; creative labour; voice and digital replicas; copyright and licensing; platforms and infrastructure; model and corporate governance.
 
-### 3. Consent and permission
-Who has the authority to permit or refuse training, generation, imitation, reuse, or synthetic reproduction?
+档案覆盖视觉艺术、插画、摄影、音乐、文学、出版、电影、表演、游戏，以及文化机构、平台、工会、法院、政府、权利方和 AI 公司。八组持续研究的问题是：风格与模仿、训练数据与抓取、同意与许可、创意劳动、声音与数字替身、版权与许可、平台与基础设施、模型与企业治理。
 
-### 4. Creative labour
-How do generative systems affect illustrators, writers, performers, musicians, voice actors, designers, photographers, and other cultural workers?
+[Research questions in Chinese and English / 完整双语研究问题](docs/research-questions.md)
 
-### 5. Voice, likeness, and digital replicas
-How are identity, embodiment, voice, face, performance, and synthetic substitution negotiated?
+## Selected Research Entry Points / 重点研究入口
 
-### 6. Copyright and licensing
-How do lawsuits, collective agreements, licences, settlements, and revenue-sharing systems reshape generative markets?
+These are questions to investigate through dated evidence, not settled outcomes or the archive’s boundaries. / 以下是通过有日期的证据开展研究的入口，不是既定结论，也不是档案的主题边界。
 
-### 7. Platforms and infrastructure
-How do platform rules, metadata, crawler blocking, content labels, recommendation systems, and default settings govern cultural information?
+| Case / Topic · 案例 / 主题 | Research Question / 研究问题 | Main Themes / 主要主题 |
+| --- | --- | --- |
+| ArtStation / NoAI<br>[中文](https://salondesrefuses.cn/zh/cases/case-0001) · [EN](https://salondesrefuses.cn/en/cases/case-0001) | How does symbolic protest become platform policy or crawler control?<br>象征性抗议如何逐步转化为平台政策或爬虫控制？ | style, consent, defaults, infrastructure / 风格、同意、默认设置、基础设施 |
+| mimic<br>[中文](https://salondesrefuses.cn/zh/cases/case-0003) · [EN](https://salondesrefuses.cn/en/cases/case-0003) | How should upload eligibility and responsibility for style imitation be allocated?<br>围绕风格模仿，上传资格和责任应如何划分？ | consent, platform governance, style / 同意、平台治理、风格 |
+| SAG-AFTRA<br>[中文](https://salondesrefuses.cn/zh/cases/case-0024) · [EN](https://salondesrefuses.cn/en/cases/case-0024) | How do digital replicas enter collective bargaining and labour negotiations?<br>数字替身如何进入集体谈判与劳动协商？ | likeness, labour, compensation, consent / 肖像、劳动、补偿、同意 |
+| Suno: [中文](https://salondesrefuses.cn/zh/cases/case-0027) · [EN](https://salondesrefuses.cn/en/cases/case-0027)<br>Udio: [中文](https://salondesrefuses.cn/zh/cases/case-0028) · [EN](https://salondesrefuses.cn/en/cases/case-0028) | How are copyright disputes connected to licensing and proposed revenue-sharing models?<br>版权冲突如何与许可及拟议的收益分配模型发生联系？ | copyright, licensing, markets / 版权、许可、市场 |
+| Seedance / film-industry disputes · 影视行业争议<br>[中文](https://salondesrefuses.cn/zh/cases/case-0019) · [EN](https://salondesrefuses.cn/en/cases/case-0019) | How do model capabilities, copyright pressure and negotiated safeguards interact?<br>模型能力、版权压力与协商性保障之间如何互动？ | copyright, model governance, institutional control / 版权、模型治理、制度控制 |
 
-### 8. Model and corporate governance
-How do AI companies, rights holders, cultural industries, governments, and institutions negotiate access, restrictions, safeguards, and market power?
+[Reading cautions and case links / 阅读提示与案例链接](docs/selected-entry-points.md)
 
----
+## From “Is it AI?” to “Under what conditions?” / 从“是不是 AI”到“在什么条件下”
 
-# 项目重点
+The archive examines a shift from **“Is this AI?”** toward **“Under what conditions is this transformation considered legitimate?”** Authorisation, disclosure, compensation, traceability, negotiation and opt-in / opt-out arrangements are distinct questions; none alone establishes legitimacy.
 
-目前档案持续关注以下问题：
+档案追踪的问题从**“这是不是 AI？”**转向**“在什么条件下，这种转换被认为是合法、正当或可接受的？”** 授权、披露、补偿、可追踪性、协商和加入／退出安排是不同问题，不能仅凭某一项判断正当性。
 
-### 1. 风格与模仿
-艺术风格如何被识别、学习、复制、生成和争议？
+[Analytical distinctions / 分析对](docs/research-questions.md#analytical-distinction)
 
-### 2. 训练数据与抓取
-文化材料如何进入训练流程？其技术、法律与合同条件是什么？
+## Archive Structure / 档案结构
 
-### 3. 同意与许可
-谁有权允许或拒绝训练、生成、模仿、再利用和合成复制？
+The website is a **research archive, not a news feed**: chronology connects dated developments; cases follow disputes over time; documents and sources organise evidence; people and places connect actors and locations; the art-history timeline provides a longer historical context; research essays and notes develop interpretations. Entries are revised as new evidence appears.
 
-### 4. 创意劳动
-生成式系统如何改变插画师、作家、演员、音乐人、配音演员、设计师、摄影师及其他文化工作者的劳动关系？
+网站是**研究档案，而非新闻信息流**：编年记录有日期的发展，案例追踪长期争议，文献与来源组织证据，人物与地点连接主体和地区，艺术史时间线提供更长的历史背景，研究文章与笔记展开解释。档案条目会随新证据修订。
 
-### 5. 声音、肖像与数字替身
-身份、身体、声音、脸部、表演和 synthetic replacement 如何进入新的权利谈判？
+[Structure and reading routes / 结构与阅读入口](docs/archive-structure.md)
 
-### 6. 版权与授权
-诉讼、集体协议、商业授权、和解和收益分配如何重新塑造生成式 AI 市场？
+## Method / 研究方法
 
-### 7. 平台与基础设施
-平台规则、元数据、防爬机制、内容标签、推荐系统和默认设置如何治理文化信息？
+- **Primary sources where available.** Prioritise artist statements, union documents, platform announcements, legal filings, corporate policies, public agreements and institutional notices.
+- **Chronology over retrospective simplification.** Preserve changes in positions, claims and negotiations; do not reduce a case to its final outcome.
+- **Multiple positions.** Artists, workers, unions, platforms, companies, governments and rights holders do not share a single position on AI.
+- **Claims are not mechanisms.** Record statements, opt-out labels, crawler blocks and contracts as distinct forms of evidence; declared intention does not establish demonstrated technical effect.
+- **Ongoing, non-exhaustive research.** Revise accounts as evidence changes; gaps do not prove that an event did not occur.
 
-### 8. 模型与企业治理
-AI 公司、权利方、文化产业、政府和机构如何重新谈判模型访问、限制条件、技术保障与市场权力？
+中文：
 
----
+- **有条件时优先一手来源。** 包括艺术家声明、工会文件、平台公告、法律文件、企业政策、公开协议和机构通知。
+- **保留时间过程，避免事后简化。** 保留立场、主张和协商的变化，不把案例压缩为最终结果。
+- **保留不同立场。** 不假定艺术家、劳动者、工会、平台、企业、政府和权利方拥有统一立场。
+- **声明、主张与实际机制不是一回事。** 分别记录声明、退出标签、爬虫限制和合同；公开承诺不自动证明技术效果。
+- **持续修订且不求穷尽。** 随新证据更新叙述；未收录不代表未发生。
 
-# From “Is it AI?” to “Under what conditions?”
+[Detailed methodology / 详细研究方法](docs/methodology.md)
 
-Many early disputes were framed through a simple binary:
+## Languages and Research Notes / 语言与研究说明
 
-**Human / AI**
+The website provides Chinese and English reading routes while retaining original-language titles, credits and URLs. Source review and translation review are recorded separately. **“Source-checked” does not mean every allegation has been independently verified.** Some translations may be AI-assisted and may not have received independent human review. Catalogue entries do not imply preservation or redistribution of third-party full texts; rights remain with their respective holders.
 
-As the archive develops, another set of distinctions becomes increasingly important:
+网站提供中英文阅读入口，并保留原语言标题、署名和网址。来源核读与翻译审校分别记录。**“来源已核读”不等于每项指控都已独立核实。** 部分译文可能含 AI 辅助，且尚未经独立人工审校。目录收录不表示保存或重新分发第三方全文；权利仍归各自权利人。
 
-**Authorised / Unauthorised**  
-**Disclosed / Undisclosed**  
-**Compensated / Uncompensated**  
-**Traceable / Opaque**  
-**Negotiated / Imposed**  
-**Opt-in / Opt-out**
+## Public Repository Scope / 公开仓库范围
 
-The historical question is therefore shifting from:
+This is ANTI-AI ARCHIVE’s **public research showcase and entry point**. It contains selected descriptions, methodological guidance, public notes, update records, citation metadata and visuals. It does not contain the complete internal dataset, private drafts, unpublished source notes, website development source, private automation workflows or deployment credentials.
 
-> **Is this AI?**
+这里是 ANTI-AI ARCHIVE 的**公共研究展示与入口**，保存选定介绍、方法说明、公开笔记、更新记录、引用元数据和视觉材料，不包含完整内部数据集、私有草稿、未公开来源笔记、网站开发源码、私有自动化工作流或部署凭据。
 
-toward:
+[Public data release policy / 公开数据发布政策](docs/data-release-policy.md) · [Release types and existing releases / 发布类型与已有版本](docs/releases.md) · [Repository settings record / 仓库设置记录](docs/github-settings.md)
 
-> **Under what conditions is this transformation considered legitimate?**
+## Cite This Project / 引用本项目
 
-This shift is central to the archive.
+**Author / 作者：Chen Haohao · Research identity / 研究身份：LUOCAO**
 
----
+Use the record title, stable identifier, original source and access date when citing a particular case or event. For repository material, specify a commit or an existing release where possible. / 引用具体案例或事件时，注明条目标题、稳定编号、原始来源和访问日期；引用仓库材料时，尽可能指定提交或已有版本。
 
-# 从“是不是 AI”到“在什么条件下”
+[CITATION.cff](CITATION.cff) · [Citation examples / 引用示例](docs/citation.md)
 
-早期争议经常围绕一个二元问题展开：
+## Updates & Participation / 更新与参与
 
-**Human / AI**
+[Research updates / 研究更新](updates/README.md) · [Contribution guide / 参与指南](CONTRIBUTING.md) · [Existing introductory tasks / 已有入门任务](docs/GOOD_FIRST_ISSUES.md)
 
-但随着档案扩展，越来越重要的区分变成：
+Found a missing source or case, a factual error, a broken link, or a translation or metadata problem? [Choose an Issue form](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new/choose), include the archive page and original evidence, and describe the proposed change. Submissions are reviewed before inclusion. If this archive is useful to your research, you are welcome to star it for future reference.
 
-**授权 / 未授权**  
-**披露 / 未披露**  
-**有报酬 / 无报酬**  
-**可追踪 / 不透明**  
-**协商形成 / 单方面施加**  
-**主动许可 / 默认使用后再退出**
+发现缺失来源或案例、事实错误、失效链接、翻译或元数据问题？请[选择 Issue 表单](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new/choose)，提供档案页面、原始证据及建议修改。提交经核读后决定是否收录。如果这个档案对你的研究有帮助，欢迎 Star 收藏以便日后查找。
 
-因此，历史问题正在从：
+## Website Previews / 网站截图
 
-> **“这是不是 AI？”**
-
-逐渐转向：
-
-> **“这种转换在什么条件下才具有合法性？”**
-
-这是本项目持续追踪的核心变化之一。
-
----
-
-# Archive structure
-
-The website is organised as a research archive rather than a news feed.
-
-It includes:
-
-- **Chronology** — events and developments since 2022
-- **Cases** — long-running disputes and evolving case histories
-- **Documents** — statements, policies, legal documents, agreements, reports and related materials
-- **Sources** — original links and source records
-- **People & places** — actors, organisations, institutions and locations
-- **Methodology** — notes on evidence, translation, verification and research status
-
-The archive is continuously revised as new evidence, corrections, and developments emerge.
-
----
-
-# 档案结构
-
-网站并不是新闻聚合页，而是一个持续修订的研究档案。
-
-主要包括：
-
-- **编年 / Chronology**：2022 年以来的重要事件与变化
-- **案例 / Cases**：持续发展的争议与长期案例
-- **文献 / Documents**：声明、平台政策、法律文件、协议、报道及相关材料
-- **来源 / Sources**：原始链接与来源记录
-- **人物与地点 / People & Places**：相关个人、机构、组织与地区
-- **研究方法 / Methodology**：证据、翻译、核读与研究状态说明
-
-档案将随着新证据、勘误和后续发展持续更新。
-
----
-
-# Method
-
-The archive prioritises:
-
-### Primary sources where available
-Artist statements, union documents, platform announcements, legal filings, corporate policies, public agreements, institutional notices and other first-hand materials are prioritised whenever possible.
-
-### Chronology over retrospective simplification
-The project preserves how positions, claims, policies and negotiations change over time rather than reducing a case to its final outcome.
-
-### Multiple positions
-The archive does not assume that artists, workers, unions, platforms, companies, governments or rights holders share a single position on AI.
-
-### Claims are not mechanisms
-A public statement, policy promise, opt-out label, crawler block or contractual provision is recorded as what it is. The archive distinguishes stated intention from demonstrated technical effect.
-
-### Cross-language research
-The website provides Chinese and English reading routes while preserving original-language titles, credits and source links whenever possible.
-
-### Ongoing revision
-This is a research edition in progress, not an exhaustive or final account of global history.
-
----
-
-# 研究方法
-
-本档案遵循以下基本原则：
-
-### 优先原始来源
-在条件允许时，优先收录艺术家声明、工会文件、平台公告、法律文件、企业政策、公开协议、机构通知及其他一手材料。
-
-### 保留时间过程
-项目不仅记录最终结果，也保留立场、政策、争议和协商如何随时间发生变化。
-
-### 不假定统一立场
-艺术家、文化工作者、工会、平台、公司、政府和权利方并不存在统一的“反 AI”立场。
-
-### 区分声明与机制
-平台承诺、NoAI 标签、opt-out 设置、防爬措施和合同条款都会被分别记录；公开声明并不自动等同于已经实现的技术效果。
-
-### 跨语言研究
-网站提供中文与英文阅读入口，同时尽可能保留原语言标题、署名和原始来源链接。
-
-### 持续修订
-本项目是一项进行中的研究，不声称穷尽全球相关历史，也不将当前版本视为最终结论。
-
----
-
-# Selected entry points
-
-Individual cases are not the centre of the project, but they can provide useful entry points into larger historical questions.
-
-Examples include:
-
-- **ArtStation / NoAI** — symbolic protest, platform policy, defaults and crawler control
-- **mimic** — upload eligibility, consent and responsibility for style imitation
-- **SAG-AFTRA** — digital replicas, consent, compensation and collective bargaining
-- **Suno / Udio** — copyright conflict, licensing and emerging revenue-sharing models
-- **Seedance and film-industry disputes** — model capability, copyright pressure, safeguards and negotiated control
-
-These cases are part of a much larger archive and should be read as nodes within broader historical transformations.
-
----
-
-# 案例只是入口
-
-具体案例并不是本项目的中心，而是进入更大历史结构的入口。
-
-例如：
-
-- **ArtStation / NoAI**：从象征抗议到平台政策、默认设置与 crawler control
-- **mimic**：风格学习中的上传资格、同意与平台责任
-- **SAG-AFTRA**：数字替身、同意、报酬与集体谈判
-- **Suno / Udio**：版权冲突、授权制度与收益分配市场
-- **Seedance 与影视行业争议**：模型能力、版权压力、技术保障与协商控制
-
-这些案例只是整个档案网络中的节点，而不是档案本身的主题边界。
-
----
-
-# Research premise
-
-The archive is not primarily about whether AI is good or bad.
-
-It is about how the right to use cultural information is being renegotiated.
-
-What began in many places as resistance to imitation or training is increasingly becoming a struggle over **permission, access, default settings, labour conditions, licensing, technical control and institutional power**.
-
-The archive documents that transformation while it is still taking place.
-
----
-
-# 研究命题
-
-本项目首先关心的并不是：
-
-> **AI 是好还是坏？**
-
-而是：
-
-> **文化信息的使用权正在如何被重新谈判？**
-
-许多最初围绕模仿、训练和创作者拒绝产生的争议，正在逐渐转化为对 **许可、访问、默认设置、劳动条件、商业授权、技术控制与制度权力** 的争夺。
-
-ANTI-AI ARCHIVE 希望在这一历史仍然发生的过程中，对它进行持续记录。
-
----
-
-# Languages and research notes
-
-The website offers Chinese and English reading routes while preserving original-language titles, credits and links where possible.
-
-Source review and translation review are recorded separately.
-
-Some translations may include AI assistance and may not yet have received independent human review.
-
-“Source-checked” does not mean that every allegation contained in a source has been independently verified.
-
-Document catalogue entries do not imply that third-party full texts are preserved or redistributed. Rights remain with their respective rights holders.
-
----
-
-# 语言与研究说明
-
-网站提供中文与英文阅读入口，并尽可能保留原语言标题、署名和原始链接。
-
-来源核读与翻译审校分别记录。
-
-部分译文可能包含 AI 辅助，且尚未经独立人工审校。
-
-“来源已核读”并不意味着来源中的全部指控均已得到独立核实。
-
-文献目录中的记录也不意味着本项目保存或重新分发第三方全文，其权利仍属于各自权利人。
-
----
-
-# Public showcase repository
-
-This repository is the public showcase for ANTI-AI ARCHIVE.
-
-It contains selected project descriptions, visual materials, public updates and research notes.
-
-The complete research dataset, internal drafts, development source, automation workflows and deployment credentials are not included here.
-
----
-
-# 关于本仓库
-
-本仓库是 ANTI-AI ARCHIVE 的公开展示页。
-
-这里主要保存项目介绍、视觉材料、公开更新与部分研究札记。
-
-完整研究数据、内部草稿、网站开发源码、自动化工作流及部署凭据不包含在本仓库中。
-
----
-
-# Updates & participation
-
-The archive is continuously maintained.
-
-If you would like to suggest a public source, correction, missing case or factual update, please open an Issue and include:
-
-- the relevant archive page or case
-- the original source URL
-- the specific information to add or correct
-- publication date and language where available
-
-Submissions are reviewed before inclusion.
-
-⭐ If this archive is useful to your research, you are welcome to star this repository.
-
----
-
-# 更新与参与
-
-档案正在持续维护。
-
-如果你希望补充公开来源、提交勘误、提供遗漏案例或更新事实信息，可以通过 Issue 提交，并尽量附上：
-
-- 对应的档案页面或案例
-- 原始来源链接
-- 需要补充或修正的具体内容
-- 发布时间与原语言信息
-
-提交内容将在核读后决定是否纳入。
-
-⭐ 如果这个档案对你的研究有帮助，欢迎 Star 收藏。
-
----
-
-## Visit the archive
-
-🧩 [中文网站](https://salondesrefuses.cn/zh)  
-🧩 [English website](https://salondesrefuses.cn/en)
-
-**ANTI-AI ARCHIVE**  
-**2022–PRESENT**
-
----
-
-## Website previews / 网站截图
-
-The live website now uses dark glass cards with more generous spacing, bilingual reading rooms and an interactive art-history timeline. / 当前网站采用暗黑玻璃卡片与更疏朗的间距，提供双语阅览室和交互式艺术史时间线。
-
-[Current Chinese homepage / 最新中文主页](https://salondesrefuses.cn/zh) · [Current English homepage / 最新英文主页](https://salondesrefuses.cn/en) · [中文阅览室](https://salondesrefuses.cn/zh/documents) · [English reading room](https://salondesrefuses.cn/en/documents)
-
-The images below show the website on 25 September 2026, before the current dark-glass revision. Click either image to open the current language version. / 以下为 2026 年 9 月 25 日的历史截图，早于当前暗黑玻璃改版；点击图片可打开对应语言的最新网站。
+These screenshots were captured on **25 September 2026**, before the dark-glass revision described in the previous README. They are historical views; click an image to open the current website. / 以下截图摄于 **2026 年 9 月 25 日**，早于上一版 README 所记录的暗黑玻璃改版，属于历史视图；点击图片可打开当前网站。
 
 ### 中文网站
 
-[![ANTI-AI ARCHIVE — 中文网站截图](assets/website-zh-2026-09-25.jpg)](https://salondesrefuses.cn/zh)
+[![ANTI-AI ARCHIVE — 中文网站历史截图](assets/website-zh-2026-09-25.jpg)](https://salondesrefuses.cn/zh)
 
 ### English website
 
-[![ANTI-AI ARCHIVE — English website screenshot](assets/website-en-2026-09-25.jpg)](https://salondesrefuses.cn/en)
+[![ANTI-AI ARCHIVE — historical English website screenshot](assets/website-en-2026-09-25.jpg)](https://salondesrefuses.cn/en)

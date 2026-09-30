@@ -1,35 +1,51 @@
 # Contributing / 参与
 
-You do not need to code. Contributions may be submitted in the source language, Chinese or English. Editors review evidence and translations separately. / 无需会编程，可用来源原语言、中文或英文提交；编辑分别核读证据和审校译文。
+[Project overview / 项目首页](README.md) · [Methodology / 方法](docs/methodology.md)
 
-## Submit an event / 补充事件
+You do not need to code. Submit public sources or specific corrections in Chinese, English or the source language. Editors review evidence and translations separately. / 无需会编程，可用中文、英文或来源原语言提交公开来源与具体勘误；证据核读与译文审校分别进行。
 
-Use [the event form](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=missing-event.yml). Include date and precision, title, actors, place/region, what changed, original source URL, primary evidence where available, and an existing case ID if applicable. / 请提供日期精度、标题、主体、地区、具体变化、原始来源及关联案例编号。
+## Choose a form / 选择表单
 
-## Submit a source / 推荐来源
+| Contribution / 提交类型 | Form / 表单 |
+| --- | --- |
+| Missing / new source · 缺失或新增来源 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=new-source.yml) |
+| Factual correction / 事实纠错 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=source-correction.yml) |
+| Missing case / 缺失案例 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=missing-case.yml) |
+| Broken link / 失效链接 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=broken-link.yml) |
+| Translation correction / 翻译纠错 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=translation.yml) |
+| Metadata correction / 元数据纠错 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=data-error.yml) |
+| Missing event / 缺失事件 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=missing-event.yml) |
+| Art-history node / 艺术史节点 | [Open / 打开](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=genealogy-node.yml) |
 
-Use [the source form](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=new-source.yml). Include URL, original title, author/publisher, publication date/language, primary or secondary character and relevant records. / 请提供原链接、原题、署名、日期与语言、一手或二手属性及关联记录。
+For an unlisted question, use the existing general source/correction template or a blank Issue. / 其他问题可使用已有通用来源／勘误模板或空白 Issue。
 
-## Correct the archive / 勘误
+## Include these details / 建议提供
 
-Use [the correction form](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=source-correction.yml) for wrong dates, broken links, duplicate records, source or legal-status changes. Use [translation](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=translation.yml) or [data error](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=data-error.yml) for those specific problems. / 请说明现有内容、建议修正、证据与编号；翻译或数据错误使用对应表单。
+1. **Archive page or case / 档案页面或案例：** URL or stable ID; mark a new record as not yet catalogued / 网址或稳定编号；新条目注明尚未编目。
+2. **Original source URL / 原始来源网址：** provide publicly accessible evidence, not a private draft / 提供公开证据，不提交私有草稿。
+3. **Publication date / 来源发布日期：** retain year/month/day precision and distinguish it from the event date; unknown is acceptable / 保留年、月、日精度并与事件日区分；未知可注明。
+4. **Source language / 来源语言：** preserve original titles and distinguish official from archive translations / 保留原题，区分官方译本与档案翻译。
+5. **Requested addition or correction / 建议补充或修正：** identify the current wording or field and the proposed change / 指明现有表述或字段及拟议修改。
+6. **Optional context / 可选说明：** attribution, related records, review status or limitations / 归属、关联条目、审查状态或限制。
 
-## Suggest a genealogy node / 推荐谱系节点
+## Review and attribution / 核读与归属
 
-Use [the genealogy form](https://github.com/HAOHAO1995/anti-ai-archive-showcase/issues/new?template=genealogy-node.yml). Provide a paper/model/artist/system, qualified date, historical relevance and primary reference. Distinguish a conceptual predecessor from a direct technical ancestor. / 提供论文、模型、艺术家或系统、日期精度、研究意义及原始出处；思想先例不等于直接技术祖先。
+Preserve uncertainty and chronology. A claim, announcement, filing, ruling, settlement and implementation are different states. A litigant’s allegation must not become a court finding. An opt-out label or stated safeguard does not automatically demonstrate technical effect.
 
-## Editorial review / 编辑核读
+保留不确定性与时间过程。主张、公告、诉状、裁判、和解、实施属于不同状态；当事方指控不能写成法院认定，退出标签或宣称的保障不自动证明技术效果。
 
-Preserve attribution and uncertainty. A claim, announcement, filing, ruling, settlement and implementation are not interchangeable. Do not convert a claimant's allegation into a court finding. / 保留归属与不确定性；指控、宣布、起诉、裁判、和解、实施不能混同。
+For translations, give the original wording and proposed correction, and distinguish AI assistance from independent human review. Do not invent official language versions. Submissions are reviewed before inclusion; maintainers may ask for evidence, merge duplicates or explain a rejection.
 
-Identify AI-assisted translations and human review separately. Preserve original titles and URLs. Never invent official translations. / 标明 AI 辅助与人工审校，保留原题和原链接，不虚构官方译本。
+翻译建议请附原文与拟议修正，区分 AI 辅助与独立人工审校，不虚构官方语言版本。提交经核读后决定是否收录；维护者可能要求补证、合并重复或说明不收录理由。
 
-Issues are public. Do not upload private communications, sensitive personal information, unpublished drafts or third-party full texts. Links and short relevant evidence descriptions suffice. / Issues 是公开的，请勿上传私人通信、敏感信息、未公开草稿或第三方全文；提供链接与必要说明即可。
+## Public boundaries / 公开边界
 
-Submitting material does not guarantee inclusion. Maintainers may request sources, narrow the scope, merge duplicates or explain a rejection. / 提交不保证收录，维护者可要求补证、缩小范围、合并重复或说明不收录理由。
+Issues are public. Do not submit sensitive personal information, credentials, private correspondence, unpublished source notes or third-party full texts. Submitting an Issue does not transfer copyright or grant a blanket reuse license; state relevant attribution and permissions for original contributions.
 
-## Data corrections / 数据勘误
+Issues 为公开内容。请勿提交敏感个人信息、凭据、私人通信、未公开来源笔记或第三方全文。提交 Issue 不等于转让著作权或授予整体复用许可；原创投稿请注明署名和相关授权。
 
-Public dataset downloads are being prepared; their reuse license is pending. For now, report corrections using the archive page URL and record ID. / 可下载数据集正在准备，复用许可待确认。目前请通过档案页面链接与记录编号提交勘误。
+The complete internal dataset is not published in this repository. Report metadata problems through page URLs and stable IDs; do not assume a downloadable dataset exists. See the [public data release policy](docs/data-release-policy.md).
 
-Submitting an Issue does not transfer copyright or grant a blanket reuse license. Include the attribution and any permission relevant to original material you submit. / 提交 Issue 不代表转让著作权或授予整体复用许可；请注明原创投稿的署名及适用授权。
+完整内部数据集未在本仓库公开。元数据问题请通过页面网址与稳定编号提交，不以存在可下载数据集为前提。参见[公开数据发布政策](docs/data-release-policy.md)。
+
+[Existing introductory tasks / 已有入门任务](docs/GOOD_FIRST_ISSUES.md)
