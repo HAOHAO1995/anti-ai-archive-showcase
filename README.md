@@ -8,12 +8,12 @@ LUOCAO / CHEN HAOHAO
 
 | Catalogue / 编目 | Total / 总数 |
 | --- | ---: |
-| Cases / 案例 | **236** |
-| Events / 事件 | **410** |
-| Documents & Essays / 文献与文章 | **518** |
-| Sources / 来源 | **576** |
-| People & Organisations / 人物与机构 | **349** |
-| Art-History Timeline Nodes / 艺术史时间线节点 | **222** |
+| Cases / 案例 | **240** |
+| Events / 事件 | **414** |
+| Documents & Essays / 文献与文章 | **522** |
+| Sources / 来源 | **583** |
+| People & Organisations / 人物与机构 | **358** |
+| Art-History Timeline Nodes / 艺术史时间线节点 | **224** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
 ## Explore / 探索
@@ -27,7 +27,7 @@ LUOCAO / CHEN HAOHAO
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-[1 October reading-interface and illustration update / 10 月 1 日阅读界面与插图更新](updates/2026-10.md)
+[1 October research additions and interface updates / 10 月 1 日研究增补与界面更新](updates/2026-10.md)
 
 ## Current Status / 当前状态
 
@@ -37,11 +37,11 @@ LUOCAO / CHEN HAOHAO
 | Coverage / 覆盖时间 | 2022–present / 2022–至今 |
 | Languages / 语言 | Chinese / English / 中英双语 |
 | Last archive statistics sync / 最近统计同步 | 1 October 2026 / 2026 年 10 月 1 日 |
-| Research snapshot date / 研究快照日期 | 23 September 2026 / 2026 年 9 月 23 日 |
+| Research edition / 研究版本 | 23 September baseline + selected 1 October additions / 9 月 23 日基线＋10 月 1 日精选增补 |
 
-The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **516 catalogue records + 2 authored essays**. People & Organisations counts **349 event-linked index entries**, from **351 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
+The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **520 catalogue records + 2 authored essays**. People & Organisations counts **358 event-linked index entries**, from **360 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
 
-以上为该次同步记录的已部署版本规模，不是当天新增量，也不代表全部主张已经独立核实。文献与文章包含 **516 条编目＋2 篇作者文章**；人物与机构为 **351 条记录中关联事件的 349 项索引**。中英文不重复计数，未发布研究不计入。[历史数字与计数说明](updates/2026-09.md)。
+以上为该次同步记录的已部署版本规模，不是当天新增量，也不代表全部主张已经独立核实。文献与文章包含 **520 条编目＋2 篇作者文章**；人物与机构为 **360 条记录中关联事件的 358 项索引**。中英文不重复计数，未发布研究不计入。[历史数字与计数说明](updates/2026-09.md)。
 
 ## Research Question / 核心研究问题
 

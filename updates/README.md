@@ -4,6 +4,7 @@
 
 | Recorded update / 已记录更新 | Content / 内容 | Read / 阅读 |
 | --- | --- | --- |
+| 1 October 2026 · research additions / 2026 年 10 月 1 日·研究增补 | Four events, four cases, four documents, seven sources and two institutional-context history nodes / 4 个事件、4 个案例、4 份文献、7 条来源及 2 个制度背景艺术史节点 | [October additions / 十月增补](2026-10.md#1-october-selected-research-additions--10-月-1-日精选研究增补) |
 | 1 October 2026 / 2026 年 10 月 1 日 | Illustrated bilingual reading rooms and unified Index; catalogue totals rechecked and unchanged / 双语图文阅读室与统一 Index；复核编目总数，数量不变 | [October notes / 十月札记](2026-10.md) |
 | 30 September 2026 / 2026 年 9 月 30 日 | Bilingual detail pages and linked art-history browsing; 222 nodes remain 222 / 双语详情页和艺术史联动阅读；节点数仍为 222 | [September notes / 九月札记](2026-09.md) |
 | 28 September 2026 / 2026 年 9 月 28 日 | Deployed-edition statistics sync; research snapshot dated 23 September / 已部署版本统计同步，研究快照日期为 9 月 23 日 | [Statistics / 统计](2026-09.md) |
