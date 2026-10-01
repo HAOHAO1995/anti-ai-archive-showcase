@@ -13,7 +13,8 @@ LUOCAO / CHEN HAOHAO
 | Documents & Essays / 文献与文章 | **522** |
 | Sources / 来源 | **583** |
 | People & Organisations / 人物与机构 | **358** |
-| Art-History Timeline Nodes / 艺术史时间线节点 | **224** |
+| Art-History Timeline Nodes / 艺术史时间线节点 | **247** |
+| Bilingual historical accounts / 双语节点正文 | **247** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
 ## Explore / 探索
@@ -27,7 +28,7 @@ LUOCAO / CHEN HAOHAO
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-[1 October research additions and interface updates / 10 月 1 日研究增补与界面更新](updates/2026-10.md)
+[2 October history expansion and bilingual accounts / 10 月 2 日艺术史扩充与双语正文](updates/2026-10.md)
 
 ## Current Status / 当前状态
 
@@ -36,8 +37,8 @@ LUOCAO / CHEN HAOHAO
 | Status / 状态 | Active research archive / 持续更新中的研究档案 |
 | Coverage / 覆盖时间 | 2022–present / 2022–至今 |
 | Languages / 语言 | Chinese / English / 中英双语 |
-| Last archive statistics sync / 最近统计同步 | 1 October 2026 / 2026 年 10 月 1 日 |
-| Research edition / 研究版本 | 23 September baseline + selected 1 October additions / 9 月 23 日基线＋10 月 1 日精选增补 |
+| Last archive statistics sync / 最近统计同步 | 2 October 2026 / 2026 年 10 月 2 日 |
+| Research edition / 研究版本 | 23 September baseline + 1–2 October additions / 9 月 23 日基线＋10 月 1—2 日增补 |
 
 The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **520 catalogue records + 2 authored essays**. People & Organisations counts **358 event-linked index entries**, from **360 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
 
