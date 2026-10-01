@@ -20,11 +20,14 @@ LUOCAO / CHEN HAOHAO
 
 - [中文网站](https://salondesrefuses.cn/zh)
 - [English Website](https://salondesrefuses.cn/en)
+- [Index: Cases, People & Places, Sources / 综合检索](https://salondesrefuses.cn/en/index) · [中文](https://salondesrefuses.cn/zh/index)
 - [Research Method / 研究方法](docs/methodology.md)
 - [Selected Cases / 重点案例](docs/selected-entry-points.md)
 - [Research Updates / 研究更新](updates/README.md)
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
+
+[1 October reading-interface and illustration update / 10 月 1 日阅读界面与插图更新](updates/2026-10.md)
 
 ## Current Status / 当前状态
 
@@ -33,7 +36,7 @@ LUOCAO / CHEN HAOHAO
 | Status / 状态 | Active research archive / 持续更新中的研究档案 |
 | Coverage / 覆盖时间 | 2022–present / 2022–至今 |
 | Languages / 语言 | Chinese / English / 中英双语 |
-| Last archive statistics sync / 最近统计同步 | 28 September 2026 / 2026 年 9 月 28 日 |
+| Last archive statistics sync / 最近统计同步 | 1 October 2026 / 2026 年 10 月 1 日 |
 | Research snapshot date / 研究快照日期 | 23 September 2026 / 2026 年 9 月 23 日 |
 
 The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **516 catalogue records + 2 authored essays**. People & Organisations counts **349 event-linked index entries**, from **351 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
