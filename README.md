@@ -15,6 +15,8 @@ LUOCAO / CHEN HAOHAO
 | People & Organisations / 人物与机构 | **358** |
 | Art-History Timeline Nodes / 艺术史时间线节点 | **247** |
 | Bilingual historical accounts / 双语节点正文 | **247** |
+| Illustrated historical nodes / 已配图艺术史节点 | **246 / 247** |
+| Illustrated documents & essays / 已配图文献与文章 | **342 / 522** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
 ## Explore / 探索
