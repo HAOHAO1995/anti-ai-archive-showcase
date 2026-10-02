@@ -28,7 +28,9 @@ LUOCAO / CHEN HAOHAO
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-[2 October history expansion and bilingual accounts / 10 月 2 日艺术史扩充与双语正文](updates/2026-10.md)
+[2 October: historical accounts, illustrated research references and reading updates / 10 月 2 日：历史正文、配图研究参考与阅读更新](updates/2026-10.md)
+
+[Eight illustrated AI art research references](https://salondesrefuses.cn/en/topics/ai-art?kind=reference) · [八个配图研究参考专题](https://salondesrefuses.cn/zh/topics/ai-art?kind=reference)
 
 ## Current Status / 当前状态
 
