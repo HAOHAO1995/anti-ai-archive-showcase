@@ -190,12 +190,20 @@ Found a missing source or case, a factual error, a broken link, or a translation
 
 ## Website Previews / 网站截图
 
-These screenshots were captured on **25 September 2026**, before the dark-glass revision described in the previous README. They are historical views; click an image to open the current website. / 以下截图摄于 **2026 年 9 月 25 日**，早于上一版 README 所记录的暗黑玻璃改版，属于历史视图；点击图片可打开当前网站。
+Captured from the live website on **3 October 2026**, at **1600 × 1000**, in Chinese and English with both light and dark themes. Click an image to visit the corresponding language version. / 以下四张截图于 **2026 年 10 月 3 日**从线上网站截取，尺寸为 **1600 × 1000**，包含中文、英文的亮色与暗色界面；点击图片可访问对应语言的网站。
 
-### 中文网站
+### 中文 · 亮色 / Chinese · Light
 
-[![ANTI-AI ARCHIVE — 中文网站历史截图](assets/website-zh-2026-09-25.jpg)](https://salondesrefuses.cn/zh)
+[![ANTI-AI ARCHIVE — 中文亮色界面，2026 年 10 月 3 日](assets/website-previews/website-zh-light-2026-10-03.png)](https://salondesrefuses.cn/zh)
 
-### English website
+### 中文 · 暗色 / Chinese · Dark
 
-[![ANTI-AI ARCHIVE — historical English website screenshot](assets/website-en-2026-09-25.jpg)](https://salondesrefuses.cn/en)
+[![ANTI-AI ARCHIVE — 中文暗色界面，2026 年 10 月 3 日](assets/website-previews/website-zh-dark-2026-10-03.png)](https://salondesrefuses.cn/zh)
+
+### English · Light / 英文 · 亮色
+
+[![ANTI-AI ARCHIVE — English light theme, 3 October 2026](assets/website-previews/website-en-light-2026-10-03.png)](https://salondesrefuses.cn/en)
+
+### English · Dark / 英文 · 暗色
+
+[![ANTI-AI ARCHIVE — English dark theme, 3 October 2026](assets/website-previews/website-en-dark-2026-10-03.png)](https://salondesrefuses.cn/en)
