@@ -13,9 +13,9 @@ LUOCAO / CHEN HAOHAO
 | Documents & Essays / 文献与文章 | **522** |
 | Sources / 来源 | **583** |
 | People & Organisations / 人物与机构 | **358** |
-| Art-History Timeline Nodes / 艺术史时间线节点 | **247** |
-| Bilingual historical accounts / 双语节点正文 | **247** |
-| Illustrated historical nodes / 已配图艺术史节点 | **246 / 247** |
+| Generative Art History nodes / 生成艺术史节点 | **323** |
+| Bilingual historical accounts / 双语节点正文 | **323** |
+| Illustrated historical nodes / 已配图艺术史节点 | **302 / 323** |
 | Illustrated documents & essays / 已配图文献与文章 | **342 / 522** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
@@ -30,7 +30,9 @@ LUOCAO / CHEN HAOHAO
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-[2 October: historical accounts, illustrated research references and reading updates / 10 月 2 日：历史正文、配图研究参考与阅读更新](updates/2026-10.md)
+[3 October: Generative Art History expansion and linked timeline / 10 月 3 日：生成艺术史扩充与时间线联动](updates/2026-10.md)
+
+[Generative Art History](https://salondesrefuses.cn/en/topics/ai-art-history) · [生成艺术史](https://salondesrefuses.cn/zh/topics/ai-art-history)
 
 [Eight illustrated AI art research references](https://salondesrefuses.cn/en/topics/ai-art?kind=reference) · [八个配图研究参考专题](https://salondesrefuses.cn/zh/topics/ai-art?kind=reference)
 
@@ -41,8 +43,8 @@ LUOCAO / CHEN HAOHAO
 | Status / 状态 | Active research archive / 持续更新中的研究档案 |
 | Coverage / 覆盖时间 | 2022–present / 2022–至今 |
 | Languages / 语言 | Chinese / English / 中英双语 |
-| Last archive statistics sync / 最近统计同步 | 2 October 2026 / 2026 年 10 月 2 日 |
-| Research edition / 研究版本 | 23 September baseline + 1–2 October additions / 9 月 23 日基线＋10 月 1—2 日增补 |
+| Last archive statistics sync / 最近统计同步 | 3 October 2026 / 2026 年 10 月 3 日 |
+| Research edition / 研究版本 | 23 September baseline + 1–3 October additions / 9 月 23 日基线＋10 月 1—3 日增补 |
 
 The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **520 catalogue records + 2 authored essays**. People & Organisations counts **358 event-linked index entries**, from **360 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
 
