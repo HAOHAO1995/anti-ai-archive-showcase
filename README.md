@@ -13,9 +13,11 @@ LUOCAO / CHEN HAOHAO
 | Documents & Essays / 文献与文章 | **522** |
 | Sources / 来源 | **583** |
 | People & Organisations / 人物与机构 | **358** |
-| Generative Art History nodes / 生成艺术史节点 | **356** |
-| Bilingual historical accounts / 双语节点正文 | **356** |
-| Illustrated historical nodes / 已配图艺术史节点 | **335 / 356** |
+| Generative Art History timeline / 生成艺术史主线节点 | **301** |
+| Contextual crypto works / 专题中的 Crypto 作品 | **55** |
+| Bilingual historical accounts / 双语历史资料正文 | **356** |
+| Illustrated timeline entries / 已配图主线节点 | **286 / 301** |
+| Illustrated contextual works / 已配图专题作品 | **49 / 55** |
 | Illustrated documents & essays / 已配图文献与文章 | **342 / 522** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
@@ -30,7 +32,7 @@ LUOCAO / CHEN HAOHAO
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-[3 October: generative histories and recent research papers / 10 月 3 日：生成艺术史与近年论文增补](updates/2026-10.md)
+[3 October: generative histories, research papers and crypto curation / 10 月 3 日：生成艺术史、论文增补与 Crypto 主线筛选](updates/2026-10.md)
 
 [Generative Art History](https://salondesrefuses.cn/en/topics/ai-art-history) · [生成艺术史](https://salondesrefuses.cn/zh/topics/ai-art-history) · [Recent research papers](https://salondesrefuses.cn/en/art-history/guides/recent-papers) · [近年研究论文](https://salondesrefuses.cn/zh/art-history/guides/recent-papers)
 
