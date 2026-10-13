@@ -8,17 +8,17 @@ LUOCAO / CHEN HAOHAO
 
 | Catalogue / 编目 | Total / 总数 |
 | --- | ---: |
-| Cases / 案例 | **247** |
-| Events / 事件 | **425** |
-| Documents & Essays / 文献与文章 | **573** |
-| Sources / 来源 | **672** |
-| People & Organisations / 人物与机构 | **369** |
-| Generative Art History timeline / 生成艺术史主线节点 | **302** |
+| Cases / 案例 | **276** |
+| Events / 事件 | **469** |
+| Documents & Essays / 文献与文章 | **712** |
+| Sources / 来源 | **1184** |
+| People & Organisations / 人物与机构 | **410** |
+| Generative Art History timeline / 生成艺术史主线节点 | **306** |
 | Contextual crypto works / 专题中的 Crypto 作品 | **55** |
-| Bilingual historical accounts / 双语历史资料正文 | **357** |
-| Illustrated timeline entries / 已配图主线节点 | **287 / 302** |
+| Bilingual historical accounts / 双语历史资料正文 | **361** |
+| Illustrated timeline entries / 已配图主线节点 | **291 / 306** |
 | Illustrated contextual works / 已配图专题作品 | **49 / 55** |
-| Illustrated documents & essays / 已配图文献与文章 | **342 / 573** |
+| Illustrated documents & essays / 已配图文献与文章 | **342 / 712** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
 ## Explore / 探索
@@ -32,7 +32,7 @@ LUOCAO / CHEN HAOHAO
 - [Cite This Project / 引用本项目](docs/citation.md)
 - [Contribute a Source / Correction / 提交来源或纠错](CONTRIBUTING.md)
 
-[4 October: research accessions and interactive art history / 10 月 4 日：研究增补与交互艺术史](updates/2026-10.md)
+[13 October: research sync and three historical works / 10 月 13 日：研究同步与三件历史作品](updates/2026-10.md)
 
 [Generative Art History](https://salondesrefuses.cn/en/topics/ai-art-history) · [生成艺术史](https://salondesrefuses.cn/zh/topics/ai-art-history) · [Recent research papers](https://salondesrefuses.cn/en/art-history/guides/recent-papers) · [近年研究论文](https://salondesrefuses.cn/zh/art-history/guides/recent-papers)
 
@@ -45,12 +45,12 @@ LUOCAO / CHEN HAOHAO
 | Status / 状态 | Active research archive / 持续更新中的研究档案 |
 | Coverage / 覆盖时间 | 2022–present / 2022–至今 |
 | Languages / 语言 | Chinese / English / 中英双语 |
-| Last archive statistics sync / 最近统计同步 | 4 October 2026 / 2026 年 10 月 4 日 |
-| Research edition / 研究版本 | 23 September baseline + selective additions through 4 October / 9 月 23 日基线＋截至 10 月 4 日的已核增补 |
+| Last archive statistics sync / 最近统计同步 | 13 October 2026 / 2026 年 10 月 13 日 |
+| Research edition / 研究版本 | Validated eligible research through batch 711 / 经校验的第 711 批研究快照中符合发布条件的材料 |
 
-The figures describe the deployed edition recorded by that sync, not additions on that date or independent verification of every claim. Documents & Essays includes **571 catalogue records + 2 authored essays**. People & Organisations counts **369 event-linked index entries**, from **371 stored records**. Chinese and English versions are counted once; unpublished research is excluded. [Historical figures and counting notes](updates/2026-09.md).
+The figures describe the verified edition, not additions on this date or independent verification of every claim. Documents & Essays includes **710 catalogue records + 2 authored essays**. People & Organisations counts **410 event-linked index entries**; **414 stored entities** become **413 distinct entities** after the existing explicit alias is resolved. Language versions are counted once; unpublished research is excluded. [Dated historical statistics](updates/2026-10.md).
 
-以上为该次同步记录的已部署版本规模，不是当天新增量，也不代表全部主张已经独立核实。文献与文章包含 **571 条编目＋2 篇作者文章**；人物与机构为 **371 条记录中关联事件的 369 项索引**。中英文不重复计数，未发布研究不计入。[历史数字与计数说明](updates/2026-09.md)。
+以上为本次核验版本规模，不是当天新增量，也不代表全部主张已经独立核实。文献与文章含 **710 条编目＋2 篇作者文章**；**414 条实体记录**按明确别名合并为 **413 项实体**，其中 **410 项关联事件索引**。中英文不重复计数，未发布研究不计入。[已注明日期的历史统计](updates/2026-10.md)。
 
 ## Research Question / 核心研究问题
 
