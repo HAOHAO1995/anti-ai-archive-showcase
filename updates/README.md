@@ -4,6 +4,7 @@
 
 | Recorded update / 已记录更新 | Content / 内容 | Read / 阅读 |
 | --- | --- | --- |
+| 19 November 2026 / 2026 年 11 月 19 日 | Eligible research through batch 1306, four historical accounts and 12 corrected records / 同步第1306批前符合条件的研究、四篇历史正文及12条更正 | [November update / 十一月更新](2026-11.md) |
 | 16 November 2026 / 2026 年 11 月 16 日 | Eligible research through batch 1241, four historical accounts and 13 corrected records / 同步第1241批前符合条件的研究、四篇历史正文及13条更正 | [November update / 十一月更新](2026-11.md) |
 | 13 November 2026 / 2026 年 11 月 13 日 | Eligible research through batch 1169, three historical accounts and 34 corrected records / 同步第1169批前符合条件的研究、三篇历史正文及34条更正 | [November update / 十一月更新](2026-11.md) |
 | 2 November 2026 / 2026 年 11 月 2 日 | Eligible research through batch 1043, six historical accounts and record corrections / 同步至第1043批的符合发布条件研究、六篇历史正文及记录更正 | [November publication / 十一月发布](2026-11.md) |
