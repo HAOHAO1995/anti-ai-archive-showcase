@@ -1,0 +1,4320 @@
+{
+  "origin": "https://salondesrefuses.cn",
+  "bundled": false,
+  "assets": [
+    {
+      "path": "/12d6199e2ecb50f13464b03d713399d2.txt",
+      "bytes": 32,
+      "sha256": "f5f6c0b22d0212c5fb1f45a9149615657b76636c37b613c41a57accfcd40892e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/documents/Cybernetics_and_the_Desire_for_Control_Bilingual_2022-2026.docx",
+      "bytes": 57362,
+      "sha256": "a2d5f59c4379ac115d2a5f3d13ee4910b15b2248037abdac05d8f62cf5fef83c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/documents/disco-ai-2023-original-zh.txt",
+      "bytes": 20171,
+      "sha256": "2841b4439166753a2ba6b7e2ce22c984afe9df9f6ba180f75701fdd77806e75c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/documents/disco-ai-2023-translation-en.txt",
+      "bytes": 21507,
+      "sha256": "354aa847275e29913d5192142cdb30a495548e6c6ed6139deebd5dc18928897e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/favicon.svg",
+      "bytes": 239,
+      "sha256": "c54f6aa1e96dc9241d17327a3d5b4cf27cf7194ae904dab9369ecebfb6b2fb58",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/007.jpg",
+      "bytes": 47771,
+      "sha256": "a6a373677a5d2f5818e493251f05ebc243e52d93f5137c9f926cfe5f72c1d5b2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/012.jpg",
+      "bytes": 15656,
+      "sha256": "a63dcd2a1c25b8f21b88ff2045197fdab171e4a30df0949a61575bd3d5861c5c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/014.jpg",
+      "bytes": 214161,
+      "sha256": "eebfe5f60dab683c7af9d11d6df9fd197625ddd681d2a25eb7c757e34b5e73f8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/016.jpg",
+      "bytes": 73905,
+      "sha256": "d84db76991ebeb108fee84140d9dd31d479454d121c51bd50196c28481f8bfb6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/023.jpg",
+      "bytes": 26508,
+      "sha256": "cfea6c546a3cf846ce283746cc1b6d10325cf3160d8f9a0751bae487864ea7ec",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/024.jpg",
+      "bytes": 12644,
+      "sha256": "2af2c0a87b80edd637f84db97e605dcedc31591ee056897809431014a45ee21c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/028.jpg",
+      "bytes": 176820,
+      "sha256": "e595b7c13bf2472f47e045830c077326a481608dedf2c3cb3c9b39ad6c7c5d28",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/033.jpg",
+      "bytes": 348517,
+      "sha256": "65e1dbb8631ce88a1dea507217f0484558107677eb787b77fdb6fceee08bdf21",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/034.jpg",
+      "bytes": 289755,
+      "sha256": "da69ba08d25ff2fb462ccd294afaed74370aa51d2191662719b3c4ca028db5ce",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/037.jpg",
+      "bytes": 273488,
+      "sha256": "fc76b6edb5dcc8de538c7e7f36ac4c93141859c4f49f880156594fdfc9555503",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/040.jpg",
+      "bytes": 254166,
+      "sha256": "25b1aa0caa808312c7a35d79b3a54e3dbcb5642ddc07afb0715999651c67aef5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/043.jpg",
+      "bytes": 249206,
+      "sha256": "b30d3827c1833e31e537867dad1075c5f9b98a56373fad773a14a70d1e2c17b6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/044.jpg",
+      "bytes": 214040,
+      "sha256": "6f7225090bffc826a89a5ce3eabf31768a77f196c01c85b09f2865cb9db6f689",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/045.jpg",
+      "bytes": 157892,
+      "sha256": "a9d2543bd2d719190cfe6a55dc18248b429a90550deab3baefa6084bc9461bec",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/046.jpg",
+      "bytes": 129740,
+      "sha256": "a5b1c09e5d14c4fc21e720091f5f264538d1233c630c58c8aa16308728330bea",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/047.jpg",
+      "bytes": 237276,
+      "sha256": "6ad00344cb2a934e31abe09bb42ea864cd9624f4e119bf16457997503eaff53d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/048.jpg",
+      "bytes": 197608,
+      "sha256": "1b76e870457d772a82a9580973ecfc63630ea9d2cc5e9fce313d834e333e5be7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/049.jpg",
+      "bytes": 131967,
+      "sha256": "08cd8b4f9ff3474e9b70cc752a5c287009d506b3da5c7ff75bd9cee632ff80ca",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/050.jpg",
+      "bytes": 273986,
+      "sha256": "dd50645a5de1ff2dcd19af981dd3e8cf5b784fe21f4bc3b4f86f170f5b98b0cd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/051.jpg",
+      "bytes": 195412,
+      "sha256": "9ae3592d8ec80f0260c48faa939c9ebf0b498d1282bcdfabd5fc7cd6048a7d78",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/052.jpg",
+      "bytes": 247256,
+      "sha256": "8783509adcc15be4156bf193cec5bb7636e79dd5eb786eedca8bf7e786fa0ef5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/054.jpg",
+      "bytes": 245022,
+      "sha256": "384bc84d05603ba178da71ce6241c638b2a32b6023233d3916cbb8615f4f7680",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/055.jpg",
+      "bytes": 200055,
+      "sha256": "bb5c1ec4e85d84c898bf7b5f40c5df3386ed53239645347a19a934f451655a93",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/056.jpg",
+      "bytes": 132465,
+      "sha256": "45176734a65c32fa49201eedffcee03ac112ab6656c543d98af0f0632a44f7b2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/057.jpg",
+      "bytes": 264416,
+      "sha256": "7be8740d64d02969e97201fc00a798886c827bca1fcd64d0879667a9f028408e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/058.jpg",
+      "bytes": 236011,
+      "sha256": "28c40fd31b9962f50f098faa2e09deff17b0ca928179b4e5b9a5f4a075d1a0ee",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/059.jpg",
+      "bytes": 246262,
+      "sha256": "a59662f282f19b22be22ed1a998af689ae729ff75e7a46c8fcf625df684b024b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/060.jpg",
+      "bytes": 210271,
+      "sha256": "a56e04f317310d89ef00df620f4a0fefca4babc0d9326150e5e43270ca238311",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/061.jpg",
+      "bytes": 318356,
+      "sha256": "26e0ceda50f32bb70bfc6ac4691c0f3455c6dbab18567a83b1f06a5320ff5517",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/064.jpg",
+      "bytes": 31672,
+      "sha256": "18affa1feb675daed48d6c5d24edfdd13de534c3a073533891e9a677e571ccd0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/066.jpg",
+      "bytes": 181260,
+      "sha256": "19908b20e149a974933512698bb6de251d02cfe38d6a1cb1a1097c4b4d2edde6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/067.jpg",
+      "bytes": 213064,
+      "sha256": "68725970825c70d6c19dc377ea65922aad8f971f6f60e4bc60e28985f7555950",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/068.jpg",
+      "bytes": 316147,
+      "sha256": "c880ea0d45bd12580519d193376a4e067b769bc3d9c4a94eaef35e2b530cfb37",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/069.jpg",
+      "bytes": 196347,
+      "sha256": "989660639510a9fe477052214d8c23b7b0cfc5346658ab538fc0d02df1bfe36f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/070.jpg",
+      "bytes": 254865,
+      "sha256": "017441ae8e38a9a7e8e1044571c767be375146dcd466be1d61c2373a5479ee21",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/071.jpg",
+      "bytes": 255838,
+      "sha256": "ffe08cf20ed9491a286b0c38cbed06f00c0d7511f32bf97ededf725b84263ef2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/072.jpg",
+      "bytes": 254579,
+      "sha256": "c018ea49287bbce5b6946790e54c66488829ab89d7623af5031b4047e118dfe2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/075.jpg",
+      "bytes": 273356,
+      "sha256": "a9b09045b36e242be62c3b2553dbea2bf23019fc29b970402f8519b766c4b009",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/076.jpg",
+      "bytes": 295096,
+      "sha256": "3f90935428dd297297b52bbd75cf7b19b6f39014f757329ec3e7e868196afdbd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/077.jpg",
+      "bytes": 173302,
+      "sha256": "a55ac20dd95f41db925a2a12d0f8f05b6acffb45b98433cf34df953a2b198f5c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/079.jpg",
+      "bytes": 222030,
+      "sha256": "accd6df485d79e857c0a79a6a04bbfff99c45a4d187093bd4b4e02533e76a1c6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/080.jpg",
+      "bytes": 331101,
+      "sha256": "d67cf59fd392b36805bb8c9c3e512325d2dcfdf003ae2ff718fc3b45462ef90c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/081.jpg",
+      "bytes": 247885,
+      "sha256": "c96bbd3934db3b9b3ba23d384a0793254ca48a671790d6476b6935f542bfa10d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/083.jpg",
+      "bytes": 287089,
+      "sha256": "adaf69a24f1cbe94dee317c6ae7407108ac15c43de80f29a45982f6a33bf7d16",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/088.jpg",
+      "bytes": 50985,
+      "sha256": "bc15662c23324d3c08e3d38bb3ee317bae999e9ddc990ea81445dfa35c6077e8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/089.jpg",
+      "bytes": 164538,
+      "sha256": "4b9f27d99011c24fc0c7cb80c3b6470a109e42a5c2a8011f9d5047c1d65124b4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/092.jpg",
+      "bytes": 201773,
+      "sha256": "8e8e83ddbe0c97a06d1090ec3a8636ea7d0a7291b7c3c7dc94c4b8eb77d23285",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/093.jpg",
+      "bytes": 202480,
+      "sha256": "0d030f6782437166c318e5650aec918374ee0b8011eca56d76003bb8d02fa7b7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/094.jpg",
+      "bytes": 216889,
+      "sha256": "7f771033bf0d56d488405be0a3da725c95826078cc72e93edbd87b787ac2941f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/095.jpg",
+      "bytes": 255050,
+      "sha256": "525f0d94dcb84d01aa41d2e110289bddd3fb8b35e185f5262a71e42fcc92b19e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/097.jpg",
+      "bytes": 206235,
+      "sha256": "8275e82998417ff97f8e46df79a15fdec4dc5f733d02ca25e82a08fe33b70103",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/098.jpg",
+      "bytes": 216384,
+      "sha256": "c39747afa7f3e388a20845be78a69376cc9933079efd7b94ebdaeb6e08366291",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/099.jpg",
+      "bytes": 86829,
+      "sha256": "3cd0d1e82e53639d6c89ffda8ea57829c06b41b5df3fb610f6778bdb41f71553",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/100.jpg",
+      "bytes": 265458,
+      "sha256": "63d39ca83a1b6a2215228d1a1baf0d3d93e9e598e4db563a5e00b4f121ff190e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/101.jpg",
+      "bytes": 49555,
+      "sha256": "ab75029c8113be9f8fda7d67fbf59f657f2a6b3bd036ce5a7e6d8fd8917386f6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/102.jpg",
+      "bytes": 293811,
+      "sha256": "fd050f46b609fef066a4af7c8c86980bcbfc2b536dccef97e4296e26cfcf62fd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/104.jpg",
+      "bytes": 253114,
+      "sha256": "d518f0977ca4e0488840922650cae3060fdd03ccf11a0a63f6f7e98bb742d18e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/106.jpg",
+      "bytes": 185160,
+      "sha256": "707d120fbbf0d38c5d2fd7708b2768de810321f025b05895156ce02e60526bc8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/109.jpg",
+      "bytes": 197790,
+      "sha256": "e99bd052704ec89f13ee208120fd6406c8712ddd60f2a2f8af83ed86f9f2b0ca",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/117.jpg",
+      "bytes": 175389,
+      "sha256": "f088ef16af51b41ff57cde29c7116ca610ce16078481eea621cc8d2c88a36df6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/118.jpg",
+      "bytes": 187127,
+      "sha256": "96fd97b5fcad0b21f657cb0be6fe0e364744164c4f3270b8a4fc447da3ede110",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/120.jpg",
+      "bytes": 213295,
+      "sha256": "c543d8100f2076112cb6c4765d204996a84c80ffadc8f637211a191cb1f5cc31",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/121.jpg",
+      "bytes": 183435,
+      "sha256": "96e70dafde01280ffbe78050743b2b169c626027a0c94a4ff721929605ee4f9b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/122.jpg",
+      "bytes": 138896,
+      "sha256": "c7922d3d3f68b32bc6a6f5752ec012734c120d23917b5395ebc71150cfd9de8a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/126.jpg",
+      "bytes": 267505,
+      "sha256": "a7749f0e7d6ca7ea2d9bdeae772c47ee031fa4c8d135d1933a9d0321a1b04d83",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/127.jpg",
+      "bytes": 110681,
+      "sha256": "7872bb6b4b8544b0edac6cc7b860a08391200f8c6b6a331a51e0f923a2bdcdae",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/129.jpg",
+      "bytes": 57550,
+      "sha256": "98d7a31d438f64d10cb109b1481eb6b683134b2e3df0aae76a4efea009e5152e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/134.jpg",
+      "bytes": 107030,
+      "sha256": "40e7ba013a8107d039ae9d9de7a91294ded48e6f7aecec41529c50d92359341d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/135.jpg",
+      "bytes": 175389,
+      "sha256": "f088ef16af51b41ff57cde29c7116ca610ce16078481eea621cc8d2c88a36df6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/136.jpg",
+      "bytes": 120350,
+      "sha256": "4052b02aa1a897e65e88324e6eb0fbf42d2d8c8b69229a236012139775dc92c9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/137.jpg",
+      "bytes": 81847,
+      "sha256": "79cadcbcafe5e80a3215f57cf8a9cb4b0937c6830c4f63e8552b7e2bf6bc64a6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/149.jpg",
+      "bytes": 60686,
+      "sha256": "612b737e1a8601735cc1ecf4f5340159493e5d4d015d625bc30550d52a861680",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/151.jpg",
+      "bytes": 38123,
+      "sha256": "7266e3601bc282f82dd9bd992fe8661c755cb96b0115aa07e1a89518d972b6b1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/153.jpg",
+      "bytes": 173766,
+      "sha256": "208bd5925f052bf8fcb91dd5d68119e0e0da578566388b83ee5148ca11bf09d2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/156.jpg",
+      "bytes": 70457,
+      "sha256": "45e47b54f70c20554c51a0aed59279540a5aa9d69496cc1e3edf0e5e4047231b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/159.jpg",
+      "bytes": 58965,
+      "sha256": "37c8af2062844c0b14ea556a7fa49ccf7b4ee9355164b6c67f88fccf5e7e9707",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/164.jpg",
+      "bytes": 111479,
+      "sha256": "ce01ddc7f7b12f5957920fa4044ac4c8bc4cafa758d5340bdd90dba30d726477",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/166.jpg",
+      "bytes": 67976,
+      "sha256": "72a5e52d9004d6fc363be12e30967e2c7e50f8629d7f274b59c73e919b6ded34",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/168.jpg",
+      "bytes": 69364,
+      "sha256": "835c5062fb4c81dbaed119a5f11e56e3374869925d2868ce41c4aa36a73ef9da",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/169.jpg",
+      "bytes": 84199,
+      "sha256": "52ce01ee5c93e6e928fbba7223fa10b22fbd4987d8c7bfaac7c6b513488e2048",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/172.jpg",
+      "bytes": 23013,
+      "sha256": "8ded85335a89cb2c5f1f22367bfd22f65de3954be56ca804913616519f5d4eb2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/173.jpg",
+      "bytes": 185765,
+      "sha256": "9794c3aef9b53af6e7f4487699abcba7ecc1f967eb8217c2ee68bca0adab951c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/175.jpg",
+      "bytes": 298507,
+      "sha256": "ba86ec65c9122e148ba21ccbdb190eba834fe0efe6d863d0a1de5222bfee7813",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/176.jpg",
+      "bytes": 140726,
+      "sha256": "e4d5f91fd34f9d9147215f7ba7c190d858b9b51d5dea4ea2cd3f8811a257c9d4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/182.jpg",
+      "bytes": 86606,
+      "sha256": "1be5bf9dd7b1f8b1492730b2b9853598df79dd003d4b1caa5af65a795e41ded4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/183.jpg",
+      "bytes": 72688,
+      "sha256": "61a862cada76009a5d88b256ab6bece723674fb533916c79b4bb7e45668fde0b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/184.jpg",
+      "bytes": 32154,
+      "sha256": "35556a0f4d69932154f4e9dc41113e2cea0123cfd615db055e50ba0e693b9a89",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/189.jpg",
+      "bytes": 279659,
+      "sha256": "bdb5ada98bf6595c03300b1a4a26fe32661a2b8091fdb8df34d52eb0eae3711d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/194.jpg",
+      "bytes": 154582,
+      "sha256": "cf820f3fa8ac0bf3ce977c1c2970bb0544fa15f59c554ff085fbdb8acd2dc2d8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/195.jpg",
+      "bytes": 37077,
+      "sha256": "5f3c06afdfc28d831e3c939cdbeb7f4759a238526cb19e21f71be60bba7537ef",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/201.jpg",
+      "bytes": 88186,
+      "sha256": "7d7a462869bb1c26fb687c49455863f4f3892423ec737eb32a61d04503c47f0f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/208.jpg",
+      "bytes": 98329,
+      "sha256": "65f6994b4943abd27a2560217c5f23215b3684f0fbe8641533feebc0a935b2af",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/212.jpg",
+      "bytes": 78334,
+      "sha256": "bcfdc79586b04b4b3d1de3fa96f5eef4f844b1b564e232ba8cf17514ab3dd082",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/219.jpg",
+      "bytes": 147320,
+      "sha256": "89d4c9030af50f2d7f42d473b527e3e8d76f859724fdcf67724121b44e34e2a0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/221.jpg",
+      "bytes": 57585,
+      "sha256": "241fbcdc55673cb318b1a4cb4a3a0740a38980e6a76098a4fd29573b4c193093",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/bush-soul-357.jpg",
+      "bytes": 21529,
+      "sha256": "a5b632173ff570cc9086343d133293526ce346f685f25db60c89da6c73d64b18",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/camata-360.jpg",
+      "bytes": 418809,
+      "sha256": "00de8c51190ceacbb2d8f8df2652540a926b0327e6c9919fdf53b558f9759d60",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-008.jpg",
+      "bytes": 164296,
+      "sha256": "1903254ecaa4ffd53b36d8d74b76cdd186fda731cb38841d5b9b5bdb05f24f3b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-010.jpg",
+      "bytes": 339422,
+      "sha256": "50e9e5c4b218502a73e7b34794d6477f49271ea1dc0247b18c401d2699b651fc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-013.jpg",
+      "bytes": 51231,
+      "sha256": "7f94de94bc0104f2f0d712d8c2af8b341afc213692c81a550b3ed754c6af33ce",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-017.jpg",
+      "bytes": 80428,
+      "sha256": "dd409c329f0183e752776e984ac0a43aab2a56b20b17f66bf4068713e1464938",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-018.jpg",
+      "bytes": 50097,
+      "sha256": "cc2342b10ad443ab5a1f8d0db3494f67efde60ddb2f5e5eae5a67618320e5dc8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-030.jpg",
+      "bytes": 46899,
+      "sha256": "7f467cf8f2c72409d0dbe5b77f24cc637d6af510a04026a46c509aaff8621460",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-031.jpg",
+      "bytes": 194131,
+      "sha256": "01d69783865a4ad4f9c823018e96910749eae65a915529b872f2e353a530f990",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-032.jpg",
+      "bytes": 167033,
+      "sha256": "88c219e0ee92bdeff32d1309687de6242a01e8a290eeed6ae205ba2b362be307",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-036.jpg",
+      "bytes": 97200,
+      "sha256": "24c16880ddc4b2db80d239ac49a850f85475893799e3775f42cbf5fc9fdc93c5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-038.jpg",
+      "bytes": 229250,
+      "sha256": "281863518ee80658b62f885c9da94ca18bbedaef54215bf39b55f3a7fdf56178",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-039.jpg",
+      "bytes": 125322,
+      "sha256": "1fb1b678ba9d691fc06f6fb656014f462aebcb65c1602baeb927f8ad958adbc1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-042.jpg",
+      "bytes": 375197,
+      "sha256": "3603159a299dc5f0003673d695f73a1a01dc3ee9c0e36770720df520fd3e4b8a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-063.jpg",
+      "bytes": 385978,
+      "sha256": "b9c813fe80f52de3a751d866b9ecf2808c8b88152de1962c38e82c09741d95e2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-065.jpg",
+      "bytes": 146438,
+      "sha256": "e70415dabfeedff54d6642fab6d79f175dd4a3b0c2a22c797c0f79e4ac805df7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-074.jpg",
+      "bytes": 89063,
+      "sha256": "fc27b94c3f4940400369c1ff82bc3c0c2861d25d7980ad3270ef91d40f9e7531",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-084.jpg",
+      "bytes": 116522,
+      "sha256": "060b366d8a7d7972709a264140e6b240ca6c9975ad47172fd4e8cb9bfc9419c0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-087.jpg",
+      "bytes": 168296,
+      "sha256": "118e2a535f394b8feb32e054781df73cf766147fd230404d99e0ddbc922627fc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-090.jpg",
+      "bytes": 259782,
+      "sha256": "466882f792293c141db4662b83fd2c37fb1b47a87210a80d42375e1bdfdbeab2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-096.jpg",
+      "bytes": 153620,
+      "sha256": "17fffa4005575e1c6ce237ca0c3506285d43fb1db6e964911af1afd30fcb0082",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-107.jpg",
+      "bytes": 127697,
+      "sha256": "4a4b8f3599a8da6b8769cec391e31aca6671075f62a4becc5f83469739d2ddb4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-114.jpg",
+      "bytes": 30813,
+      "sha256": "3e556d74274ea3415c00bf69e7c54fe219b57e965e386d7fe4e98b06dc6e3e75",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-115.jpg",
+      "bytes": 92298,
+      "sha256": "30152077f9b4ac1ea4e65d80d52a17dda1f4c2047e280b1d6c4d3f0776b49cab",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-116.jpg",
+      "bytes": 52245,
+      "sha256": "bbf3292d0ee502c955575f78719a97b567e0cf31d8e55666ed400c1cb3f9a561",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-123.jpg",
+      "bytes": 228140,
+      "sha256": "294ec1817b55f679890c465c777c653392d2ac3fe7ea67980858fb45b41a4e6b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-141.jpg",
+      "bytes": 114717,
+      "sha256": "4ab9fcf0eeffae3a3995c843ec6375ffce00293d03d17db026f1d5123c0128c5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-142.jpg",
+      "bytes": 158776,
+      "sha256": "96d91b0614eeac22ea8862d69385c147cd5ed6ba0e656a1b49fbe3393b9c3eed",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-155.jpg",
+      "bytes": 74184,
+      "sha256": "b90b1e30a37541589446e01fe7fedc1978107e727ff99e1ebdbabbf416931296",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-177.jpg",
+      "bytes": 73208,
+      "sha256": "345f3c2bb097d3fbc5fe3c54ad09c36bb30cf27b35000e1aef50c73b731e042b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-180.jpg",
+      "bytes": 39259,
+      "sha256": "fccd831341a70cefe5e670035fee40662deb45e13df112a9b5706769da5eebb5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-187.jpg",
+      "bytes": 24987,
+      "sha256": "cf564d7e688b6f58888d3204bbd54089209fb54c58c3bc33149292c18e48f0fc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-190.jpg",
+      "bytes": 226749,
+      "sha256": "bd2dd94cb625d538b340a7e0a4fcecf145a34aa421e69c829b456321850aea55",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-197.jpg",
+      "bytes": 68819,
+      "sha256": "baf5dccc4cdf07f6e86925d1f7cbb93823070baef6b63d040b8b8bd4fa94d01e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-200.jpg",
+      "bytes": 215923,
+      "sha256": "fdf66f5244bda7d04f9032f80cb91270f4d193997e0b9d2afc91c818243a227e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-202.jpg",
+      "bytes": 324637,
+      "sha256": "2ebe5b4f398b62576c58a43fe4a6c379e1fac2f1b8400ffc8cb2fcff3e90c7d3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-203.jpg",
+      "bytes": 99049,
+      "sha256": "74210e9c23a0da3fdbac5577c9271b40aedd15c7ed2de7aee310a57f9e1242ff",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-204.jpg",
+      "bytes": 48131,
+      "sha256": "722a9658532c4351046e3f322d26e40706fc946ee6cfa2d88244a2d7113ed914",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-205.jpg",
+      "bytes": 137812,
+      "sha256": "1f27390ceeb0ef08a011bf00fc6aa711ed494f30b0a1c50e83bd3fa9cd201893",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-207.jpg",
+      "bytes": 190193,
+      "sha256": "872d82acbf92f1c9145665b0db14a032f58d37235aee70c3c0b8ba322c35ad3a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-209.jpg",
+      "bytes": 223307,
+      "sha256": "7df384aa1a5481a7db0551eea20917078e85b954e8b50632d40f57f20cd83709",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-210.jpg",
+      "bytes": 232322,
+      "sha256": "d8caabb2b2ed255d64950e94d21c313b3f010e11823d0362256bf73fffbfff71",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-211.jpg",
+      "bytes": 388036,
+      "sha256": "827dcfa71d4cd90a92ad273de6ac4be917123a0f4bdc2bf1a8dd702067047f14",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-213.jpg",
+      "bytes": 215346,
+      "sha256": "7bcfd13dfc3510f37222c2c36c929fcd902ae5415e35b740fca1e5e06fee8a23",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-214.jpg",
+      "bytes": 125923,
+      "sha256": "f5d668837a664667cd1bc3feeff0f8291dd6e22a9b24256b1924bc908ad3dce5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-218.jpg",
+      "bytes": 179733,
+      "sha256": "eaccd0b76dbe4f4f897e3f738925b18b133bd1a1df8f760c7456ffec2ce5c2b1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/expanded-220.jpg",
+      "bytes": 40395,
+      "sha256": "e2843ba53f335ad0027189b7fc4310598e18cbe3397fd0aa74c63b5a461fcb07",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-250.png",
+      "bytes": 197143,
+      "sha256": "e3a16ea1442214c75be3d70400a592fc482c227772138a2e371a45f797a0dce1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-251.png",
+      "bytes": 101753,
+      "sha256": "190b7e0b9808422f0b314380251075f562f10e1cf75f832cb7ffbdc8182e6eb8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-252.png",
+      "bytes": 163636,
+      "sha256": "a140857903a382bb0069c4b965a9a43dcaae9ab475dd82d23db576467876e2e7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-254.jpg",
+      "bytes": 680433,
+      "sha256": "ccacccd79387da5b501121fb0c7fcd6d0f0501e85f3ba97e1c728f6ea0a24673",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-255.png",
+      "bytes": 21613,
+      "sha256": "15645668b6679c18d27c2d61b6f72f6575052f23416dd0d2327f3a67da6337d0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-256.png",
+      "bytes": 178537,
+      "sha256": "7c4dd30f9b384bf66355667a71f99640e318dbd6275d40213f79486f0970e44f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-257.png",
+      "bytes": 1303296,
+      "sha256": "9faa3568dcf6e28ba17d525a57cc15ac5d75aa3e85a4627e32973e29d8fa1eaa",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-258.png",
+      "bytes": 477261,
+      "sha256": "6959d3548cea99e392aaff0fc31e532d70737b60f2f70368f9e2e0be42978e4a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-259.png",
+      "bytes": 1089492,
+      "sha256": "ade7dea0b87b3941e2374d4f9556baa96175e1048a721038840a57997a497693",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-260.png",
+      "bytes": 92061,
+      "sha256": "a8aeeec2a5fb1a2a0d7740dfa7173b91217da428527241f7f47d19e9a879cdda",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-261.jpg",
+      "bytes": 2444588,
+      "sha256": "4c34e248d08d761dd571723b182ed0e647399c2a525edeff55c01960344a0cb7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-262.jpg",
+      "bytes": 1523014,
+      "sha256": "e10e8c4afc615a6e53620b72ce6ae3a9b35f042824fada8542fd128c03d9db3e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-263.png",
+      "bytes": 87140,
+      "sha256": "f7023798c6aebf3b1944dc9f610e9568d1930fe0f52425325d2626b4529aa27a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-264.jpg",
+      "bytes": 891639,
+      "sha256": "f22f08cd9c6692d66ac5fa41fc3928a858c6298f4e909db77635979a01ddab81",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-265.jpg",
+      "bytes": 814650,
+      "sha256": "e30c87520060769949a2c835e3e07352360610d44ec498d285ecc84e8852dbe9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-266.jpg",
+      "bytes": 1175234,
+      "sha256": "b06df2402a9fa51205666eaefb607a06d768ad05f6329c0bb8d672ca23a1471e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-267.png",
+      "bytes": 817863,
+      "sha256": "5df2b55cfcbeb985beed593c16cb78d886dcd3dc7fb63303c3aa0604bd48177a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-268.png",
+      "bytes": 33619,
+      "sha256": "5cddf596d16fe64a759dd84d01989ccacbb94505bf7463cf6d964c3b1d286ea5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-269.png",
+      "bytes": 7053,
+      "sha256": "222582499fb37f144eb38ec1437b92f9394c66486b914a9a5273a01e03c457ea",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-270.png",
+      "bytes": 63832,
+      "sha256": "fcff8c0f1e8d2f29f81d6e7d3f2e7f2b479c0eb772293cf4c4041abd5c96b935",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-271.jpg",
+      "bytes": 431519,
+      "sha256": "eb1d60a31e508cfc9f3eb0bf0defbdcc64ea9b13dc38b63464b0094999f47b39",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-272.jpg",
+      "bytes": 821036,
+      "sha256": "c353d4f9c46a259de6445e4c56c46b541df1c5d3eb62993a76672b10e4720b32",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-273.jpg",
+      "bytes": 260637,
+      "sha256": "a7133b4a36ca8997172fd9fb8449993577877341037a4595be39eefaf3363f3e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-274.jpg",
+      "bytes": 70754,
+      "sha256": "5ae43c08b664f47de74358038a0ea5d1f888fe960a4b136dc3efcf6a196affc1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-275.jpg",
+      "bytes": 73042,
+      "sha256": "613327bbe9af6e5b408e869e3e34e1456dc4596630ccb79781c49639051f2018",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-276.png",
+      "bytes": 27548,
+      "sha256": "419670e6fc377879b70050c4cd4338785ccb8eb76ba9a0f0f57af1127d9ddc2a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-277.png",
+      "bytes": 158504,
+      "sha256": "bcf5b0e1163e7fa8c16a28a83ad8d5718ff1bc2d0ea8c7343980c20963548438",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-278.jpg",
+      "bytes": 872690,
+      "sha256": "0393fe51ff56ab5834ce2c6027327fb89c01058d534e51ef2c95312c87505b6c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-279.png",
+      "bytes": 650218,
+      "sha256": "4502ab64f0ac9bc4f04e6874d980186f96a594595fb03b44e3e78b62ae6538e6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-280.jpg",
+      "bytes": 46117,
+      "sha256": "dd800980fbef0164aa325fd42bb04e7585560dab5e767a2622c629b51633f87f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-281.jpg",
+      "bytes": 508505,
+      "sha256": "538cbb5c3ba37aba0437fdc666ba99fd94632ed600aa120c17e59c328ed7be6b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-282.png",
+      "bytes": 302464,
+      "sha256": "7768f91b4c079934c977dfa2519f4aea5cb8ed32ffc92ccc03c181c6745217c0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-283.jpg",
+      "bytes": 845965,
+      "sha256": "afd90f2e664c684a38d6c738fb098641eac5c618f89fe1ea7b01c6566ec15651",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-284.jpg",
+      "bytes": 1295455,
+      "sha256": "39b6b34a29c47317daaf4001df064dd2a1ab90fdb15c896841bad3d2a1d13f0c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-285.jpg",
+      "bytes": 2561083,
+      "sha256": "b0c096f6db989dd4d715643d2e2de2120cd4ef09fdfa9d1d83dd7201c6f5f945",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-286.png",
+      "bytes": 271544,
+      "sha256": "ebe9d72b55c98589a40dbc4fa244c7fa4d8bc37b038810946dbd1a544b9d4791",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-287.jpg",
+      "bytes": 1148991,
+      "sha256": "00c9072b211a8ab298552729b2797e0f4aef2f33ef736a68d1acb166efc2f805",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-288.png",
+      "bytes": 20521,
+      "sha256": "60805d847d81b6b88b75e96cd00ae70a4179cd569631deb6eadf2e506708458e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-289.png",
+      "bytes": 221438,
+      "sha256": "9646671eb325e3bb709d629973326d4b2a6bf621763910838a4f687c5955b90f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-290.jpg",
+      "bytes": 81842,
+      "sha256": "b7a7b8e03b3e33771dd55531a329aaca11e9e73e83445089918844c8eb932ded",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-291.jpg",
+      "bytes": 291661,
+      "sha256": "897b7101cac443ad635b428cfdbb2baef5a893f93a7ff4254600102e1c231243",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-292.jpg",
+      "bytes": 1605823,
+      "sha256": "397a01783285144a69e5547b548e413c6d5a60addab8c2b5a78bffe7f3139de5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-293.png",
+      "bytes": 54104,
+      "sha256": "5288a7ee83733cdcce1be53317d9c73d1a43c754db32d4552d12b6f43b9f699b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-294.jpg",
+      "bytes": 235478,
+      "sha256": "ac787f59e831696bcef246f62b34a2f77b4f9764be4bfe5fb4ec4f5be273cc2a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-295.png",
+      "bytes": 262085,
+      "sha256": "df21f0c0d0f8dff1b9ead09e829da47bcbd75cdd3fd67fc72e2dbeabaeb684c0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-298.jpg",
+      "bytes": 98563,
+      "sha256": "c2f51e78ef5885daabbb61385269b66ff0d388751107ef641d55058c14aeb57b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-301.jpg",
+      "bytes": 31891,
+      "sha256": "0e2dd90bb1d8b34e8885674db5dbf02be96670f9e1ad1652e57b2269250e6c43",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-302.jpg",
+      "bytes": 78286,
+      "sha256": "efd211050aaf464e90971de4148fac0a62a1132687db41b41b132d3a95cc114d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-309.jpg",
+      "bytes": 260842,
+      "sha256": "8fbf3b9b99cba921d6fb6be6ef52a8686b360756b4ba802822f611284335a2e7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-310.jpg",
+      "bytes": 229208,
+      "sha256": "9cf29969b0f5ab6d6b05587852f0cce68bc21978117bafa69e8d82c46f5e1827",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-311.jpg",
+      "bytes": 68468,
+      "sha256": "3b4339301aa23edab9a29edf7c57b564659c4c58ca40754029ef7fe4df805cbd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-312.png",
+      "bytes": 338711,
+      "sha256": "c928261ee134e4e35f8962e996c949a78432bf8a07caa31fe571bb1cfb110776",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-313.png",
+      "bytes": 302194,
+      "sha256": "f368f11979089ce7cc9fc08b2774239cca2614ad622499885f80599d95a89b0e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-314.jpg",
+      "bytes": 728650,
+      "sha256": "40e046f7ada92798d278548634ed921e87e4868cac4405244379c3893fe2defa",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-315.jpg",
+      "bytes": 3125226,
+      "sha256": "ffaeea1e2e27b28e026a28a1dccd4920abf6c05ae7a9ef00b8a3f64b47e656e0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/generative-320.jpg",
+      "bytes": 92049,
+      "sha256": "aac90684f8fa1ecedd4218ac32fe8908895c0e91f19944369788a52688d15ebf",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-001.jpg",
+      "bytes": 83528,
+      "sha256": "8f542679ac72ca184d1b2f10b01ec832f88cf088193b6a727b46afba148f3d0f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-002.jpg",
+      "bytes": 235988,
+      "sha256": "b470bd83f094c54b189cf8110c9f8740beaf8ceae6d8f866067ce07a44a08741",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-005.jpg",
+      "bytes": 121212,
+      "sha256": "a322c5d96d6ab8f9c08ee6ceb63bdd91627c1c772a6cd22d119564c6ff890202",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-021.jpg",
+      "bytes": 117770,
+      "sha256": "e1d871190f09795ae088eca1c9183626f54344ecf5cca70a46b90783a3334ef2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-022.jpg",
+      "bytes": 77322,
+      "sha256": "0dec769d4e9ace3fd86063c12687eac2cf07c0174c97c5b13ab66717dae647b8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-025.jpg",
+      "bytes": 35797,
+      "sha256": "fed8ba7446231b7611bc871e654cb3e51d0438bb8c2738226445100406b4f930",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-026.jpg",
+      "bytes": 395755,
+      "sha256": "2fe0fd0cdbf1101df6cf41035ae420826a1a06afbebfbfa662f7e202c542943f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-225.jpg",
+      "bytes": 90112,
+      "sha256": "61b3b5389bcdea63cdfcc07ee6d60d8e7c82b3de57612410af8f675f89fd10bc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-226.jpg",
+      "bytes": 733015,
+      "sha256": "9e7ce390ad70ef8e25c9454cd2c4f781c7a5443acf294446b70947a130e71342",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-227.jpg",
+      "bytes": 513216,
+      "sha256": "88f604b5a98fe85bad7c84190ce9d66ebdb889a8d3779a0fde2b4a99ee103ee4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-228.jpg",
+      "bytes": 36709,
+      "sha256": "3077214b37d6482be8bad3b2cd7b93768da440b7a066d88d6227774b53597169",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-229.jpg",
+      "bytes": 70242,
+      "sha256": "72f33e1c59e244fccbd3f89b5e91d7597ae8c836c28fb49df78806cef50d0b23",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-230.jpg",
+      "bytes": 95129,
+      "sha256": "3de9eacd3a73f4d756c33ae4d5b23cd19a90240ce554a1a7b45bbe477633a486",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-231.jpg",
+      "bytes": 93433,
+      "sha256": "a6f1c6611da8f608aa3dda26d2e6a405a93b2ba3d8853bb776261aaff26e9554",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-232.jpg",
+      "bytes": 402458,
+      "sha256": "af508e19b3da38f19677b576ce97c27cbe44b322e731ff6653ead71afe39c9c4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-233.jpg",
+      "bytes": 199463,
+      "sha256": "14f9a871df33b6b2e6d2c11f712bb74da8a152dfefcafab13fcaea8c496aa40f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-234.jpg",
+      "bytes": 61249,
+      "sha256": "641f0f68bd10bc5489e5240bf5fcdc7686a1344d1168cc011a672d6a659c80e9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-235.jpg",
+      "bytes": 878859,
+      "sha256": "31eb27bf0444a69464254ffb96d86851cb3ff1d543399ce274c76c1532adc063",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-236.jpg",
+      "bytes": 7068,
+      "sha256": "d4505e8d3935de91962dc6357094ce582fe3989c85049c53f679d43d3d9a258d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-237.jpg",
+      "bytes": 5659,
+      "sha256": "933a16793c398432e796bf2800565f7c2b76f01e2172d24e02a4c974325a9e4d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-238.jpg",
+      "bytes": 172660,
+      "sha256": "1002744d87e652fa303fb58e256cd3226cde3f24235286206acdef2d35394059",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-239.jpg",
+      "bytes": 147866,
+      "sha256": "57d46c80f924dcd8e763c57f234772cea184251ea58cdddc3451f88ade908534",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-240.jpg",
+      "bytes": 78880,
+      "sha256": "50ef0c7f3b33868e58447edde7abff4966fb0a445d51ba9b13258112a1c4a69d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-241.jpg",
+      "bytes": 212706,
+      "sha256": "f1deec1a6231cf3b68582de0595961eb8c61d1774701a165f69eb9bdc087f238",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-242.jpg",
+      "bytes": 28407,
+      "sha256": "ca59f724b79984a93997d9fccbfc5fb7a9124937e824edb80faf38f7642b5f34",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-243.jpg",
+      "bytes": 642292,
+      "sha256": "5257f66f7d7626a83a1cc61f2d112434571c1f0e8e0c86599518bc9bf9f5d56f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-244.jpg",
+      "bytes": 48946,
+      "sha256": "4e658292d1e376ec6973b9d67859a5aff5774716a86dc0adfde514876712631e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-245.jpg",
+      "bytes": 63696,
+      "sha256": "b44ab59d4af8d2baa8ad15d136f7453d818c9ab1d6d8887a5c01a79408144626",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-246.jpg",
+      "bytes": 409539,
+      "sha256": "1e4a55299955a4943ea4887ec486f6aa7a17fc8b3e5432d17d72404f995018cb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/historical-247.jpg",
+      "bytes": 55436,
+      "sha256": "9c4e6228b5430396bf4bc4d2f0362b0b1474377717c0c8975e9c3c4ff8678ff7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/irreverencias-362.jpg",
+      "bytes": 419445,
+      "sha256": "9f388b34251d4c6f8404e4d86197e858e9c2498a1f49dafdcd59eb8b01ba502b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/matchbox-momentos-358.webp",
+      "bytes": 99634,
+      "sha256": "2048fb4f30d6ea7c99098734e268399295f53533fd109e78e217287efe9615be",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/neighbourhood-count-359.jpg",
+      "bytes": 204776,
+      "sha256": "438cfa9ad7c2a9d9a44576a04641a557ca5d74c33e81a46dcf2dc7ae74534475",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-324.jpg",
+      "bytes": 88449,
+      "sha256": "716b5ec31eb8fb150ffca76defdcb3f18d9dff8cffb6d1c1cd3f4f7b8ad2be85",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-325.jpg",
+      "bytes": 84396,
+      "sha256": "70d78ec735f3d14652985d4e40c8e3a6e854d871004737170a15c86ba4b7bd68",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-326.jpg",
+      "bytes": 114519,
+      "sha256": "d758e3fa9997456cbe3f4f073e79f943b0f3ac7aa58b6f2b0ccb008dd09ae182",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-327.jpg",
+      "bytes": 174320,
+      "sha256": "c11caf97c1d862bac35f61fc223f0efb52b5a679e1befd6a53e04b1ea664b9dc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-328.jpg",
+      "bytes": 211142,
+      "sha256": "8c7da66b05c4fdf1ada4602f578fba4e46991788c3ebd0d3e807c29a883500bb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-329.jpg",
+      "bytes": 418585,
+      "sha256": "299d33c1c85c086576a6106164eda6556c8b577220d99aa4da906a6a0ad31a2f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-330.jpg",
+      "bytes": 72358,
+      "sha256": "9be7ff13bc5ba30e2c3589a5c5ef708cbc739ec722b08ee0254cc3d42fa164ac",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-331.jpg",
+      "bytes": 157122,
+      "sha256": "2b75597a6041d2373fd35fe2c1b11374d8bba27ad194b541638deedf7152284a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-332.jpg",
+      "bytes": 233082,
+      "sha256": "01ea96499993564731d531a9ef8664f655c2c8ad9a4ee2badd5c85b6270690ee",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-333.jpg",
+      "bytes": 270154,
+      "sha256": "09e21eb8b8d3a18d16f2cd0b5514a5161f96ba0efaddbf2580f1386affef3c0f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-334.jpg",
+      "bytes": 264142,
+      "sha256": "0fd4310a569188bbd895d8a2e06f2025ab4cc4fe10ee4ff21af707052d22ff75",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-335.jpg",
+      "bytes": 141053,
+      "sha256": "400a952a8737eace38927742d2aeb6679fad869fad591b19f8c96ebf117d047f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-336.jpg",
+      "bytes": 67543,
+      "sha256": "42c85b266d8db8ae6c530bace50ff10d4e9a50f61f914259cca36695e5c57873",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-337.jpg",
+      "bytes": 70877,
+      "sha256": "1445e504a639047fea720f63a8c5a586f71f7a789c1844e5b2edcd0e1fa51088",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-338.jpg",
+      "bytes": 61573,
+      "sha256": "7fb65434a3ceb24aecef185a3b64a01e81b95670e590bd4b666da88b0e0f414e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-339.jpg",
+      "bytes": 135805,
+      "sha256": "dfe4abab737e224b16078e239e24a23d97a0a18e0e2361bcc575fcf3ffce4dad",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-340.jpg",
+      "bytes": 354883,
+      "sha256": "c07b12e756cf9c4dd00a13ae67e0c55fa0bfd99f2a4519704539884c666b0800",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-341.jpg",
+      "bytes": 290309,
+      "sha256": "ebe475ceedcb9d63bb077ce63eeee39f00dbe1be559c2937c667c4368e3d7f4f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-342.jpg",
+      "bytes": 135209,
+      "sha256": "1fe6fdbcb16e76d45e138b5404ba219bcde043dc5032e89780bccd59d075ad89",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-343.jpg",
+      "bytes": 167957,
+      "sha256": "7d941c3ffb90c71defd59a6582db98b27a5f4b0eb823c0ad298593395702e3b6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-344.jpg",
+      "bytes": 110364,
+      "sha256": "251c0c5f81f5f68306c0a103fcd378851f740f48f4b49dca7422e1fbadc10855",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-345.jpg",
+      "bytes": 77381,
+      "sha256": "0a31fc080408351490aa1c8a87c7dde8deddd1251f2415e8d41a1bee0ce084de",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-346.jpg",
+      "bytes": 189121,
+      "sha256": "4e25aa7cc98c33ff5b4960b39208fc0ef2a87eea4d978a7972e0ae6e21e6f008",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-347.jpg",
+      "bytes": 206454,
+      "sha256": "b8a6aa4457f03bb7254a722100af1ec9d147dfb2213155b89fd8b33098982064",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-348.jpg",
+      "bytes": 135021,
+      "sha256": "e4fb56f08c73c40549fa82c5ad04db5b8936201c2412eecab2d5c08fc41564bd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-349.jpg",
+      "bytes": 70165,
+      "sha256": "2ef292b72810c002548022c70e5136a86b7317df1c8b9a86b39ce8bf1e7cc052",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-350.jpg",
+      "bytes": 84601,
+      "sha256": "43aa1db39665eadf2e42c4b09d1be672a26fd27551266f76bc97328788c0d6f7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-351.jpg",
+      "bytes": 126139,
+      "sha256": "a5b311876537ae0db4d938d57dbec65cd0802e0e62eee2ecba43bd386740d7ca",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-352.jpg",
+      "bytes": 197918,
+      "sha256": "5f84b5b5ec4517d56f07716a8658fa4abdd60f8dbd9c82bb82d26d1e305046b1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-353.jpg",
+      "bytes": 144122,
+      "sha256": "95100ae9a2471bff238c2812254afbec54d1feed3955b8afe032ee3412b8bf94",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-354.jpg",
+      "bytes": 88812,
+      "sha256": "d9e2117bcde22b48e14e2fbaf036706f6bcc9edeb5dfb3ecfee452b9a15948d6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-355.jpg",
+      "bytes": 86492,
+      "sha256": "5c41f84ea4546889cadbfb1759dce67f7c234a4e94cf978cc7b5445cf1e11d7d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/paper-356.jpg",
+      "bytes": 165741,
+      "sha256": "9f57a08346035361bd59beb853a5d5742a3cbd8734e9d05fcaf93a8e246b43c2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-003.jpg",
+      "bytes": 223867,
+      "sha256": "f7a2efc543cc65e814b5a742a6f24aa4655ad8ba8d7edf5abcbfb63e074cc0ce",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-004.jpg",
+      "bytes": 116814,
+      "sha256": "210510730fe0ac74fbb7b36431d481ba5b99c7b6d2522f4abe8ad6490a3bc7e2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-006.jpg",
+      "bytes": 302561,
+      "sha256": "3212c4525cba945b715fd2f7903d3f13c4dd5fbb42922b29509ae22802098740",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-009.jpg",
+      "bytes": 300412,
+      "sha256": "089b3eefe1f8280fb59e4d1c749e325df32f1be3c421fa562162b2e4be13e2e8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-011.jpg",
+      "bytes": 92815,
+      "sha256": "6a01912b759d24d67249a9adb919a699c2aabe2ec60d3a39868a0541ee3441b9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-015.jpg",
+      "bytes": 242561,
+      "sha256": "494ca4d650d54f286651219e93f241405a12ffd633d6c0feea75f7c343d5bd69",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-019.jpg",
+      "bytes": 339063,
+      "sha256": "dade67d1197b763604636342a6a024bf9d4033370613a171b2ff46ac1b09bb34",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-020.jpg",
+      "bytes": 99447,
+      "sha256": "6c3dd53991fdab343c84f5c9ee2468a550d3e4bed7b54723fe22c85bcfaff7cd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-027.jpg",
+      "bytes": 234557,
+      "sha256": "2727a6564b27f077bcbf96cd9336e0ba7b43ab9af95ffcf8f244d47b97268b32",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-029.jpg",
+      "bytes": 156984,
+      "sha256": "dba65418d723f15fe0322fe9967376f9de8bc9c2b843bae02c2244700cc9b4ca",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-035.jpg",
+      "bytes": 109723,
+      "sha256": "751dbdcf20d515561a73e3f510d03884a2f5f92eb2f1e64a5db8cb98342a3509",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-041.jpg",
+      "bytes": 142836,
+      "sha256": "55d56967d6d09cc7d228d992d80ae43cd2d52fad2b5efcae9a587c49f04702ca",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-053.jpg",
+      "bytes": 209776,
+      "sha256": "c7500f4c7fb14da3898a522a8035893269e210129fb7243efe007d972265457a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-062.jpg",
+      "bytes": 407054,
+      "sha256": "36dded6aa5d02d1ce132abd2d7f79c2ff1645137ddb9c9a3aa63ad21f3fd60c4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-073.jpg",
+      "bytes": 350306,
+      "sha256": "1e199761c116924a9f0ed396c1477c9b0a85a9443c2ffed37b780cd58bb6eb99",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-078.jpg",
+      "bytes": 340155,
+      "sha256": "65e6fd7104273b485be2ca67a3055d8fa0eeb3fc15270f58802c6fedbc5f474c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-082.jpg",
+      "bytes": 428708,
+      "sha256": "ef072f3fd8c06f9d9063dfca15e1a6ee7e342c79657e1f9c29472aa1c132c420",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-085.jpg",
+      "bytes": 147635,
+      "sha256": "513e8eb90f6a157aa570bf6860198f8c7231e58b3a6d963d8e28db5c2b100934",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-091.jpg",
+      "bytes": 61138,
+      "sha256": "c7540c62b7370fdce53babcb95cf62b2149a12ae288fc617c267350a259de366",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-103.jpg",
+      "bytes": 163830,
+      "sha256": "ed68137a44078e3c92d38c1db36cf5c6fe6267de1d6a96624a975b1ae30fa525",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-105.jpg",
+      "bytes": 155862,
+      "sha256": "4256a5c7ad1b154a4f134f9bc0f1ef2fa95439133f327df650c103ce900a98b2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-108.jpg",
+      "bytes": 49166,
+      "sha256": "079c61a7804b9b6d248053a5a6ef4df9c5faa2cb591353d55c5d64aad5abe1d4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-110.jpg",
+      "bytes": 295991,
+      "sha256": "ea91933d8cba4e616c60c896a91050a96dfe26e8239e26eccbff9161fd370a80",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-111.jpg",
+      "bytes": 244072,
+      "sha256": "6f7215bb2daa71b1995304e282ca4521e3cb5128e26dcda2d1429ec9c6d88f70",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-112.jpg",
+      "bytes": 72140,
+      "sha256": "9d6f28724bd71765d25fdc853dedfec73c9a019c2631b5da071f374c943dd7f4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-113.jpg",
+      "bytes": 44253,
+      "sha256": "3773b2fe3fb0fc080393cb386932a264aed40a4c54019e5a19337eb28e4c214b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-117.jpg",
+      "bytes": 34273,
+      "sha256": "30d9c0067e99716fe486c1ad46dea7196b63f4aa59d4151ae77e5b79d8790ec2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-119.jpg",
+      "bytes": 262388,
+      "sha256": "666d041cdca0dc5592c8c219dec6dfea61e85aac51ebb7511031777cf4c6388a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-124.jpg",
+      "bytes": 264197,
+      "sha256": "e3d0d41653d2267a72126fbbeffcc2ec68055de19c121aceb7bc72b2bd20d35c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-125.jpg",
+      "bytes": 66142,
+      "sha256": "2509203a290b0d44a1cd06fd9816e36bea074be764207591fda78ad3ab91aed8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-128.jpg",
+      "bytes": 387943,
+      "sha256": "6cc14ad36a6262ee2b7d0dc687f613918daeb6bf4156a90528dc3eb226c560c2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-130.jpg",
+      "bytes": 199375,
+      "sha256": "e5da7e10878249262d1cc570f4b2fbeae667d13adcc872a74a49d3952919efa4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-131.jpg",
+      "bytes": 9130,
+      "sha256": "cdd3c10d3329b726baa82b669ee66358534ce714c894f7ca9cdc0e61150dfcb1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-132.jpg",
+      "bytes": 310850,
+      "sha256": "8c167eaf11cd221a2d7d6017a9e31ca60a78df9d087b33dce32a76da381b1250",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-133.jpg",
+      "bytes": 17062,
+      "sha256": "fb5f3d033fc009a10c55f18a2734797bc07e2afc8e9b1fb8272ba39ae57b911c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-138.jpg",
+      "bytes": 619383,
+      "sha256": "14bf0fd86109a18af16d930e500b78a2e4a23594808255199700752ead7b623c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-139.jpg",
+      "bytes": 857621,
+      "sha256": "ef5419544ac3e1069f2ee2300fcfbb6a4e60e4a127dacf95506548231af7d06b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-140.jpg",
+      "bytes": 141331,
+      "sha256": "bb87e940c5cd0c3b779822e9464ca5f9f682ed72241bbee9a4dbd71691e176ff",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-143.jpg",
+      "bytes": 439042,
+      "sha256": "7b955c3aec86414dc649041c09805d753384abda97e3c9e93067fd2699cd6863",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-144.jpg",
+      "bytes": 325650,
+      "sha256": "ba905a3ac3fa7e84d4a67294807ee8f8e1beea9c0ccc699456942b48667e1692",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-145.jpg",
+      "bytes": 86606,
+      "sha256": "805450518b530c4f93c2ea92561a5bfda9c20dbd2112c60e3d383f62f1b144d6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-146.jpg",
+      "bytes": 282295,
+      "sha256": "e2617c4f71107a273daa28afee937b76be2023ebacd9c3596cbf679a558de164",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-147.jpg",
+      "bytes": 213656,
+      "sha256": "1a2ce88d9db59f5f9324f4fff499d0f91fe0a74d3a44f5dc046405776eea070f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-148.jpg",
+      "bytes": 91654,
+      "sha256": "5a00e4294283da3e30170203200ab0db78bd17ec9ba684c64acca4fcfc86b995",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-150.jpg",
+      "bytes": 230156,
+      "sha256": "151527b88e2e550767d5cf7c4e3664872c48ec2b3b7321f34b1501244e6efb6f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-152.jpg",
+      "bytes": 318173,
+      "sha256": "d4fe00a93418201848e792b5c4ab542ea6aa1bbb242cb77ddc76c833b368ed98",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-154.jpg",
+      "bytes": 76309,
+      "sha256": "f0d72ccbae5cb4078ca41e557de6783911fad29976c894a9c373c1303da26a02",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-157.jpg",
+      "bytes": 133830,
+      "sha256": "d76f30081a372b043c2bd83cc6a476a7fae0febfab68201bb9715e599146e6ae",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-158.jpg",
+      "bytes": 58385,
+      "sha256": "3c54b60ef6ffabc3cc35cbc67204ce40b3d0fa4a8c99f520ef104fefb97f2bc7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-160.jpg",
+      "bytes": 352215,
+      "sha256": "6f7179359a0f019e116850be2484d8d4d49876aecf3153269215014e7a6c1660",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-161.jpg",
+      "bytes": 382919,
+      "sha256": "4dc1efc65c3af3d1d961376d34c81c311720e30b91b7255865af64ffeb3bfc0f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-162.jpg",
+      "bytes": 61108,
+      "sha256": "961f400a00258f58f5ace3e5dc6a89b4b767f1d2b0af5b2d66a45439299c7f79",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-163.jpg",
+      "bytes": 428219,
+      "sha256": "16c5ff0a0fa03ee18d9b95cc0126037c5ac640285bd6a6d95a1bb163af94a366",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-165.jpg",
+      "bytes": 286845,
+      "sha256": "99d59aaaf5463f623d6703a9e2ba9725a4df98f75c353867fa68b78e00fa1bad",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-167.jpg",
+      "bytes": 145798,
+      "sha256": "f7e9f6015c6822027a7fab2ecb476cfe5cc754e6d0862ee955ac61c1f34c4745",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-170.jpg",
+      "bytes": 258699,
+      "sha256": "a0e64ed2df39cdfe76e0c959f7808f09b24ac00f9100c41b4ee9c17abe2c7a91",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-171.jpg",
+      "bytes": 279153,
+      "sha256": "2b8f1e1db4795ec1f53175544dc8386e238287c915abffc7c114b0d683427c4e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-174.jpg",
+      "bytes": 255643,
+      "sha256": "184039f53c69df7176149993576933288c214dac189486c1e43495340c98032c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-178.jpg",
+      "bytes": 167520,
+      "sha256": "5d21ea83665eca8c7ff773189a47e08fc2f92bba368cd030ffe6bd1128fe5c90",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-179.jpg",
+      "bytes": 673085,
+      "sha256": "4d733723b01ff1934b65bc48b0741de7e5cd84d451f0eeced478f80b7c7172bf",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-181.jpg",
+      "bytes": 365172,
+      "sha256": "e9f6469dc095003296ceafc533fed8ceca1717e7663dcd291a5f7eb4e9445bc4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-185.jpg",
+      "bytes": 177098,
+      "sha256": "98d402b9924a595a02df861cdc0dcf3663fdfb02329d7064916d6d62f10b70f7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-186.jpg",
+      "bytes": 203951,
+      "sha256": "7b86c6ecf7a028d3bcc57535ba72e5ee94c3775785acd9139c151f7c202bd358",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-188.jpg",
+      "bytes": 168632,
+      "sha256": "67be0369d7be13f45a1d96b118b4d328c045791627b56ebba56a3428c5356c29",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-191.jpg",
+      "bytes": 51510,
+      "sha256": "f99353827c18054580036934926ebd47157ceadefc474ead42ddcb6919e0932f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-192.jpg",
+      "bytes": 183054,
+      "sha256": "cee2a62f3546b4ee6be527019fdfb2c071896e2dcedf597a84a86cd90ef83e32",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-193.jpg",
+      "bytes": 145933,
+      "sha256": "4415597bb5fa6054abdb6b431cfdf42a889615254f1d8833dfc3694e605c694e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-196.jpg",
+      "bytes": 202926,
+      "sha256": "d558669bf715c692a6fb2752e54479f358c0a3bfcea6fe61f490e5192ca9d4d7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-198.jpg",
+      "bytes": 175151,
+      "sha256": "9d1eabe007a92a5a61374cfdfe8d9db58caa09ea364917e86bbdf6212960c4e7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-199.jpg",
+      "bytes": 139108,
+      "sha256": "cd22ebcf3f900ecabadfcc3c721e9d78f381c86654f2b670a32ec20b037593ce",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-206.jpg",
+      "bytes": 94780,
+      "sha256": "6c3fb0045dd9f01281b049f108980c4a85749a11b383d0b54e44b6b17bbb1fb4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-215.jpg",
+      "bytes": 135339,
+      "sha256": "c1b75686c62626e47b06d1fd6430d2ec4cac8c4bca88f6937ff11bb4200386d6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-216.jpg",
+      "bytes": 211250,
+      "sha256": "ffc58bbeb160c14f85cafd89a1ea675ebd4d3a957a5a5bd59a544b110564e8f4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-217.jpg",
+      "bytes": 240234,
+      "sha256": "cc336a06017c45105bde5d8122f399ea8d9b419e85973bba8cb74f8aec3060e8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/related-222.jpg",
+      "bytes": 167065,
+      "sha256": "9f52b216a19d32cbc3c454312a52fad4fb7f981348bf87f1f2d7fed8ddc8b57f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/art-history/unlearning-language-361.jpg",
+      "bytes": 119902,
+      "sha256": "72322729d1b6b0d1e4b4f4419fd4c7a2121bb59b9f7afa93304873893d728a3e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-01.jpg",
+      "bytes": 100537,
+      "sha256": "a5864cc7ec061e87827f95719a276083ae3c6b7747bc21079b4fe82a64569216",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-02.jpg",
+      "bytes": 67477,
+      "sha256": "48baa630a7755702f04e9ba69dbbe578fbda21f34023e190d2177661d27d29a9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-03.jpg",
+      "bytes": 70609,
+      "sha256": "17c58aa02a0265b605931b376c3931e31596e7239328dfe49889e9244574cd46",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-04.jpg",
+      "bytes": 46018,
+      "sha256": "91f7b05f92aaf16ecc5540251e64b1c2389ff92f412f0e9de4533b7b63ffbccc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-05.jpg",
+      "bytes": 92515,
+      "sha256": "824fd22aecd52f89bbe51a5ea14ca90e2128843be918f2191d162a6285962b73",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-06.jpg",
+      "bytes": 310745,
+      "sha256": "ae2350e309243a7c16abc9f87d7e98be1da3e5811f04418c40c047cda51ccfc6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-07.jpg",
+      "bytes": 48477,
+      "sha256": "2d7cba23be918216c3aed2d5f7e0eb3d546109f51494a4cf01ebaab3695f4c29",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-08.jpg",
+      "bytes": 141414,
+      "sha256": "193d3e0c55690096beab66858e2f3cd83525420b9f6c4fba622e0cc94b0b456c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-09.jpg",
+      "bytes": 175972,
+      "sha256": "43b4b5222866d8aafcb79aa5876a464050cf103776e01722cb1001ce7fed6ff9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-10.jpg",
+      "bytes": 61833,
+      "sha256": "ca6445ace02b345480314254b8ae409502b309a8724a74b34935900d3cd10bed",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-11.jpg",
+      "bytes": 69490,
+      "sha256": "155727ee36430617f14152767400a5808bae7259d84a8009cf56e2a462e9c328",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-12.jpg",
+      "bytes": 133297,
+      "sha256": "94ebe1c0e62bc23361a8eac12e073cbc31c3313a133f3d9d1c6862b07435ab42",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-13.jpg",
+      "bytes": 344390,
+      "sha256": "93ce3d926c2dee3d4120e6778cd78016c51390b77eb1ac63de385db105069d85",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-14.jpg",
+      "bytes": 405449,
+      "sha256": "02f3a48be48f31b47c30e553d85f046210bf0e40f8336becfaf1d02375a25f1f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-15.jpg",
+      "bytes": 234758,
+      "sha256": "6909d7d87c38b385d5a004a865d2efe2454ac379d1e46fe7a2f4df2a7dad4ce5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-16.jpg",
+      "bytes": 75969,
+      "sha256": "379b674de1b0f754b851d13bc822e207668ec09e85f19e12a200e01c0d4c4ad4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-17.jpg",
+      "bytes": 18182,
+      "sha256": "e2e266657e0e0567838e4eb8fcba1711b2ad443b8b04c46a5ccf51a8927734b2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-18.jpg",
+      "bytes": 25029,
+      "sha256": "528a653c4042722784d9f9ebf24895ed4a370ae165da07ff56d8e032dd486b75",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-19.jpg",
+      "bytes": 113474,
+      "sha256": "7bb145f5c581d84e744e89ada549d2fead83ae8433fd576baa2932e119bdaa80",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-20.jpg",
+      "bytes": 88970,
+      "sha256": "92d38b91eadcb8faf9af79a89861c56db20692b2dbd7ae65ed2fde5248b8f67f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-21.jpg",
+      "bytes": 54041,
+      "sha256": "51635d11088b5c5b74c29545b034338d233a4aa4c1581fb1910bdaec8f6e3b10",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-22.jpg",
+      "bytes": 107677,
+      "sha256": "5a3da493ab68c96d5392f7c46885693ecd790f715750ed19d9a81709176f24b4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-23.jpg",
+      "bytes": 83516,
+      "sha256": "f7a7d14f3d47e93a5d549ebad86655b20c6af29094d3f3f12cdb2a830f2e9db8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-24.jpg",
+      "bytes": 126009,
+      "sha256": "78cd8e61566528d18a5779f0c23c480b6685a344999fc5be6e529c30ef8e4247",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-25.jpg",
+      "bytes": 76015,
+      "sha256": "8e770f35160d310d44b643ba6aa2af27467ec15e66b1d0acec0ae3b082519601",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-26.jpg",
+      "bytes": 153024,
+      "sha256": "ece1716b2aaecde047eed4e92a1b7223d582fcc62045187e16011dd6b1cb7420",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-27.jpg",
+      "bytes": 82042,
+      "sha256": "eea6fededc0f08a3e354300c2fcdbf28c394232e573bf6e9bbeb9a0bf6000dac",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-28.jpg",
+      "bytes": 28381,
+      "sha256": "a8a458a4e37eb137f9177c05dc492cfc8ee8a2bee96ad5bc1bf0723bcca8c09f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-29.jpg",
+      "bytes": 406672,
+      "sha256": "548019163c754c18d25592dfd0effe4ad61ec4ede073f4d887f97526fba91465",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-30.jpg",
+      "bytes": 100537,
+      "sha256": "a5864cc7ec061e87827f95719a276083ae3c6b7747bc21079b4fe82a64569216",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-31.jpg",
+      "bytes": 194568,
+      "sha256": "78712b85c4adfffc05229f17651fe0ca0622701f785d93c3c5b52e8788759537",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/commentaries/disco-ai-2023/figure-32.png",
+      "bytes": 644805,
+      "sha256": "924ab1d9630bb11daa8e04f5cca875355da7af1406f7053b2c0bdfe09b5fd2b2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/red-puzzle-transparent.png",
+      "bytes": 674522,
+      "sha256": "cd9ab69280c6a1de12780d5d82b3f172508caada9eabb92a1e5bd2b5756d00ee",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/red-puzzle.jpg",
+      "bytes": 79934,
+      "sha256": "a439552bffea5c3ab15d27c59883ea3895f11dd8d0fcd24d26dec999a21fb475",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/andersen-complaint.jpg",
+      "bytes": 239706,
+      "sha256": "2dc68fa9815dc16555a6f812564284961cad3a7e72dc6064a1948416dc3c9d39",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/artstation-noai-settings.jpg",
+      "bytes": 48608,
+      "sha256": "44dba18d7e2b9f9c95784b0c403a37082aae672a9eb26c444a08c1cd707c10b4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/authored-sovereignty.jpg",
+      "bytes": 73765,
+      "sha256": "944323d900ae1eeccc458e8a0e59bf3afb0a386d8538ffc69ca07b81a5a5d276",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/brazil-hearing-photo.jpg",
+      "bytes": 75892,
+      "sha256": "526a8a696c2c06fbaefcd5ff705c4c4051e0142d8b0ec8d1acfef12acfe30c48",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/brazil-hearing-transcript.jpg",
+      "bytes": 377701,
+      "sha256": "330b7a7ff41bab7b4fb21ec2b2a0ff5444b97713f5a28771398683e0f11d968f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/context-dublagem.jpg",
+      "bytes": 36273,
+      "sha256": "332f9b1e23aaf0a9942231a3107047fdb32377e5904ed2d19e0ca28c34cc6e7c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/context-sag-2025.jpg",
+      "bytes": 140971,
+      "sha256": "c7d99fb2c9900fcf2866a8dd8b05c1631ae218cd8a01228d3ba3b4f2fae09302",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/context-sag-end-video.jpg",
+      "bytes": 173209,
+      "sha256": "763c5ac3c5196f31e58670832819888c1ca7c2cf5d51e234e27ca49dba8c373c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0095.jpg",
+      "bytes": 87027,
+      "sha256": "2977249049e5bba0275e2252977c3a72dd0d9b40927130e91596914958d837b5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0096.jpg",
+      "bytes": 31754,
+      "sha256": "29416e468ef5fb418a3aacba0c41b9e27531dffe0a7491c49bd0af29d10489c2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0122.jpg",
+      "bytes": 194433,
+      "sha256": "ec562a1c9aad3fcdb2b0759317cf8a491cbf5d12472dd96cf5d559fedfb414a3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0226.jpg",
+      "bytes": 73949,
+      "sha256": "c4fdfbb001c134f431ed914a862cfecd9c18fc88d7dc7c789022229aaeb54959",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0266.jpg",
+      "bytes": 333299,
+      "sha256": "6e8b73a6d93a8500572cc18040e375a285d2baeea361675bc40b29c23f8e87d5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0279.jpg",
+      "bytes": 58067,
+      "sha256": "ca29ea230498cbf553c5014d4cef8258d9e4dcd5d5bb38d726a4e92367f33046",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0445.jpg",
+      "bytes": 139769,
+      "sha256": "3548d1ae41901e6f5d16e84508031af1f855949f13c3d93f19d1d1a331021546",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0476.jpg",
+      "bytes": 38890,
+      "sha256": "d35b6a1d7ef92346706dd0b220a8cd87b0b9d504fec063fb0534fde4f1b48127",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/extra-src-0489.jpg",
+      "bytes": 138685,
+      "sha256": "2007e15f6ac3fc9b1e0fb2bc1611ce07fcc443fcee00e10d4ed27c2bf2881e62",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/sag-strike-2023.jpg",
+      "bytes": 270991,
+      "sha256": "a19d4851f77b864b41dba3ff9e8e8301f502aafc6838fb785948054791705d1b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/sag-video-strike-notice.jpg",
+      "bytes": 84266,
+      "sha256": "61b65b0d2a36fc0da033441c3b33dd0c22abe98bc48b027b4a5565cecb28a207",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0007.jpg",
+      "bytes": 439807,
+      "sha256": "d3e83a6c3d05ddbf972901ff5faf1645c17cff32f4f0fbf59c7a8b6b0fc7770c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0012.jpg",
+      "bytes": 141576,
+      "sha256": "e7b44345c8ebfa3cb4b1ba7bc3a93486d8e5b7ea264326a65265711d4839b613",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0015-source-page.jpg",
+      "bytes": 146428,
+      "sha256": "dc4ebbb49e6595a650713b3517e4eeb1518f2d73356331065a41b710423d9e26",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0016.jpg",
+      "bytes": 86167,
+      "sha256": "93c0db6b656636357eb4f3e340bb3915482e72f021ca37c49b1beb44c9e40dac",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0017.jpg",
+      "bytes": 341910,
+      "sha256": "8c53dd067e2a9520977f278070c9b5b576ccbfc5c549c579c25165d28edffce3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0018.jpg",
+      "bytes": 391312,
+      "sha256": "eb500a49fbfd89832d5861efce128c2bf2cd04f2b8707c9abeeb52af75cf22d0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0019.jpg",
+      "bytes": 375538,
+      "sha256": "0cdf1e37b1577393f3e513662aa6a29e96020766271976ad1d5af0cfbbe8597f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0020-source-page.jpg",
+      "bytes": 79936,
+      "sha256": "0ce695d679fb6a1587060feaf7277e4e380a918b6b197263ef22ba13dbe36286",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0022.jpg",
+      "bytes": 122222,
+      "sha256": "a9b5e38524974817eb00bc3070ff1857ccee53887c625ba2d9ebfed6c1de825a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0024.jpg",
+      "bytes": 62810,
+      "sha256": "d6efaaa0b57b18c75803606f33309a6804ddbf94857be9b15d6d1fe328397d55",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0029-source-page.jpg",
+      "bytes": 202922,
+      "sha256": "c50b66c4dfeda15db467742b79bc7d27b507556da75213425658387149be5afe",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0032.jpg",
+      "bytes": 176919,
+      "sha256": "21cf104ad086416fc42108021ce87b48da8b5da57a3982b20bbf6f4e60ba287f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0036.jpg",
+      "bytes": 247363,
+      "sha256": "a39256b9c2a3e682a3e242e6bc145e59b26007fce7f4966074ff24541379d20d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0043.jpg",
+      "bytes": 423400,
+      "sha256": "59891913d68d27c4cb0bb4e2d1f54df208effb9e052af31b52c9baa85fe5d393",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0044.jpg",
+      "bytes": 270631,
+      "sha256": "bd0c8c8f2c5f68c01a514f4610d15041dfdf88f8926f642543798cfbfdf5d60e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0045.jpg",
+      "bytes": 277857,
+      "sha256": "a2e7762186d23a7dbcdd17e58aca50f4150d9519230e0e1205068c18b622d595",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0046-source-page.jpg",
+      "bytes": 124287,
+      "sha256": "03d17c7b5fadb569bc4164d266736a83ba35f0fb7fd1895fdf9b052001e5706d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0047.jpg",
+      "bytes": 45958,
+      "sha256": "1bbda546126e9e8fa2155dcfc9f029535b7e88cace05385cb0c4fde4f069a060",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0048-source-page.jpg",
+      "bytes": 120015,
+      "sha256": "cead3376eb3fdbc74dacfaa52327c8ded4a8183f162ec1318bc4684a71c5bd1f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0049.jpg",
+      "bytes": 336048,
+      "sha256": "4a0715cd67f0ad628fde03b41b210855d86c33a46918c6d5ff9109329993284e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0050.jpg",
+      "bytes": 69359,
+      "sha256": "4330a299180081d2ad8b300c2b82e7dda8401dfb54144fc34edaeeffdcd95467",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0053.jpg",
+      "bytes": 119222,
+      "sha256": "a45248f2207c924d3d9c011a78e42d9a1ca110280489bd917cc6c14080b4262a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0060.jpg",
+      "bytes": 141508,
+      "sha256": "c3d5c1d2189f97bb4ad7d8525143f7bb2220da2aba6816a0e86b1c4bfc7dd48d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0068.jpg",
+      "bytes": 335731,
+      "sha256": "90c6319fcf9f1bea3c019c6518d6235f9034d1ce6fd907ace40c6466913287ab",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0070.jpg",
+      "bytes": 367496,
+      "sha256": "51896e0537f745fc558d15fd1332e4fd3a4306149e694b5b7b59d61d22d2c288",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0071.jpg",
+      "bytes": 302118,
+      "sha256": "f2655ba1e0242def9510ce890e86454e65d125403dc4f9878b8135e581a25651",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0072.jpg",
+      "bytes": 314120,
+      "sha256": "eac25bf1b3ce5a160831557b148c48d89c70a7b6f17af6efd0b809be6b9b3def",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0073.jpg",
+      "bytes": 184647,
+      "sha256": "450f89dacb02610063b2c60940715d2790ae5d4570fe3d1feebb5a16df143493",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0075-source-page.jpg",
+      "bytes": 116458,
+      "sha256": "0ad0b57a50b1d96a0fb2264123e2776a57c521551ae1d424eda2b0fb3879604d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0078.jpg",
+      "bytes": 166028,
+      "sha256": "ad3538582ec34fadd80e7c935a10c85c21b76bde26c44599f0c68a8a04f4fb94",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0081.jpg",
+      "bytes": 37282,
+      "sha256": "8a4903f384b5c171925d714b6004f58137b10d766867e4aae85cc435ce8157a5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0083.jpg",
+      "bytes": 132035,
+      "sha256": "ba26c2a9815517497823942be01590d2504a8c2467a486cf405fc59fd62ce6c8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0085.jpg",
+      "bytes": 84947,
+      "sha256": "324e461be3c940e0b2ba36adb5a36d8f6d0cb65dd697763defe0874fe761d695",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0088-source-page.jpg",
+      "bytes": 124990,
+      "sha256": "c1167220ec61a10d3a33bb596288457b750fd60c020dbe193fea83ddeada6dcf",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0090.jpg",
+      "bytes": 139113,
+      "sha256": "e9eee8d0ddc59ed07b2ada8b71024f7682b2f64d2f5000688e759b188597f4d6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0091-source-page.jpg",
+      "bytes": 112743,
+      "sha256": "377748348ee98d11e98eb0ab703592b7fa2fd61b78f02d1bb79df87e862ea16a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0092.jpg",
+      "bytes": 165145,
+      "sha256": "9ba9fea9ba9518e7d680e162535c070a58824cb3c1056ec4dadb05589206d2c9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0093.jpg",
+      "bytes": 283836,
+      "sha256": "7f7d120f6c3520e0c8c454cafd53703aa6c388c3cd7ba6e295c8b59854efa5a2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0094.jpg",
+      "bytes": 27386,
+      "sha256": "365bea23b95622cc809b0f41754c401b6f082f501907d5604334bc336f256df6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0100-source-page.jpg",
+      "bytes": 166479,
+      "sha256": "2a455f3cf7f8fbdc4ff26275305ad6f60af6d5ddfb67d97013c2030cfb671160",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0101.jpg",
+      "bytes": 128060,
+      "sha256": "8d847f5ddb75230ccc6857cdd0b3a08b2c921d5c37c89243ffe31710b56af961",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0102.jpg",
+      "bytes": 109673,
+      "sha256": "7fa63387f999b54634474ac16be484bf54a74c01e25f4ad4182e1f0329fa7cbb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0109.jpg",
+      "bytes": 496407,
+      "sha256": "ace5199fd42e2be5d50fa0f0f3fd08b9259fec0609e90955940cf3b5c14f7e91",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0112.jpg",
+      "bytes": 98464,
+      "sha256": "b3859cfc35955fbaf56b736bc5428ce5f1c8ada0f1a816c0a3046f0abfa8abf0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0118.jpg",
+      "bytes": 327389,
+      "sha256": "5e2210d4c30a52b7750875a2329fc33293c3d14f3f21c7189dfaf61d6e0eb234",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0120.jpg",
+      "bytes": 85138,
+      "sha256": "74ebc93667aa5530f506713da945be63c110597f525bd4f2909f9fa51dc4f01d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0121.jpg",
+      "bytes": 70223,
+      "sha256": "58f7345a21e6ec3120d60fba7762bdb5118e8cbe12be249c996e33e88e6c627b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0127.jpg",
+      "bytes": 62523,
+      "sha256": "817842ae480c5df2f897ab09b9baf26e94beec49c6291456e7b0d8e8a8554321",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0130.jpg",
+      "bytes": 435008,
+      "sha256": "764e243ad3c341b5e5a51b109af3f9c8b40b091da763d316b131be6b63a8f2c4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0132.jpg",
+      "bytes": 262323,
+      "sha256": "c27ebe27ea5efa2b4e76df6a7fa8346ada90a7cbc82d426ac0024b834eae41cc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0133.jpg",
+      "bytes": 283459,
+      "sha256": "8fe680e81cd10015d60377aaafa18c2f73b0291fb88816b11659d4723a880930",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0134.jpg",
+      "bytes": 218290,
+      "sha256": "ca8afb67568096c85302dfed9d98800ff9d7a69fe239d15b1c481df2abb3c051",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0136.jpg",
+      "bytes": 42342,
+      "sha256": "1e6c1c80268a320f7f5aaf294e0c85202557aa70a65d714c9572a1c443c78313",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0137.jpg",
+      "bytes": 407987,
+      "sha256": "d0f2ed8434357a288edb8344a0797d3375637fbaab7063587c15335676d9b00c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0138.jpg",
+      "bytes": 144970,
+      "sha256": "016347c3fcb8c31d1d4fc12ac78845e88f9bdd3608ac5a130262d40cba7fdd41",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0141.jpg",
+      "bytes": 297459,
+      "sha256": "907920551a5a0477f9faa7b954ccfcadf48e6473199b21228d38a34144b242f6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0143.jpg",
+      "bytes": 51959,
+      "sha256": "7810742cb5255d6c69ca68eed62d32bc93e82a694bf53d4dce1f21fd15a1b587",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0148.jpg",
+      "bytes": 57690,
+      "sha256": "72f9d3eb929679f31f0b2fdc6a114b76182f85e43d7684876532f2f3dbe8adbd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0149.jpg",
+      "bytes": 287670,
+      "sha256": "058b2a344f5a826bd39cb38c662cc490105ae202df5ef5fd730be7e2ca5705c4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0151-source-page.jpg",
+      "bytes": 160120,
+      "sha256": "eabd7b8b8003ba8ce2246da877507e931de8e5fbccf51acdc36d642dc18d78ce",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0153.jpg",
+      "bytes": 258220,
+      "sha256": "288929b5e852ade907d5a6c921dc5890033cb60222bbd8ce6ba134bacff92f15",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0154.jpg",
+      "bytes": 137495,
+      "sha256": "0dfec9f4a6e3e3b3ce8a0eb145070158e8ac4a9b08a1e14681597f77e901a722",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0155-source-page.jpg",
+      "bytes": 137107,
+      "sha256": "6c6248683d04e48f2e0e8bfef1fd31d1dc205eb3f637fff501c2d6304c553e4d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0160.jpg",
+      "bytes": 521680,
+      "sha256": "4952de4b737897d430face138185e31dc40e465718cc13f231b9229fc8c69228",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0161.jpg",
+      "bytes": 484420,
+      "sha256": "d6cd8a28cba743672b189fc28df43b71c8466c512bc93b57ee8be2d7fd6fd953",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0164.jpg",
+      "bytes": 159607,
+      "sha256": "f4da963d91e76aca6b6c2e5608b55e26d94257914af1263bdd2ea38b59cd01d5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0165.jpg",
+      "bytes": 74795,
+      "sha256": "c73e8e485e05aefb5e4bafe5bda2d3cfdf822c0e60268721f82a6201f66c110c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0166-source-page.jpg",
+      "bytes": 225909,
+      "sha256": "51bb5fa62298fc8c00b8cf20bed20a6cb296ac62cf5758c853d067008299b52f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0167.jpg",
+      "bytes": 219905,
+      "sha256": "bc1a560011af6b771fb70499016acf6ef8b54b0bb984cf196b4d24ce03e2b3f9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0170-source-page.jpg",
+      "bytes": 162994,
+      "sha256": "211790fb209fefedf7ea63d57680aa64a8600adac9c6a3a948bbc18654b756ee",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0172.jpg",
+      "bytes": 89547,
+      "sha256": "685bbd127240e2eff2789be1f899ddf97b7930dcdb3e8c2a48477c96b642d055",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0173.jpg",
+      "bytes": 239921,
+      "sha256": "2c6d0730587875f5e3bcb0f1a754d678d8441b94ff0a7cff285f384b8710c6ed",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0174.jpg",
+      "bytes": 213482,
+      "sha256": "b980e41fdeb46f43be5bcbfeb6643073bf548d24312972e498c2911821e61124",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0175.jpg",
+      "bytes": 281293,
+      "sha256": "e617529aebc1e9173327a3b3faf9faa68e2a9d928621475f78db2d7fbbda081d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0177-source-page.jpg",
+      "bytes": 147943,
+      "sha256": "d9bb0ccb53634d005ca4f2aeec8c9073f0eb4a463883fa8948543ad3db5272c1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0178-source-page.jpg",
+      "bytes": 166340,
+      "sha256": "d97ec7ea052d605b38fd5b2c4416998827c6695453a275dc35613216d7b25ee6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0179.jpg",
+      "bytes": 368061,
+      "sha256": "01e2fc300a2cf9975b8c9967c777871c721b03a70945885312c1c1e1ce1cf8e3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0180.jpg",
+      "bytes": 229343,
+      "sha256": "46d46ba59ec035802de05376ae12563cc631e8ee32ab61511d35f345d2fe470f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0182.jpg",
+      "bytes": 119714,
+      "sha256": "ae29037102ccd6be725ec2f9024565171bb338a11baa90a02a369e0680d56401",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0183-source-page.jpg",
+      "bytes": 173000,
+      "sha256": "0c903f22c6889241915e498e667b8dde6cc9a0e0e1f5b839e411f55166d746f4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0184.jpg",
+      "bytes": 133697,
+      "sha256": "5f7e1a590770dc1a834d5da440247db5df1778e7502d0b49355bbc9b1732c165",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0185.jpg",
+      "bytes": 211886,
+      "sha256": "b97cc97b521d4740f74d9a781498efcd76e754921f99eb80b0ad67c8b64388c1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0186-source-page.jpg",
+      "bytes": 129212,
+      "sha256": "76acf9ecd3f7237905b3a3714dc581e2f9f910e1f541ce87d1d3ce1c53f9e23c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0187.jpg",
+      "bytes": 193476,
+      "sha256": "8475f5e8b4692113e5ff19fca22ac94c1dbc608b214ec2cde1338cfb8f7bfbfd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0189.jpg",
+      "bytes": 314768,
+      "sha256": "5dea4081820815c603a4fff79c7c3f056eee46fb948948b515c0aa153dd133ec",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0190.jpg",
+      "bytes": 345669,
+      "sha256": "ac576e590ea633a6001e619e7d4b7c4128de05ad63d4176999e4222e26538bf5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0191.jpg",
+      "bytes": 194055,
+      "sha256": "03ee4938a8ab141328275e2cc5ec55b58fdb2a77ba2a202a15f3deec7352e26e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0192.jpg",
+      "bytes": 88557,
+      "sha256": "b93854be09eb1b68a6ee5727df5e86b5ef5e49e05d769fd1095fc6ce7d312198",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0193.jpg",
+      "bytes": 57839,
+      "sha256": "99333079b54f00add12946f09497c68b5f8c7de6b8cbffa6d699f2c569ff3d9b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0194.jpg",
+      "bytes": 275760,
+      "sha256": "55e59770f3c6f13e5dbe30c1333ad03559be4e654e76f33a49aa96fcf39c4ba9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0197-source-page.jpg",
+      "bytes": 43376,
+      "sha256": "c2bc8651d223c223cb947b0deb77f77f69165bd723d2800052a035fb40d3e626",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0200-source-page.jpg",
+      "bytes": 142240,
+      "sha256": "4858902e319ad742d62cabe7f8752a9bfd66946755a0239fe4b84a1801b4d35a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0205.jpg",
+      "bytes": 349669,
+      "sha256": "1d322c87e29698f4d311c07da7407cc43ef234151d085319f2db6b0f68c51afe",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0206.jpg",
+      "bytes": 86705,
+      "sha256": "e279996b44fb549c57c437c7cdd45e8f6504136663d9e1b29b1bd46dbf46b55b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0207.jpg",
+      "bytes": 313845,
+      "sha256": "79a946f8c457b8afdde8d1714785b6248ad7bb207cfb015456c332f786ea1226",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0214.jpg",
+      "bytes": 71420,
+      "sha256": "6424bce2d3229300146ee88c870bd62c4242c1dcea4fa2e4e763148ab282524f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0215.jpg",
+      "bytes": 76252,
+      "sha256": "315c75dc052f9bed0db23099eed4cdf7dd1d148f854a0e56fc1307a6e8becdf0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0217.jpg",
+      "bytes": 33933,
+      "sha256": "eae7b8894c90ca7152ffb6065fb7f12fae161bd375287cd45e911bc693d0de6f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0218.jpg",
+      "bytes": 338558,
+      "sha256": "6d7d7c535b40f86a8ab3fa0cfff4e43411cc946c1be7fb060ec585e57d5b2863",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0221.jpg",
+      "bytes": 73272,
+      "sha256": "d86b704cf05aeed08260e23558280b02115734bab72a1cdeec092a9109c075b0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0222.jpg",
+      "bytes": 526592,
+      "sha256": "b06e30184f0117c238224d9c2fa2174f7c68471b2af4d16b7881624b6616d555",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0223.jpg",
+      "bytes": 473140,
+      "sha256": "ca2465711b4a908c98217315cc89c942aedc16680318a46987d2f01c8bdf3e2f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0224.jpg",
+      "bytes": 309131,
+      "sha256": "97955ee22496a0af8e89e7e0ab1b60f46be92c7876306de1f2ffe724d2ec3de6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0225.jpg",
+      "bytes": 141918,
+      "sha256": "d3413c85ab7b45ea849f1a82af17ecf77e2608979e603ea2e6b1cf6678949e66",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0228.jpg",
+      "bytes": 275726,
+      "sha256": "f7151ef94ca5ede5a2f11316389ac6d6c5cdedb77337873b91065aab0476eed3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0229.jpg",
+      "bytes": 376540,
+      "sha256": "b1997f7f05864c71e6025d96ddefa138250696708af5909200dd5fe9e129140f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0230.jpg",
+      "bytes": 106117,
+      "sha256": "45fe47a5392463c95664374d5ff7520dd531a52f879c966c057db80bd17d09b8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0231.jpg",
+      "bytes": 194326,
+      "sha256": "2b0994072af59922893d25ee18ddbae15cb78f9c39e90dc793ed5f236948de4c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0233.jpg",
+      "bytes": 111881,
+      "sha256": "e97ff143d9e48b7e62c5ff7c1c0d1411cb900813385473ad0ce575cc1f2184c5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0234.jpg",
+      "bytes": 372943,
+      "sha256": "268fbe792475da99bbfa84efb1279e9008b87a76e4263c205ebb0014ff88c116",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0235.jpg",
+      "bytes": 316865,
+      "sha256": "a3d281c51465392b09daab4f8e4ad483e33145e8a1e027a57326bcbe613b6518",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0237-source-page.jpg",
+      "bytes": 132431,
+      "sha256": "f8060e5d9743ac6760b188bbe85c22445ca9c8e9717c0fb84641ffae837e1a31",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0238-source-page.jpg",
+      "bytes": 95487,
+      "sha256": "2358c2ce706526f7565319da1f1ba0654cb20bd6b9edd63ed762ac6d018cdd94",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0239.jpg",
+      "bytes": 570224,
+      "sha256": "7e69e00c1c22207a08038a32a8ca630fc4ab8b0f806f51d4bc18d85f443d39eb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0242.jpg",
+      "bytes": 125483,
+      "sha256": "d9b3944507a533ed5017c22502301c1f7cb762c1322377208105f4b4d20f54cc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0244.jpg",
+      "bytes": 51627,
+      "sha256": "803bcf048b5b9b2fa3128de3a8dda57d10c3d5cc4365efcafad301f87c5651d5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0249.jpg",
+      "bytes": 44358,
+      "sha256": "fefe4caf856019074a316217ce4a6159c9860e430213885451f93ab55efbf904",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0250-source-page.jpg",
+      "bytes": 100226,
+      "sha256": "dc3fc116efd64da78334a15d08aa86717c1f5a487e5aa6b5280ebb5e13c257a9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0253.jpg",
+      "bytes": 121842,
+      "sha256": "8d9fe3bd0417491d46ae9f854d9f2183dee378fb65fb2596631b04bdcc91a175",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0255.jpg",
+      "bytes": 44512,
+      "sha256": "994e003d22a69df11ba70851bc9dddab8cecb6eb718d350376f7ecbc678c9290",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0257.jpg",
+      "bytes": 70643,
+      "sha256": "64b80d8f776fc77369ac47a3acfd10b2d7325ac0317bc1e3644a8f7dda604d06",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0258.jpg",
+      "bytes": 107191,
+      "sha256": "96f39d13af6d13099da0d7f5c8e2d30e18b9d88ccc19c11615f0919d97d54201",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0259.jpg",
+      "bytes": 339571,
+      "sha256": "bdffacf786cb1673f1b9aa45edf995ea299b37d56bed969487ecf790f8fd281b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0263.jpg",
+      "bytes": 235670,
+      "sha256": "c78c3d4b0a3246f0b0e1bc28436a63c956e6a5e76cca65dd8ecb6bdcff6219f9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0265.jpg",
+      "bytes": 102031,
+      "sha256": "851a0be580369a726a57531bd806241baa7ceb4952588c317f76967f4936ed4f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0267.jpg",
+      "bytes": 132028,
+      "sha256": "a7d1fcfe203362e9505b38875c03dac75cd343c5fac7825e0ec04d39676a4bbe",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0268.jpg",
+      "bytes": 85953,
+      "sha256": "ae4a60793084096c1bb27900ca41d15eb367b7b87bdcecfdaec8419663ae1e70",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0269.jpg",
+      "bytes": 605428,
+      "sha256": "51bb742f32992ba600961e2a9e93371db0eb4588ac1c78606d248aa5ce7e1fb7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0273.jpg",
+      "bytes": 56819,
+      "sha256": "23499a3f8dcb20ca7b8f1fcf081b553f05a744d34976393a348213ef7a7a4b9f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0275-source-page.jpg",
+      "bytes": 175665,
+      "sha256": "a8a444c680d58d290f1bbdf78a6a71c26b080fc64d96a4a5da9dcfd7a0e4570a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0276-source-page.jpg",
+      "bytes": 187900,
+      "sha256": "59965794f7b8146c1104f59923168e846a159a462d7725ac2d4406c757f267e0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0277-source-page.jpg",
+      "bytes": 189753,
+      "sha256": "b8c04ec95c9ed44a9a3c58094e528565dd64e79d53231459acecd1b6e3b0881e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0278-source-page.jpg",
+      "bytes": 124328,
+      "sha256": "054e94c893fec27d123f3d2c5bfabf8d8c9e0ae9ac9ce3250a2f3da96657f276",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0280.jpg",
+      "bytes": 142445,
+      "sha256": "cd986d2f0fc8eb11910f69e143cd247af763e5c95a55ed9154ef6773d182f6d4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0282.jpg",
+      "bytes": 175140,
+      "sha256": "3169d30b904583eeb7c999d67566d9b944a1a14b832d72a01a5b13e129c659f0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0283.jpg",
+      "bytes": 239743,
+      "sha256": "527f75554487b71548f4fae3f25b4cd6005f659f8c0e80b48f91f5e7b67605f4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0287.jpg",
+      "bytes": 66538,
+      "sha256": "c7a05f7360aa9b7bb02ac94105a3f471615f0f2b1f4b122a36fa95ced8108351",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0288.jpg",
+      "bytes": 160764,
+      "sha256": "6ccfde677cb40c07953f9d71e0100df88dc04feaeeea971368c9b5d1405e46bb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0289.jpg",
+      "bytes": 287008,
+      "sha256": "47a70e3deb863bc29202bf131eb7f1e3c43858d62cc11ee985a4b142c5cfc997",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0292.jpg",
+      "bytes": 406823,
+      "sha256": "186c70306a6aafd323ffeb3c4713aeaca07361fef6a72cf346525be5bc2dfb28",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0294-source-page.jpg",
+      "bytes": 144163,
+      "sha256": "a81ddaa975cfd48ac5b1b30403cdf22e10221d6e060feea928381d80db21a7c0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0295-source-page.jpg",
+      "bytes": 110076,
+      "sha256": "3bc08be775f35ff57d9a1e941f073a319ba20e7f00e199d8c50dccfe7a6b590c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0297.jpg",
+      "bytes": 117596,
+      "sha256": "796f289569067b87def95b3dc5c0446612c75187c15ab388ffca459a767734e5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0298.jpg",
+      "bytes": 353401,
+      "sha256": "327be7b78b2b4251ade16ca1b1c049f6c6ee7951cf49fea9c8e82db76013f0ed",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0300.jpg",
+      "bytes": 90565,
+      "sha256": "a8f41a59e909284b083791ac301e4c6c3c3d3be96a393901ae1af77128503835",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0301.jpg",
+      "bytes": 68747,
+      "sha256": "3b6c65a86ba7cf27cd0901654e959391dc841a0cfc6909d9496f123b148fe474",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0302-source-page.jpg",
+      "bytes": 69456,
+      "sha256": "3977e02103811fa3bf7a69cd75249c6936309787d37f085f5c30df551caa8a61",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0304.jpg",
+      "bytes": 458861,
+      "sha256": "8d8a62fac1f9d87333436f5c8a80de56d61e6ec89faa41421169596a82bbb666",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0305.jpg",
+      "bytes": 204661,
+      "sha256": "70c9938f13f66f43bd6b68db5eb5b8edb7f4a11fb793a2ed13ddeabb5b2096c6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0306.jpg",
+      "bytes": 366817,
+      "sha256": "eea0b8b9db78c29b7a3da8d04fefb237f689771d3980a69f4eae1632bb278c97",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0307.jpg",
+      "bytes": 267269,
+      "sha256": "f1047c4ae7d54ae5ff5afa254de2e2ab50effddc5c1564c6714eb372e4669256",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0308-source-page.jpg",
+      "bytes": 116845,
+      "sha256": "cd61e4532d901b6d3009a8a989e0714829383d34ebcdc253a99e0c202b37cb99",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0309.jpg",
+      "bytes": 219928,
+      "sha256": "cdbc81b5bb5ece81cf341a29e9db7f328e175cab04f4cf702e5a4c49f1ae0da5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0311.jpg",
+      "bytes": 108459,
+      "sha256": "a3325f21e7a0a8dad097f7f95f14093831a9701f5bab0495d518d578b78ea147",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0312.jpg",
+      "bytes": 531425,
+      "sha256": "60becea5805a23e3edb5cd21de47f535c69ab0f52ec15964a643431cccdf1175",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0313-source-page.jpg",
+      "bytes": 119694,
+      "sha256": "135db22a3cdc3b4c5b8b9d52b113e3a56cbb0545e5f6138f101f9abf3278e5cb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0315-source-page.jpg",
+      "bytes": 169522,
+      "sha256": "a90ac1279c13ea2dd953449b0f2ac03aa721c199609842b678f7cb2afb21aff1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0316.jpg",
+      "bytes": 40459,
+      "sha256": "0d0667f4a800cd419cbbb63f83142e23d12ee7213ebad3376465b035fdff3b79",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0317.jpg",
+      "bytes": 553075,
+      "sha256": "2a5fc212b2fd9c90bbd36c6b93d0038fa9a25f8817edd631eaa5ae51d7f5ee29",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0322.jpg",
+      "bytes": 44600,
+      "sha256": "6904507c255a50778dfc7a3a991b28ad25d94b9f5c1177b6b8015bb1ea959edb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0323.jpg",
+      "bytes": 35133,
+      "sha256": "f007161384b364321e334e3da9a8379606779f830a7dd0ced583e2a917b6e4b1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0326-source-page.jpg",
+      "bytes": 123051,
+      "sha256": "851e4feb313e24415575b2c5bd9c89ad9cb4bbf0e89a96074ce5ff656b2d0f23",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0327.jpg",
+      "bytes": 165698,
+      "sha256": "9b5b1b06c9a3f21122feee37ac3bc2fdcbbd63474af5718699587186b9eb3bd5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0329.jpg",
+      "bytes": 210536,
+      "sha256": "b9bd4a8cfd2126e2b534f231f21169671438a638586ae61a7690e808c4275f3e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0330.jpg",
+      "bytes": 58220,
+      "sha256": "478e165c1fba3caccea30daf29b8a20c9e66dca240eeb0af5e12945cbafc2a02",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0333.jpg",
+      "bytes": 31499,
+      "sha256": "518b563e3d233f4a24d7c41b68f1c549cdbdc8f7e359081f58c3c00e91a9fcf1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0334.jpg",
+      "bytes": 56597,
+      "sha256": "5f107585dae7464c944792b2bfbd9bd8646f52e941e74f0fb30244a110d8a970",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0336.jpg",
+      "bytes": 367097,
+      "sha256": "3bb3435ede47f9fe79bd11d3a59d63b7b2446132b07edd2107fe25e59f168488",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0339.jpg",
+      "bytes": 456307,
+      "sha256": "1040be58c95636468447fbeda63fa8ea407597f3b02e29c71011a55080f247ae",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0340.jpg",
+      "bytes": 169265,
+      "sha256": "e03cd952952cf0792d975e5cc1d38738b8c8ebb691970d3d4107ab34fb3214ab",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0343.jpg",
+      "bytes": 119334,
+      "sha256": "672c759a576db5d8445b9cb824111be5b620853b180efcc63b7168a90f0786ba",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0347.jpg",
+      "bytes": 464519,
+      "sha256": "2fa93a2239269e2fe18746c93272c1a632136590fa7f80dd28454a1d1dd94180",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0348.jpg",
+      "bytes": 168230,
+      "sha256": "21300bb526dafd47f2b5efdf183a5cf34c09b306f304452489dc89a322e1c90e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0350.jpg",
+      "bytes": 245106,
+      "sha256": "52f60100b82a876bcf56ca33306a99d9d5d81ee59977a8dc6545b2d56f602ec2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0353.jpg",
+      "bytes": 384242,
+      "sha256": "eb445d9f58911170e3c3f0891cd25d256e1720c2a41d7d9d04ca06198d45ee65",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0355.jpg",
+      "bytes": 317956,
+      "sha256": "9c3337787542ccc96d05729b6aae220ea8ff10268d0dfb3614a4833afd3aa89e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0357.jpg",
+      "bytes": 128125,
+      "sha256": "7e29fec767fa08669b67d2ae9b798db8efc250124138be3812ab1ce95f32e4c6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0358.jpg",
+      "bytes": 343431,
+      "sha256": "e515cf24bbbbd3213736f35ee707a76ba120536d5f8edd6171c2906fb23b0602",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0360-source-page.jpg",
+      "bytes": 70328,
+      "sha256": "c0e9ad25889a7d297076bf9d324e3bbf162206b531cf8566f159b3e0ba8f7c1d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0361.jpg",
+      "bytes": 119483,
+      "sha256": "2b2974c4b1dbb1b9515454de8a7eec3ff8e02b60fb30bfb91dda13e657a976b6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0362.jpg",
+      "bytes": 333797,
+      "sha256": "033268853b954b4a9cf0503e4fd0996f4f5e75028848f10bd44df66336e083ea",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0364.jpg",
+      "bytes": 140089,
+      "sha256": "7de2d5e05b0e17679d53dccd9959d8a1718c68369223afbeddc4749cddc554d4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0365.jpg",
+      "bytes": 36828,
+      "sha256": "159f68c2f887cde303e8aa18d9f66217a12d174c696c45fb1a319b6b9381ea4e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0366.jpg",
+      "bytes": 314998,
+      "sha256": "2a71000fdfeea2c9637a377cae646c280dd1074d28a9b421adbc41e4b2812a63",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0367.jpg",
+      "bytes": 316525,
+      "sha256": "c54f4092bc645a9664e4470c74e1432ac6cc9d6fe6f0da3ccc9358f2ccbb0e80",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0371.jpg",
+      "bytes": 129720,
+      "sha256": "f4abc672d4c81a374780af7ed335a115c1b0a0daf5683a702f538c21a1f333e0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0372.jpg",
+      "bytes": 379419,
+      "sha256": "e336b37ed26143429dcdf71b917648cd9cedecf47d65b8a5b9d3c6612d324eb2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0374-source-page.jpg",
+      "bytes": 98545,
+      "sha256": "4d86a220763c155b2842559f19934294ce5df88b51b527c7150f721a78e55971",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0376.jpg",
+      "bytes": 81138,
+      "sha256": "895a5b46ae1c7c5a4fd71d37be649620cfbc061f97b733dfa2814d77b3739137",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0378.jpg",
+      "bytes": 419904,
+      "sha256": "6bcfda28ef00f57a674b7c0796807156dd19713e748264439f558feaca690614",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0381.jpg",
+      "bytes": 156450,
+      "sha256": "b08483267899362307c6ed3d5abe53b0342b9f4323034b75f55aa29297bdbb20",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0384.jpg",
+      "bytes": 86824,
+      "sha256": "ff1d8e9f347dc834d3d93768901204d37f58a775ed6496a6ec4fd5ee5758c807",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0385.jpg",
+      "bytes": 73300,
+      "sha256": "60fce5b76cefb6c4d7bb9d14257b9f9c01029d27735c450758f55126ec5d810a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0386.jpg",
+      "bytes": 253826,
+      "sha256": "543230060b8ee27c346bb133b5eb2dbbe7a653ce52302ab1d506000e6b7e5729",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0387.jpg",
+      "bytes": 137382,
+      "sha256": "4b60f66d8f9f6ffffab0a7a0abea26c06e4dddb7474a2733bcb0e12f2e22af6a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0389.jpg",
+      "bytes": 144254,
+      "sha256": "b5f4a7e5a6badb73848e2161e493a8a2d2329e45eb41f5e27dcdd54ea3c67663",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0390.jpg",
+      "bytes": 411596,
+      "sha256": "8a8ab8cf8477d08d32347b68b4378beba186ba4fae6969c3cc4528cd56ff6b73",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0391.jpg",
+      "bytes": 271088,
+      "sha256": "020c6e3141acba2de3f6bc31c438c111623eb6916a163f15e81d34b50a64373e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0392-source-page.jpg",
+      "bytes": 50862,
+      "sha256": "bcdcb716b9fd35c030cfcca1d014c3991f4bb66296ffeb1dd4683283dc69fc3b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0393.jpg",
+      "bytes": 444125,
+      "sha256": "69f13d7bb9ca5ceaf24b3ff98688d1f89a329e4f857dd68f6fcc858b462e49f3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0394.jpg",
+      "bytes": 94734,
+      "sha256": "3ce4ab05a52b56586df4581504aefb2ac9a44ec8ba89523cbf5e934c6d57b6ba",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0395-source-page.jpg",
+      "bytes": 164426,
+      "sha256": "238dce02992b39febcb8f1d176dbfd74bde9b7c9ad41fcf2b38800a97fc3f1d0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0396.jpg",
+      "bytes": 207564,
+      "sha256": "7fb1cc00cb6ccfc17e13d97e2ef3618daab43ecdeeece4909aaab53011896076",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0398.jpg",
+      "bytes": 58756,
+      "sha256": "7b51834eda871d12318034a7d219a83290c5db0a5bca08d823d7a9d1963a2ea3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0399.jpg",
+      "bytes": 98989,
+      "sha256": "ca33b78f562aaa30452802d7bb0ae42a3e1c323951c72f5ec669393b7a339ff0",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0400.jpg",
+      "bytes": 229578,
+      "sha256": "cbeb38260db6a38a2e4b1e88a776085c17c47c1b053bebe46608ec8cc8c04361",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0402.jpg",
+      "bytes": 122406,
+      "sha256": "852469af1f5ffa637241185b1e6ebe69651ad23abc1ef2316932e06dec1e6f02",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0403.jpg",
+      "bytes": 206967,
+      "sha256": "4bbbee087483b89f32e52bb493456137222b20bc7c7f45bdfd38cd172c8fb5cc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0404.jpg",
+      "bytes": 58402,
+      "sha256": "163679a40513a2fc38c10f03f41881c64a34cb50bd8edb3159fd18e8340a10f9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0409.jpg",
+      "bytes": 670880,
+      "sha256": "dc60a84b71f5b19a902971dc2698ec0cd7b554dea16fe61c7d8752c52887cc30",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0410.jpg",
+      "bytes": 414027,
+      "sha256": "5aed567230b3e770e99e6b2dc563f27972704f1cfaaf7b607f79785857707c84",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0411.jpg",
+      "bytes": 265154,
+      "sha256": "cd6a833274532661275e13e0c13453e8578e9bcceda25b455e5e21aa1c53a410",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0412.jpg",
+      "bytes": 73228,
+      "sha256": "d50f4eea9759204f8b6cde67fa55b276b21a7cb70986d78429518132fdb80d6c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0416-source-page.jpg",
+      "bytes": 268428,
+      "sha256": "9196418ce509c1deb9fb5ea82760ddc724c6003b83226894427a5bd5be3f2363",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0418.jpg",
+      "bytes": 275923,
+      "sha256": "35c69d83ba7ea29d693501d2889887d567b44bcdd776ebccaa73d9ab515e4fc8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0419.jpg",
+      "bytes": 203740,
+      "sha256": "f5702204e3f74c59cd028ebd8ba76438fe4f2e016c3745daa1419df03d856d0e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0421.jpg",
+      "bytes": 305569,
+      "sha256": "e2a29f9ace5fe5710df47d317ccec33c630404fb477bf7283decf1257a51aff3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0422.jpg",
+      "bytes": 269970,
+      "sha256": "b105df0fc895f7948928cbf5f675acfd5d7cdbbdc33fca9814a298d5d9670f90",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0423.jpg",
+      "bytes": 57587,
+      "sha256": "5bb3944e8349faa855a28f6784938730eb515227a9d5abbdfca133e603c73b7b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0425-source-page.jpg",
+      "bytes": 86054,
+      "sha256": "c7a68e5553ad0e87bcb102a22767e192174a3b3fa338103a00c581db3bc817d6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0428.jpg",
+      "bytes": 94765,
+      "sha256": "a40b189be29e637360e310aafbe5f84b6445b5c72c2988f7a32614581f635579",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0433-source-page.jpg",
+      "bytes": 84260,
+      "sha256": "76a0ffb410af5e1800163761f0a448d1f0cb2dc2cc11c0e71701f183eb1ede16",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0434-source-page.jpg",
+      "bytes": 163816,
+      "sha256": "72caf9c6bbdfe6d2d0d5c413e5b78b087ade37403cc0a93a35f47898e3b6a123",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0435.jpg",
+      "bytes": 232833,
+      "sha256": "68fb8390bc3fd629f34679526b50170535b34bec18ef6fcfd125a0a962cefbe7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0436.jpg",
+      "bytes": 151408,
+      "sha256": "717bb16522322ef09360375abcf5826d9facdf4180fb305ac17301d54f33c526",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0437.jpg",
+      "bytes": 129413,
+      "sha256": "eb41d5faa4ac38cda9dedf3f9553fc8c7ff7423cb4f1ab4ea42aae5afc6988e2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0438.jpg",
+      "bytes": 129560,
+      "sha256": "b442bbadd5dda0a79cea2887a7f64292e68da52e4aefd093917995c06b4cc291",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0439.jpg",
+      "bytes": 120794,
+      "sha256": "fcacd8eb2de24298ea27eba018caa382805e73b8458fcc292f1d2c32b767407e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0440.jpg",
+      "bytes": 260737,
+      "sha256": "e5b1c523f0bdfad3acf41fdd9bf95f293ff2bee22673aa7b7cc93699d64ffd3e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0441.jpg",
+      "bytes": 87673,
+      "sha256": "3b1178319a712a33271a001d904e38579b5247a111c316a56bd3ff96d3c680fe",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0443-source-page.jpg",
+      "bytes": 182370,
+      "sha256": "2bdb5ed30fce795268e33f4ad5b27138f3b61ccf933aad2edabfdd7e01371a44",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0444.jpg",
+      "bytes": 177176,
+      "sha256": "b3f7edc5fb2c6f9da6b7e30c2b9846652042563c758298fc28ce34db9efc6f84",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0446.jpg",
+      "bytes": 264041,
+      "sha256": "e18e1eaf83427801d7bed9fec68ef09ca62d3b421508ae3a51050d99dbc04c6c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0449.jpg",
+      "bytes": 174571,
+      "sha256": "911dec2473082b9b008dffdf7f5a94efa324434b4746c50dcc4e8943310078fc",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0451.jpg",
+      "bytes": 165731,
+      "sha256": "0ceb1aa012c4bb469969995733356abccac7058d7d83eb25a852c3d093b1fba3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0453.jpg",
+      "bytes": 267160,
+      "sha256": "c34b3ceb4372b56a15f459b68d8fa5409ccb7d8256e6f8873ec4357c62a800b4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0454.jpg",
+      "bytes": 268362,
+      "sha256": "890b654fd642ab3aab7ae50cc1187349261522c4edac11dcd7b21ad278c1bf4b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0455-source-page.jpg",
+      "bytes": 150079,
+      "sha256": "bfffe159617751fb30ed23e57bc62223cbd0c66b3c8a9d28432aebb3de63892a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0456-source-page.jpg",
+      "bytes": 84640,
+      "sha256": "70eb7a1ce0e3d353ba153e72630552c952ee96251d3a48c2b10852ba78e8f69f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0457.jpg",
+      "bytes": 59162,
+      "sha256": "e5671724afe239833de78a16b45ac88d2d882ff0a20d33431fea2acfe6b42c95",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0458.jpg",
+      "bytes": 90505,
+      "sha256": "6bbac989da6abd5780ccc2b404be09b055d738c1f360bba5918926c86a1dc1c7",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0469.jpg",
+      "bytes": 228576,
+      "sha256": "08e270658a3ca39b92f00e54fcec83c0b7b4c727cb6b82496ec278d754226407",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0470.jpg",
+      "bytes": 154215,
+      "sha256": "7924164ac50fc3b3e49dfe09702ddcab25c7a829c07c10268f73f085d20cb79c",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0471.jpg",
+      "bytes": 140721,
+      "sha256": "f18428a4d07d23870eada6caa8a444a091248a2b4c9b298f2526920c3c143c60",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0472.jpg",
+      "bytes": 140981,
+      "sha256": "2d7517bb3191fcc4de24a19311e6cebf09328609f5275b00ee853af66c49289f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0473.jpg",
+      "bytes": 115322,
+      "sha256": "2fd836f1c35f4490f562f0fdb29becb74201a1f0d045624a2ced93d99426a2bb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0474.jpg",
+      "bytes": 300946,
+      "sha256": "eb9cfbc75f4a7515e9c5e458ab222963d982e910440d32c4880ae431517437f2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0475.jpg",
+      "bytes": 360503,
+      "sha256": "eff3a917dbeb3bb49898903786af13443575127b601373d6a5bf9b0efba08bd4",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0477.jpg",
+      "bytes": 312092,
+      "sha256": "581f9e907d2e7c962e9b490e2b4af794052b1232d3002b0754bed24e02d9aa80",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0478.jpg",
+      "bytes": 378273,
+      "sha256": "6828461f648555e894a58b2b28d3531676e59f41321dbfcee2db5f0965a60328",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0479.jpg",
+      "bytes": 42446,
+      "sha256": "e933e11fa67921b841470e8d88e6ad1b4d54597891f3dabf3f1a58587bcafa95",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0482.jpg",
+      "bytes": 159239,
+      "sha256": "c429d507cee7ed6e847b77df771036e5830cb0ff955a3295278481d7bf38a909",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0488.jpg",
+      "bytes": 101214,
+      "sha256": "9dfa70746243be4fa687756ed5c7c00efb2cc1778a6d152feed6f4661e1278af",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0495-source-page.jpg",
+      "bytes": 136025,
+      "sha256": "ad1ec07018b6e3a1ced6709ce1ef71ae3dcb5e709111815ae6d550ec63e109c1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0496.jpg",
+      "bytes": 166990,
+      "sha256": "844665199b538fc73b1855913610a27d36b0f971b4fa68d914aef8c15a19b436",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0497.jpg",
+      "bytes": 90609,
+      "sha256": "6a1f1ef48965f61af1cf11b9ad7e6e1219b01e37ff1563654bd660ba0ff2a984",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0511.jpg",
+      "bytes": 117375,
+      "sha256": "bd640fe880a6eac2f958f9e36b28e711dd5730bbdc2d6b1d089376ad7388d0d5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0512-source-page.jpg",
+      "bytes": 154351,
+      "sha256": "84396c2ddbaebd9ddf122a8ed3a6b68e3672964ec741504018ab179136d548af",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0513.jpg",
+      "bytes": 125275,
+      "sha256": "18850d54779cf0fe3ac7ffc8a5b328cdce1eff8c2b99a8b9280fadded237bc67",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0514.jpg",
+      "bytes": 126029,
+      "sha256": "6cf05a9b499c46aa25e154e936616fd748d8b3be077baeb15009e69c6b0908ee",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0516.jpg",
+      "bytes": 505520,
+      "sha256": "865572695cdafbf4214fe88e169f95845642e36e68074f9738793190f907f51a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0518.jpg",
+      "bytes": 110541,
+      "sha256": "71b5fc900f1665502e7a79bae93cf40324f7930500406a4305e3600cd43b779b",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0519.jpg",
+      "bytes": 267504,
+      "sha256": "42dde0358c359d667832bded5813d970ab954dad642313a615829ebd9f83e27e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0523.jpg",
+      "bytes": 40833,
+      "sha256": "4b153cd5b58e4f3b9ea52815e6e9847f77bf321436b7689f6d3c92538c584104",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0524.jpg",
+      "bytes": 789042,
+      "sha256": "63fc3f56b5feecd20274eb235dac6375bdf06e89f2710db2ca781abf8edbfcf6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0525.jpg",
+      "bytes": 512690,
+      "sha256": "cb93992f87c695a8e3aa686e0ae80590f14b7d54a279c3f94d840f75df9bae40",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0526.jpg",
+      "bytes": 85020,
+      "sha256": "4f1aaf222145ba1ab424b4f603c6fabba5097fbb4c82fbf96d8e7762b8af5a2a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0528.jpg",
+      "bytes": 43955,
+      "sha256": "080bc36564d12f159d78d14e81b85185e8762ea530549a4c52bceb80e83bd8db",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0529-source-page.jpg",
+      "bytes": 89338,
+      "sha256": "c3b58865e33007e5af2fc4b8898b209c78e57c0ef9285c67fdb39acc7916afc8",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0530.jpg",
+      "bytes": 153238,
+      "sha256": "0648274d010847fdc1efd936508b68a3ff3f57bb1bdb92e95469e7c71d4d6925",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0532-source-page.jpg",
+      "bytes": 153441,
+      "sha256": "eb3b773f73fa4844aff270287b7d48dfc8ccae58eec7dcac715f40e9116ed4bb",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0533-source-page.jpg",
+      "bytes": 125828,
+      "sha256": "0de84f3ff4d2df4ea0c2ad2a89dffdab011b554617f17c3cd418ceea48ca0372",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0534.jpg",
+      "bytes": 178670,
+      "sha256": "6d3404da4c2740ed3db256f9c143efa28a74e5581a9d7b600f6e839a36ba335f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0535.jpg",
+      "bytes": 493181,
+      "sha256": "0f570a241dd1441e6604ccd524ba5928cf17a2ccf76ca724b3625a6601142637",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0536.jpg",
+      "bytes": 306994,
+      "sha256": "2ce9fe602fca75a9969185903556e7707b4e77363938942602e01983866601ff",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0537.jpg",
+      "bytes": 80111,
+      "sha256": "777ba75b088e551ff63547df6a55b3ab7a9a4063273c6b6f4b1848c8f1608d8d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0538.jpg",
+      "bytes": 105270,
+      "sha256": "0bf70500c00e8d7b3385e5a78bc4dea0853cb7224063c230da401b47c8c35db9",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0539.jpg",
+      "bytes": 280415,
+      "sha256": "ccbb9dda83396cb8789d145ac4dba78d5dac4335fa4e908b116d42726641cba6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0552-source-page.jpg",
+      "bytes": 161512,
+      "sha256": "6ed2f90236655723ad3a5f6d912d6877a9a53718a0081b7d02d1ed730e9e7226",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research/src-0555-source-page.jpg",
+      "bytes": 172904,
+      "sha256": "0d9da932dbea231fa93f622c8b8c2948d81f604eb07587542240e9e1c856310a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/chronology-1990-page-1.png",
+      "bytes": 420255,
+      "sha256": "f36c5103656e9887b764f3138169d933d55b3e82cb54d399a4667301f5e7acb2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0767.jpeg",
+      "bytes": 984549,
+      "sha256": "0aa2f0080b66873ce51a1a76f02131605abf0bd8e2ac1f1581a90729a89df819",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0768.jpeg",
+      "bytes": 16083,
+      "sha256": "082ea05a22443b9082c8aee0ba60fc493cb2a3b13be41b70dd7975d0929036ef",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0769.webp",
+      "bytes": 23684,
+      "sha256": "df83f44eb4db4285bec4cf7728bbc85f6e89fed6f091511884864b67a49d2caf",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0770.jpeg",
+      "bytes": 13377,
+      "sha256": "47f43900a7dc2951965f572545beefe2f4c71bed84cd00b9d7fc7c0f16a51754",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0771.png",
+      "bytes": 59267,
+      "sha256": "6ab06ef0f0acfea812a20a0089e7ff73a2a9449f143bd51c05fa581e6bc6c4a3",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0772.png",
+      "bytes": 130055,
+      "sha256": "4f07ad123faedd4448e19bcaa943ba0915e49af8a7748897d8806fc39e39c791",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/research-references/src-0773.jpeg",
+      "bytes": 1303419,
+      "sha256": "b8eeac184832f2d8f9dda2b946f9a209183c9b270b3f302ca17f23eec7252b9e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/christies.png",
+      "bytes": 689718,
+      "sha256": "491073198e207fb5578aecd5b0e02df3eafc2cf81ee4860edd0ec59354cef406",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/eldagsen.jpg",
+      "bytes": 46315,
+      "sha256": "238535129dddea3a88f69fcaf131055420d40fcee0cfff22fbbcffff5a1319a1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/glaze.png",
+      "bytes": 1573976,
+      "sha256": "0ca30dd9eee6b6d1ce5a89df7936f7fd75d7c3cb9dfc03e35c9577846740ebbf",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/impf-impel-2026-original.png",
+      "bytes": 77349,
+      "sha256": "b34a4b5851e85b4ec0a4de575c1dd81bd45490c628548c88f993006da7058e6a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/nightshade.jpg",
+      "bytes": 261736,
+      "sha256": "9dcbb50d77d08acb9897efc589d20006657055d3c6e7256f4f8ad76511c3341d",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/nomore.jpg",
+      "bytes": 153221,
+      "sha256": "486023510eb4744344e04fdbe6dbdd94859509766cc2f0c3ef98031cae1d96b6",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/procreate.jpg",
+      "bytes": 1089301,
+      "sha256": "d2e52081c5ab8acd5a6ad628267baec24b05582f1ff1a733e50c7725f92ceabe",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/ross-appeal-2026-original.png",
+      "bytes": 118527,
+      "sha256": "f47996257f2b0332667fd1b33885fae2c3b52938cc0e17afcde7a5eb102802d1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/sagaftra-2023.jpg",
+      "bytes": 1997534,
+      "sha256": "de4dd58f23fd2a468bcce2ce18288a6d37db31ceb08f4663ce8107ebdf99d2e1",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0027-20261002.jpg",
+      "bytes": 106719,
+      "sha256": "2cb4cdc0c23ed607531d578a8e2cefd0c064148ed4ffd0f3abc983512f0da330",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0067-20261002.jpg",
+      "bytes": 155773,
+      "sha256": "08964b353669cd043b2f88ba297c177c282c3b1ada0e4ca2035b890ce2275012",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0144-20261002.jpg",
+      "bytes": 401422,
+      "sha256": "f70cd18b51de016faf6c2b11f682b066bc4f44fe1514c775e8610ad0f4cc9aaa",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0220-20261002.jpg",
+      "bytes": 184150,
+      "sha256": "aad29a2a00615e4a3f78db9a1f7b634c33885ff3cc2683c31c53794f3666cb7f",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0227-20261002.jpg",
+      "bytes": 153303,
+      "sha256": "01ea05a6cf31db1a1f0cc2444bc0f01b32c9a57d6a21b84d2f499f5f1d574585",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0245-20261002.jpg",
+      "bytes": 165775,
+      "sha256": "da9bf891498d3aa21abbca77297e84396c894ca0721cb7fc6577fc4e0dbaa034",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0314-20261002.jpg",
+      "bytes": 280986,
+      "sha256": "aa457e6985c05382b7a040d642e304c27c2573f886e9ab150e8ebf534f400b3a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0346-20261002.jpg",
+      "bytes": 214501,
+      "sha256": "e4e4097462d34554ed9a428cfac76badf86727e53c29a2e8b676eb8197628a42",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0363-20261002.jpg",
+      "bytes": 94769,
+      "sha256": "afa7230ac344e1ac6afaa3482f1f5199782234ed5476d0e1e9be70cb4abbca58",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0424-20261002.jpg",
+      "bytes": 377362,
+      "sha256": "64c5f87c0076aaf16346a861676b2d58e9cd6c31a609dd3cb61bd1f52a4962b5",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0442-20261002.jpg",
+      "bytes": 56379,
+      "sha256": "8ab4d9cd068aca57a07e610adb01fc858f7308ba48a8dd2a7adefac41c57da7e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0448-20261002.jpg",
+      "bytes": 110361,
+      "sha256": "65349d7821191b92b6428a13dfd067e87359022622668bf9ae8939b6fbde3236",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0468-20261002.jpg",
+      "bytes": 323686,
+      "sha256": "2fe3cf9a2459f2447c9875c46162cf1526f8775f72e05ca4950903d472dedf73",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0480-20261002.jpg",
+      "bytes": 126057,
+      "sha256": "84826e53c472b25dd09cdb21a4868c070357ea2348859eb0ebbaebdb47269d76",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0541-20261002.jpg",
+      "bytes": 111813,
+      "sha256": "ec56d0c78107174df86f5bcd50e0dea72a74101653532a0b28243f126b8f50cd",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0542-20261002.jpg",
+      "bytes": 153810,
+      "sha256": "ac6db764fcb8cd3a7e7ffa4470dfbcd3deb1da048945cf2f056b17cbf82b374a",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0544-20261002.jpg",
+      "bytes": 303742,
+      "sha256": "c89c78e241bdbf7728aadc7b85aa65f80fb46b07790bb7df3fcd643e88c76c52",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0545-20261002.jpg",
+      "bytes": 280627,
+      "sha256": "aaa95ff7498a89f5800d35213a97589b6db9ddf12b604e3712294c52baaf9bea",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0547-20261002.jpg",
+      "bytes": 53458,
+      "sha256": "c3e137657d7b9ed4709941f9c6a4f7ab0300afc6aa756feba137b698a214a15e",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/images/topics/source-src-0548-20261002.jpg",
+      "bytes": 104537,
+      "sha256": "de1bdedbc633a2523620893afc00f4f4833f7cfbdd83c7c4256aad5d252f8065",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/media/disco-ai-2023/dont-ask-me-what-disco-is.jpg",
+      "bytes": 79102,
+      "sha256": "0e5b4a493f9b80ebd872735f9cb9cb2d2843c2551305d45c54e00b1dd1196e67",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/media/disco-ai-2023/dont-ask-me-what-disco-is.mp4",
+      "bytes": 23676221,
+      "sha256": "0535fa9a0d9a157bc407b969579845127f757f61729d1207931ceff5869715e2",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/media/disco-ai-2023/i-feel-love.jpg",
+      "bytes": 53237,
+      "sha256": "a093801ebfae874ac2b932452e003bfe00c7247dd7847db4503b77f0a1322e60",
+      "redistribution": "excluded; consult original rights holder"
+    },
+    {
+      "path": "/media/disco-ai-2023/i-feel-love.mp4",
+      "bytes": 24453145,
+      "sha256": "97de1b902a04f6f84ca0f603892acaef03e70e37b82984407a988d3f5fb878c0",
+      "redistribution": "excluded; consult original rights holder"
+    }
+  ]
+}

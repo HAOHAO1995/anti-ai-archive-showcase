@@ -1,0 +1,708 @@
+[
+  {
+    "id": "src-0772",
+    "documentId": "doc-0769",
+    "title": {
+      "zh": "时间线第一章十个节点",
+      "en": "Timeline Chapter 1: Ten Top Moments"
+    },
+    "originalTitle": "Timeline Chapter 1: Ten Top Moments",
+    "url": "https://www.lerandom.art/editorial/timeline-chapter-1-ten-top-moments",
+    "publisher": "Le Random",
+    "language": "en",
+    "category": {
+      "zh": "分期与跨学科编年",
+      "en": "Periodization and interdisciplinary chronology"
+    },
+    "annotation": {
+      "zh": "章节叙事与跨艺术、数学、计算史连接；七万年是生成性前史框架，非AI起点。",
+      "en": "Chapter-based connections across art, mathematics and computation; its deep-time frame concerns generativity, not the origin of AI."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": "2023-09-06",
+    "author": "Peter Bauman",
+    "factReview": {
+      "status": "read",
+      "scope": "正文及主时间线导航 / Article and main timeline navigation"
+    },
+    "researchQuestion": {
+      "zh": "如何为生成艺术建立跨学科的历史分期？",
+      "en": "How can generative art be periodized across disciplines?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "这篇章节导读把艺术、数学与计算的历史放入共同的叙述框架。它的研究价值在于展示编年如何成为一种历史解释：选择哪些前史、如何分章，以及怎样把不同地域与知识领域放在一起。",
+          "en": "This chapter introduction brings art, mathematics and computation into a shared historical frame. Its value lies in showing how a chronology becomes an interpretation: which antecedents are selected, how chapters are arranged, and how different regions and fields of knowledge are connected."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "可用它比较本档案的理论、艺术、机构与技术线索，并追问每个跨学科连接的证据。章节与地域导航可以帮助发现遗漏材料，但事件日期仍须回到作品档案、图录或原始文献核验。",
+          "en": "Use it to compare this archive’s theoretical, artistic, institutional and technical strands and ask what evidence supports each connection. Chapter and regional navigation can reveal gaps, while event dates still require checking against artwork records, catalogues or original publications."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "“七万年”是对生成性前史的扩展解释，不能当作 AI 艺术的诞生日期。2023 年文章所述的规模包含项目计划；2026 年 10 月 1 日的核读确认了主站十章导航，没有清点整个数据库。",
+          "en": "The deep-time frame is an expansive interpretation of generativity, not a birth date for AI art. The scale described in the 2023 article includes project plans. The reading on 1 October 2026 checked ten-chapter navigation, without counting the entire database."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "继续追踪各章引用的作品与原始文献，分别记录历史事件日期、章节发表日期和档案访问日期。",
+          "en": "Follow each chapter’s works and primary references, distinguishing historical event dates, chapter publication dates and archive access dates."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "正文及主时间线导航。未对全部节点逐项核验。",
+      "en": "Article text and main timeline navigation; the full set of entries has not been audited."
+    },
+    "relatedReferenceIds": [
+      "src-0774",
+      "src-0768"
+    ],
+    "editorialUpdated": "2026-10-02"
+  },
+  {
+    "id": "src-0767",
+    "documentId": "doc-0764",
+    "title": {
+      "zh": "Casey Reas谈生成艺术史（二）",
+      "en": "Casey Reas on the History of Generative Art - Part 2"
+    },
+    "originalTitle": "Casey Reas on the History of Generative Art - Part 2",
+    "url": "https://www.lerandom.art/editorial/casey-reas-on-the-history-of-generative-art-part-2",
+    "publisher": "Le Random",
+    "language": "en",
+    "category": {
+      "zh": "艺术家口述与工具史",
+      "en": "Artist testimony and tool history"
+    },
+    "annotation": {
+      "zh": "从主机到工作室的分期、创作工具与艺术家社群；回忆与市场判断保留作者立场。",
+      "en": "Mainframe-to-studio periodization, creative tools and artistic communities; recollections and market judgments remain attributed."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": "2023-07-05",
+    "author": "Peter Bauman",
+    "factReview": {
+      "status": "read",
+      "scope": "访谈正文 / Interview body"
+    },
+    "researchQuestion": {
+      "zh": "工具可及性和艺术家社群怎样改变生成艺术？",
+      "en": "How do access to tools and artistic communities shape generative art?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Peter Bauman 对 Casey Reas 的访谈提供了艺术家回顾技术与创作条件的视角。“从主机到工作室”的分期让研究从机器能力转向谁能使用机器、在哪里工作，以及通过什么社群交流。",
+          "en": "Peter Bauman’s interview with Casey Reas offers an artist’s retrospective account of technology and conditions of practice. Its mainframe-to-studio periodization shifts attention from machine capability to who could use computers, where artists worked and which communities sustained exchange."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "适合与工具、教学和工作室的原始记录并读，梳理创意编程的社会基础设施。对艺术家本人实践的陈述可作为口述材料；对更广历史的概括则需要其他档案互证。",
+          "en": "Read it alongside records of tools, teaching and studios to study the social infrastructure of creative coding. Statements about the artist’s own practice can serve as testimony; broader historical accounts require corroboration from other archives."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "回顾性分期和市场判断属于具名受访者的解释，不是全部艺术家的共同立场，也不是每个历史日期的独立验证。引用时应区分采访者的组织与受访者的论述。",
+          "en": "Retrospective periodization and market judgments are attributed interpretations, not a consensus among artists or independent verification of every date. Citations should distinguish the interviewer’s framing from the interviewee’s statements."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "沿访谈继续核对 Processing 的教育与社区档案，以及 Reas 具体作品的制作、技术协作和放映记录。",
+          "en": "Follow the interview into Processing’s educational and community records and the production, technical collaboration and screening histories of specific works by Reas."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "访谈正文。历史通论和市场判断保留口述立场。",
+      "en": "Interview body; historical generalizations and market judgments retain their status as attributed testimony."
+    },
+    "relatedReferenceIds": [
+      "src-0769",
+      "src-0770"
+    ],
+    "editorialUpdated": "2026-10-02"
+  },
+  {
+    "id": "src-0773",
+    "documentId": "doc-0770",
+    "title": {
+      "zh": "艺术家时间线",
+      "en": "Artists Timeline"
+    },
+    "originalTitle": "Artists Timeline",
+    "url": "https://dam.org/museum/exhibitions_ui/timelines/artists/",
+    "publisher": "Digital Art Museum",
+    "language": "en",
+    "category": {
+      "zh": "平行时间线与机构史",
+      "en": "Parallel timelines and institutions"
+    },
+    "annotation": {
+      "zh": "Artists / Events / Technology三轨提供比较结构；本轮核导航与介绍，未逐项审计嵌入年表。",
+      "en": "Artists, Events and Technology offer parallel tracks; navigation and introductory text checked, embedded timelines not fully audited."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": null,
+    "author": "",
+    "factReview": {
+      "status": "read",
+      "scope": "页面说明及三轨导航 / Intro and three-track navigation"
+    },
+    "researchQuestion": {
+      "zh": "艺术家、事件和技术的平行年表如何相互解释？",
+      "en": "How can parallel artist, event and technology timelines illuminate one another?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Digital Art Museum 将 Artists、Events 和 Technology 分为三条浏览路径。这种结构提示我们：艺术家的工作、公开展览与计算工具不必被压成一条技术进步线，而可以相互参照。",
+          "en": "Digital Art Museum separates Artists, Events and Technology into three browsing paths. This structure suggests that artists’ practices, public exhibitions and computing tools can be read in parallel rather than compressed into a single narrative of technical progress."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "可借此寻找机构与地域史线索，再核对展览目录、艺术家档案和举办机构的记录。批次 429 的相关 Events 文字核读指出东京、萨格勒布与新德里的后续检索方向；这些线索并不自动证明所有年代和关系。",
+          "en": "Use the parallel tracks to locate institutional and regional leads, then consult exhibition catalogues, artist archives and host records. The associated Events-text reading in batch 429 identified Tokyo, Zagreb and New Delhi as follow-up directions; those leads do not automatically establish every date or relationship."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "本条 Artists 入口核读的是页面介绍及三轨导航。嵌入式艺术家与技术年表尚未逐项审计，不能把入口可访问写成全库核验完成。",
+          "en": "For this Artists entry, the checked material is the introduction and three-track navigation. The embedded artist and technology timelines have not been audited entry by entry; access to the gateway is not verification of the whole corpus."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "沿艺术家条目回到作品与机构记录，并将同一事件在三条时间线中的出现合并到稳定编号下。",
+          "en": "Follow artist entries to artwork and institutional records, linking occurrences of the same event across the three tracks under stable identifiers."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "Artists 页面介绍与三轨导航；相关 Events 文字另有研究记录，嵌入年表未全面核读。",
+      "en": "Artists introduction and three-track navigation; associated Events text has a separate research record, while embedded timelines remain incompletely reviewed."
+    },
+    "relatedReferenceIds": [
+      "src-0774",
+      "src-0768"
+    ],
+    "editorialUpdated": "2026-10-02"
+  },
+  {
+    "id": "src-0774",
+    "documentId": "doc-0771",
+    "title": {
+      "zh": "计算机艺术选编年：展览、出版与技术",
+      "en": "A Selected Chronology of Computer Art: Exhibitions, Publications, and Technology"
+    },
+    "originalTitle": "A Selected Chronology of Computer Art: Exhibitions, Publications, and Technology",
+    "url": "https://monoskop.org/images/e/e2/Giloth_Copper_Pocock-Williams_Lynn_1990_A_Selected_Chronology_of_Computer_Art.pdf",
+    "publisher": "Art Journal; scan hosted by Monoskop",
+    "language": "en",
+    "category": {
+      "zh": "学术编年方法",
+      "en": "Scholarly chronology methods"
+    },
+    "annotation": {
+      "zh": "按年列展览、出版、技术，并说明日期不确定性。本轮只核15页扫描件第1页，全文待精读。",
+      "en": "Annual exhibition, publication and technology categories with dating uncertainty. Only page 1 of the 15-page scan was read; full close reading remains pending."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": null,
+    "author": "Copper Giloth; Lynn Pocock-Williams",
+    "factReview": {
+      "status": "read",
+      "scope": "PDF第1页方法说明 / PDF page1 methodology"
+    },
+    "researchQuestion": {
+      "zh": "如何编写承认日期不确定性的计算机艺术年表？",
+      "en": "How can a computer-art chronology acknowledge uncertain dates?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Copper Giloth 与 Lynn Pocock-Williams 的编年将展览、出版和技术并列排列。已核读的第一页说明了这份选编年的方法，使它成为讨论“历史节点应该记录什么”的参考，而不只是年份清单。",
+          "en": "Copper Giloth and Lynn Pocock-Williams place exhibitions, publications and technology alongside one another. The first page, which has been read, explains the selected chronology’s method, making it a reference for what a historical entry should record rather than merely a list of years."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "可借鉴其并列类别和日期处理方式：让出版物、展览及技术实践作为不同类型的证据相互关联，保留近似日期与重复发明的可能性，不为方便排序而补造精确日期。",
+          "en": "Its parallel categories and treatment of dates offer a method for connecting publications, exhibitions and technical practice as distinct forms of evidence. Approximate dates and the possibility of repeated invention should remain visible rather than being replaced with invented precision for sorting."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "研究记录确认文献年为 1990，不补造月日。出版社 DOI 页面读取时返回 403；15 页扫描件只核读了第 1 页，其余 14 页不能被描述为已经完成精读。",
+          "en": "The research record identifies 1990 as the publication year without supplying a month or day. The publisher’s DOI page returned 403 during the recorded access. Only page 1 of the 15-page scan was read; the remaining 14 pages must not be described as fully reviewed."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "完成扫描件余页与引文的核读，再逐项追索同期图录及出版物；原刊入口与扫描件入口应分别保留。",
+          "en": "Read the remaining pages and citations, then trace contemporary catalogues and publications. Keep the original publication gateway and the scan gateway distinct."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "15 页扫描件的第 1 页方法说明；其余页待精读。",
+      "en": "Methodological statement on page 1 of a 15-page scan; the remaining pages await close reading."
+    },
+    "relatedReferenceIds": [
+      "src-0773",
+      "src-0772"
+    ],
+    "editorialUpdated": "2026-10-02",
+    "publicationYear": "1990",
+    "publisherUrl": "https://www.tandfonline.com/doi/abs/10.1080/00043249.1990.10792704"
+  },
+  {
+    "id": "src-0771",
+    "documentId": "doc-0768",
+    "title": {
+      "zh": "数字艺术Oracle",
+      "en": "Digital Art Oracle"
+    },
+    "originalTitle": "Digital Art Oracle",
+    "url": "https://daoracle.com/",
+    "publisher": "Digital Art Oracle",
+    "language": "en",
+    "category": {
+      "zh": "档案浏览与视觉叙事",
+      "en": "Archive browsing and visual narrative"
+    },
+    "annotation": {
+      "zh": "参考时期导航、检索与来源关联；首页算法为重新实现，不是历史原作。动态语料尚未全面核验。",
+      "en": "A reference for era navigation, search and linked sources. Hero algorithms are reimplementations, not historical works; the dynamic corpus is not fully audited."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": null,
+    "author": "Ludwig Vonmesser",
+    "factReview": {
+      "status": "read",
+      "scope": "首页、算法说明、编者说明 / Homepage, algorithm and editorial notes"
+    },
+    "researchQuestion": {
+      "zh": "如何让数字艺术档案的浏览方式支持历史阅读？",
+      "en": "How can the interface of a digital-art archive support historical reading?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Digital Art Oracle 在这组资料中首先是一项档案浏览与视觉叙事参考。时期导航、检索、条目描述和来源关联，使它适合用来比较读者如何进入数字艺术史材料。",
+          "en": "Within this group, Digital Art Oracle is first a reference for archive browsing and visual narrative. Era navigation, search, entry descriptions and source connections make it useful for comparing how readers encounter digital-art history."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "可用于检视本档案的目录与详情之间是否连贯：读者是否知道自己处于哪个时期、为何某项作品被收录，以及可以从哪里继续核对原始资料。界面设计上的借鉴与历史主张的采用应分别处理。",
+          "en": "Use it to examine continuity between this archive’s catalogue and detail pages: whether readers can identify a period, understand why a work is included and locate original evidence. Learning from an interface and adopting its historical claims are separate decisions."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "既有核读覆盖首页、算法说明及编者说明，没有全面核验动态语料。首页算法属于重新实现，不能充当历史原作的复制；算法数量、历史条目数量和当前数据库规模也不能混为一谈。",
+          "en": "The existing reading covers the homepage, algorithm notes and editorial notes, not the entire dynamic corpus. Homepage algorithms are reimplementations rather than reproductions of historical works. Algorithm counts, historical-entry counts and the current size of the database are different measures."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "逐条进入动态节点，核对其出处和日期；需要历史图像时，回到作品或机构档案，而不是把动画重绘当作原始图像。",
+          "en": "Open individual dynamic entries and check their sources and dates. For historical imagery, return to artwork or institutional archives rather than treating animated reimplementations as original images."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "首页、算法说明与编者说明；动态条目未全面审计。",
+      "en": "Homepage, algorithm notes and editorial notes; dynamic entries have not been fully audited."
+    },
+    "relatedReferenceIds": [
+      "src-0773",
+      "src-0772"
+    ],
+    "editorialUpdated": "2026-10-02"
+  },
+  {
+    "id": "src-0770",
+    "documentId": "doc-0767",
+    "title": {
+      "zh": "智能问题：AI艺术简史",
+      "en": "The question of intelligence: a short history of AI art"
+    },
+    "originalTitle": "The question of intelligence: a short history of AI art",
+    "url": "https://mosaic.uoc.edu/2025/04/03/the-question-of-intelligence-a-short-history-of-ai-art/",
+    "publisher": "Mosaic / Universitat Oberta de Catalunya",
+    "language": "en",
+    "category": {
+      "zh": "概念界定与批评实践",
+      "en": "Concepts and critical practice"
+    },
+    "annotation": {
+      "zh": "Christiane Paul区分工具、媒介和概念介入，为代理、数据政治及生态艺术提供线索；这是署名的理论立场。",
+      "en": "Christiane Paul distinguishes tool, medium and conceptual engagement, offering leads on agents, data politics and ecological art; this is an attributed theoretical position."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": "2025-04-03",
+    "author": "Christiane Paul",
+    "factReview": {
+      "status": "read",
+      "scope": "正文及末尾原刊说明 / Body and original-publication note"
+    },
+    "researchQuestion": {
+      "zh": "AI 如何成为艺术的工具、媒介和概念问题？",
+      "en": "How does AI operate as a tool, medium and conceptual problem in art?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Christiane Paul 的文章为本组资料提供了直接讨论 AI 艺术的概念入口。她对工具、媒介与概念介入的区分，使研究可以超出“图像是否由 AI 生成”，转而观察作品如何处理智能、代理、数据与社会关系。",
+          "en": "Christiane Paul’s essay provides a conceptual entry directly concerned with AI art. Her distinction between tool, medium and conceptual engagement takes inquiry beyond whether an image was generated by AI, toward how a work addresses intelligence, agency, data and social relations."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "可据此追踪对话代理、社区数据实践与生态艺术等作品，再将评论与艺术家、收藏机构或展览主办方的记录并读。该来源帮助提出问题；具体作品的技术机制、版本和展期仍需作品层面的证据。",
+          "en": "Use it to pursue works involving conversational agents, community data practices and ecological art, then read the criticism alongside artist, collection or exhibition records. The essay helps formulate questions; mechanisms, versions and exhibition dates still require evidence at the level of individual works."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "工具／媒介／概念介入是 Paul 的具名理论立场。Mosaic 页面标示 2025 年 4 月 3 日，原刊说明指向 October 第 189 期、2024 年夏季；当前文字含有后来的材料，因此不能未经比对就称两版相同。",
+          "en": "The tool/medium/conceptual distinction is Paul’s attributed theoretical position. The Mosaic page is dated 3 April 2025 and refers to an original in October 189, summer 2024. The current text includes later material, so the versions should not be treated as identical without comparison."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "沿作品链接继续核验 Agent Ruby、Not The Only One 与 Deep Swamp 等线索，并分别记录作品制作、版本更新、展出与收藏的时间。",
+          "en": "Follow work-level leads such as Agent Ruby, Not The Only One and Deep Swamp, recording production, revisions, exhibition and acquisition dates separately."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "文章正文及末尾原刊说明；网页版本与原刊版本尚未逐段对照。",
+      "en": "Article body and original-publication note; the web and original journal versions have not been compared passage by passage."
+    },
+    "relatedReferenceIds": [
+      "src-0767",
+      "src-0768"
+    ],
+    "editorialUpdated": "2026-10-02"
+  },
+  {
+    "id": "src-0769",
+    "documentId": "doc-0766",
+    "title": {
+      "zh": "生成艺术简史",
+      "en": "A Brief History of Generative Art [Text]"
+    },
+    "originalTitle": "A Brief History of Generative Art [Text]",
+    "url": "https://studioanf.com/project/a-brief-history-of-generative-art",
+    "publisher": "Studio A N F",
+    "language": "en",
+    "category": {
+      "zh": "生成艺术概念与教育线索",
+      "en": "Generative-art concepts and education"
+    },
+    "annotation": {
+      "zh": "可追自主系统与艺术教育史；原页有Noll、Processing名称错误及2015标注与后文年代不一致，引用需校勘。",
+      "en": "Useful for autonomous systems and art education, with Noll/Processing naming errors and a 2015 label inconsistent with later material; use with source criticism."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": null,
+    "author": "Kayleen Wrigley",
+    "factReview": {
+      "status": "read",
+      "scope": "全文文字 / Full article text"
+    },
+    "researchQuestion": {
+      "zh": "自主系统的定义如何连接生成艺术与艺术教育？",
+      "en": "How do definitions of autonomous systems connect generative art and art education?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Studio A N F 的文字将生成艺术的概念与创作、工具和教育线索联系起来。它可以作为继续检索的导览，特别适合追问“生成”涉及哪些规则、系统和艺术家的决定，而不是把所有计算机艺术归入 AI。",
+          "en": "The Studio A N F text connects concepts of generative art with practice, tools and education. It serves as a guide for further investigation, especially into the rules, systems and artistic decisions involved in generation, without assigning all computer art to AI."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "研究时可从自主系统定义和 Generative Systems 教学线索出发，寻找定义的原始文献、课程记录及艺术家材料。二手综述中的连接有助于形成问题，但不能代替这些来源。",
+          "en": "Begin with definitions of autonomous systems and leads concerning Generative Systems teaching, then locate original definitions, course records and artist materials. Connections made in a secondary survey can frame questions but do not replace those sources."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "既有核读发现 Michael Doll 与 Process 等名称问题，涉及 Noll 与 Processing；页面标注 08/2015，文字却包含 2016 年材料，修改史不明。引用时需校勘，不采用未经核实的“首次”说法，也不把页面标注作为所有内容的确切发表日期。",
+          "en": "The existing reading notes naming problems involving Michael Doll and Process, in passages concerning Noll and Processing. The page is labelled 08/2015 but includes 2016 material, with no established revision history. Use it critically, avoid unverified priority claims and do not treat the label as an exact publication date for all its contents."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "优先追踪艺术家与学校档案，核对教学项目、作品机制及定义出处；将现页的问题作为版本说明保留。",
+          "en": "Prioritize artist and school archives to check teaching programmes, mechanisms and the sources of definitions. Retain the problems in the current text as version notes."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "全文文字已核读；作品与日期的每项主张并未因此全部获得独立验证。",
+      "en": "Full article text read; this does not independently verify every claim about works or dates."
+    },
+    "relatedReferenceIds": [
+      "src-0767",
+      "src-0774"
+    ],
+    "editorialUpdated": "2026-10-02"
+  },
+  {
+    "id": "src-0768",
+    "documentId": "doc-0765",
+    "title": {
+      "zh": "南美生成艺术史十个节点",
+      "en": "Ten Moments in South American Generative Art History"
+    },
+    "originalTitle": "Ten Moments in South American Generative Art History",
+    "url": "https://www.lerandom.art/editorial/ten-moments-in-south-american-generative-art-history",
+    "publisher": "Le Random",
+    "language": "en",
+    "category": {
+      "zh": "南美地域史",
+      "en": "South American regional history"
+    },
+    "annotation": {
+      "zh": "CAyC、Cordeiro、MediaLab/UnB、FILE等补充地域与制度线索；需追地方原始档案，不把生成艺术自动等同AI。",
+      "en": "CAyC, Cordeiro, MediaLab/UnB and FILE add regional and institutional leads; pursue local primary records and do not equate all generative art with AI."
+    },
+    "accessDate": "2026-10-01",
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "publicationDate": "2023-11-15",
+    "author": "Peter Bauman",
+    "factReview": {
+      "status": "read",
+      "scope": "十节正文 / Ten sections"
+    },
+    "researchQuestion": {
+      "zh": "南美的机构与艺术实践如何改变生成艺术史的叙述？",
+      "en": "How do South American institutions and practices reshape generative-art history?"
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "title": {
+          "zh": "资料介绍",
+          "en": "About this reference"
+        },
+        "body": {
+          "zh": "Peter Bauman 的十节点专题提供南美地域史的集中入口。CAyC、Cordeiro、MediaLab/UnB 与 FILE 等线索，使档案能够继续追踪地方机构、艺术家网络与展览，而不只依赖欧美技术中心的叙述。",
+          "en": "Peter Bauman’s ten-moment article offers a focused gateway into South American history. Leads involving CAyC, Cordeiro, MediaLab/UnB and FILE support investigation of local institutions, artistic networks and exhibitions beyond narratives organized around European and North American technology centres."
+        }
+      },
+      {
+        "id": "use",
+        "title": {
+          "zh": "研究用途",
+          "en": "Research use"
+        },
+        "body": {
+          "zh": "可将文章作为发现缺口的索引，再转向当地机构档案、展览图录和艺术家的原语言材料。编年时分别记录机构成立、项目制作、展出与出版时间，避免把综述中的一个年份用于所有活动。",
+          "en": "Treat the article as a gap-finding index, then turn to local institutional archives, exhibition catalogues and artists’ original-language materials. Distinguish founding dates, production, exhibition and publication rather than assigning one year from the survey to every activity."
+        }
+      },
+      {
+        "id": "limits",
+        "title": {
+          "zh": "版本与证据边界",
+          "en": "Versions and evidence limits"
+        },
+        "body": {
+          "zh": "这是收藏机构平台发表的选择性历史，不替代地方档案。古代织物、Pintura Generativa 或 NFT 的出现本身都不能证明作品使用了自主系统或 AI；艺术史关联与技术机制必须分别论证。",
+          "en": "This is a selective history published on a collecting institution’s platform, not a substitute for local archives. Ancient textiles, the term Pintura Generativa or the presence of NFTs do not by themselves establish autonomous systems or AI. Historical relationships and technical mechanisms require separate arguments."
+        }
+      },
+      {
+        "id": "follow-up",
+        "title": {
+          "zh": "继续追索的材料",
+          "en": "Further investigation"
+        },
+        "body": {
+          "zh": "继续追索巴西与阿根廷的机构、作品和出版资料，并将地域线索与本档案已有节点去重关联。",
+          "en": "Continue tracing institutional, artwork and publication records in Brazil and Argentina, linking regional leads to existing archive nodes without duplicating them."
+        }
+      }
+    ],
+    "readingScope": {
+      "zh": "十节正文已核读；地方原始档案的后续核验仍在推进。",
+      "en": "The ten sections have been read; follow-up verification against local primary archives continues."
+    },
+    "relatedReferenceIds": [
+      "src-0773",
+      "src-0770"
+    ],
+    "editorialUpdated": "2026-10-02"
+  }
+]

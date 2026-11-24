@@ -1,0 +1,29 @@
+/* Source imagery only: never substitute archive-drawn diagrams. Source images keep their original proportions and colours; diagrams have explicit labels. */
+.history-illustration{margin:32px 0 28px;min-width:0;overflow:hidden;border:1px solid #373330;border-radius:18px;background:#0b0b0c}
+.history-visual-label{display:flex;justify-content:space-between;gap:12px;padding:16px 20px;color:#bfb8ae;font:10px/1.5 'SFMono-Regular',Consolas,monospace;letter-spacing:.08em;border-bottom:1px solid #302d2b}
+.history-image-open{position:relative;display:block;background:#101011;padding:16px;text-align:center}
+.history-image-open img{display:block;width:100%;height:auto;max-height:560px;object-fit:contain;margin:auto}
+.history-image-open>span{display:inline-block;margin-top:12px;font-size:11px;color:#c0b9af}
+.history-image-open:focus-visible{outline:2px solid #d97c6f;outline-offset:-4px}
+.history-illustration figcaption{padding:18px 20px 22px;font:13px/1.75 system-ui,sans-serif;overflow-wrap:anywhere;color:#d3ccc2}
+.history-illustration figcaption p{margin:0 0 12px}
+.history-illustration .history-visual-credit{font-size:11px;color:#a9a297}
+.history-illustration figcaption>a{font-size:12px;text-decoration:underline;text-underline-offset:3px}
+/* Each split reading room owns a native preview scroll area. Its available
+   height follows the pane's actual viewport position, including browser zoom
+   and a foldable's usable segment, rather than assuming it starts at y=20. */
+@container reading-room (min-width:760px){
+ .reading-room .room-preview{position:sticky;top:20px;min-height:0;max-height:var(--room-preview-height,calc(100dvh - 40px));overflow-y:auto;overflow-x:hidden;overscroll-behavior-y:contain;overflow-anchor:none}
+}
+@container reading-room (max-width:759px){
+ .reading-room .room-preview{position:static;max-height:none;overflow:visible;overscroll-behavior-y:auto}
+ .history-illustration{margin-top:26px;border-radius:14px}.history-image-open{padding:12px}.history-image-open img{max-height:none}
+}
+html[data-fold=book] .reading-room .room-preview{position:sticky;top:20px;min-height:0;max-height:var(--room-preview-height,calc(100dvh - 40px));overflow-y:auto;overflow-x:hidden;overscroll-behavior-y:contain;overflow-anchor:none}
+.reading-room .room-preview:focus-visible{outline:1px solid #75605a;outline-offset:-2px}
+@media(prefers-reduced-motion:no-preference){.history-illustration{animation:history-figure-enter .2s ease-out}@keyframes history-figure-enter{from{opacity:.7}to{opacity:1}}}
+
+/* Keep the reading-room gutter clear while retaining native wheel/touch scrolling. */
+.reading-room .room-catalogue{border-left:0}
+.reading-room .room-preview{scrollbar-width:none;scrollbar-gutter:auto}
+.reading-room .room-preview::-webkit-scrollbar{display:none;width:0;height:0}

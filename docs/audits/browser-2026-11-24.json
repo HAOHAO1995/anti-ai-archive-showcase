@@ -1,0 +1,387 @@
+{
+  "scope": "Chromium sampled routes; 390/1440px, light/dark, WCAG A/AA automated checks. Not complete WCAG certification.",
+  "results": [
+    {
+      "path": "/en/research",
+      "width": 390,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/zh/research",
+      "width": 390,
+      "theme": "light",
+      "status": 200,
+      "lang": "zh-CN",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/zh/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en",
+      "width": 390,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/topics/ai-art-history",
+      "width": 390,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/topics/ai-art-history",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/art-history/001",
+      "width": 390,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/art-history/001",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/research",
+      "width": 390,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/zh/research",
+      "width": 390,
+      "theme": "dark",
+      "status": 200,
+      "lang": "zh-CN",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/zh/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en",
+      "width": 390,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/topics/ai-art-history",
+      "width": 390,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/topics/ai-art-history",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/art-history/001",
+      "width": 390,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/art-history/001",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/research",
+      "width": 1440,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/zh/research",
+      "width": 1440,
+      "theme": "light",
+      "status": 200,
+      "lang": "zh-CN",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/zh/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en",
+      "width": 1440,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/topics/ai-art-history",
+      "width": 1440,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/topics/ai-art-history",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/art-history/001",
+      "width": 1440,
+      "theme": "light",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/art-history/001",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/research",
+      "width": 1440,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/zh/research",
+      "width": 1440,
+      "theme": "dark",
+      "status": 200,
+      "lang": "zh-CN",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/zh/research",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en",
+      "width": 1440,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/topics/ai-art-history",
+      "width": 1440,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/topics/ai-art-history",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    },
+    {
+      "path": "/en/art-history/001",
+      "width": 1440,
+      "theme": "dark",
+      "status": 200,
+      "lang": "en",
+      "overflow": false,
+      "main": true,
+      "h1": 1,
+      "canonical": "https://salondesrefuses.cn/en/art-history/001",
+      "alternates": [
+        "en",
+        "zh-CN",
+        "x-default"
+      ],
+      "skipWorks": true,
+      "errors": [],
+      "violations": []
+    }
+  ],
+  "checked_at": "2026-11-24",
+  "downloads_verified": 18
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "generative-lineage",
+    "record_type": "guide",
+    "title": {
+      "zh": "生成艺术专题：历史转折与作品实践",
+      "en": "Generative art: historical turning points and artistic practices"
+    },
+    "body": {
+      "zh": "本专题以46个主线节点连接早期计算、软件艺术与Crypto生成机制，并将55项作品与再版本化案例收纳为六组专题讨论。Crypto部分保留10个能说明生成、保存、发行、参与或展览机制发生变化的节点；Art Blocks及Chromie Squiggle合为一个平台节点。Fidenza、Ringers、《麒麟的记忆》以及Tezos／fxhash作品继续保留图像、双语说明与原始来源，但不再各占一个时间线位置。筛选是基于现有证据的编辑判断，不按价格、热度或名气排序，也不把未能证明的“第一”写成事实。",
+      "en": "This guide connects 46 main-timeline entries across early computing, software art and crypto generation, with 55 works and re-versioning cases discussed in six thematic groups. Ten crypto entries identify changes in generation, preservation, distribution, participation or exhibition; Art Blocks and Chromie Squiggle form a single platform milestone. Fidenza, Ringers, Memories of Qilin and Tezos/fxhash works retain images, bilingual accounts and original sources without each occupying a timeline stop. Selection is an editorial judgment based on available evidence, not a ranking by price, popularity or fame; unproven priority claims are not presented as fact."
+    },
+    "website_urls": {
+      "zh": "https://salondesrefuses.cn/zh/art-history/guides/generative-lineage",
+      "en": "https://salondesrefuses.cn/en/art-history/guides/generative-lineage"
+    }
+  },
+  {
+    "id": "method",
+    "record_type": "guide",
+    "title": {
+      "zh": "如何使用这 336 个节点？",
+      "en": "How can you use these 336 nodes?"
+    },
+    "body": {
+      "zh": "从右侧时间线选择年代或节点，目录会定位到对应卡片；单击卡片预览，点击“阅读”进入完整说明。生成艺术专题提供三组主线节点与六组作品讨论，Crypto作品实例不再各占时间线位置。详情页先列官方项目页、作品展示或可运行入口，再提供图片、具体过程、观看提示、历史解释与出处。静态预览仅代表一个输出或时刻；动态、交互和视听作品应结合原站展示。每条保留日期精度、原题、署名、来源局限及翻译审校状态；作品日期、NFT发行日期与图片获取日期分别记录。 “2022年以来的重要论文”导读按七个研究方向组织阅读，区分论文初次公开、修订与产品发布。",
+      "en": "Select a period or entry on the right-hand timeline to locate its catalogue card. Click a card to preview it, then choose Read for the full account. The generative-art guide offers three groups of timeline entries and six thematic work discussions; crypto work examples do not occupy individual timeline stops. Detail pages lead with official project, presentation or executable-work links, followed by imagery, process, viewing guidance, historical interpretation and sources. A static preview represents one output or moment; dynamic, interactive and audiovisual works should also be viewed at their source. Entries preserve date precision, original titles, credits, source limits and translation-review status, distinguishing artwork dates, NFT releases and image retrieval dates. The guide to important papers since 2022 offers seven research paths and distinguishes initial submission, revision and product release."
+    },
+    "website_urls": {
+      "zh": "https://salondesrefuses.cn/zh/art-history/guides/method",
+      "en": "https://salondesrefuses.cn/en/art-history/guides/method"
+    }
+  },
+  {
+    "id": "overview",
+    "record_type": "guide",
+    "title": {
+      "zh": "生成艺术史：1943—2026 年的历史线索",
+      "en": "Generative Art History: historical threads, 1943–2026"
+    },
+    "body": {
+      "zh": "生成艺术史研究艺术家如何以规则、程序、材料和系统组织作品，以及作品如何在运行、观看、选择与传播中形成。这里连接早期计算与绘图、软件艺术和创意编程、演化与机器学习、链上生成作品及其展览网络。AI艺术是其中一条支线；手写算法、随机过程、实时模拟与学习模型各有不同的创作和运行条件。主线目录与右侧时间线共用336个节点；55项Crypto作品实例在生成艺术专题中比较阅读，仍可进入双语说明、作品图像与官方展示入口。1943年是本档案选定的思想背景起点，不是生成艺术的起源断言。",
+      "en": "Generative Art History examines how artists organise works through rules, code, materials and systems, and how works take form through execution, viewing, selection and circulation. It connects early computing and plotting, software art and creative coding, evolution and machine learning, and on-chain works and exhibition networks. AI art is one branch: authored algorithms, random processes, live simulation and learned models have different conditions of creation and execution. The main catalogue and right-hand timeline share 336 entries; 55 crypto work examples are compared within the generative-art guide, with their bilingual accounts, source imagery and official presentation links preserved. The archive begins with an intellectual context in 1943, without claiming that generative art originated then."
+    },
+    "website_urls": {
+      "zh": "https://salondesrefuses.cn/zh/art-history/guides/overview",
+      "en": "https://salondesrefuses.cn/en/art-history/guides/overview"
+    }
+  },
+  {
+    "id": "recent-papers",
+    "record_type": "guide",
+    "title": {
+      "zh": "2022年以来的重要论文：从生成方法到文化问题",
+      "en": "Important papers since 2022: methods and cultural questions"
+    },
+    "body": {
+      "zh": "本导读串联52个研究相关节点，其中33个为本次补入的2022—2025年论文，5个已有成果补齐了论文与版本依据，其余沿用已有论文节点。七条阅读路径覆盖架构与采样、可控编辑、三维、视频、声音、评价及文化研究。选取依据是方法上的独立贡献、与制作或观看条件的关系，以及评价、数据和艺术家权益方面的解释力，并非按公司或产品热度排名。时间线采用预印本首次公开日；会议版、修订版与产品上线日期另行说明。原图保留图号、版本、署名与来源，演示链接指向作者项目。本批核读摘要、提交记录及注明的原图页，未复现实验，也不声称穷尽2022—2026年的论文；2026年新近候选的持续影响仍需追踪。",
+      "en": "This guide connects 52 research-related entries: 33 papers from 2022–2025 added in this pass, five existing achievements enriched with paper and version sources, and previously catalogued research. Seven paths cover architectures and sampling, editing, 3D, video, sound, evaluation and cultural inquiry. Selection prioritises distinct methodological contributions, production and viewing conditions, and explanatory value for evaluation, data and artists’ rights, rather than companies or product popularity. Initial preprint submission supplies the new timeline date; conference versions, revisions and releases remain separate. Figures retain source, credit and version context, with demonstrations linked to author projects. This pass reads abstracts, submission records and specified figure pages without reproducing experiments. It does not exhaust 2022–2026 scholarship; the longer-term significance of recent 2026 candidates remains under review."
+    },
+    "website_urls": {
+      "zh": "https://salondesrefuses.cn/zh/art-history/guides/recent-papers",
+      "en": "https://salondesrefuses.cn/en/art-history/guides/recent-papers"
+    }
+  },
+  {
+    "id": "scope",
+    "record_type": "guide",
+    "title": {
+      "zh": "为什么从 1943 年开始？",
+      "en": "Why begin in 1943?"
+    },
+    "body": {
+      "zh": "1943年沿用研究母版的神经计算背景节点，用来理解部分后来的计算艺术与AI实践。生成艺术还具有更早的规则、排列组合与材料过程历史，本目录尚未全面覆盖。这里把思想背景、艺术作品和机构事件分别标明，不以技术发布时间替代艺术史。早期计算机绘图、软件艺术、演化系统、机器学习和crypto艺术可相互比较，但不能只因使用计算就视为同一种方法；相邻日期也不等于直接影响。",
+      "en": "The 1943 entry retains the research master’s neural-computation context for some later computational and AI practices. Generative art also has earlier histories of rules, combinatorics and material processes that this catalogue does not yet cover comprehensively. Intellectual contexts, artworks and institutional events are distinguished; technical release dates do not substitute for art history. Computer plotting, software art, evolutionary systems, machine learning and crypto art can be compared without assuming that all computation uses the same method, or that chronological adjacency establishes influence."
+    },
+    "website_urls": {
+      "zh": "https://salondesrefuses.cn/zh/art-history/guides/scope",
+      "en": "https://salondesrefuses.cn/en/art-history/guides/scope"
+    }
+  }
+]

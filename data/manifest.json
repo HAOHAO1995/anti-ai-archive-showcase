@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "code_license": "MIT",
+  "license_scope": "Original archive metadata and authored research only; third-party titles, excerpts and source materials retain their own rights.",
+  "version": "2026.11.19",
+  "publication_status": "development-branch; published-source-snapshot",
+  "snapshot_updated": "2026-11-19",
+  "license": "CC-BY-4.0",
+  "source_snapshot_sha256": "9d0066e4b6da5dd5049b98af9f400bd0823e6744e1875910b49d06bd63f83612",
+  "genealogy_snapshot_sha256": "66ff12a5fd440e0b3731d25cc1c2b76e4fdffe5a09fc050bba526542c9018c59",
+  "translation_snapshot_sha256": "cb4e9a57d6a1908142a6d748e323861efb6ae721e2d8ae43a141bef54ad96076",
+  "scope": "Published catalogue metadata and archive-authored bilingual accounts; no third-party full texts or private drafts.",
+  "files": {
+    "cases.json": {
+      "records": 385,
+      "sha256": "bb36005ac0d79587f4c4a205be9e06794bd09aa604c222e80b392b053a1b2673"
+    },
+    "cases.csv": {
+      "records": 385,
+      "sha256": "a084b704128991ea48dceaa571310fe2de74b824da88db955d4914f18e314a87"
+    },
+    "events.json": {
+      "records": 624,
+      "sha256": "add76608b154b4559f0f7ae19724c70b37e167cb66ddbabc7e03b96eaca8aaa7"
+    },
+    "events.csv": {
+      "records": 624,
+      "sha256": "e7ee7fbe05c5076d7fb095e0ffc29bc5c17d7e074e8d51b690612c322e1edefc"
+    },
+    "documents.json": {
+      "records": 1028,
+      "sha256": "8c1e30fd1c3afb3e62520ebd826ad433803cd65e1cb77ef5a66cd6bb243f9886"
+    },
+    "documents.csv": {
+      "records": 1028,
+      "sha256": "db609dfe6159749068bced1d06003a9cabd03fbaac85c8587604b3e47a391aae"
+    },
+    "sources.json": {
+      "records": 2201,
+      "sha256": "08d630bbe8c8e78e340de855840ef4cae1688b04cf13a7a87d8266172c222456"
+    },
+    "sources.csv": {
+      "records": 2201,
+      "sha256": "2ce2f0e677d3d471d34e90d6d2b5ef458e901616367013212ed4be9621a1258e"
+    },
+    "entities.json": {
+      "records": 417,
+      "sha256": "42483a154e631eff0c03766c4d8f2b4a72408c27cec716aa3c432ac1e9757943"
+    },
+    "entities.csv": {
+      "records": 417,
+      "sha256": "cf93a7844af93d01e14fb002aa99ca2c95b0719236c86f620abf2ca816bfb389"
+    },
+    "genealogy.json": {
+      "records": 391,
+      "sha256": "83053ab716c8e497d20316fd11c9a720ce51432610667f128384b8a1382c836d"
+    },
+    "genealogy.csv": {
+      "records": 391,
+      "sha256": "4f815293eba36f41eada4463b7b35dda30716fe026f28a7c30010ad7289d4114"
+    },
+    "history-accounts.json": {
+      "records": 391,
+      "sha256": "21c9016a9b7a0ce031580898c06de588b5a6b6229970c1cd9eb7279aca67aaf4"
+    },
+    "history-accounts.csv": {
+      "records": 391,
+      "sha256": "408b14f662f63e44de4f1865b6dddbfb6dc5b30ea573015ff2c8b5fcef630c34"
+    },
+    "authored-documents.json": {
+      "records": 2,
+      "sha256": "d5f0ed5d09bbfa84db20a3a2846ca7e1279c76953edd64d3a9a2f9623535d86f"
+    },
+    "authored-documents.csv": {
+      "records": 2,
+      "sha256": "a181f30803a2749bdd1185513168fe84ddbb2479aa21c2ce5053cc1cfd89559e"
+    },
+    "guides.json": {
+      "records": 5,
+      "sha256": "35e550e8b2bdc56ee2e6a703fa510efa885daf4fa4bea52f41be4fc0069d7ad0"
+    },
+    "guides.csv": {
+      "records": 5,
+      "sha256": "83e549b34b3adc17eda99086dbd73e7422e89766f9375f28e950601f835edeff"
+    }
+  },
+  "counts": {
+    "cases": 385,
+    "events": 624,
+    "catalogue_documents": 1028,
+    "authored_documents": 2,
+    "documents_total": 1030,
+    "sources": 2201,
+    "stored_entities": 417,
+    "distinct_entities": 416,
+    "event_linked_entity_ids": 414,
+    "event_linked_entities": 413,
+    "history_timeline_nodes": 336,
+    "history_context_records": 55,
+    "history_records": 391,
+    "history_accounts": 391,
+    "history_guides": 5
+  }
+}

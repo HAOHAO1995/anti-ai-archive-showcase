@@ -1,0 +1,13 @@
+{
+  "accepted_snapshot": "2026-11-19",
+  "through_batch": 1306,
+  "source": "Existing accepted public website snapshot; infrastructure branch is not a new production release.",
+  "files": {
+    "archive.json": "9d0066e4b6da5dd5049b98af9f400bd0823e6744e1875910b49d06bd63f83612",
+    "genealogy.json": "66ff12a5fd440e0b3731d25cc1c2b76e4fdffe5a09fc050bba526542c9018c59",
+    "genealogy-essays.json": "f7c28d673435a7109ac21ff574dfb7cc9ee052a14de9b6cc575620b6235773f8",
+    "topics.json": "2774013ad5db578ad6f2e94ab1368453b1fade4e1434d5df8fe96643e124845f",
+    "authored-documents.json": "d5f0ed5d09bbfa84db20a3a2846ca7e1279c76953edd64d3a9a2f9623535d86f",
+    "i18n/translations.json": "cb4e9a57d6a1908142a6d748e323861efb6ae721e2d8ae43a141bef54ad96076"
+  }
+}

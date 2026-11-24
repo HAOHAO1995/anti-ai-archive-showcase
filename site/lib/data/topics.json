@@ -1,0 +1,1201 @@
+[
+  {
+    "slug": "ai-art-history",
+    "title": {
+      "zh": "生成艺术史：1943—2026 年的历史线索",
+      "en": "Generative Art History: historical threads, 1943–2026"
+    },
+    "shortTitle": {
+      "zh": "生成艺术史",
+      "en": "Generative Art History"
+    },
+    "description": {
+      "zh": "沿336个主线节点阅读生成艺术的规则、计算、软件、AI与Crypto实践；55项Crypto作品实例归入专题，保留双语正文、史料图与原始链接。",
+      "en": "Explore 336 timeline entries across rules, computation, software, AI and crypto practices; 55 crypto work examples sit within the thematic guide with bilingual accounts, source images and original links."
+    },
+    "intro": {
+      "zh": "生成艺术史研究艺术家如何以规则、程序、材料和系统组织作品，以及作品如何在运行、观看、选择与传播中形成。这里连接早期计算与绘图、软件艺术和创意编程、演化与机器学习、链上生成作品及其展览网络。AI艺术是其中一条支线；手写算法、随机过程、实时模拟与学习模型各有不同的创作和运行条件。主线目录与右侧时间线共用336个节点；55项Crypto作品实例在生成艺术专题中比较阅读，仍可进入双语说明、作品图像与官方展示入口。1943年是本档案选定的思想背景起点，不是生成艺术的起源断言。",
+      "en": "Generative Art History examines how artists organise works through rules, code, materials and systems, and how works take form through execution, viewing, selection and circulation. It connects early computing and plotting, software art and creative coding, evolution and machine learning, and on-chain works and exhibition networks. AI art is one branch: authored algorithms, random processes, live simulation and learned models have different conditions of creation and execution. The main catalogue and right-hand timeline share 336 entries; 55 crypto work examples are compared within the generative-art guide, with their bilingual accounts, source imagery and official presentation links preserved. The archive begins with an intellectual context in 1943, without claiming that generative art originated then."
+    },
+    "sections": [
+      {
+        "id": "scope",
+        "title": {
+          "zh": "为什么从 1943 年开始？",
+          "en": "Why begin in 1943?"
+        },
+        "body": {
+          "zh": "1943年沿用研究母版的神经计算背景节点，用来理解部分后来的计算艺术与AI实践。生成艺术还具有更早的规则、排列组合与材料过程历史，本目录尚未全面覆盖。这里把思想背景、艺术作品和机构事件分别标明，不以技术发布时间替代艺术史。早期计算机绘图、软件艺术、演化系统、机器学习和crypto艺术可相互比较，但不能只因使用计算就视为同一种方法；相邻日期也不等于直接影响。",
+          "en": "The 1943 entry retains the research master’s neural-computation context for some later computational and AI practices. Generative art also has earlier histories of rules, combinatorics and material processes that this catalogue does not yet cover comprehensively. Intellectual contexts, artworks and institutional events are distinguished; technical release dates do not substitute for art history. Computer plotting, software art, evolutionary systems, machine learning and crypto art can be compared without assuming that all computation uses the same method, or that chronological adjacency establishes influence."
+        }
+      },
+      {
+        "id": "method",
+        "title": {
+          "zh": "如何使用这 336 个节点？",
+          "en": "How can you use these 336 nodes?"
+        },
+        "body": {
+          "zh": "从右侧时间线选择年代或节点，目录会定位到对应卡片；单击卡片预览，点击“阅读”进入完整说明。生成艺术专题提供三组主线节点与六组作品讨论，Crypto作品实例不再各占时间线位置。详情页先列官方项目页、作品展示或可运行入口，再提供图片、具体过程、观看提示、历史解释与出处。静态预览仅代表一个输出或时刻；动态、交互和视听作品应结合原站展示。每条保留日期精度、原题、署名、来源局限及翻译审校状态；作品日期、NFT发行日期与图片获取日期分别记录。 “2022年以来的重要论文”导读按七个研究方向组织阅读，区分论文初次公开、修订与产品发布。",
+          "en": "Select a period or entry on the right-hand timeline to locate its catalogue card. Click a card to preview it, then choose Read for the full account. The generative-art guide offers three groups of timeline entries and six thematic work discussions; crypto work examples do not occupy individual timeline stops. Detail pages lead with official project, presentation or executable-work links, followed by imagery, process, viewing guidance, historical interpretation and sources. A static preview represents one output or moment; dynamic, interactive and audiovisual works should also be viewed at their source. Entries preserve date precision, original titles, credits, source limits and translation-review status, distinguishing artwork dates, NFT releases and image retrieval dates. The guide to important papers since 2022 offers seven research paths and distinguishes initial submission, revision and product release."
+        }
+      },
+      {
+        "id": "generative-lineage",
+        "title": {
+          "zh": "生成艺术专题：历史转折与作品实践",
+          "en": "Generative art: historical turning points and artistic practices"
+        },
+        "body": {
+          "zh": "本专题以46个主线节点连接早期计算、软件艺术与Crypto生成机制，并将55项作品与再版本化案例收纳为六组专题讨论。Crypto部分保留10个能说明生成、保存、发行、参与或展览机制发生变化的节点；Art Blocks及Chromie Squiggle合为一个平台节点。Fidenza、Ringers、《麒麟的记忆》以及Tezos／fxhash作品继续保留图像、双语说明与原始来源，但不再各占一个时间线位置。筛选是基于现有证据的编辑判断，不按价格、热度或名气排序，也不把未能证明的“第一”写成事实。",
+          "en": "This guide connects 46 main-timeline entries across early computing, software art and crypto generation, with 55 works and re-versioning cases discussed in six thematic groups. Ten crypto entries identify changes in generation, preservation, distribution, participation or exhibition; Art Blocks and Chromie Squiggle form a single platform milestone. Fidenza, Ringers, Memories of Qilin and Tezos/fxhash works retain images, bilingual accounts and original sources without each occupying a timeline stop. Selection is an editorial judgment based on available evidence, not a ranking by price, popularity or fame; unproven priority claims are not presented as fact."
+        },
+        "nodeIds": [
+          "012",
+          "006",
+          "013",
+          "015",
+          "225",
+          "018",
+          "248",
+          "226",
+          "022",
+          "023",
+          "296",
+          "024",
+          "229",
+          "231",
+          "233",
+          "234",
+          "235",
+          "297",
+          "236",
+          "237",
+          "032",
+          "033",
+          "239",
+          "034",
+          "240",
+          "241",
+          "299",
+          "298",
+          "300",
+          "301",
+          "302",
+          "303",
+          "038",
+          "304",
+          "305",
+          "249",
+          "306",
+          "250",
+          "251",
+          "073",
+          "309",
+          "308",
+          "307",
+          "253",
+          "318",
+          "315"
+        ],
+        "nodeGroups": [
+          {
+            "id": "early",
+            "title": {
+              "zh": "早期计算、绘图与艺术家共同体",
+              "en": "Early computing, plotting and artist communities"
+            },
+            "nodeIds": [
+              "012",
+              "006",
+              "013",
+              "015",
+              "225",
+              "018",
+              "248",
+              "226",
+              "022",
+              "023",
+              "296",
+              "024",
+              "229",
+              "231",
+              "233",
+              "234",
+              "235",
+              "297",
+              "236",
+              "237"
+            ]
+          },
+          {
+            "id": "creative",
+            "title": {
+              "zh": "软件艺术、网络与创意编程",
+              "en": "Software art, networks and creative coding"
+            },
+            "nodeIds": [
+              "032",
+              "033",
+              "239",
+              "034",
+              "240",
+              "241",
+              "299",
+              "298",
+              "300",
+              "301",
+              "302",
+              "303",
+              "038",
+              "304",
+              "305",
+              "249"
+            ]
+          },
+          {
+            "id": "crypto-milestones",
+            "title": {
+              "zh": "Crypto：生成、参与和展览机制的转折",
+              "en": "Crypto: changes in generation, participation and exhibition"
+            },
+            "nodeIds": [
+              "306",
+              "250",
+              "251",
+              "073",
+              "309",
+              "308",
+              "307",
+              "253",
+              "318",
+              "315"
+            ]
+          }
+        ],
+        "references": [
+          {
+            "title": {
+              "zh": "Le Random生成艺术时间线",
+              "en": "Le Random — Generative Art Timeline"
+            },
+            "url": "https://timeline.lerandom.art/",
+            "scope": {
+              "zh": "已读取入口与十章分期，未逐条核读全部时间线。",
+              "en": "Read the landing page and ten-chapter structure, not every timeline entry."
+            }
+          },
+          {
+            "title": {
+              "zh": "DAM数字艺术家档案",
+              "en": "DAM — Artists"
+            },
+            "url": "https://dam.org/museum/artists_ui/artists/",
+            "scope": {
+              "zh": "已核对四阶段艺术家索引，沿链接补查Wilson与Hébert等个案。",
+              "en": "Read the four-period artist index and followed selected artist records, including Wilson and Hébert."
+            }
+          },
+          {
+            "title": {
+              "zh": "Martin Lukas Ostachowski的crypto艺术史",
+              "en": "History of Crypto Art — Martin Lukas Ostachowski"
+            },
+            "url": "https://mlo.art/research/history-of-crypto-art/",
+            "scope": {
+              "zh": "参考跨链范围与方法，定向检索相关条目；未独立验证全部405条。",
+              "en": "Consulted multi-chain scope and methodology and targeted relevant entries; not all 405 entries independently verified."
+            }
+          },
+          {
+            "title": {
+              "zh": "Art Blocks作品发行目录",
+              "en": "Art Blocks — collections"
+            },
+            "url": "https://www.artblocks.io/discover/ab-500",
+            "scope": {
+              "zh": "本次核读41个新增作品的发行页；目录入口不等于读完500项目。",
+              "en": "Read release pages for 41 newly added works; the catalogue landing page does not establish completion of all 500 projects."
+            }
+          },
+          {
+            "title": {
+              "zh": "Rhizome网络艺术保存档案",
+              "en": "Rhizome — Every Icon"
+            },
+            "url": "https://artbase.rhizome.org/wiki/Q2428",
+            "scope": {
+              "zh": "核读Every Icon作品与描述版本时间，用于检查网络艺术衔接。",
+              "en": "Read the Every Icon work and description timestamps to check the net-art connection."
+            }
+          }
+        ],
+        "contextGroups": [
+          {
+            "id": "platform-examples",
+            "title": {
+              "zh": "平台初期：同一发行机制的多种视觉语言",
+              "en": "Early platform works: different visual languages within one release model"
+            },
+            "body": {
+              "zh": "Construction Token与Genesis帮助说明Art Blocks创立时已经存在多种构图语言。Singularity、Unigrids、Color Study、Portal和其他早期系列扩展了这一发行环境中的形式选择。这里把它们放在平台历史之后作比较：发行日期、版数和视觉差异是作品研究材料，单独不足以构成新的技术或制度转折。",
+              "en": "Construction Token and Genesis show that multiple compositional languages were present around Art Blocks’ launch. Singularity, Unigrids, Color Study, Portal and other early series extend the formal choices within that setting. Read them comparatively after the platform’s history: release dates, edition sizes and visual differences inform work analysis, but do not alone establish a new technical or institutional turning point."
+            },
+            "nodeIds": [
+              "269",
+              "270",
+              "271",
+              "268",
+              "279",
+              "280",
+              "273",
+              "289",
+              "276"
+            ],
+            "illustrationNodeId": "269"
+          },
+          {
+            "id": "long-form-examples",
+            "title": {
+              "zh": "长篇幅生成：以系列而非单张评价作品",
+              "en": "Long-form generation: evaluating a series rather than a single image"
+            },
+            "body": {
+              "zh": "Fidenza、Ringers与Archetype分别提供流场、绕线和模块构成的比较材料；Subscapes、Meridian、Trossets与Fragments of an Infinite Field展示不同规则怎样形成系列一致性。Gazers还把月相与时间纳入观看。保留Hobbs的理论论述为主线节点，将这些作品放在同一讨论中，可以比较完整输出空间，而不把每次发行都写成算法首创。",
+              "en": "Fidenza, Ringers and Archetype offer comparisons of flow fields, wrapping and modular composition; Subscapes, Meridian, Trossets and Fragments of an Infinite Field show how different rules support coherence across a series. Gazers also brings lunar phases and time into viewing. Keeping Hobbs’s critical essay in the main chronology lets these works be discussed together through their output spaces without treating every release as an algorithmic invention."
+            },
+            "nodeIds": [
+              "252",
+              "255",
+              "256",
+              "258",
+              "257",
+              "259",
+              "260",
+              "261",
+              "262",
+              "281"
+            ],
+            "illustrationNodeId": "252"
+          },
+          {
+            "id": "material-examples",
+            "title": {
+              "zh": "材料、纹样与文化参照",
+              "en": "Materials, patterns and cultural references"
+            },
+            "body": {
+              "zh": "《麒麟的记忆》将东亚绘画和木版画参照带入JavaScript与p5.js；Screens、Loom与Sudfah分别借助印刷、编织与墨迹的语言。河流模拟、环形构图、月光、线迹与日常光线进一步展开材料和观看经验的转译。这些差异值得详细阅读，但现有证据尚不能将每一项都认定为Crypto生成机制的历史突破。",
+              "en": "Memories of Qilin brings references to East Asian painting and woodblock printing into JavaScript and p5.js; Screens, Loom and Sudfah draw on printing, weaving and ink. River simulation, rings, moonlight, drawn traces and everyday light extend this translation of material and perceptual experience. These differences deserve close reading, while current evidence does not establish every work as a historical breakthrough in crypto generation."
+            },
+            "nodeIds": [
+              "254",
+              "264",
+              "267",
+              "272",
+              "282",
+              "283",
+              "266",
+              "284",
+              "285"
+            ],
+            "illustrationNodeId": "254"
+          },
+          {
+            "id": "runtime-examples",
+            "title": {
+              "zh": "运动、空间与叙事：运行中的作品",
+              "en": "Motion, space and narrative: works in execution"
+            },
+            "body": {
+              "zh": "这一组把实时运动、三维空间、声音、数据和文字重组放在一起比较。Geometry Runners、Skulptuur与Chimera依赖运行和交互；Flux与Memories of Digital Data包含声音；Petro National、FAKE IT TILL YOU MAKE IT及923 Empty Rooms引入社会数据、语言或展览结构。作品的媒介差异和议题保留在专题中，不据此推定它们各自首次发明动画、模拟或生成文本。",
+              "en": "This group compares live motion, three-dimensional space, sound, data and recombined text. Geometry Runners, Skulptuur and Chimera depend on execution and interaction; Flux and Memories of Digital Data include sound; Petro National, FAKE IT TILL YOU MAKE IT and 923 Empty Rooms introduce social data, language or exhibition structures. Their media and concerns remain available for study without implying that each invented animation, simulation or generative text."
+            },
+            "nodeIds": [
+              "290",
+              "293",
+              "295",
+              "294",
+              "291",
+              "263",
+              "278",
+              "265",
+              "274",
+              "275",
+              "288",
+              "292",
+              "287",
+              "286",
+              "277"
+            ],
+            "illustrationNodeId": "263"
+          },
+          {
+            "id": "tezos-examples",
+            "title": {
+              "zh": "Tezos与fxhash：跨平台的实践比较",
+              "en": "Tezos and fxhash: comparing practices across platforms"
+            },
+            "body": {
+              "zh": "Tezos与fxhash不能被Art Blocks的目录代替。Garden, Monoliths和(kinder)Garden, Monuments连接植物、建筑和笔式绘图；Ethereal Microcosm以代理与环境互动组织演化，Towers与Kim Asendorf的作品处理字符和像素。hollow、The Anatomy of Fracture与Becoming延伸到建筑、纸本和网格变形。本组保留跨平台视野，同时区分既有艺术方法、特定作品方案和平台层面的制度变化。",
+              "en": "Tezos and fxhash cannot be represented by the Art Blocks catalogue alone. Garden, Monoliths and (kinder)Garden, Monuments connect vegetation, architecture and plotting; Ethereal Microcosm organises evolution through agents and their environment, while Towers and Kim Asendorf’s works handle characters and pixels. hollow, The Anatomy of Fracture and Becoming extend into architecture, paper and deformed grids. The comparison distinguishes established artistic methods, particular work designs and platform-level institutional changes."
+            },
+            "nodeIds": [
+              "312",
+              "310",
+              "313",
+              "314",
+              "319",
+              "311",
+              "320",
+              "322",
+              "323"
+            ],
+            "illustrationNodeId": "310"
+          },
+          {
+            "id": "circulation-examples",
+            "title": {
+              "zh": "再版本化、合作与流通",
+              "en": "Re-versioning, collaboration and circulation"
+            },
+            "body": {
+              "zh": "Dreaming at Dusk将密码学与Tor的历史变成作品材料；Themes and Variations连接Molnár与Grasser；Every Icon的NFT版本则应与1997年的原作分开理解。这些案例用于追踪作品如何被改写、合作和收藏。它们仍有独立资料页，但本轮未把一次发行或名家参与本身当作需要新增时间线位置的理由。",
+              "en": "Dreaming at Dusk takes cryptography and Tor’s history as material; Themes and Variations connects Molnár and Grasser; Every Icon’s NFT version must be distinguished from the 1997 work. These examples trace re-versioning, collaboration and collecting. Their research pages remain available, while a release or participation by an established artist alone is not treated as a sufficient reason for a separate timeline stop."
+            },
+            "nodeIds": [
+              "316",
+              "317",
+              "321"
+            ],
+            "illustrationNodeId": "317"
+          }
+        ]
+      },
+      {
+        "id": "recent-papers",
+        "title": {
+          "zh": "2022年以来的重要论文：从生成方法到文化问题",
+          "en": "Important papers since 2022: methods and cultural questions"
+        },
+        "body": {
+          "zh": "本导读串联52个研究相关节点，其中33个为本次补入的2022—2025年论文，5个已有成果补齐了论文与版本依据，其余沿用已有论文节点。七条阅读路径覆盖架构与采样、可控编辑、三维、视频、声音、评价及文化研究。选取依据是方法上的独立贡献、与制作或观看条件的关系，以及评价、数据和艺术家权益方面的解释力，并非按公司或产品热度排名。时间线采用预印本首次公开日；会议版、修订版与产品上线日期另行说明。原图保留图号、版本、署名与来源，演示链接指向作者项目。本批核读摘要、提交记录及注明的原图页，未复现实验，也不声称穷尽2022—2026年的论文；2026年新近候选的持续影响仍需追踪。",
+          "en": "This guide connects 52 research-related entries: 33 papers from 2022–2025 added in this pass, five existing achievements enriched with paper and version sources, and previously catalogued research. Seven paths cover architectures and sampling, editing, 3D, video, sound, evaluation and cultural inquiry. Selection prioritises distinct methodological contributions, production and viewing conditions, and explanatory value for evaluation, data and artists’ rights, rather than companies or product popularity. Initial preprint submission supplies the new timeline date; conference versions, revisions and releases remain separate. Figures retain source, credit and version context, with demonstrations linked to author projects. This pass reads abstracts, submission records and specified figure pages without reproducing experiments. It does not exhaust 2022–2026 scholarship; the longer-term significance of recent 2026 candidates remains under review."
+        },
+        "nodeIds": [
+          "081",
+          "082",
+          "092",
+          "324",
+          "083",
+          "084",
+          "325",
+          "326",
+          "093",
+          "327",
+          "094",
+          "328",
+          "329",
+          "330",
+          "095",
+          "331",
+          "332",
+          "106",
+          "333",
+          "334",
+          "335",
+          "336",
+          "097",
+          "098",
+          "337",
+          "338",
+          "339",
+          "100",
+          "340",
+          "341",
+          "342",
+          "101",
+          "102",
+          "343",
+          "118",
+          "104",
+          "344",
+          "345",
+          "109",
+          "346",
+          "120",
+          "347",
+          "122",
+          "348",
+          "349",
+          "350",
+          "351",
+          "352",
+          "353",
+          "354",
+          "355",
+          "356"
+        ],
+        "nodeGroups": [
+          {
+            "id": "architecture",
+            "title": {
+              "zh": "架构、采样与训练",
+              "en": "Architectures, sampling and training"
+            },
+            "nodeIds": [
+              "082",
+              "092",
+              "083",
+              "084",
+              "325",
+              "326",
+              "328",
+              "330",
+              "332",
+              "333",
+              "338",
+              "101",
+              "118",
+              "104",
+              "122",
+              "348",
+              "349",
+              "350",
+              "351",
+              "353",
+              "355"
+            ]
+          },
+          {
+            "id": "editing",
+            "title": {
+              "zh": "图像编辑与可控生成",
+              "en": "Image editing and control"
+            },
+            "nodeIds": [
+              "093",
+              "327",
+              "094",
+              "095",
+              "331",
+              "334",
+              "097",
+              "098",
+              "100",
+              "102",
+              "120"
+            ]
+          },
+          {
+            "id": "spatial",
+            "title": {
+              "zh": "三维生成与空间表示",
+              "en": "3D generation and spatial representations"
+            },
+            "nodeIds": [
+              "329",
+              "339",
+              "340",
+              "343",
+              "352"
+            ]
+          },
+          {
+            "id": "video",
+            "title": {
+              "zh": "视频与时间连续性",
+              "en": "Video and temporal continuity"
+            },
+            "nodeIds": [
+              "324",
+              "106",
+              "109",
+              "347",
+              "354",
+              "356"
+            ]
+          },
+          {
+            "id": "audio",
+            "title": {
+              "zh": "声音与音乐生成",
+              "en": "Sound and music generation"
+            },
+            "nodeIds": [
+              "335",
+              "342"
+            ]
+          },
+          {
+            "id": "evaluation",
+            "title": {
+              "zh": "评价标准与基准",
+              "en": "Evaluation and benchmarks"
+            },
+            "nodeIds": [
+              "344",
+              "346"
+            ]
+          },
+          {
+            "id": "critique",
+            "title": {
+              "zh": "数据、艺术家权益与文化研究",
+              "en": "Data, artists’ rights and cultural inquiry"
+            },
+            "nodeIds": [
+              "081",
+              "336",
+              "337",
+              "341",
+              "345"
+            ]
+          }
+        ],
+        "references": [
+          {
+            "title": {
+              "zh": "arXiv：论文初次提交与版本记录",
+              "en": "arXiv: initial submission and version records"
+            },
+            "url": "https://arxiv.org/",
+            "scope": {
+              "zh": "本批逐条核对38篇论文记录，正文核读范围见各节点；非arXiv全库检索完成声明。",
+              "en": "38 individual paper records checked in this pass; each entry specifies its reading scope. This is not a claim of a complete arXiv search."
+            }
+          }
+        ]
+      }
+    ],
+    "caseIds": [],
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "translationContentHash": "69e83c73a1f71e70ceb76bddc593cc67b02fd4f988fb765e0a5460a7bd94a105",
+    "updatedAt": "2026-11-19"
+  },
+  {
+    "slug": "culture-governance",
+    "title": {
+      "zh": "文化与治理",
+      "en": "Culture & Governance"
+    },
+    "shortTitle": {
+      "zh": "文化与治理",
+      "en": "Culture & Governance"
+    },
+    "description": {
+      "zh": "研究 AI 艺术实践、作者身份与文化治理，连接反 AI 行动、创意劳动、平台规则、同意和报酬，以及八个独立艺术史研究参考。",
+      "en": "Study AI art, authorship and cultural governance through anti-AI movements, creative labour, platform rules, consent and compensation, alongside eight independent art-history research references."
+    },
+    "intro": {
+      "zh": "从艺术实践、作品与作者身份出发，研究谁可以使用作品、复制声音与形象，谁决定创作工具和平台的规则，以及劳动者如何表达拒绝、协商许可并获得报酬。本专题将 AI 艺术研究、反 AI 事件与创意劳动放在同一条阅读路径中，保留不同地区、行业、诉求与证据之间的差异。",
+      "en": "Starting with artistic practice, works and authorship, examine who may use creative work or replicate voices and likenesses, who sets the rules for tools and platforms, and how workers refuse, negotiate permission and receive compensation. This topic brings AI art research, anti-AI events and creative labour into one reading path while retaining differences between places, industries, demands and evidence."
+    },
+    "sections": [
+      {
+        "id": "ai-art-research",
+        "title": {
+          "zh": "AI 艺术：创作、作者身份与争议的研究入口",
+          "en": "AI art: a guide to practice, authorship and controversy"
+        },
+        "body": {
+          "zh": "搜索“AI 艺术”时，读者可能在寻找作品、工具、历史或批评。本档案关注的是艺术史问题：人工智能如何进入创作与展示，创作者如何说明自己的实践，以及围绕劳动、许可和艺术价值形成了哪些不同立场。",
+          "en": "A search for “AI art” may be a search for works, tools, history or criticism. This archive addresses art-historical questions: how artificial intelligence enters artistic production and display, how practitioners describe their work, and how positions on labour, permission and artistic value take shape."
+        },
+        "caseIds": [
+          "case-0037",
+          "case-0011",
+          "case-0072",
+          "case-0039",
+          "case-u261001-03"
+        ]
+      },
+      {
+        "id": "definition",
+        "title": {
+          "zh": "AI 艺术指什么？",
+          "en": "What does AI art refer to?"
+        },
+        "body": {
+          "zh": "研究时需要说明具体对象，而不能仅凭“使用过 AI”归为同一类。艺术家设定规则的系统、训练或调整模型、生成图像、编辑与策展选择，是可以分别考察的环节。作品的媒介、制作过程和作者陈述，比一个统一的标签更能说明它与 AI 的关系。",
+          "en": "Research needs to identify the particular practice rather than group everything that has used AI into one category. Rule-based systems devised by artists, training or adapting models, image generation, editing and curatorial selection can be examined separately. A work’s medium, production process and its maker’s account explain its relationship to AI more precisely than a single label."
+        }
+      },
+      {
+        "id": "questions",
+        "title": {
+          "zh": "如何研究“AI 能否成为艺术”？",
+          "en": "How can “Can AI make art?” become a research question?"
+        },
+        "body": {
+          "zh": "把价值判断拆成可核对的问题：谁被署名，哪些劳动可见，作品以什么方式进入竞赛或展览，评审和机构依据什么规则回应？下方案例可用来比较拒奖、公开信、平台政策和版权范围讨论。收录某个立场不表示档案认同它，也不预先裁定所有 AI 相关作品的艺术价值。",
+          "en": "Break the value judgment into questions that can be investigated: who receives credit, whose labour is visible, how does a work enter a competition or exhibition, and which rules guide an institution’s response? The cases below support comparisons of award refusals, open letters, platform policies and debates over copyright scope. Recording a position is not an endorsement or a judgment on the artistic value of every AI-related work."
+        }
+      },
+      {
+        "id": "history",
+        "title": {
+          "zh": "AI 艺术史与用 AI 研究艺术史有什么区别？",
+          "en": "How does AI art history differ from using AI to study art history?"
+        },
+        "body": {
+          "zh": "前者考察 AI 相关艺术实践及其制度、社会和技术背景；后者把计算方法用于作品分析、检索或归属研究。两者可以相交，但问题和证据并不相同。本站的历史谱系和事件档案以前者为主要入口，并把技术论述与具体艺术行动交叉阅读。",
+          "en": "The former studies AI-related artistic practices and their institutional, social and technical contexts. The latter uses computational methods to analyse, retrieve or attribute artworks. They may overlap, but their questions and evidence differ. This archive’s genealogy and event records primarily approach the former, reading technical accounts alongside concrete artistic actions."
+        }
+      },
+      {
+        "id": "generative-comparison",
+        "title": {
+          "zh": "生成艺术与AI艺术：比较规则、学习与流通",
+          "en": "Generative art and AI art: rules, learning and circulation"
+        },
+        "body": {
+          "zh": "生成艺术专题时间线连接早期计算、软件艺术、创意编程和crypto生态，包含艺术家、具体作品、平台及展览。它分别考察规则、学习、演化与流通，而不把生成艺术缩减为AI图像或少数NFT代表作。中英文节点可直接进入原始资料和相关作品。",
+          "en": "The generative-art timeline connects early computing, software art, creative coding and crypto ecosystems through artists, works, platforms and exhibitions. It distinguishes rules, learning, evolution and circulation rather than reducing the field to AI images or a handful of NFTs. Bilingual entries lead directly to original sources and related works."
+        }
+      },
+      {
+        "id": "anti-ai-movements",
+        "title": {
+          "zh": "什么是反 AI 运动？诉求、行动与历史证据",
+          "en": "What is the anti-AI movement? Demands, actions and historical evidence"
+        },
+        "body": {
+          "zh": "反 AI 运动不是一个统一组织。这个标签涵盖对生成式 AI 的多种拒绝、抗议与协商，争议常涉及作品训练、声音和形象复制、创意劳动与平台规则。应从各方的具体诉求出发，区分拒绝某种用途与拒绝所有 AI。",
+          "en": "The anti-AI movement is not a single organisation. The label covers different forms of refusal, protest and negotiation over generative AI, including training on creative works, replication of voices and likenesses, creative labour and platform rules. Specific demands matter: opposing a particular use is different from rejecting all AI."
+        },
+        "subsections": [
+          {
+            "id": "positions",
+            "title": {
+              "zh": "他们反对的分别是什么？",
+              "en": "What do participants oppose?"
+            },
+            "body": {
+              "zh": "关于 AI 训练的联署声明反对未经许可使用创作成果；这是一项围绕训练用途的诉求，不能替代每个签署者的全部立场。Procreate则公开宣布不将生成式 AI 引入其产品，把软件设计与艺术劳动的关系置于讨论中心。这两类材料分别体现对使用条件的要求和产品方向上的拒绝。把它们统称为害怕技术，会丢失行动对象、利益关系与可协商条件之间的差别。",
+              "en": "The Statement on AI Training opposes unlicensed use of creative work. This demand addresses a use of material; it does not establish every signatory’s views on every AI application. Procreate, by contrast, publicly rules out introducing generative AI into its products. These positions concern different decisions: conditions for using creative work and the direction of an artistic tool. Treating both as fear of technology obscures who controls the decision, whose work is involved and what remains negotiable."
+            },
+            "sourceIds": [
+              "src-0091",
+              "src-0066"
+            ]
+          },
+          {
+            "id": "platforms",
+            "title": {
+              "zh": "ArtStation 与 NoAI：平台规则怎样成为争议对象",
+              "en": "ArtStation and NoAI: contesting platform rules"
+            },
+            "body": {
+              "zh": "ArtStation于2022年12月16日公布NoAI标签及服务条款调整，让用户标明作品不得用于AI训练。这个日期证明平台公告的发表，不能单独证明抗议从哪一天、哪位艺术家开始。还要区分训练许可、作品展示和搜索过滤：允许用户过滤生成图像，并不等于平台禁止所有AI作品；加入标签，也不能直接证明抓取或训练已经停止。案例档案将后续公告与早期材料串联，保留起点证据尚不完整的说明。",
+              "en": "On 16 December 2022, ArtStation announced NoAI tagging and a terms-of-service change allowing users to state that work must not be used for AI training. The date establishes the platform announcement, not the first protest or its initiator. Training permissions, publication and search filters are separate questions: filtering generated images is not a platform-wide ban, and a tag does not demonstrate that scraping or training has stopped. The case connects later announcements with earlier materials while retaining gaps in the evidence for the protest’s beginnings."
+            },
+            "sourceIds": [
+              "src-0001"
+            ]
+          },
+          {
+            "id": "labour",
+            "title": {
+              "zh": "电子游戏表演者：从抗议到合同谈判",
+              "en": "Video-game performers: from protest to bargaining"
+            },
+            "body": {
+              "zh": "SAG-AFTRA在2024年8月16日的说明中记载，电子游戏罢工于7月25日宣布、7月26日生效。工会将数字替身及合成表演中的同意、报酬和透明度列为诉求。这使研究对象从图像是否属于艺术，转向谁可以复制表演、以什么条件使用，以及劳动者如何集体谈判。工会声明是其诉求与行动的证据，不是雇主违法的司法认定；后续协议、批准与实际执行也需要分别核对。",
+              "en": "SAG-AFTRA’s account dated 16 August 2024 records a video-game strike announced on 25 July and effective on 26 July. It identifies consent, compensation and transparency for digital replicas and synthetic performances as demands. This shifts the question from whether a generated image counts as art to who may replicate a performance, under what conditions, and how workers bargain collectively. The statement documents the union’s demands and action; it is not a judicial finding against employers. Agreements, ratification and implementation must also be checked separately."
+            },
+            "sourceIds": [
+              "src-0009"
+            ]
+          },
+          {
+            "id": "historical-comparison",
+            "title": {
+              "zh": "怎样比较不同地区与不同阶段？",
+              "en": "How should different places and stages be compared?"
+            },
+            "body": {
+              "zh": "本档案以2022年以来的事件为反AI运动的主要研究范围，不把2022年写成一切技术批判的起点。比较时可以沿四条线阅读：作品与训练数据、身体与表演劳动、平台的展示与使用规则、组织化行动及许可协商。这是编者组织材料的方法，不是所有参与者认可的分类。巴西配音、日本声音权利及欧美组织的行动仍须结合各自语言、制度与媒介条件；关于计算艺术和生成艺术的更早历史，另见AI艺术史。",
+              "en": "The archive’s main period for anti-AI movements begins in 2022; this is a research boundary, not a claim that criticism of technology began then. An editorial comparison can follow four strands: creative work and training data; bodies and performance labour; platform rules for visibility and use; and organising and licensing negotiations. These are ways to organise evidence, not categories endorsed by every participant. Brazilian dubbing, Japanese voice-rights campaigns and European or US organisations require attention to their own languages, institutions and media. Earlier computational and generative practices are explored separately in AI Art History."
+            },
+            "sourceIds": []
+          },
+          {
+            "id": "reading-evidence",
+            "title": {
+              "zh": "如何使用这份档案",
+              "en": "How to use the archive"
+            },
+            "body": {
+              "zh": "从下方案例进入，按事件日期比较声明、合同、平台回应与其他来源。原文链接用于核对各方实际说了什么；中文与英文说明用于定位材料、解释关系与保留不确定性。不要把诉状当作判决，把政策承诺当作实施结果，或把资料数量当作运动规模。本文是基于所列材料的研究导读，会随证据修订；翻译采用AI辅助，尚未经独立人工审校，来源核读与历史主张的独立核实分别记录。",
+              "en": "Start with a case below and compare statements, agreements, platform responses and other sources by event date. Original links let readers check what participants actually said; Chinese and English accounts locate material, explain relationships and preserve uncertainty. A complaint is not a judgment, a policy promise is not an implementation result, and an archive’s record count is not the size of a movement. This is a revisable research guide based on the listed materials. Its bilingual text is AI-assisted and awaits independent human review; source reading and independent verification of historical claims remain separate."
+            },
+            "sourceIds": []
+          }
+        ],
+        "caseIds": [
+          "case-0001",
+          "case-0055",
+          "case-0006",
+          "case-0008",
+          "case-0031",
+          "case-0018",
+          "case-0034",
+          "case-0039",
+          "case-u261001-01",
+          "case-u261001-02"
+        ]
+      },
+      {
+        "id": "demands",
+        "title": {
+          "zh": "创作者与文化劳动者为什么反对或限制 AI？",
+          "en": "Why do creators and cultural workers oppose or restrict AI?"
+        },
+        "body": {
+          "zh": "不能把反对未经许可训练、反对声音或形象被复制、要求劳动保障，与拒绝所有 AI 工具混为一谈。研究一个事件时，先读当事人的具体诉求，再核对它针对的模型、平台、合同或机构。下方选取不同地区与门类的案例；它们是比较入口，不是某个统一运动的成员名单。",
+          "en": "Opposition to training without permission, replication of a voice or likeness, and demands for labour protections should not be conflated with rejecting every AI tool. Begin with participants’ specific demands, then identify the model, platform, contract or institution they address. The cases below span regions and disciplines; they are comparative entry points, not a membership list for a unified movement."
+        }
+      },
+      {
+        "id": "evidence",
+        "title": {
+          "zh": "如何核对一次抗议或争议？",
+          "en": "How can a protest or dispute be checked?"
+        },
+        "body": {
+          "zh": "先区分公开信、工会公告、平台回应、诉状与判决，再比较事件日和材料发布日期。指控不等于法院认定，政策承诺不等于已经实施，平台公告也不一定证明抗议的起点。本站案例连接带日期的事件、文献和原始来源，并保留尚未补齐的环节。",
+          "en": "Distinguish open letters, union announcements, platform responses, complaints and judgments, then compare event dates with publication dates. Allegations are not court findings; a policy commitment is not proof of implementation; a platform announcement may not establish when a protest began. Cases connect dated events, documents and original sources while retaining gaps in the record."
+        }
+      },
+      {
+        "id": "comparison",
+        "title": {
+          "zh": "从个别事件读到全球艺术史",
+          "en": "Reading individual events as global art history"
+        },
+        "body": {
+          "zh": "可以沿一份公开信、一个平台或一种艺术劳动追踪变化，也可以横向比较不同地区对同意、报酬、署名和控制权的表述。每次比较都要保留当地的制度、语言和媒介条件。案例中的来源已核读状态，与历史主张是否独立证实、译文是否人工审校，是分别记录的问题。",
+          "en": "Follow changes through an open letter, a platform or a form of artistic labour, or compare how consent, payment, credit and control are articulated across regions. Preserve local institutional, linguistic and media conditions in each comparison. Whether a source has been read, a historical claim independently established, and a translation human-reviewed are recorded as separate questions."
+        }
+      },
+      {
+        "id": "creative-labour",
+        "title": {
+          "zh": "创意劳动、同意与 AI 权利：声音、表演与合同",
+          "en": "Creative labour, consent & AI rights: voice, performance and contracts"
+        },
+        "body": {
+          "zh": "创意劳动中的 AI 争议涉及具体的声音、形象、表演和使用条件。一次授权覆盖什么用途、由谁作出决定、如何获得报酬，以及劳动者能否协商，是理解这些争议的起点。本导读把集体协议、公共听证和司法个案并列，保留不同地区、行业和法律关系的差异。",
+          "en": "AI disputes in creative labour concern particular voices, likenesses, performances and conditions of use. A starting point is to ask what a permission covers, who decides, how compensation works and whether workers can bargain. This guide places collective agreements, public hearings and a judicial case alongside one another, preserving differences between places, industries and legal relationships."
+        },
+        "caseIds": [
+          "case-0024",
+          "case-0006",
+          "case-0008",
+          "case-0012",
+          "case-u261001-01",
+          "case-u261001-02",
+          "case-u261001-03",
+          "case-u261001-04"
+        ]
+      },
+      {
+        "id": "replicas",
+        "title": {
+          "zh": "数字替身与合成表演者：分别核对什么？",
+          "en": "Digital replicas and synthetic performers: what needs to be distinguished?"
+        },
+        "body": {
+          "zh": "声音或形象的复制、使用既有表演训练模型，以及制作合成表演者，并不是同一项行为。阅读材料时需要辨明对象、当事人、合同适用范围和所述用途。档案中的 SAG-AFTRA 影视案例连接了 2023 年罢工及 2026 年协议材料；这些记录用于追踪条款与协商的变化，不能据此推断所有表演者享有相同保障。",
+          "en": "Replicating a voice or likeness, using an existing performance for model training, and producing a synthetic performer are different activities. Identify the object, parties, agreement coverage and stated uses in each source. The archive’s SAG-AFTRA screen case connects the 2023 strike with agreement materials from 2026. These records trace changes in terms and bargaining; they do not establish identical protections for all performers."
+        },
+        "caseIds": [
+          "case-0024"
+        ]
+      },
+      {
+        "id": "bargaining",
+        "title": {
+          "zh": "从罢工到协议：区分公告、表决与执行",
+          "en": "From strike to agreement: distinguish announcement, ratification and implementation"
+        },
+        "body": {
+          "zh": "2023 年影视罢工与 2024—2025 年游戏表演者罢工分别属于不同的合同谈判。工会宣布暂定协议、会员批准协议，以及条款实际执行，应作为不同节点阅读。游戏案例中的 2025 年批准公告可以支撑协议获批与罢工结束的组织陈述，却不能单独证明每次复制表演的使用都符合许可和报酬要求。",
+          "en": "The 2023 screen strike and the 2024–2025 video-game performers’ strike concern separate contract negotiations. A union’s tentative-agreement announcement, member ratification and implementation should be read as distinct stages. The game case’s 2025 ratification announcement documents the union’s account of approval and the strike’s end; it does not independently establish compliance with consent and compensation requirements in every use of a replicated performance."
+        },
+        "caseIds": [
+          "case-0024",
+          "case-0006"
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": {
+          "zh": "公共听证与声音权利个案：不同的制度路径",
+          "en": "Public hearings and a voice-rights case: different institutional routes"
+        },
+        "body": {
+          "zh": "巴西 Dublagem Viva 的材料连接配音劳动者的诉求、宣言递交与国会听证；北京 AI 生成声音案例则通过司法信息材料记录特定案件的第一审判断。公共讨论不等于立法完成，一审个案也不等于全球通行的规则。比较这些材料时，应分别保留诉求、程序、裁判范围和后续待核状态。",
+          "en": "The Brazilian Dublagem Viva records connect dubbing workers’ demands, delivery of a manifesto and a congressional hearing. The Beijing AI-generated voice case records a first-instance decision through judicial information materials. Public discussion is not completed legislation, and a first-instance case is not a universal rule. Comparison should preserve the demands, procedures, scope of the decision and unresolved follow-up in each record."
+        },
+        "caseIds": [
+          "case-0008",
+          "case-0012"
+        ]
+      },
+      {
+        "id": "permission",
+        "title": {
+          "zh": "如何研究同意、报酬与控制权？",
+          "en": "How can consent, compensation and control be researched?"
+        },
+        "body": {
+          "zh": "逐份材料追问：同意针对哪种用途，是否区分训练与输出；是谁许可、谁获偿；使用范围和期限如何说明；争议由什么程序处理？这些是比较问题，并不假定所有材料都已有答案。优先阅读原协议、听证记录和司法材料，并将条文、当事方解释与执行证据分开。",
+          "en": "Ask of each source: which use does consent cover, and are training and outputs distinguished? Who grants permission and who is compensated? How are scope and duration described, and what process addresses disputes? These are comparative questions, not assumptions that every source supplies answers. Prioritise original agreements, hearing records and judicial materials, separating provisions, parties’ interpretations and evidence of implementation."
+        },
+        "caseIds": [
+          "case-0024",
+          "case-0006",
+          "case-0008",
+          "case-0012"
+        ]
+      }
+    ],
+    "caseIds": [
+      "case-0037",
+      "case-0011",
+      "case-0072",
+      "case-0039",
+      "case-u261001-03",
+      "case-0274",
+      "case-0275",
+      "case-0277",
+      "case-0280",
+      "case-0282",
+      "case-0283",
+      "case-0289",
+      "case-0290",
+      "case-0292",
+      "case-0293",
+      "case-0296",
+      "case-0297",
+      "case-0300",
+      "case-0301",
+      "case-0303",
+      "case-0304",
+      "case-0307",
+      "case-0308",
+      "case-0312",
+      "case-0314",
+      "case-0315",
+      "case-0317",
+      "case-0318",
+      "case-0319",
+      "case-0320",
+      "case-0321",
+      "case-0322",
+      "case-0325",
+      "case-0327",
+      "case-0328",
+      "case-0330",
+      "case-0331",
+      "case-0332",
+      "case-0333",
+      "case-0336",
+      "case-0337",
+      "case-0338",
+      "case-0340",
+      "case-0342",
+      "case-0344",
+      "case-0349",
+      "case-0351",
+      "case-0353",
+      "case-0360",
+      "case-0361",
+      "case-0363",
+      "case-0365",
+      "case-0366",
+      "case-0369",
+      "case-0371",
+      "case-0378",
+      "case-0381",
+      "case-0382",
+      "case-0001",
+      "case-0055",
+      "case-0006",
+      "case-0008",
+      "case-0031",
+      "case-0018",
+      "case-0034",
+      "case-u261001-01",
+      "case-u261001-02",
+      "case-0052",
+      "case-0248",
+      "case-0007",
+      "case-0272",
+      "case-0120",
+      "case-0286",
+      "case-0287",
+      "case-0288",
+      "case-0291",
+      "case-0295",
+      "case-0302",
+      "case-0305",
+      "case-0306",
+      "case-0309",
+      "case-0313",
+      "case-0316",
+      "case-0324",
+      "case-0326",
+      "case-0329",
+      "case-0339",
+      "case-0345",
+      "case-0347",
+      "case-0348",
+      "case-0350",
+      "case-0354",
+      "case-0355",
+      "case-0356",
+      "case-0357",
+      "case-0358",
+      "case-0359",
+      "case-0362",
+      "case-0364",
+      "case-0367",
+      "case-0370",
+      "case-0372",
+      "case-0373",
+      "case-0374",
+      "case-0379",
+      "case-0384",
+      "case-0024",
+      "case-0012",
+      "case-u261001-04",
+      "case-0273",
+      "case-0276",
+      "case-0278",
+      "case-0229",
+      "case-0279",
+      "case-0281",
+      "case-0284",
+      "case-0285",
+      "case-0294",
+      "case-0298",
+      "case-0299",
+      "case-0310",
+      "case-0311",
+      "case-0323",
+      "case-0334",
+      "case-0335",
+      "case-0341",
+      "case-0343",
+      "case-0346",
+      "case-0352",
+      "case-0368",
+      "case-0380",
+      "case-0383"
+    ],
+    "translationOrigin": "archive-ai-assisted",
+    "translationReview": "pending",
+    "translationContentHash": "b57dad1f92a76ce9ef45d2cf27d9816c2f0dfb32b14221694d9dac2bab0ddce4",
+    "updatedAt": "2026-11-19",
+    "overview": {
+      "title": {
+        "zh": "文化与治理",
+        "en": "Culture & Governance"
+      },
+      "body": {
+        "zh": "从艺术实践、作品与作者身份出发，研究谁可以使用作品、复制声音与形象，谁决定创作工具和平台的规则，以及劳动者如何表达拒绝、协商许可并获得报酬。本专题将 AI 艺术研究、反 AI 事件与创意劳动放在同一条阅读路径中，保留不同地区、行业、诉求与证据之间的差异。",
+        "en": "Starting with artistic practice, works and authorship, examine who may use creative work or replicate voices and likenesses, who sets the rules for tools and platforms, and how workers refuse, negotiate permission and receive compensation. This topic brings AI art research, anti-AI events and creative labour into one reading path while retaining differences between places, industries, demands and evidence."
+      },
+      "subsections": []
+    },
+    "eventIds": [
+      "evt-0001",
+      "evt-0002",
+      "evt-0003",
+      "evt-0004",
+      "evt-0010",
+      "evt-0011",
+      "evt-0012",
+      "evt-0015",
+      "evt-0016",
+      "evt-0017",
+      "evt-0023",
+      "evt-0026",
+      "evt-0041",
+      "evt-0042",
+      "evt-0043",
+      "evt-0055",
+      "evt-0056",
+      "evt-0059",
+      "evt-0060",
+      "evt-0063",
+      "evt-0064",
+      "evt-0067",
+      "evt-0089",
+      "evt-0093",
+      "evt-0094",
+      "evt-0118",
+      "evt-0130",
+      "evt-0131",
+      "evt-0132",
+      "evt-0195",
+      "evt-0196",
+      "evt-0197",
+      "evt-0217",
+      "evt-0242",
+      "evt-0283",
+      "evt-0345",
+      "evt-0387",
+      "evt-0403",
+      "evt-0427",
+      "evt-0461",
+      "evt-0462",
+      "evt-0463",
+      "evt-0464",
+      "evt-0465",
+      "evt-0466",
+      "evt-0467",
+      "evt-0468",
+      "evt-0469",
+      "evt-0470",
+      "evt-0471",
+      "evt-0472",
+      "evt-0473",
+      "evt-0474",
+      "evt-0475",
+      "evt-0476",
+      "evt-0477",
+      "evt-0478",
+      "evt-0479",
+      "evt-0480",
+      "evt-0481",
+      "evt-0482",
+      "evt-0483",
+      "evt-0484",
+      "evt-0485",
+      "evt-0486",
+      "evt-0487",
+      "evt-0488",
+      "evt-0489",
+      "evt-0490",
+      "evt-0491",
+      "evt-0493",
+      "evt-0496",
+      "evt-0497",
+      "evt-0498",
+      "evt-0499",
+      "evt-0500",
+      "evt-0501",
+      "evt-0502",
+      "evt-0503",
+      "evt-0504",
+      "evt-0505",
+      "evt-0506",
+      "evt-0508",
+      "evt-0509",
+      "evt-0511",
+      "evt-0512",
+      "evt-0513",
+      "evt-0514",
+      "evt-0515",
+      "evt-0516",
+      "evt-0517",
+      "evt-0518",
+      "evt-0519",
+      "evt-0520",
+      "evt-0521",
+      "evt-0522",
+      "evt-0523",
+      "evt-0524",
+      "evt-0525",
+      "evt-0527",
+      "evt-0528",
+      "evt-0530",
+      "evt-0531",
+      "evt-0532",
+      "evt-0533",
+      "evt-0534",
+      "evt-0536",
+      "evt-0537",
+      "evt-0539",
+      "evt-0540",
+      "evt-0542",
+      "evt-0543",
+      "evt-0544",
+      "evt-0545",
+      "evt-0546",
+      "evt-0547",
+      "evt-0548",
+      "evt-0549",
+      "evt-0550",
+      "evt-0551",
+      "evt-0552",
+      "evt-0554",
+      "evt-0555",
+      "evt-0556",
+      "evt-0557",
+      "evt-0558",
+      "evt-0560",
+      "evt-0561",
+      "evt-0562",
+      "evt-0564",
+      "evt-0565",
+      "evt-0566",
+      "evt-0567",
+      "evt-0568",
+      "evt-0569",
+      "evt-0570",
+      "evt-0572",
+      "evt-0573",
+      "evt-0574",
+      "evt-0575",
+      "evt-0576",
+      "evt-0578",
+      "evt-0579",
+      "evt-0580",
+      "evt-0581",
+      "evt-0582",
+      "evt-0583",
+      "evt-0585",
+      "evt-0587",
+      "evt-0588",
+      "evt-0591",
+      "evt-0592",
+      "evt-0593",
+      "evt-0594",
+      "evt-0595",
+      "evt-0596",
+      "evt-0597",
+      "evt-0598",
+      "evt-0599",
+      "evt-0600",
+      "evt-0601",
+      "evt-0602",
+      "evt-0603",
+      "evt-0604",
+      "evt-0605",
+      "evt-0606",
+      "evt-0607",
+      "evt-0608",
+      "evt-0609",
+      "evt-0610",
+      "evt-0611",
+      "evt-0617",
+      "evt-0618",
+      "evt-0620",
+      "evt-0621",
+      "evt-0622",
+      "evt-0623",
+      "evt-0624",
+      "evt-0625",
+      "evt-u261001-01",
+      "evt-u261001-02",
+      "evt-u261001-03",
+      "evt-u261001-04"
+    ]
+  }
+]

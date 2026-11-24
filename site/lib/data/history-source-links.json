@@ -1,0 +1,2323 @@
+{
+  "243": [
+    {
+      "url": "https://www.moma.org/calendar/exhibitions/3863",
+      "label": {
+        "zh": "MoMA 官方展览页",
+        "en": "MoMA official exhibition page"
+      }
+    },
+    {
+      "url": "https://www.moma.org/calendar/exhibitions/3863/installation_images/37586",
+      "label": {
+        "zh": "MoMA 展览现场照片",
+        "en": "MoMA installation photographs"
+      }
+    }
+  ],
+  "227": [
+    {
+      "url": "https://whitney.org/collection/works/57415",
+      "label": {
+        "zh": "惠特尼美术馆官方藏品页",
+        "en": "Whitney official collection record"
+      }
+    }
+  ],
+  "255": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/13000631",
+      "label": {
+        "zh": "查看作品：Ringers #631 ",
+        "en": "View work: Ringers #631 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/ringers-by-dmitri-cherniak",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/ringers-by-dmitri-cherniak",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/ringers-by-dmitri-cherniak",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "256": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/23000545",
+      "label": {
+        "zh": "查看作品：Archetype #545 ",
+        "en": "View work: Archetype #545 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/archetype-by-kjetil-golid",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/archetype-by-kjetil-golid",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/archetype-by-kjetil-golid",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "257": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/159000933",
+      "label": {
+        "zh": "查看作品：Fragments of an Infinite Field #933 ",
+        "en": "View work: Fragments of an Infinite Field #933 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/fragments-of-an-infinite-field-by-monica-rizzolli",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/fragments-of-an-infinite-field-by-monica-rizzolli",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/fragments-of-an-infinite-field-by-monica-rizzolli",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "258": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/53000000",
+      "label": {
+        "zh": "查看作品：Subscapes #0 ",
+        "en": "View work: Subscapes #0 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/subscapes-by-matt-deslauriers",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/subscapes-by-matt-deslauriers",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/subscapes-by-matt-deslauriers",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "259": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/163000716",
+      "label": {
+        "zh": "查看作品：Meridian #716 ",
+        "en": "View work: Meridian #716 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/meridian-by-matt-deslauriers",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/meridian-by-matt-deslauriers",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/meridian-by-matt-deslauriers",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "260": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147000323",
+      "label": {
+        "zh": "查看作品：Trossets #323 ",
+        "en": "View work: Trossets #323 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/trossets-by-anna-carreras",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/trossets-by-anna-carreras",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/trossets-by-anna-carreras",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "261": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/215000771",
+      "label": {
+        "zh": "查看作品：Gazers #771 ",
+        "en": "View work: Gazers #771 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/gazers-by-matt-kane",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/gazers-by-matt-kane",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/gazers-by-matt-kane",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "262": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/304000180",
+      "label": {
+        "zh": "查看作品：Anticyclone #180 ",
+        "en": "View work: Anticyclone #180 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/anticyclone-by-william-mapan",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/anticyclone-by-william-mapan",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/anticyclone-by-william-mapan",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "263": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/138000642",
+      "label": {
+        "zh": "查看作品：Geometry Runners #642 ",
+        "en": "View work: Geometry Runners #642 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/geometry-runners-by-rich-lord",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/geometry-runners-by-rich-lord",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/geometry-runners-by-rich-lord",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "264": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/284000609",
+      "label": {
+        "zh": "查看作品：Ancient Courses of Fictional Rivers #609 ",
+        "en": "View work: Ancient Courses of Fictional Rivers #609 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/ancient-courses-of-fictional-rivers-by-robert-hodgin",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/ancient-courses-of-fictional-rivers-by-robert-hodgin",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/ancient-courses-of-fictional-rivers-by-robert-hodgin",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "265": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/233000870",
+      "label": {
+        "zh": "查看作品：Chimera #870 ",
+        "en": "View work: Chimera #870 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/chimera-by-mpkoz",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/chimera-by-mpkoz",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/chimera-by-mpkoz",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "266": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/334000050",
+      "label": {
+        "zh": "查看作品：Running Moon #50 ",
+        "en": "View work: Running Moon #50 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/running-moon-by-licia-he",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/running-moon-by-licia-he",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/running-moon-by-licia-he",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "267": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/255000580",
+      "label": {
+        "zh": "查看作品：Screens #580 ",
+        "en": "View work: Screens #580 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/screens-by-thomas-lin-pedersen",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/screens-by-thomas-lin-pedersen",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/screens-by-thomas-lin-pedersen",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "268": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/12000321",
+      "label": {
+        "zh": "查看作品：Unigrids #321 ",
+        "en": "View work: Unigrids #321 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/unigrids-by-zeblocks",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/unigrids-by-zeblocks",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/unigrids-by-zeblocks",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "269": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/2000131",
+      "label": {
+        "zh": "查看作品：Construction Token #131 ",
+        "en": "View work: Construction Token #131 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/construction-token-by-jeff-davis",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/construction-token-by-jeff-davis",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/construction-token-by-jeff-davis",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "270": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/1000165",
+      "label": {
+        "zh": "查看作品：Genesis #165 ",
+        "en": "View work: Genesis #165 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/genesis-by-dca",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/genesis-by-dca",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/genesis-by-dca",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "271": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/8000081",
+      "label": {
+        "zh": "查看作品：Singularity #81 ",
+        "en": "View work: Singularity #81 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/singularity-by-hideki-tsukamoto",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/singularity-by-hideki-tsukamoto",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/singularity-by-hideki-tsukamoto",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "272": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/267000074",
+      "label": {
+        "zh": "查看作品：entretiempos #74 ",
+        "en": "View work: entretiempos #74 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/entretiempos-by-marcelo-soria-rodriguez",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/entretiempos-by-marcelo-soria-rodriguez",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/entretiempos-by-marcelo-soria-rodriguez",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "273": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/28000668",
+      "label": {
+        "zh": "查看作品：Apparitions #668 ",
+        "en": "View work: Apparitions #668 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/apparitions-by-aaron-penne",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/apparitions-by-aaron-penne",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/apparitions-by-aaron-penne",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "274": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/296000337",
+      "label": {
+        "zh": "查看作品：Flux #337 ",
+        "en": "View work: Flux #337 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/flux-by-owen-moore",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/flux-by-owen-moore",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/flux-by-owen-moore",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "275": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x64780ce53f6e966e18a22af13a2f97369580ec11/50",
+      "label": {
+        "zh": "查看作品：Petro National #50 ",
+        "en": "View work: Petro National #50 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/petro-national-by-john-gerrard",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/petro-national-by-john-gerrard",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/petro-national-by-john-gerrard",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "276": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/40000482",
+      "label": {
+        "zh": "查看作品：Algobots #482 ",
+        "en": "View work: Algobots #482 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/algobots-by-stina-jones",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/algobots-by-stina-jones",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/algobots-by-stina-jones",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "277": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x145789247973c5d612bf121e9e4eef84b63eb707/1000503",
+      "label": {
+        "zh": "查看作品：923 EMPTY ROOMS #503 ",
+        "en": "View work: 923 EMPTY ROOMS #503 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/923-empty-rooms-by-casey-reas",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/923-empty-rooms-by-casey-reas",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/923-empty-rooms-by-casey-reas",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "278": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/173000798",
+      "label": {
+        "zh": "查看作品：Skulptuur #798 ",
+        "en": "View work: Skulptuur #798 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/skulptuur-by-piter-pasma",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/skulptuur-by-piter-pasma",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/skulptuur-by-piter-pasma",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "279": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/16001224",
+      "label": {
+        "zh": "查看作品：Color Study #1224 ",
+        "en": "View work: Color Study #1224 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/color-study-by-jeff-davis",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/color-study-by-jeff-davis",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/color-study-by-jeff-davis",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "280": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/94000004",
+      "label": {
+        "zh": "查看作品：Portal #4 ",
+        "en": "View work: Portal #4 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/portal-by-jeff-davis",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/portal-by-jeff-davis",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/portal-by-jeff-davis",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "281": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/228000095",
+      "label": {
+        "zh": "查看作品：Incomplete Control #95 ",
+        "en": "View work: Incomplete Control #95 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/incomplete-control-by-tyler-hobbs",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/incomplete-control-by-tyler-hobbs",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/incomplete-control-by-tyler-hobbs",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "282": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/213000126",
+      "label": {
+        "zh": "查看作品：Loom #126 ",
+        "en": "View work: Loom #126 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/loom-by-anna-lucia",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/loom-by-anna-lucia",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/loom-by-anna-lucia",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "283": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/328000221",
+      "label": {
+        "zh": "查看作品：Sudfah #221 ",
+        "en": "View work: Sudfah #221 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/sudfah-by-melissa-wiederrecht",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/sudfah-by-melissa-wiederrecht",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/sudfah-by-melissa-wiederrecht",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "284": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xab0000000000aa06f89b268d604a9c1c41524ac6/497000012",
+      "label": {
+        "zh": "查看作品：INK #12 ",
+        "en": "View work: INK #12 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/ink-by-iskra-velitchkova",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/ink-by-iskra-velitchkova",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/ink-by-iskra-velitchkova",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "285": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xab0000000000aa06f89b268d604a9c1c41524ac6/499000008",
+      "label": {
+        "zh": "查看作品：Box Light Studies #8 ",
+        "en": "View work: Box Light Studies #8 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/box-light-studies-by-zach-lieberman",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/box-light-studies-by-zach-lieberman",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/box-light-studies-by-zach-lieberman",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "286": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xab0000000000aa06f89b268d604a9c1c41524ac6/498000040",
+      "label": {
+        "zh": "查看作品：while true #40 ",
+        "en": "View work: while true #40 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/while-true-by-lars-wander",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/while-true-by-lars-wander",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/while-true-by-lars-wander",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "287": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/428000313",
+      "label": {
+        "zh": "查看作品：Memories of Digital Data #313 ",
+        "en": "View work: Memories of Digital Data #313 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/memories-of-digital-data-by-kazuhiro-tanimoto",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/memories-of-digital-data-by-kazuhiro-tanimoto",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/memories-of-digital-data-by-kazuhiro-tanimoto",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "288": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/337000339",
+      "label": {
+        "zh": "查看作品：FAKE IT TILL YOU MAKE IT #339 ",
+        "en": "View work: FAKE IT TILL YOU MAKE IT #339 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/fake-it-till-you-make-it-by-maya-man",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/fake-it-till-you-make-it-by-maya-man",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/fake-it-till-you-make-it-by-maya-man",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "289": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/35000350",
+      "label": {
+        "zh": "查看作品：Aerial View #350 ",
+        "en": "View work: Aerial View #350 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/aerial-view-by-dalenz",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/aerial-view-by-dalenz",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/aerial-view-by-dalenz",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "290": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/17000187",
+      "label": {
+        "zh": "查看作品：Spectron #187 ",
+        "en": "View work: Spectron #187 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/spectron-by-simon-de-mai",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/spectron-by-simon-de-mai",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/spectron-by-simon-de-mai",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "291": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/129000337",
+      "label": {
+        "zh": "查看作品：Pigments #337 ",
+        "en": "View work: Pigments #337 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/pigments-by-darien-brito",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/pigments-by-darien-brito",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/pigments-by-darien-brito",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "292": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/407000349",
+      "label": {
+        "zh": "查看作品：The Harvest #349 ",
+        "en": "View work: The Harvest #349 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/the-harvest-by-per-kristian-stoveland",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/the-harvest-by-per-kristian-stoveland",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/the-harvest-by-per-kristian-stoveland",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "293": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/100000163",
+      "label": {
+        "zh": "查看作品：CENTURY #163 ",
+        "en": "View work: CENTURY #163 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/century-by-casey-reas",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/century-by-casey-reas",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/century-by-casey-reas",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "294": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/120000115",
+      "label": {
+        "zh": "查看作品：Endless Nameless #115 ",
+        "en": "View work: Endless Nameless #115 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/endless-nameless-by-rafael-rozendaal",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/endless-nameless-by-rafael-rozendaal",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/endless-nameless-by-rafael-rozendaal",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "295": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/114000745",
+      "label": {
+        "zh": "查看作品：glitch crystal monsters #745 ",
+        "en": "View work: glitch crystal monsters #745 "
+      },
+      "kind": "work",
+      "sourceUrl": "https://www.artblocks.io/collection/glitch-crystal-monsters-by-alida-sun",
+      "checkedAt": "2026-10-03",
+      "review": "HTTP-and-title-checked; full-runtime-not-audited"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/glitch-crystal-monsters-by-alida-sun",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.artblocks.io/collection/glitch-crystal-monsters-by-alida-sun",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "296": [
+    {
+      "url": "https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/11801",
+      "label": {
+        "zh": "美术馆作品目录",
+        "en": "Museum object record"
+      },
+      "kind": "project",
+      "sourceUrl": "https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/11801",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "297": [
+    {
+      "url": "https://dam.org/museum/mark-wilson-interview/",
+      "label": {
+        "zh": "DAM艺术家访谈与视频",
+        "en": "DAM artist interview and videos"
+      },
+      "kind": "project",
+      "sourceUrl": "https://dam.org/museum/mark-wilson-interview/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "298": [
+    {
+      "url": "https://dam.org/museum/artists_ui/artists/hebert-jean-pierre/",
+      "label": {
+        "zh": "DAM艺术家与作品档案",
+        "en": "DAM artist and work archive"
+      },
+      "kind": "project",
+      "sourceUrl": "https://dam.org/museum/artists_ui/artists/hebert-jean-pierre/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "299": [
+    {
+      "url": "https://www.verostko.com/algorists/algorists-lorez.pdf",
+      "label": {
+        "zh": "Verostko原始文献（PDF）",
+        "en": "Verostko source document (PDF)"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.verostko.com/algorists/algorists-lorez.pdf",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "300": [
+    {
+      "url": "https://artbase.rhizome.org/wiki/Q2428",
+      "label": {
+        "zh": "Rhizome作品保存档案",
+        "en": "Rhizome preservation record"
+      },
+      "kind": "project",
+      "sourceUrl": "https://artbase.rhizome.org/wiki/Q2428",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "301": [
+    {
+      "url": "https://scottdraves.com/history.html",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://scottdraves.com/history.html",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "302": [
+    {
+      "url": "https://re-move.org/index.php",
+      "label": {
+        "zh": "体验re-move.org交互重建",
+        "en": "Explore the re-move.org interactive reconstruction"
+      },
+      "kind": "live",
+      "sourceUrl": "https://www.liaworks.com/software-art/re-move-org-an-interactive-exploration-1999-present/",
+      "checkedAt": "2026-10-03",
+      "review": "artist-page-link-and-HTTP-checked; runtime-not-audited"
+    },
+    {
+      "url": "https://www.liaworks.com/software-art/re-move-org-an-interactive-exploration-1999-present/",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.liaworks.com/software-art/re-move-org-an-interactive-exploration-1999-present/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "303": [
+    {
+      "url": "https://news.mit.edu/1999/maeda-0512",
+      "label": {
+        "zh": "MIT项目与出版说明",
+        "en": "MIT project and publication account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://news.mit.edu/1999/maeda-0512",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "304": [
+    {
+      "url": "https://www.complexification.net/gallery/machines/substrate/",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.complexification.net/gallery/machines/substrate/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "305": [
+    {
+      "url": "https://gray.reas.com/compendium_text/",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://gray.reas.com/compendium_text/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "306": [
+    {
+      "url": "https://www.liaworks.com/nfts/a2p-artist-to-peer-a-seminal-blockchain-experiment/",
+      "label": {
+        "zh": "艺术家项目页与视频展示",
+        "en": "Artist project page and video presentation"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.liaworks.com/nfts/a2p-artist-to-peer-a-seminal-blockchain-experiment/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "307": [
+    {
+      "url": "https://feralfile.com/retrospective/ff1/curators-note/",
+      "label": {
+        "zh": "Feral File官方策展说明",
+        "en": "Feral File curator’s account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://feralfile.com/retrospective/ff1/curators-note/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "308": [
+    {
+      "url": "https://www.deafbeef.com/poems.htm",
+      "label": {
+        "zh": "Synth Poems官方视听作品页",
+        "en": "Synth Poems official audiovisual work page"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.deafbeef.com/poems.htm",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "309": [
+    {
+      "url": "https://seeder.mutant.garden/about-2021",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://seeder.mutant.garden/about-2021",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "310": [
+    {
+      "url": "https://zancan.art/Data/GenArtLive/GardenMonoliths/index.legacy-patch.html?hash=oo8C5QFkrWBB2T19MCiqwkLrWCCTeUJzwXLvTqm5GEceow8Zptn&pixelSize=2500",
+      "label": {
+        "zh": "运行Garden Monoliths #8（兼容版本）",
+        "en": "Run Garden Monoliths #8 (compatibility version)"
+      },
+      "kind": "live",
+      "sourceUrl": "https://zancan.art/Series/Garden-Monoliths/8",
+      "checkedAt": "2026-10-03",
+      "review": "artist-page-link-and-HTTP-checked; runtime-not-audited"
+    },
+    {
+      "url": "https://zancan.art/Series/Garden-Monoliths/8",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://zancan.art/Series/Garden-Monoliths/8",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "311": [
+    {
+      "url": "https://zancan.art/Series/kinder-Garden-Monuments",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://zancan.art/Series/kinder-Garden-Monuments",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "312": [
+    {
+      "url": "https://asdf.kim/works/reading-a-book/animation/",
+      "label": {
+        "zh": "打开艺术家／项目运行入口",
+        "en": "Open artist / project live presentation"
+      },
+      "kind": "live",
+      "sourceUrl": "https://asdf.kim/works/reading-a-book/",
+      "checkedAt": "2026-10-03",
+      "review": "artist-page-link-and-HTTP-checked; runtime-observed"
+    },
+    {
+      "url": "https://asdf.kim/works/reading-a-book/",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://asdf.kim/works/reading-a-book/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "313": [
+    {
+      "url": "https://asdf.kim/works/tr4ns4ctions/animation/",
+      "label": {
+        "zh": "打开艺术家／项目运行入口",
+        "en": "Open artist / project live presentation"
+      },
+      "kind": "live",
+      "sourceUrl": "https://asdf.kim/works/tr4ns4ctions/",
+      "checkedAt": "2026-10-03",
+      "review": "artist-page-link-and-HTTP-checked; runtime-observed"
+    },
+    {
+      "url": "https://asdf.kim/works/tr4ns4ctions/",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://asdf.kim/works/tr4ns4ctions/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "314": [
+    {
+      "url": "https://ciphrd.com/work/ethereal-microcosm/",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://ciphrd.com/work/ethereal-microcosm/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "315": [
+    {
+      "url": "https://qql.art/mints",
+      "label": {
+        "zh": "查看官方作品画廊",
+        "en": "View the official work gallery"
+      },
+      "kind": "gallery",
+      "sourceUrl": "https://qql.art/about",
+      "checkedAt": "2026-10-03",
+      "review": "artist-page-link-and-HTTP-checked; runtime-not-audited"
+    },
+    {
+      "url": "https://qql.art/create",
+      "label": {
+        "zh": "尝试QQL生成器",
+        "en": "Explore the QQL generator"
+      },
+      "kind": "live",
+      "sourceUrl": "https://qql.art/about",
+      "checkedAt": "2026-10-03",
+      "review": "artist-page-link-and-HTTP-checked; runtime-not-audited"
+    },
+    {
+      "url": "https://qql.art/about",
+      "label": {
+        "zh": "艺术家／项目官方说明",
+        "en": "Artist / project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://qql.art/about",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "316": [
+    {
+      "url": "https://blog.torproject.org/nft-auction-and-whats-next/",
+      "label": {
+        "zh": "Tor官方项目说明",
+        "en": "Tor project account"
+      },
+      "kind": "project",
+      "sourceUrl": "https://blog.torproject.org/nft-auction-and-whats-next/",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "317": [
+    {
+      "url": "https://www.sothebys.com/en/articles/vera-molnar-the-grande-dame-of-generative-art",
+      "label": {
+        "zh": "苏富比官方项目与展示",
+        "en": "Sotheby’s project and presentation"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.sothebys.com/en/articles/vera-molnar-the-grande-dame-of-generative-art",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "318": [
+    {
+      "url": "https://verse.works/series/terraforms-by-mathcastles",
+      "label": {
+        "zh": "Verse系列目录",
+        "en": "Verse collection record"
+      },
+      "kind": "project",
+      "sourceUrl": "https://verse.works/series/terraforms-by-mathcastles",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "319": [
+    {
+      "url": "https://www.lerandom.art/collection/towers-45",
+      "label": {
+        "zh": "Le Random作品收藏记录",
+        "en": "Le Random collection record"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.lerandom.art/collection/towers-45",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "320": [
+    {
+      "url": "https://www.rightclicksave.com/article/the-interview-jacek-markusiewicz-generative-art-architecture",
+      "label": {
+        "zh": "艺术家访谈与作品图像",
+        "en": "Artist interview and work images"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.rightclicksave.com/article/the-interview-jacek-markusiewicz-generative-art-architecture",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "321": [
+    {
+      "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/GnoFWAB",
+      "label": {
+        "zh": "蓬皮杜馆藏记录",
+        "en": "Centre Pompidou object record"
+      },
+      "kind": "project",
+      "sourceUrl": "https://www.centrepompidou.fr/en/ressources/oeuvre/GnoFWAB",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "322": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0660/8165/3002/files/CP_GALERIE_DATA_DISRUPT_ENG.pdf?v=1727803705",
+      "label": {
+        "zh": "Galerie Data展览资料（PDF）",
+        "en": "Galerie Data exhibition material (PDF)"
+      },
+      "kind": "project",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0660/8165/3002/files/CP_GALERIE_DATA_DISRUPT_ENG.pdf?v=1727803705",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "323": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0660/8165/3002/files/CP_GALERIE_DATA_DISRUPT_ENG.pdf?v=1727803705",
+      "label": {
+        "zh": "Galerie Data展览资料（PDF）",
+        "en": "Galerie Data exhibition material (PDF)"
+      },
+      "kind": "project",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0660/8165/3002/files/CP_GALERIE_DATA_DISRUPT_ENG.pdf?v=1727803705",
+      "checkedAt": "2026-10-03",
+      "review": "source-page-read; independent-human-review-pending"
+    }
+  ],
+  "251": [
+    {
+      "url": "https://www.artblocks.io/token/1/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/122",
+      "label": {
+        "zh": "查看作品：Chromie Squiggle #122 ",
+        "en": "View work: Chromie Squiggle #122 "
+      },
+      "sourceUrl": "https://www.artblocks.io/collection/chromie-squiggle-by-snowfro",
+      "checkedAt": "2026-10-03",
+      "kind": "work",
+      "review": "collection-link-and-HTTP-checked"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/chromie-squiggle-by-snowfro",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "252": [
+    {
+      "url": "https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/78000883",
+      "label": {
+        "zh": "查看作品：Fidenza #883 ",
+        "en": "View work: Fidenza #883 "
+      },
+      "sourceUrl": "https://www.artblocks.io/collection/fidenza-by-tyler-hobbs",
+      "checkedAt": "2026-10-03",
+      "kind": "work",
+      "review": "collection-link-and-HTTP-checked"
+    },
+    {
+      "url": "https://www.artblocks.io/collection/fidenza-by-tyler-hobbs",
+      "label": {
+        "zh": "Art Blocks官方系列页",
+        "en": "Art Blocks collection page"
+      },
+      "kind": "project",
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "324": [
+    {
+      "url": "https://arxiv.org/abs/2204.03458",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2204.03458v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://video-diffusion.github.io/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2204.03458",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "325": [
+    {
+      "url": "https://arxiv.org/abs/2206.00364",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.00364v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    }
+  ],
+  "326": [
+    {
+      "url": "https://arxiv.org/abs/2206.00927",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.00927v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    }
+  ],
+  "327": [
+    {
+      "url": "https://arxiv.org/abs/2208.01626",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2208.01626v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    }
+  ],
+  "328": [
+    {
+      "url": "https://arxiv.org/abs/2209.03003",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2209.03003v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    }
+  ],
+  "329": [
+    {
+      "url": "https://arxiv.org/abs/2209.14988",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2209.14988v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://dreamfusion3d.github.io/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2209.14988",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "330": [
+    {
+      "url": "https://arxiv.org/abs/2210.02747",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2210.02747v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    }
+  ],
+  "331": [
+    {
+      "url": "https://arxiv.org/abs/2211.09794",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.09794v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://null-text-inversion.github.io/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2211.09794",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "332": [
+    {
+      "url": "https://arxiv.org/abs/2212.09748",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2212.09748v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://www.wpeebles.com/DiT",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2212.09748",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "333": [
+    {
+      "url": "https://arxiv.org/abs/2301.00704",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.00704v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://muse-model.github.io",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2301.00704",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "334": [
+    {
+      "url": "https://arxiv.org/abs/2301.07093",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.07093v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://gligen.github.io/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2301.07093",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "335": [
+    {
+      "url": "https://arxiv.org/abs/2301.12503",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.12503v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    },
+    {
+      "url": "https://audioldm.github.io",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2301.12503",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    },
+    {
+      "url": "https://github.com/haoheliu/audioldm_eval",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2301.12503",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "336": [
+    {
+      "url": "https://arxiv.org/abs/2301.13188",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.13188v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    }
+  ],
+  "337": [
+    {
+      "url": "https://arxiv.org/abs/2302.04222",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2302.04222v6",
+      "label": {
+        "zh": "原论文PDF：v6",
+        "en": "Original paper PDF: v6"
+      }
+    }
+  ],
+  "338": [
+    {
+      "url": "https://arxiv.org/abs/2303.01469",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2303.01469v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    }
+  ],
+  "339": [
+    {
+      "url": "https://arxiv.org/abs/2303.11328",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2303.11328v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://zero123.cs.columbia.edu/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2303.11328",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "340": [
+    {
+      "url": "https://arxiv.org/abs/2305.16213",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2305.16213v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://ml.cs.tsinghua.edu.cn/prolificdreamer/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2305.16213",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "341": [
+    {
+      "url": "https://arxiv.org/abs/2306.04141",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.04141v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    }
+  ],
+  "342": [
+    {
+      "url": "https://arxiv.org/abs/2306.05284",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.05284v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    },
+    {
+      "url": "https://github.com/facebookresearch/audiocraft",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2306.05284",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "343": [
+    {
+      "url": "https://arxiv.org/abs/2308.04079",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2308.04079v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2308.04079",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "344": [
+    {
+      "url": "https://arxiv.org/abs/2310.11513",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.11513v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://github.com/djghosh13/geneval",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2310.11513",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "345": [
+    {
+      "url": "https://arxiv.org/abs/2310.13828",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.13828v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    }
+  ],
+  "346": [
+    {
+      "url": "https://arxiv.org/abs/2311.17982",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2311.17982v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://vchitect.github.io/VBench-project/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2311.17982",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    },
+    {
+      "url": "https://github.com/Vchitect/VBench",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2311.17982",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "347": [
+    {
+      "url": "https://arxiv.org/abs/2401.12945",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.12945v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://lumiere-video.github.io/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2401.12945",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "348": [
+    {
+      "url": "https://arxiv.org/abs/2404.02905",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.02905v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://github.com/FoundationVision/VAR",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2404.02905",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "349": [
+    {
+      "url": "https://arxiv.org/abs/2406.11838",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.11838v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    },
+    {
+      "url": "https://github.com/LTH14/mar",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2406.11838",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "350": [
+    {
+      "url": "https://arxiv.org/abs/2410.06940",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.06940v4",
+      "label": {
+        "zh": "原论文PDF：v4",
+        "en": "Original paper PDF: v4"
+      }
+    },
+    {
+      "url": "https://sihyun.me/REPA",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2410.06940",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "351": [
+    {
+      "url": "https://arxiv.org/abs/2410.10629",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.10629v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    },
+    {
+      "url": "https://nvlabs.github.io/Sana",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2410.10629",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "352": [
+    {
+      "url": "https://arxiv.org/abs/2412.01506",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.01506v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    },
+    {
+      "url": "https://github.com/Microsoft/TRELLIS",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2412.01506",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "353": [
+    {
+      "url": "https://arxiv.org/abs/2501.17811",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2501.17811v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    },
+    {
+      "url": "https://github.com/deepseek-ai/Janus",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2501.17811",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "354": [
+    {
+      "url": "https://arxiv.org/abs/2504.12626",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.12626v3",
+      "label": {
+        "zh": "原论文PDF：v3",
+        "en": "Original paper PDF: v3"
+      }
+    },
+    {
+      "url": "https://github.com/lllyasviel/FramePack",
+      "label": {
+        "zh": "作者代码与资料",
+        "en": "Author code and materials"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2504.12626",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "355": [
+    {
+      "url": "https://arxiv.org/abs/2505.13447",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.13447v1",
+      "label": {
+        "zh": "原论文PDF：v1",
+        "en": "Original paper PDF: v1"
+      }
+    }
+  ],
+  "356": [
+    {
+      "url": "https://arxiv.org/abs/2506.08009",
+      "label": {
+        "zh": "论文与版本记录（英文原文）",
+        "en": "Paper and version history (English original)"
+      }
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.08009v2",
+      "label": {
+        "zh": "原论文PDF：v2",
+        "en": "Original paper PDF: v2"
+      }
+    },
+    {
+      "url": "https://self-forcing.github.io/",
+      "label": {
+        "zh": "作者项目与演示",
+        "en": "Author project and demonstrations"
+      },
+      "sourceUrl": "https://arxiv.org/abs/2506.08009",
+      "checkedAt": "2026-10-03",
+      "review": "author-linked; page-title-and-availability-checked; demo-not-executed"
+    }
+  ],
+  "082": [
+    {
+      "url": "https://arxiv.org/abs/2204.06125",
+      "label": {
+        "zh": "研究论文与版本记录（英文原文）",
+        "en": "Research paper and version history (English original)"
+      }
+    }
+  ],
+  "084": [
+    {
+      "url": "https://arxiv.org/abs/2206.10789",
+      "label": {
+        "zh": "研究论文与版本记录（英文原文）",
+        "en": "Research paper and version history (English original)"
+      }
+    }
+  ],
+  "101": [
+    {
+      "url": "https://arxiv.org/abs/2307.01952",
+      "label": {
+        "zh": "研究论文与版本记录（英文原文）",
+        "en": "Research paper and version history (English original)"
+      }
+    }
+  ],
+  "109": [
+    {
+      "url": "https://arxiv.org/abs/2311.15127",
+      "label": {
+        "zh": "研究论文与版本记录（英文原文）",
+        "en": "Research paper and version history (English original)"
+      }
+    }
+  ],
+  "122": [
+    {
+      "url": "https://arxiv.org/abs/2403.03206",
+      "label": {
+        "zh": "研究论文与版本记录（英文原文）",
+        "en": "Research paper and version history (English original)"
+      }
+    }
+  ],
+  "073": [
+    {
+      "url": "https://docs.botto.com/",
+      "label": {
+        "zh": "Botto官方文档：社区反馈与发行",
+        "en": "Botto official docs: community feedback and releases"
+      }
+    }
+  ],
+  "357": [
+    {
+      "url": "https://www.rebeccaallen.com/projects/bush-soul-number-3",
+      "label": {
+        "zh": "艺术家作品原页",
+        "en": "Artist’s original work page"
+      }
+    },
+    {
+      "url": "https://whitney.org/collection/works/64308",
+      "label": {
+        "zh": "Whitney官方藏品页",
+        "en": "Whitney official collection record"
+      }
+    }
+  ]
+}

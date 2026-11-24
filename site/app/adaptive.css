@@ -1,0 +1,110 @@
+/* Capability-based web adaptation; never a device-name or native dp lookup. */
+.viewport-frame{min-height:100vh;min-height:100dvh}
+.site-wrap{container:archive-app / inline-size}
+.site-wrap.with-genealogy{padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(32px,env(safe-area-inset-right,0px));padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(min-width:1101px){.site-wrap.with-genealogy{padding-left:max(52px,env(safe-area-inset-left,0px));padding-right:max(36px,env(safe-area-inset-right,0px))}}
+@media(min-width:1600px){.site-wrap.with-genealogy{padding-right:max(157px,env(safe-area-inset-right,0px))}}
+.reading-room{container:reading-room / inline-size}.room-spread{--room-split:1}.room-pane-navigation{display:none}
+.room-pane-navigation button{font:inherit;font-size:14px;min-height:44px;padding:8px 16px;background:none;border:1px solid #40403c;color:#aaa79f}.room-pane-navigation button[aria-pressed=true]{color:#e9e6df;border-color:#aaa79f}
+.room-heading>div{min-width:0}.room-heading h1{overflow-wrap:anywhere}.room-tools label{min-width:0}.room-tools select{max-width:100%}.room-cover-bottom{flex-wrap:wrap}.room-gallery{grid-template-columns:repeat(auto-fit,minmax(min(100%,190px),1fr))}
+/* 760 CSS px is this composition's content-fit threshold, not a model width. */
+@container reading-room (min-width:760px){.room-spread{--room-split:1;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr)}.room-preview{display:block;padding:30px 28px 30px 0}.room-catalogue{display:block;border-top:0;border-left:1px solid #30302e;padding:30px 0 30px 28px}}
+@container reading-room (max-width:759px){
+ .room-spread{--room-split:0;grid-template-columns:minmax(0,1fr)}.room-pane-navigation{display:flex;gap:8px;flex-wrap:wrap;padding:16px 0 0}
+ .reading-room[data-pane=catalogue] .room-preview{display:none}.reading-room[data-pane=preview] .room-catalogue{display:none}
+ .room-preview{position:static;padding:22px 0;min-width:0}.room-catalogue{border-left:0;border-top:0;padding:24px 0}
+ .room-cover{min-height:280px;padding:24px 20px}.room-cover-title h2,.topic-reading-room .room-cover-title h2{font-size:clamp(27px,5cqi,38px)}.room-cover-title p{font-size:21px}
+ .room-heading h1,.topic-reading-room .room-heading h1{font-size:clamp(28px,6cqi,44px)}.room-description{font-size:17px}.room-intro{flex-wrap:wrap}.room-record.is-selected:before{left:-8px}
+}
+@container reading-room (max-width:380px){.room-heading{flex-wrap:wrap;gap:10px}.room-tools{align-items:stretch}.room-tools label{flex:1 1 100%}.room-tools select{flex:1}.room-record{grid-template-columns:minmax(0,1fr) 44px}.room-select{grid-template-columns:34px minmax(0,1fr);gap:8px}.room-gallery{grid-template-columns:minmax(0,1fr)}.room-cover-bottom{font-size:10px}}
+/* A split-view application can be narrow inside a large physical display. */
+@container archive-app (max-width:759px){
+ .topbar .header-navigation{width:100%;gap:8px}.with-genealogy .topbar .header-navigation nav{flex-wrap:wrap;gap:8px 16px}
+ .with-genealogy .topbar .header-navigation .primary-navigation{overflow:visible}.with-genealogy .topbar .header-navigation .header-research{border-left:0;padding-left:0;gap:8px 16px}
+ .commentary-page .detail-grid,.topic-layout,.detail-grid{grid-template-columns:minmax(0,1fr);gap:24px}.topic-contents,.record-meta{position:static;min-width:0}
+ .genealogy-text-node>summary{grid-template-columns:70px minmax(0,1fr) 12px;gap:10px}.genealogy-text-node>div{padding-left:0}
+ footer{flex-direction:column;gap:20px}.footer-right{align-items:flex-start}.commentary-page>.page-heading h1{font-size:clamp(28px,6cqi,42px)}
+}
+@container archive-app (max-width:479px){.topbar{flex-wrap:wrap}.wordmark{font-size:12px;max-width:100%}.language{flex-wrap:wrap}.archive-grid{grid-template-columns:minmax(0,1fr);gap:24px}.year-rail{position:static}.event-row,.catalog-row{grid-template-columns:minmax(0,1fr);gap:10px}.chronology-controls{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.chronology-controls .searchbox{grid-column:1/-1}.section-heading{flex-wrap:wrap}.record-header h1{overflow-wrap:anywhere}}
+/* Touch works through explicit controls; desktop double-click remains optional. */
+@media(any-pointer:coarse){
+ .room-record{grid-template-columns:minmax(0,1fr) 48px}
+ .room-record-link,.room-read,.room-pane-navigation button,.room-search button,.room-tools button,.room-tools select,.genealogy-reading button,.genealogy-reading-nav a,.genealogy-controls button,.genealogy-mobile-close,.language a{min-height:44px}
+ .room-record-link{min-width:44px;justify-content:center}.room-tools button,.room-search button,.genealogy-controls button,.genealogy-mobile-close{min-width:44px}
+ .room-search input,.searchbox input,.room-tools select{font-size:16px}.topbar nav a{min-height:44px;display:inline-flex;align-items:center}
+ .genealogy-ruler{flex-basis:44px}.room-record-link{touch-action:manipulation}.room-gallery .room-record{grid-template-columns:1fr}
+}
+.genealogy-toggle{right:max(16px,env(safe-area-inset-right,0px));bottom:max(16px,env(safe-area-inset-bottom,0px))}
+.genealogy-rail{top:max(20px,env(safe-area-inset-top,0px));bottom:max(26px,env(safe-area-inset-bottom,0px));right:max(18px,env(safe-area-inset-right,0px))}
+@media(max-width:1000px){.genealogy-rail{bottom:calc(76px + env(safe-area-inset-bottom,0px));right:max(16px,env(safe-area-inset-right,0px))}.genealogy-reading{position:fixed;left:max(16px,env(safe-area-inset-left,0px));right:max(16px,env(safe-area-inset-right,0px));top:max(20px,env(safe-area-inset-top,0px));bottom:calc(76px + env(safe-area-inset-bottom,0px));width:auto;max-width:560px;max-height:none;margin-left:auto;z-index:1}.with-genealogy footer{padding-bottom:calc(80px + env(safe-area-inset-bottom,0px))}}
+@media(max-height:540px){.room-preview{position:static}.room-cover{min-height:220px}.room-cover-title h2{font-size:28px}.genealogy-reading{padding:16px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{scroll-behavior:auto!important}}
+/* Validated real viewport regions only; no invented fold or hinge size. */
+html[data-fold=book] .site-wrap.with-genealogy{max-width:none;margin:0;padding-left:0;padding-right:0}
+html[data-fold=book] .site-wrap>.topbar,html[data-fold=book] .site-wrap>footer,html[data-fold=book] .site-wrap>main:not(.reading-room):not(.topic-page),html[data-fold=book] .topic-page>:not(.topic-reading-room):not(script){width:calc(var(--fold-left-width) - max(20px,env(safe-area-inset-left,0px)) - max(20px,env(safe-area-inset-right,0px)));max-width:none;margin-left:calc(var(--fold-left-x) + max(20px,env(safe-area-inset-left,0px)));margin-right:0}
+html[data-fold=book] .reading-room>.room-intro{width:calc(var(--fold-left-width) - max(20px,env(safe-area-inset-left,0px)) - max(20px,env(safe-area-inset-right,0px)));margin-left:calc(var(--fold-left-x) + max(20px,env(safe-area-inset-left,0px)))}
+html[data-fold=book] .reading-room>.room-pane-navigation{display:none}
+html[data-fold=book] .reading-room .room-spread{--room-split:1;grid-template-columns:minmax(0,var(--fold-left-width)) minmax(0,var(--fold-right-width));column-gap:var(--fold-gap);margin-left:var(--fold-left-x)}
+html[data-fold=book] .reading-room .room-preview,html[data-fold=book] .reading-room .room-catalogue{display:block;position:static;padding:24px max(20px,env(safe-area-inset-right,0px)) 24px max(20px,env(safe-area-inset-left,0px));min-width:0;border:0}
+html[data-fold=book] .room-cover{min-height:280px;padding:20px 16px}html[data-fold=book] .room-cover-title h2{font-size:clamp(26px,3vw,36px)}html[data-fold=book] .room-cover-title p{font-size:20px}html[data-fold=book] .room-heading{flex-wrap:wrap}html[data-fold=book] .room-gallery{grid-template-columns:minmax(0,1fr)}
+html[data-fold=book] .topbar .header-navigation nav{flex-wrap:wrap}html[data-fold=book] .topbar .header-navigation .header-research{border:0;padding-left:0}
+html[data-fold=book] .topic-layout,html[data-fold=book] .detail-grid,html[data-fold=book] .archive-grid{grid-template-columns:minmax(0,1fr)}html[data-fold=book] .topic-contents,html[data-fold=book] .year-rail{position:static}
+/* A horizontal crease stays in viewport coordinates when the page scrolls.
+   Tabletop / multiple folds use one intact scrollable region, not a fake spacer. */
+html[data-fold=single-segment]{overflow:hidden}
+html[data-fold=single-segment] .viewport-frame{position:fixed;left:var(--fold-x);top:var(--fold-y);width:var(--fold-width);height:var(--fold-height);min-height:0;overflow:auto;scroll-padding-top:20px}
+html[data-fold=single-segment] .site-wrap.with-genealogy{margin:0;width:100%;max-width:none;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+html[data-fold=book],html[data-fold=single-segment]{--fold-panel-x:var(--fold-right-x,var(--fold-x,0px));--fold-panel-width:var(--fold-right-width,var(--fold-width,100vw));--fold-panel-top:var(--fold-y,0px);--fold-panel-height:var(--fold-height,100dvh)}
+html[data-fold=book] .genealogy-rail,html[data-fold=single-segment] .genealogy-rail{display:none;top:calc(var(--fold-panel-top) + max(16px,env(safe-area-inset-top,0px)));bottom:auto;height:calc(var(--fold-panel-height) - 96px - env(safe-area-inset-bottom,0px));right:calc(100% - var(--fold-panel-x) - var(--fold-panel-width) + max(16px,env(safe-area-inset-right,0px)));width:min(200px,calc(var(--fold-panel-width) - 32px));padding:14px;background:#080808;border:1px solid #333}
+html[data-fold=book] .genealogy-rail.is-expanded,html[data-fold=single-segment] .genealogy-rail.is-expanded{display:flex}
+html[data-fold=book] .genealogy-toggle,html[data-fold=single-segment] .genealogy-toggle{display:flex;position:fixed;z-index:36;gap:10px;align-items:center;padding:12px 15px;background:#101010;border:1px solid #3b3b3b;color:#ddd;min-height:44px;right:calc(100% - var(--fold-panel-x) - var(--fold-panel-width) + max(16px,env(safe-area-inset-right,0px)));bottom:calc(100dvh - var(--fold-panel-top) - var(--fold-panel-height) + max(16px,env(safe-area-inset-bottom,0px)))}
+html[data-fold=book] .genealogy-mobile-close,html[data-fold=single-segment] .genealogy-mobile-close{display:inline-flex;position:absolute;right:0;top:0;min-width:44px;min-height:44px}
+html[data-fold=book] .genealogy-reading,html[data-fold=single-segment] .genealogy-reading{position:fixed;left:calc(var(--fold-panel-x) + max(16px,env(safe-area-inset-left,0px)));right:auto;top:calc(var(--fold-panel-top) + max(16px,env(safe-area-inset-top,0px)));bottom:auto;width:calc(var(--fold-panel-width) - max(16px,env(safe-area-inset-left,0px)) - max(16px,env(safe-area-inset-right,0px)));height:calc(var(--fold-panel-height) - 96px - env(safe-area-inset-bottom,0px));max-width:none;max-height:none;margin:0;z-index:1;padding:20px}
+html[data-fold=book] .site-wrap>footer{flex-direction:column;gap:20px}
+@media(any-pointer:coarse){.genealogy-heading h2{padding-right:44px}}
+
+/* One continuous, touch-scrollable navigation row in narrow viewports and fold panes. */
+.topbar{container:site-header / inline-size}
+@container site-header (max-width:1100px){
+ .site-wrap.with-genealogy .topbar .header-navigation{flex-wrap:nowrap;overflow-x:auto;max-width:100%;gap:24px;align-items:center;scrollbar-width:none;overscroll-behavior-x:contain;padding-block:4px}
+ .site-wrap.with-genealogy .topbar .header-navigation::-webkit-scrollbar{display:none}
+ .site-wrap.with-genealogy .topbar .header-navigation nav{flex:0 0 auto;flex-wrap:nowrap;overflow:visible;width:auto;max-width:none;gap:20px;margin:0;padding:0}
+ .site-wrap.with-genealogy .topbar .header-navigation nav a{flex:0 0 auto;white-space:nowrap;min-height:44px;display:inline-flex;align-items:center;padding:8px 0;font-size:12px}
+ .site-wrap.with-genealogy .topbar .header-navigation .header-research{border-left:0;padding-left:0}
+ .site-wrap.with-genealogy .topbar .header-navigation .header-about{border-left:1px solid #444;padding-left:22px;margin-left:0}
+}
+@supports not (container-type:inline-size){@media(max-width:1100px){
+ .site-wrap.with-genealogy .topbar .header-navigation{flex-wrap:nowrap;overflow-x:auto;max-width:100%;gap:24px;align-items:center;scrollbar-width:none;overscroll-behavior-x:contain;padding-block:4px}
+ .site-wrap.with-genealogy .topbar .header-navigation::-webkit-scrollbar{display:none}
+ .site-wrap.with-genealogy .topbar .header-navigation nav{flex:0 0 auto;flex-wrap:nowrap;overflow:visible;width:auto;max-width:none;gap:20px;margin:0;padding:0}
+ .site-wrap.with-genealogy .topbar .header-navigation nav a{flex:0 0 auto;white-space:nowrap;min-height:44px;display:inline-flex;align-items:center;padding:8px 0;font-size:12px}
+ .site-wrap.with-genealogy .topbar .header-navigation .header-research{border-left:0;padding-left:0}
+ .site-wrap.with-genealogy .topbar .header-navigation .header-about{border-left:1px solid #444;padding-left:22px;margin-left:0}
+}}
+/* Personal author signature follows the full About text. */
+.about-author{max-width:760px;margin:76px auto 0;padding:48px 20px 20px;text-align:center;border-top:1px solid #30302e}
+.about-author-logo{display:block;width:112px;height:112px;object-fit:contain;margin:0 auto 20px}
+.about-author h2{font-size:22px;font-weight:500;letter-spacing:.04em;margin:0 0 24px;color:#e9e6df}
+.about-author-intro{max-width:560px;margin:0 auto 22px;font-size:16px;line-height:1.9;color:#d2cfc8}
+.about-author-interests{max-width:650px;margin:0 auto;font-size:14px;line-height:1.9;color:#aaa79f}
+.about-author-interests p{margin:10px 0;overflow-wrap:anywhere}
+.about-author-contact{margin:22px 0 0;font:13px/1.9 'SFMono-Regular',Consolas,monospace;color:#c5c1b9}
+@media(max-width:600px){.about-author{margin-top:48px;padding:36px 0 12px}.about-author-logo{width:96px;height:96px}.about-author-intro{font-size:15px}}
+/* Keep the two mobile reading views within reach during long illustrated entries. */
+@container reading-room (max-width:759px){.room-pane-navigation{position:sticky;top:0;z-index:20;background:var(--background);padding:12px 0;backdrop-filter:blur(12px)}}
+.unified-index{container:archive-index / inline-size}
+@container archive-index (max-width:599px){.index-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.index-tabs button{flex-direction:column;justify-content:center;gap:6px;min-width:0;min-height:72px;padding:12px 8px;font-size:12px;text-align:center;white-space:normal}}
+@container archive-app (max-width:759px){.searchbox input,.room-search input,.room-tools select{font-size:16px}}
+@media(any-pointer:coarse){.searchbox button,.sort-button,.active-filters button,.room-reset,.year-link{min-height:44px}.searchbox button{min-width:44px}.external-icon{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px}.footer-right a{display:inline-flex;align-items:center;min-height:44px}}
+
+@media(any-pointer:coarse){.filter-select{height:auto!important;min-height:44px!important}}
+
+/* Download and citation content remains readable at narrow widths and zoom. */
+.research-data{max-width:76rem;margin-inline:auto;padding:clamp(1rem,3vw,3rem);min-width:0}
+.research-data p,.research-data li,.research-data a{overflow-wrap:anywhere}
+.research-data li{margin-block:.65rem}
+.research-data a{ text-underline-offset:.2em }
+.research-data a:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+@media(max-width:600px){.research-data h1{font-size:clamp(1.65rem,7vw,2.5rem)}.research-data{padding:1rem}}
+.research-data a{text-decoration:underline;display:inline-block;min-height:24px}
+.viewport-frame:has(.research-data) .genealogy-rail{display:none}

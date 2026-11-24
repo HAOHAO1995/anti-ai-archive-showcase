@@ -1,0 +1,11 @@
+/* Keep every record in the document for search, accessibility and stable URLs.
+   Offscreen catalogue contents need no layout/paint until they approach view.
+   The browser remembers measured card heights; selected previews are excluded. */
+@supports (content-visibility:auto) {
+ .room-records > .room-record {content-visibility:auto;contain-intrinsic-block-size:auto 200px}
+ .room-gallery > .room-record {contain-intrinsic-block-size:auto 430px}
+ .timeline .event-row,.catalog-row {content-visibility:auto;contain-intrinsic-block-size:auto 220px}
+}
+@media print {
+ .room-records > .room-record,.timeline .event-row,.catalog-row {content-visibility:visible;contain-intrinsic-block-size:none}
+}

@@ -1,0 +1,2 @@
+import {Link,Text} from '@/components/site-shell';
+export default function NotFound(){return <main id="main" className="empty-state"><span className="eyebrow">404</span><h1><Text zh="未找到这条记录" en="Record not found"/></h1><p><Text zh="这条记录不存在，或地址已更改。" en="This record could not be found. The address may have changed."/></p><Link href="/" className="primary-link"><Text zh="返回编年" en="Back to chronology"/> ↗</Link></main>}

@@ -1,0 +1,2009 @@
+{
+  "checked_at": "2026-11-24T03:16:24.154333+00:00",
+  "unique_urls": 2200,
+  "checked": 200,
+  "unchecked": 2000,
+  "scope": "Host-diverse bounded sample; no completeness or content-verification claim. 404/410 require manual review.",
+  "results": [
+    {
+      "url": "https://magazine.artstation.com/2022/12/noli-tag/",
+      "ids": [
+        "src-0001"
+      ],
+      "http_status": "403",
+      "final_url": "https://magazine.artstation.com/2022/12/noli-tag/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click/",
+      "ids": [
+        "src-0004"
+      ],
+      "http_status": "200",
+      "final_url": "https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://developers.cloudflare.com/changelog/post/2025-07-01-pay-per-crawl/",
+      "ids": [
+        "src-0005"
+      ],
+      "http_status": "200",
+      "final_url": "https://developers.cloudflare.com/changelog/post/2025-07-01-pay-per-crawl/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.itmedia.co.jp/business/articles/2208/30/news166.html",
+      "ids": [
+        "src-0006"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.itmedia.co.jp/business/articles/2208/30/news166.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://urheber.info/diskurs/positionspapier-zu-kunstlicher-intelligenz",
+      "ids": [
+        "src-0007"
+      ],
+      "http_status": "200",
+      "final_url": "https://urheber.info/diskurs/positionspapier-zu-kunstlicher-intelligenz",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://authorsguild.org/news/ag-and-authors-file-class-action-suit-against-openai/",
+      "ids": [
+        "src-0008"
+      ],
+      "http_status": "200",
+      "final_url": "https://authorsguild.org/news/ag-and-authors-file-class-action-suit-against-openai/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.sagaftra.org/sag-aftra-strikes-video-games-over-ai",
+      "ids": [
+        "src-0009"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.sagaftra.org/sag-aftra-strikes-video-games-over-ai",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.apraamcos.com.au/about-us/news-and-events/ai-in-music-report",
+      "ids": [
+        "src-0010"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.apraamcos.com.au/about-us/news-and-events/ai-in-music-report",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://escriba.camara.leg.br/escriba-servicosweb/html/74141",
+      "ids": [
+        "src-0011"
+      ],
+      "http_status": "000",
+      "final_url": "https://escriba.camara.leg.br/escriba-servicosweb/html/74141",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to escriba.camara.leg.br port 443 after 5010 ms: Timeout was reached"
+    },
+    {
+      "url": "https://www.isthiswhatwewant.com/",
+      "ids": [
+        "src-0012"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.isthiswhatwewant.com/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://nafca.jp/動画生成aiサービスに関して/",
+      "ids": [
+        "src-0013"
+      ],
+      "http_status": "200",
+      "final_url": "https://nafca.jp/動画生成aiサービスに関して/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://press.christies.com/augmented-intelligence-/",
+      "ids": [
+        "src-0014"
+      ],
+      "http_status": "200",
+      "final_url": "https://press.christies.com/augmented-intelligence-/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://openletter.earth/cancel-the-christies-ai-art-auction-f5135435",
+      "ids": [
+        "src-0015"
+      ],
+      "http_status": "000",
+      "final_url": "https://openletter.earth/cancel-the-christies-ai-art-auction-f5135435",
+      "status": "unresolved",
+      "network_error": "curl: (35) Recv failure: Connection reset by peer"
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_27137070",
+      "ids": [
+        "src-0016"
+      ],
+      "http_status": "200",
+      "final_url": "https://m.thepaper.cn/newsDetail_forward_27137070",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.equity.org.uk/news/2022/campaigning-update-stop-ai-stealing-the-show",
+      "ids": [
+        "src-0017"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.equity.org.uk/news/2022/campaigning-update-stop-ai-stealing-the-show",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.actra.ca/wp-content/uploads/2023/09/PA-AI-Submission.pdf",
+      "ids": [
+        "src-0018"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.actra.ca/wp-content/uploads/2023/09/PA-AI-Submission.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.sgdl.org/sgdl-accueil/l-actualite-sgdl/actualites-2025/4642-communique-la-sgdl-le-snac-et-le-sne-assignent-meta-pour-imposer-le-respect-du-droit-dauteur",
+      "ids": [
+        "src-0019"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.sgdl.org/sgdl-accueil/l-actualite-sgdl/actualites-2025/4642-communique-la-sgdl-le-snac-et-le-sne-assignent-meta-pour-imposer-le-respect-du-droit-dauteur",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.samro.org.za/samro-ai-survey",
+      "ids": [
+        "src-0020"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.samro.org.za/samro-ai-survey",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.wgacontract2023.org/the-campaign/tentative-agreement",
+      "ids": [
+        "src-0023"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.wgacontract2023.org/the-campaign/tentative-agreement",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://glaze.cs.uchicago.edu/jp/release.html",
+      "ids": [
+        "src-0025"
+      ],
+      "http_status": "000",
+      "final_url": "https://glaze.cs.uchicago.edu/jp/release.html",
+      "status": "unresolved",
+      "network_error": "curl: (6) Could not resolve host: glaze.cs.uchicago.edu"
+    },
+    {
+      "url": "https://www.motionpictures.org/press/motion-picture-association-calls-for-bytedance-to-cease-seedance-2-0-infringing-activity/",
+      "ids": [
+        "src-0026"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.motionpictures.org/press/motion-picture-association-calls-for-bytedance-to-cease-seedance-2-0-infringing-activity/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://newsroom.tiktok.com/mpa-and-bytedance-announce-global-agreement-to-protect-intellectual-property-on-ai-video-and-image-generation-models?lang=en",
+      "ids": [
+        "src-0029"
+      ],
+      "http_status": "200",
+      "final_url": "https://newsroom.tiktok.com/mpa-and-bytedance-announce-global-agreement-to-protect-intellectual-property-on-ai-video-and-image-generation-models?lang=en",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://au.variety.com/2026/film/news/paramount-disney-bytedance-cease-and-desist-seedance-ai-infringement-ip-33099/",
+      "ids": [
+        "src-0030"
+      ],
+      "http_status": "200",
+      "final_url": "https://au.variety.com/2026/film/news/paramount-disney-bytedance-cease-and-desist-seedance-ai-infringement-ip-33099/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.thewrap.com/industry-news/public-policy-legal/sony-cease-desist-bytedance-ai/",
+      "ids": [
+        "src-0032"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.thewrap.com/industry-news/public-policy-legal/sony-cease-desist-bytedance-ai/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://script.ie/whats-new/2026/01/human-artistry-campaign-stealing-isnt-innovation/",
+      "ids": [
+        "src-0037"
+      ],
+      "http_status": "403",
+      "final_url": "https://script.ie/whats-new/2026/01/human-artistry-campaign-stealing-isnt-innovation/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://finance.sina.com.cn/jjxw/2023-03-10/doc-imykkuvr2999072.shtml",
+      "ids": [
+        "src-0041"
+      ],
+      "http_status": "200",
+      "final_url": "https://finance.sina.com.cn/jjxw/2023-03-10/doc-imykkuvr2999072.shtml",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://newsroom.gettyimages.com/en/getty-images/getty-images-statement",
+      "ids": [
+        "src-0042"
+      ],
+      "http_status": "200",
+      "final_url": "https://newsroom.gettyimages.com/en/getty-images/getty-images-statement",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf",
+      "ids": [
+        "src-0044"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.wmg.com/news/warner-music-group-and-suno-forge-groundbreaking-partnership",
+      "ids": [
+        "src-0046"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.wmg.com/news/warner-music-group-and-suno-forge-groundbreaking-partnership",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.universalmusic.com/universal-music-group-and-udio-announce-udios-first-strategic-agreements-for-new-licensed-ai-music-creation-platform/",
+      "ids": [
+        "src-0047"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.universalmusic.com/universal-music-group-and-udio-announce-udios-first-strategic-agreements-for-new-licensed-ai-music-creation-platform/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://thetrichordist.com/wp-content/uploads/2024/04/araopenletterai-release.pdf",
+      "ids": [
+        "src-0049"
+      ],
+      "http_status": "200",
+      "final_url": "https://thetrichordist.com/wp-content/uploads/2024/04/araopenletterai-release.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.dontstealthisbook.com/",
+      "ids": [
+        "src-0050"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.dontstealthisbook.com/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://indianexpress.com/article/books-and-literature/dont-steal-this-book-authors-ai-uk-copyright-anthropic-british-10576628/",
+      "ids": [
+        "src-0051"
+      ],
+      "http_status": "200",
+      "final_url": "https://indianexpress.com/article/books-and-literature/dont-steal-this-book-authors-ai-uk-copyright-anthropic-british-10576628/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://nomore-mudan.com/",
+      "ids": [
+        "src-0052"
+      ],
+      "http_status": "200",
+      "final_url": "https://nomore-mudan.com/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.news1.kr/amp/it-science/internet-platform/5068493",
+      "ids": [
+        "src-0054"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.news1.kr/amp/it-science/internet-platform/5068493",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.news1.kr port 443 after 5010 ms: Timeout was reached"
+    },
+    {
+      "url": "https://www.classaction.org/media/andersen-et-al-v-stability-ai-ltd-et-al.pdf",
+      "ids": [
+        "src-0055"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.classaction.org/media/andersen-et-al-v-stability-ai-ltd-et-al.pdf",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.13828v1",
+      "ids": [
+        "src-0056"
+      ],
+      "http_status": "200",
+      "final_url": "https://arxiv.org/abs/2310.13828v1",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://news.artnet.com/art-world/nightshade-ai-downloaded-250000-times-2426956?amp=1",
+      "ids": [
+        "src-0057"
+      ],
+      "http_status": "000",
+      "final_url": "https://news.artnet.com/art-world/nightshade-ai-downloaded-250000-times-2426956?amp=1",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to news.artnet.com port 443 after 5011 ms: Couldn't connect to server"
+    },
+    {
+      "url": "https://news.wfsu.org/all-npr-news/2023-02-24/a-sci-fi-magazine-has-cut-off-submissions-after-a-flood-of-ai-generated-stories",
+      "ids": [
+        "src-0058"
+      ],
+      "http_status": "000",
+      "final_url": "https://news.wfsu.org/all-npr-news/2023-02-24/a-sci-fi-magazine-has-cut-off-submissions-after-a-flood-of-ai-generated-stories",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to news.wfsu.org port 443 after 5007 ms: Timeout was reached"
+    },
+    {
+      "url": "https://www.jornada.com.mx/noticia/2025/07/14/espectaculos/creativos-exigen-regular-uso-de-la-inteligencia-artificial",
+      "ids": [
+        "src-0059"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.jornada.com.mx/noticia/2025/07/14/espectaculos/creativos-exigen-regular-uso-de-la-inteligencia-artificial",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.elfinanciero.com.mx/cdmx/2025/07/13/actores-de-doblaje-contras-la-inteligencia-artificial-manifestacion-cdmx-hoy-13-de-julio/",
+      "ids": [
+        "src-0060"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.elfinanciero.com.mx/cdmx/2025/07/13/actores-de-doblaje-contras-la-inteligencia-artificial-manifestacion-cdmx-hoy-13-de-julio/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://cultura.uol.com.br/entretenimento/noticias/2024/02/01/9284_dublagem-viva-campanha-cobra-regulamentacao-da-inteligencia-artificial-nas-dublagens-brasileiras.html",
+      "ids": [
+        "src-0061"
+      ],
+      "http_status": "200",
+      "final_url": "https://cultura.uol.com.br/entretenimento/noticias/2024/02/01/9284_dublagem-viva-campanha-cobra-regulamentacao-da-inteligencia-artificial-nas-dublagens-brasileiras.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://dublagemviva.com.br/index.php/manifesto/",
+      "ids": [
+        "src-0062"
+      ],
+      "http_status": "200",
+      "final_url": "https://dublagemviva.com.br/index.php/manifesto/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.eldagsen.com/sony-world-photography-awards-2023/",
+      "ids": [
+        "src-0063"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.eldagsen.com/sony-world-photography-awards-2023/",
+      "status": "unresolved",
+      "network_error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.clipstudio.net/en/news/202211/29_01/",
+      "ids": [
+        "src-0064"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.clipstudio.net/en/news/202211/29_01/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://procreate.com/ai",
+      "ids": [
+        "src-0066"
+      ],
+      "http_status": "200",
+      "final_url": "https://procreate.com/ai",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://gigazine.net/gsc_news/en/20240820-procreate-takes-a-stand-against-generative-ai/",
+      "ids": [
+        "src-0067"
+      ],
+      "http_status": "200",
+      "final_url": "https://gigazine.net/gsc_news/en/20240820-procreate-takes-a-stand-against-generative-ai/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.dndbeyond.com/community-update",
+      "ids": [
+        "src-0068"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.dndbeyond.com/community-update",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/embark-studios-i-the-finals-i-uses-text-to-speech-ai-for-in-game-voices",
+      "ids": [
+        "src-0069"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.gamedeveloper.com/business/embark-studios-i-the-finals-i-uses-text-to-speech-ai-for-in-game-voices",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.chaosium.com/blogai-art-and-chaosium-16-dec-2022/",
+      "ids": [
+        "src-0070"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.chaosium.com/blogai-art-and-chaosium-16-dec-2022/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.pcgamer.com/pathfinder-maker-bans-ai-generated-art-text-in-its-games/",
+      "ids": [
+        "src-0072"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.pcgamer.com/pathfinder-maker-bans-ai-generated-art-text-in-its-games/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://blog.cara.app/blog/cara-glaze-about",
+      "ids": [
+        "src-0073"
+      ],
+      "http_status": "200",
+      "final_url": "https://blog.cara.app/blog/cara-glaze-about",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://spawning.substack.com/p/have-i-been-trained-is-back",
+      "ids": [
+        "src-0076"
+      ],
+      "http_status": "000",
+      "final_url": "https://spawning.substack.com/p/have-i-been-trained-is-back",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to spawning.substack.com port 443 after 5003 ms: Timeout was reached"
+    },
+    {
+      "url": "https://indiankanoon.org/doc/103091928/",
+      "ids": [
+        "src-0079"
+      ],
+      "http_status": "200",
+      "final_url": "https://indiankanoon.org/doc/103091928/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.almasryalyoum.com/news/details/3517310",
+      "ids": [
+        "src-0081"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.almasryalyoum.com/news/details/3517310",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.cumhuriyet.com.tr/turkiye/oyuncular-sendikasi-ndan-tesseract-tepkisi-sanat-insan-emegiyle-var-olur-yapay-zeka-insanin-yerine-degil-yaninda-olmalidir-2453562",
+      "ids": [
+        "src-0082"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.cumhuriyet.com.tr/turkiye/oyuncular-sendikasi-ndan-tesseract-tepkisi-sanat-insan-emegiyle-var-olur-yapay-zeka-insanin-yerine-degil-yaninda-olmalidir-2453562",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.birsenaltuntas.com/dizi/akin-akinozunden-oyuncular-sendikasina-tepki/66879/",
+      "ids": [
+        "src-0083"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.birsenaltuntas.com/dizi/akin-akinozunden-oyuncular-sendikasina-tepki/66879/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.bollywoodhungama.com/amp/news/bollywood/raanjhanaa-ai-ending-row-dhanush-aanand-l-rai-unite-take-legal-route-exploring-legal-options/",
+      "ids": [
+        "src-0084"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.bollywoodhungama.com/amp/news/bollywood/raanjhanaa-ai-ending-row-dhanush-aanand-l-rai-unite-take-legal-route-exploring-legal-options/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://saguildofactors.co.za/2024/05/16/jack-devnarain-presentation-on-the-impact-of-a-i-on-performer-rights/",
+      "ids": [
+        "src-0086"
+      ],
+      "http_status": "200",
+      "final_url": "https://saguildofactors.co.za/2024/05/16/jack-devnarain-presentation-on-the-impact-of-a-i-on-performer-rights/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://sidof.segob.gob.mx/notas/docFuente/5787418",
+      "ids": [
+        "src-0087"
+      ],
+      "http_status": "000",
+      "final_url": "https://sidof.segob.gob.mx/notas/docFuente/5787418",
+      "status": "unresolved",
+      "network_error": "curl: (28) Resolving timed out after 5005 milliseconds"
+    },
+    {
+      "url": "https://sfwa.org/2023/11/03/sfwa-comments-on-ai-to-us-copyright-office/",
+      "ids": [
+        "src-0088"
+      ],
+      "http_status": "000",
+      "final_url": "https://sfwa.org/2023/11/03/sfwa-comments-on-ai-to-us-copyright-office/",
+      "status": "unresolved",
+      "network_error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://ed.newtonrex.com/statement-on-ai-training",
+      "ids": [
+        "src-0090"
+      ],
+      "http_status": "200",
+      "final_url": "https://ed.newtonrex.com/statement-on-ai-training",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.aitrainingstatement.org/",
+      "ids": [
+        "src-0091"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.aitrainingstatement.org/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.dacs.org.uk/news-events/call-to-support-statement-advocating-for-fair-ai-training",
+      "ids": [
+        "src-0092"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.dacs.org.uk/news-events/call-to-support-statement-advocating-for-fair-ai-training",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://ekraf.go.id/news-en/deputy-minister-of-creative-economy-receives-persusi-visit-discusses-royalties-and-dubber-regulations",
+      "ids": [
+        "src-0093"
+      ],
+      "http_status": "200",
+      "final_url": "https://ekraf.go.id/news-en/deputy-minister-of-creative-economy-receives-persusi-visit-discusses-royalties-and-dubber-regulations",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://wartaekonomi.co.id/read559983/kemenekraf-berkomitmen-perjuangkan-royalti-dan-regulasi-bagi-dubber",
+      "ids": [
+        "src-0094"
+      ],
+      "http_status": "200",
+      "final_url": "https://wartaekonomi.co.id/read559983/kemenekraf-berkomitmen-perjuangkan-royalti-dan-regulasi-bagi-dubber",
+      "status": "available",
+      "network_error": "curl: (28) Operation timed out after 12004 milliseconds with 9565 bytes received"
+    },
+    {
+      "url": "https://www.anmtvla.com/2025/07/chile-actores-de-doblaje-reclaman-el.html",
+      "ids": [
+        "src-0095"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.anmtvla.com/2025/07/chile-actores-de-doblaje-reclaman-el.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://lithub.com/harpercollins-is-selling-their-authors-work-to-ai-tech/",
+      "ids": [
+        "src-0096"
+      ],
+      "http_status": "200",
+      "final_url": "https://lithub.com/harpercollins-is-selling-their-authors-work-to-ai-tech/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://societyofauthors.org/2024/12/13/the-soa-responds-to-the-harpercollins-ai-licensing-deal/",
+      "ids": [
+        "src-0097"
+      ],
+      "http_status": "403",
+      "final_url": "https://societyofauthors.org/2024/12/13/the-soa-responds-to-the-harpercollins-ai-licensing-deal/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://aapv.es/ia-doblate-nova-clausula-contracte/",
+      "ids": [
+        "src-0098"
+      ],
+      "http_status": "200",
+      "final_url": "https://aapv.es/ia-doblate-nova-clausula-contracte/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.sggp.org.vn/loi-canh-tinh-khi-su-dung-ai-sang-tao-nghe-thuat-post807680.html",
+      "ids": [
+        "src-0099"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.sggp.org.vn/loi-canh-tinh-khi-su-dung-ai-sang-tao-nghe-thuat-post807680.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.comic-con.org/cc/things-to-do/art-show/",
+      "ids": [
+        "src-0100"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.comic-con.org/cc/things-to-do/art-show/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://graphicpolicy.com/2026/01/14/san-diego-comic-con-quietly-updates-its-art-show-ai-policy-reversing-course/",
+      "ids": [
+        "src-0101"
+      ],
+      "http_status": "200",
+      "final_url": "https://graphicpolicy.com/2026/01/14/san-diego-comic-con-quietly-updates-its-art-show-ai-policy-reversing-course/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/",
+      "ids": [
+        "src-0102"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/",
+      "status": "unresolved",
+      "network_error": "curl: (28) Resolving timed out after 5011 milliseconds"
+    },
+    {
+      "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/",
+      "ids": [
+        "src-0103"
+      ],
+      "http_status": "200",
+      "final_url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://bleedingcool.com/comics/police-called-over-a-i-protest-against-bells-booth-at-fanexpo-canada/",
+      "ids": [
+        "src-0105"
+      ],
+      "http_status": "403",
+      "final_url": "https://bleedingcool.com/comics/police-called-over-a-i-protest-against-bells-booth-at-fanexpo-canada/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://mobilesyrup.com/2025/08/26/bell-ai-photo-booth-fan-expo-canada-criticism/",
+      "ids": [
+        "src-0106"
+      ],
+      "http_status": "200",
+      "final_url": "https://mobilesyrup.com/2025/08/26/bell-ai-photo-booth-fan-expo-canada-criticism/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://petapixel.com/2022/09/21/getty-images-ban-ai-generated-pictures-shutterstock-following-suit/",
+      "ids": [
+        "src-0107"
+      ],
+      "http_status": "000",
+      "final_url": "https://petapixel.com/2022/09/21/getty-images-ban-ai-generated-pictures-shutterstock-following-suit/",
+      "status": "unresolved",
+      "network_error": "curl: (35) Recv failure: Connection reset by peer"
+    },
+    {
+      "url": "https://torrentfreak.com/mpa-riaa-deployed-60-lobbyists-in-2022-piracy-top-of-the-agenda-230105/",
+      "ids": [
+        "src-0108"
+      ],
+      "http_status": "200",
+      "final_url": "https://torrentfreak.com/mpa-riaa-deployed-60-lobbyists-in-2022-piracy-top-of-the-agenda-230105/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.conceptartassociation.com/calendar/celebrate-human-creativity-event",
+      "ids": [
+        "src-0109"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.conceptartassociation.com/calendar/celebrate-human-creativity-event",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.theartnewspaper.com/2025/11/11/artificial-installation-artist-hangs-own-ai-generated-work-in-welsh-museum",
+      "ids": [
+        "src-0111"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.theartnewspaper.com/2025/11/11/artificial-installation-artist-hangs-own-ai-generated-work-in-welsh-museum",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.theartnewspaper.com port 443 after 5011 ms: Timeout was reached"
+    },
+    {
+      "url": "https://hyperallergic.com/prankster-with-a-cause-sneaks-ai-artwork-into-uk-museum/",
+      "ids": [
+        "src-0112"
+      ],
+      "http_status": "200",
+      "final_url": "https://hyperallergic.com/prankster-with-a-cause-sneaks-ai-artwork-into-uk-museum/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://newsmediauk.org/blog/2025/02/25/uk-creative-industries-launch-make-it-fair-campaign/",
+      "ids": [
+        "src-0113"
+      ],
+      "http_status": "403",
+      "final_url": "https://newsmediauk.org/blog/2025/02/25/uk-creative-industries-launch-make-it-fair-campaign/",
+      "status": "access-restricted",
+      "network_error": "curl: (28) Operation timed out after 12009 milliseconds with 4098 out of 6046 bytes received"
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/",
+      "ids": [
+        "src-0115"
+      ],
+      "http_status": "405",
+      "final_url": "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/",
+      "status": "unresolved",
+      "network_error": null
+    },
+    {
+      "url": "https://www.newgrounds.com/wiki/help-information/terms-of-use/art-guidelines",
+      "ids": [
+        "src-0116"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.newgrounds.com/wiki/help-information/terms-of-use/art-guidelines",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.copyright.gov/docs/zarya-of-the-dawn.pdf",
+      "ids": [
+        "src-0117"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.copyright.gov/docs/zarya-of-the-dawn.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.outlookindia.com/art-entertainment/morgan-freeman-thanks-fans-for-calling-out-unauthorized-ai-version-of-his-voice",
+      "ids": [
+        "src-0119"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.outlookindia.com/art-entertainment/morgan-freeman-thanks-fans-for-calling-out-unauthorized-ai-version-of-his-voice",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.outlookindia.com port 443 after 5010 ms: Timeout was reached"
+    },
+    {
+      "url": "https://www.jiemian.com/article/14325243.html",
+      "ids": [
+        "src-0121"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.jiemian.com/article/14325243.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://static.cdsb.com/micropub/Articles/202407/c3e0c2cce27418eefe798d33ee653fc1.html",
+      "ids": [
+        "src-0122"
+      ],
+      "http_status": "200",
+      "final_url": "https://static.cdsb.com/micropub/Articles/202407/c3e0c2cce27418eefe798d33ee653fc1.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_28167849",
+      "ids": [
+        "src-0123"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.thepaper.cn/newsDetail_forward_28167849",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://fanqienovel.com/writer/zone/article/7602950185735438398",
+      "ids": [
+        "src-0126"
+      ],
+      "http_status": "200",
+      "final_url": "https://fanqienovel.com/writer/zone/article/7602950185735438398",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.goodmorningamerica.com/culture/story/ai-generated-actress-appears-new-music-video-addressing-130946543",
+      "ids": [
+        "src-0127"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.goodmorningamerica.com/culture/story/ai-generated-actress-appears-new-music-video-addressing-130946543",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://amptp.org/wp-content/themes/amptp/assets/pdf/SAG-AFTRA/2026%20SAG-AFTRA%20Memorandum%20of%20Agreement%20FULLY%20EXECUTED%202026-05-27.pdf",
+      "ids": [
+        "src-0130"
+      ],
+      "http_status": "200",
+      "final_url": "https://amptp.org/wp-content/themes/amptp/assets/pdf/SAG-AFTRA/2026%20SAG-AFTRA%20Memorandum%20of%20Agreement%20FULLY%20EXECUTED%202026-05-27.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/1012350315_121627717",
+      "ids": [
+        "src-0135"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.sohu.com/a/1012350315_121627717",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.zaobao.com.sg/news/china/story20260421-8926766",
+      "ids": [
+        "src-0136"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.zaobao.com/news/china/story20260421-8926766",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf",
+      "ids": [
+        "src-0138"
+      ],
+      "http_status": "200",
+      "final_url": "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-449.html",
+      "ids": [
+        "src-0139"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-449.html",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1898496/000162828025024748/gety-20250331.htm",
+      "ids": [
+        "src-0140"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.sec.gov/Archives/edgar/data/1898496/000162828025024748/gety-20250331.htm",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://business.cch.com/ipld/GettyImagesUSIncStabilityAILtd20260423042426.pdf",
+      "ids": [
+        "src-0141"
+      ],
+      "http_status": "200",
+      "final_url": "https://business.cch.com/ipld/GettyImagesUSIncStabilityAILtd20260423042426.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.southafricanculturalobservatory.org.za/article/south-african-creatives-embrace-ai-while-calling-for-ip-protection-new-report",
+      "ids": [
+        "src-0142"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.southafricanculturalobservatory.org.za/article/south-african-creatives-embrace-ai-while-calling-for-ip-protection-new-report",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.cisac.org/fr/node/1454",
+      "ids": [
+        "src-0143"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.cisac.org/fr/node/1454",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.grammy.com/news/grammys-on-the-hill-2026-recap-announcement/",
+      "ids": [
+        "src-0144"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.grammy.com/news/grammys-on-the-hill-2026-recap-announcement/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.welch.senate.gov/welch-and-blackburn-host-20-music-artists-on-capitol-hill-to-discuss-protecting-creators-from-ai-harm/",
+      "ids": [
+        "src-0145"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.welch.senate.gov/welch-and-blackburn-host-20-music-artists-on-capitol-hill-to-discuss-protecting-creators-from-ai-harm/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.musiccreatorsna.org/statement-genai-licensing-202511/",
+      "ids": [
+        "src-0146"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.musiccreatorsna.org/statement-genai-licensing-202511/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.ciamcreators.org/Newsroom/council-news-creators-meetings/building-african-and-global-unity-through-ubuntu-ciam-ga",
+      "ids": [
+        "src-0148"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.ciamcreators.org/Newsroom/council-news-creators-meetings/building-african-and-global-unity-through-ubuntu-ciam-ga",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://electricsouth.org/workshop_item/ai-immersive-media-convening-2025/",
+      "ids": [
+        "src-0149"
+      ],
+      "http_status": "200",
+      "final_url": "https://electricsouth.org/workshop_item/ai-immersive-media-convening-2025/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://caselaw.findlaw.com/court/us-dis-crt-sd-new-yor/116964772.html",
+      "ids": [
+        "src-0150"
+      ],
+      "http_status": "403",
+      "final_url": "https://caselaw.findlaw.com/court/us-dis-crt-sd-new-yor/116964772.html",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.loevy.com/press-release-digital-publishers-file-brief-in-openai-lawsuit/",
+      "ids": [
+        "src-0151"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.loevy.com/press-release-digital-publishers-file-brief-in-openai-lawsuit/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.docketalarm.com/cases/New_York_Southern_District_Court/1--23-cv-11195/The_New_York_Times_Company_v._MICROSOFT_CORPORATION_et_al/1/",
+      "ids": [
+        "src-0152"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.docketalarm.com/cases/New_York_Southern_District_Court/1--23-cv-11195/The_New_York_Times_Company_v._MICROSOFT_CORPORATION_et_al/1/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1662.0.pdf",
+      "ids": [
+        "src-0153"
+      ],
+      "http_status": "200",
+      "final_url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1662.0.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://coda-cj.jp/news/2577/",
+      "ids": [
+        "src-0155"
+      ],
+      "http_status": "200",
+      "final_url": "https://coda-cj.jp/news/2577/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://spectrumnews1.com/oh/columbus/news/2022/12/08/art-app-is-receiving-backlash-from-artists-",
+      "ids": [
+        "src-0156"
+      ],
+      "http_status": "000",
+      "final_url": "https://spectrumnews1.com/oh/columbus/news/2022/12/08/art-app-is-receiving-backlash-from-artists-",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to spectrumnews1.com port 443 after 5007 ms: Timeout was reached"
+    },
+    {
+      "url": "https://lensa.app/privacy/20221215/",
+      "ids": [
+        "src-0157"
+      ],
+      "http_status": "200",
+      "final_url": "https://lensa.app/privacy/20221215/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.cna.com.tw/news/amov/202609060175.aspx",
+      "ids": [
+        "src-0158"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.cna.com.tw/news/amov/202609060175.aspx",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.cna.com.tw port 443 after 5011 ms: Timeout was reached"
+    },
+    {
+      "url": "https://bff.de/news/bff-fordert-umfassende-diskussion-ueber-auswirkungen-von-ki-technologien/",
+      "ids": [
+        "src-0159"
+      ],
+      "http_status": "200",
+      "final_url": "https://bff.de/news/bff-fordert-umfassende-diskussion-ueber-auswirkungen-von-ki-technologien/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://freelens.com/media/pages/neues/news/das-ende-der-authentizitat/532906eb8b-1744196712/ki-positionspapier-03_2023.pdf",
+      "ids": [
+        "src-0160"
+      ],
+      "http_status": "200",
+      "final_url": "https://freelens.com/media/pages/neues/news/das-ende-der-authentizitat/532906eb8b-1744196712/ki-positionspapier-03_2023.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://deutscher-fotorat.de/media/pages/medialibrary/6448b283d4-1755779408/2025-08-20_fotorat_stellungnahme_genki.pdf",
+      "ids": [
+        "src-0161"
+      ],
+      "http_status": "200",
+      "final_url": "https://deutscher-fotorat.de/media/pages/medialibrary/6448b283d4-1773314500/2025-08-20_fotorat_stellungnahme_genki.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.tvanouvelles.ca/2025/11/23/coup-declat-au-salon-du-livre-de-montreal-on-trouve-que-lart-doit-rester-humain-revendiquent-des-illustrateurs",
+      "ids": [
+        "src-0162"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.tvanouvelles.ca/2025/11/23/coup-declat-au-salon-du-livre-de-montreal-on-trouve-que-lart-doit-rester-humain-revendiquent-des-illustrateurs",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.journaldequebec.com/2025/07/04/ca-me-fache-des-illustrateurs-denoncent-lutilisation-dia-dans-des-promos-du-feq",
+      "ids": [
+        "src-0163"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.journaldequebec.com/2025/07/04/ca-me-fache-des-illustrateurs-denoncent-lutilisation-dia-dans-des-promos-du-feq",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.journaldequebec.com port 443 after 5006 ms: Timeout was reached"
+    },
+    {
+      "url": "https://lartesthumain.com/",
+      "ids": [
+        "src-0164"
+      ],
+      "http_status": "200",
+      "final_url": "https://lartesthumain.com/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.pressegauche.org/Regroupement-pour-l-art-humain-Pour-un-Noel-sans-intelligence-artificielle",
+      "ids": [
+        "src-0165"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.pressegauche.org/Regroupement-pour-l-art-humain-Pour-un-Noel-sans-intelligence-artificielle",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://snac.fr/2023/07/alerter-sur-la-problematique-de-lintelligence-artificielle-generative-iag-a-date-du-18-juillet-2023/",
+      "ids": [
+        "src-0166"
+      ],
+      "http_status": "200",
+      "final_url": "https://snac.fr/2023/07/alerter-sur-la-problematique-de-lintelligence-artificielle-generative-iag-a-date-du-18-juillet-2023/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://apic.cat/actualitat/manifest-de-lapic-sobre-la-intelligencia-artificial-ia/",
+      "ids": [
+        "src-0167"
+      ],
+      "http_status": "200",
+      "final_url": "https://apic.cat/actualitat/manifest-de-lapic-sobre-la-intelligencia-artificial-ia/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.arabalears.cat/suplements/comic-il-lustracio-alca-veu-contra-ia-inteligencia-artificial_1_5018450.html",
+      "ids": [
+        "src-0168"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.arabalears.cat/suplements/comic-il-lustracio-alca-veu-contra-ia-inteligencia-artificial_1_5018450.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.egair.eu/news",
+      "ids": [
+        "src-0169"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.egair.eu/news",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://autoridimmagini.it/notizie/ai-act-europeo-appello-alle-istituzioni/",
+      "ids": [
+        "src-0172"
+      ],
+      "http_status": "200",
+      "final_url": "https://autoridimmagini.it/notizie/ai-act-europeo-appello-alle-istituzioni/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://animationguild.org/thousands-show-support-at-tags-stand-with-animation-rally/",
+      "ids": [
+        "src-0173"
+      ],
+      "http_status": "200",
+      "final_url": "https://animationguild.org/thousands-show-support-at-tags-stand-with-animation-rally/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://radar.ph/pagcor-reviews-photo-contest-finalists-amid-ai-manipulation-concerns/",
+      "ids": [
+        "src-0174"
+      ],
+      "http_status": "200",
+      "final_url": "https://radar.ph/pagcor-reviews-photo-contest-finalists-amid-ai-manipulation-concerns/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.pagcor.ph/photocon2026/docs/contest-mechanics.pdf",
+      "ids": [
+        "src-0175"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.pagcor.ph/photocon2026/docs/contest-mechanics.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://interaksyon.philstar.com/trends-spotlights/2024/09/13/283483/poster-making-contest-draws-flak-for-recognizing-ai-generated-work/",
+      "ids": [
+        "src-0176"
+      ],
+      "http_status": "403",
+      "final_url": "https://interaksyon.philstar.com/trends-spotlights/2024/09/13/283483/poster-making-contest-draws-flak-for-recognizing-ai-generated-work/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.tagnegotiations2024.com/post/statement-from-the-animation-guild-executive-board-on-contract-ratification",
+      "ids": [
+        "src-0177"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.tagnegotiations.com/post/statement-from-the-animation-guild-executive-board-on-contract-ratification",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://ngyisheng.substack.com/p/collective-statement-from-singapores",
+      "ids": [
+        "src-0181"
+      ],
+      "http_status": "000",
+      "final_url": "https://ngyisheng.substack.com/p/collective-statement-from-singapores",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to ngyisheng.substack.com port 443 after 5007 ms: Timeout was reached"
+    },
+    {
+      "url": "https://sinarproject.org/projects/enabling-tech/ai-misuse-on-creators",
+      "ids": [
+        "src-0182"
+      ],
+      "http_status": "200",
+      "final_url": "https://sinarproject.org/projects/enabling-tech/ai-misuse-on-creators",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://singaporeunbound.org/oped/imda-intellectual-property-rights",
+      "ids": [
+        "src-0183"
+      ],
+      "http_status": "200",
+      "final_url": "https://singaporeunbound.org/oped/imda-intellectual-property-rights",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.ikapi.org/2026/03/18/bagaimana-akal-imitasi-mencuri-buku/",
+      "ids": [
+        "src-0184"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.ikapi.org/2026/03/18/bagaimana-akal-imitasi-mencuri-buku/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://thespinoff.co.nz/books/20-11-2025/how-two-ai-book-covers-forced-the-publishing-industry-to-reckon-with-its-future",
+      "ids": [
+        "src-0185"
+      ],
+      "http_status": "200",
+      "final_url": "https://thespinoff.co.nz/culture/20-11-2025/how-two-ai-book-covers-forced-the-publishing-industry-to-reckon-with-its-future",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.nzbookawards.nz/new-zealand-book-awards/news/book-awards-trust-relaxes-ruling-on-ai-covers-for-2026-awards/51711?pageNum=5",
+      "ids": [
+        "src-0186"
+      ],
+      "http_status": "200",
+      "final_url": "https://nzbookawards.nz/new-zealand-book-awards/news/book-awards-trust-relaxes-ruling-on-ai-covers-for-2026-awards?pageNum=5",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://nzbookawards.nz/Images/Assets/51618/1/NZCYA%202026_Call%20for%20Entries%20Pack.pdf",
+      "ids": [
+        "src-0188"
+      ],
+      "http_status": "308",
+      "final_url": "https://cdn.sanity.io/files/pdjexxgf/production/971a90ae44e742c0f46d4618c83575aaeb673458.pdf",
+      "status": "unresolved",
+      "network_error": "curl: (35) Recv failure: Connection reset by peer"
+    },
+    {
+      "url": "https://authors.org.nz/about/advocacy/copyright/",
+      "ids": [
+        "src-0189"
+      ],
+      "http_status": "200",
+      "final_url": "https://authors.org.nz/about/advocacy/copyright/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://actores.org.ar/ia-reunion-mayo-26/",
+      "ids": [
+        "src-0191"
+      ],
+      "http_status": "200",
+      "final_url": "https://actores.org.ar/ia-reunion-mayo-26/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://gate.ahram.org.eg/News/4435415.aspx",
+      "ids": [
+        "src-0195"
+      ],
+      "http_status": "403",
+      "final_url": "https://gate.ahram.org.eg/News/4435415.aspx",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://fanbox.pixiv.help/hc/ja/articles/20299395982489",
+      "ids": [
+        "src-0196"
+      ],
+      "http_status": "403",
+      "final_url": "https://fanbox.pixiv.help/hc/ja/articles/20299395982489",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://note.com/jutsushi_tamaki/n/n6a47972a8119",
+      "ids": [
+        "src-0197"
+      ],
+      "http_status": "200",
+      "final_url": "https://note.com/jutsushi_tamaki/n/n6a47972a8119",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://cartoon.or.kr/board/?B_Name=center&b_dir=bbs&b_url=contents&category=notice&list_no=3132&pIdx=board",
+      "ids": [
+        "src-0198"
+      ],
+      "http_status": "404",
+      "final_url": "https://www.cartoon.or.kr/board/?B_Name=center&b_dir=bbs&b_url=contents&category=notice&list_no=3132&pIdx=board",
+      "status": "broken-candidate",
+      "network_error": null
+    },
+    {
+      "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "ids": [
+        "src-0199"
+      ],
+      "http_status": "200",
+      "final_url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://about.suno.com/blog/introducing-v6",
+      "ids": [
+        "src-0200"
+      ],
+      "http_status": "000",
+      "final_url": "https://about.suno.com/blog/introducing-v6",
+      "status": "unresolved",
+      "network_error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to about.suno.com:443"
+    },
+    {
+      "url": "https://au.rollingstone.com/music/music-news/suno-new-model-v6-warner-music-group-100836/",
+      "ids": [
+        "src-0201"
+      ],
+      "http_status": "200",
+      "final_url": "https://au.rollingstone.com/music/music-news/suno-new-model-v6-warner-music-group-100836/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://radiox.cms.socastsrm.com/2026/09/09/warner-music-group-ceo-pens-memo-about-suno-partnership-this-is-a-smart-win/",
+      "ids": [
+        "src-0202"
+      ],
+      "http_status": "200",
+      "final_url": "https://radiox.cms.socastsrm.com/2026/09/09/warner-music-group-ceo-pens-memo-about-suno-partnership-this-is-a-smart-win/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.cartoon.or.kr/board/?B_Name=center&b_dir=bbs&b_url=contents&category=notice&list_no=3138&pIdx=board",
+      "ids": [
+        "src-0203"
+      ],
+      "http_status": "404",
+      "final_url": "https://www.cartoon.or.kr/board/?B_Name=center&b_dir=bbs&b_url=contents&category=notice&list_no=3138&pIdx=board",
+      "status": "broken-candidate",
+      "network_error": null
+    },
+    {
+      "url": "https://v.daum.net/v/20260903115403137",
+      "ids": [
+        "src-0204"
+      ],
+      "http_status": "000",
+      "final_url": "https://v.daum.net/v/20260903115403137",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to v.daum.net port 443 after 5011 ms: Timeout was reached"
+    },
+    {
+      "url": "https://illustratoren-organisation.de/2023/04/04/ki-aber-fair-positionspapier-der-kreativwirtschaft-zum-einsatz-von-ki/",
+      "ids": [
+        "src-0205"
+      ],
+      "http_status": "200",
+      "final_url": "https://illustratoren-organisation.de/2023/04/04/ki-aber-fair-positionspapier-der-kreativwirtschaft-zum-einsatz-von-ki/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://agd.de/unsere-position-zu-ki-aber-fair/",
+      "ids": [
+        "src-0206"
+      ],
+      "http_status": "200",
+      "final_url": "https://agd.de/unsere-position-zu-ki-aber-fair/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2602",
+      "ids": [
+        "src-0209"
+      ],
+      "http_status": "403",
+      "final_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2602",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://wxb.xzdw.gov.cn/wlzl/202504/t20250423_564831.html",
+      "ids": [
+        "src-0213"
+      ],
+      "http_status": "000",
+      "final_url": "https://wxb.xzdw.gov.cn/wlzl/202504/t20250423_564831.html",
+      "status": "unresolved",
+      "network_error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)"
+    },
+    {
+      "url": "https://www.ipeconomy.cn/dongtai/9834.html",
+      "ids": [
+        "src-0216"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.ipeconomy.cn/dongtai/9834.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.chilevoces.com/comunicado/",
+      "ids": [
+        "src-0217"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.chilevoces.com/comunicado/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.elbalad.news/6730973",
+      "ids": [
+        "src-0219"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.elbalad.news/6730973",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://cms.swaindia.org/storage/uploads/AGM%20Report%202024.pdf",
+      "ids": [
+        "src-0220"
+      ],
+      "http_status": "200",
+      "final_url": "https://cms.swaindia.org/storage/uploads/AGM%20Report%202024.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://cdn.gelestatic.it/repubblica/blogautore/sites/408/2023/02/Position_Paper_MEFU_DEF_IT.pdf",
+      "ids": [
+        "src-0221"
+      ],
+      "http_status": "200",
+      "final_url": "https://cdn.gelestatic.it/repubblica/blogautore/sites/408/2023/02/Position_Paper_MEFU_DEF_IT.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://svenskatecknare.se/wp-content/uploads/2023/11/st-ai-hallning-final.pdf",
+      "ids": [
+        "src-0224"
+      ],
+      "http_status": "200",
+      "final_url": "https://svenskatecknare.se/wp-content/uploads/2023/11/st-ai-hallning-final.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://newsroom.notified.com/news/322550/sa-kan-fler-gora-ratt-vid-anvandandet-av-ai-g",
+      "ids": [
+        "src-0226"
+      ],
+      "http_status": "200",
+      "final_url": "https://newsroom.notified.com/news/322550/sa-kan-fler-gora-ratt-vid-anvandandet-av-ai-g",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.sfoto.se/forbundsnytt/generativ-ai-och-framtidens-fotografi/",
+      "ids": [
+        "src-0227"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.sfoto.se/forbundsnytt/generativ-ai-och-framtidens-fotografi/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.photography.org.nz/wp-content/uploads/2025/07/AI-Policy-dated-July-2025.pdf",
+      "ids": [
+        "src-0229"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.photography.org.nz/wp-content/uploads/2025/07/AI-Policy-dated-July-2025.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.australianphotography.com/page/entry-info-2023",
+      "ids": [
+        "src-0230"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.australianphotography.com/page/entry-info-2023",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.gofundme.com/f/protecting-artists-from-ai-technologies",
+      "ids": [
+        "src-0232"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.gofundme.com/f/protecting-artists-from-ai-technologies",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.gofundme.com port 443 after 5004 ms: Timeout was reached"
+    },
+    {
+      "url": "https://www.usenix.org/system/files/sec23_slides_shan.pdf",
+      "ids": [
+        "src-0234"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.usenix.org/system/files/sec23_slides_shan.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://jpca.gr.jp/release/release230817/",
+      "ids": [
+        "src-0235"
+      ],
+      "http_status": "200",
+      "final_url": "https://jpca.gr.jp/release/release230817/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/bunkakai/75/index.html",
+      "ids": [
+        "src-0238"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/bunkakai/75/index.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.electricsouth.org/wp-content/uploads/2024/09/ElectricSouth_AI_Toolkit_V003.pdf",
+      "ids": [
+        "src-0239"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.electricsouth.org/wp-content/uploads/2024/09/ElectricSouth_AI_Toolkit_V003.pdf",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.court.gov.cn/zixun/xiangqing/511101.html",
+      "ids": [
+        "src-0242"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.court.gov.cn/zixun/xiangqing/511101.html",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "ids": [
+        "src-0243"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://hasbro.gcs-web.com/news-releases/news-release-details/hasbro-launches-sixth-wall-new-ai-studio-building-next",
+      "ids": [
+        "src-0246"
+      ],
+      "http_status": "403",
+      "final_url": "https://hasbro.gcs-web.com/news-releases/news-release-details/hasbro-launches-sixth-wall-new-ai-studio-building-next",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://balleralert.com/hasbro-dhs-optimus-prime-without-permission/",
+      "ids": [
+        "src-0247"
+      ],
+      "http_status": "200",
+      "final_url": "https://balleralert.com/hasbro-dhs-optimus-prime-without-permission/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.timesnowworld.com/us-news/dhs-removes-controversial-post-targeting-sikh-truck-driver-article-156135987",
+      "ids": [
+        "src-0248"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.timesnowworld.com/us-news/dhs-removes-controversial-post-targeting-sikh-truck-driver-article-156135987",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://elevenlabs.io/blog/umg",
+      "ids": [
+        "src-0250"
+      ],
+      "http_status": "200",
+      "final_url": "https://elevenlabs.io/blog/umg",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.artstation.com/tos",
+      "ids": [
+        "src-0252"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.artstation.com/tos",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://videoteca.cenart.gob.mx/canal-23/211397-2/",
+      "ids": [
+        "src-0253"
+      ],
+      "http_status": "200",
+      "final_url": "https://videoteca.cenart.gob.mx/canal-23/211397-2/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.calc.mx/news/posicionamiento-sobre-inteligencia-artificial-y-propiedad-intelectual",
+      "ids": [
+        "src-0254"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.calc.mx/news/posicionamiento-sobre-inteligencia-artificial-y-propiedad-intelectual",
+      "status": "unresolved",
+      "network_error": "curl: (28) Resolving timed out after 5011 milliseconds"
+    },
+    {
+      "url": "https://www.sgp.com.py/noticias/15/creadores-latinoamericanos-y-lderes-de-la-industria-lanzan-la-coalicin-regional-justicia",
+      "ids": [
+        "src-0255"
+      ],
+      "http_status": "404",
+      "final_url": "https://www.sgp.com.py/es/noticias/15/creadores-latinoamericanos-y-lderes-de-la-industria-lanzan-la-coalicin-regional-justicia",
+      "status": "broken-candidate",
+      "network_error": null
+    },
+    {
+      "url": "https://www.prensariomusica.com/La-Coalicion-Regional-JusticIA-reune-a-la-comunidad-creativa-latinoamericana-y-caribena-50205.note.aspx",
+      "ids": [
+        "src-0257"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.prensariomusica.com/La-Coalicion-Regional-JusticIA-reune-a-la-comunidad-creativa-latinoamericana-y-caribena-50205.note.aspx",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.nbtindia.gov.in/enewsletters/16-30-june/tamilworkshop.html",
+      "ids": [
+        "src-0261"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.nbtindia.gov.in/enewsletters/16-30-june/tamilworkshop.html",
+      "status": "unresolved",
+      "network_error": "curl: (28) Failed to connect to www.nbtindia.gov.in port 443 after 5011 ms: Timeout was reached"
+    },
+    {
+      "url": "https://eavisualarts.org/resources/ais-arrival-in-africa-a-spotlight-on-ugandas-creative-industry/view",
+      "ids": [
+        "src-0263"
+      ],
+      "http_status": "200",
+      "final_url": "https://eavisualarts.org/resources/ais-arrival-in-africa-a-spotlight-on-ugandas-creative-industry/view",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://m-bassy.org/programm/beyond-ai",
+      "ids": [
+        "src-0265"
+      ],
+      "http_status": "200",
+      "final_url": "https://m-bassy.org/programm/beyond-ai",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.artpoint.fr/artworks/once-upon-a-garden:-b-(12-pm-2-pm)-linda-dounia",
+      "ids": [
+        "src-0268"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.artpoint.fr/artworks/once-upon-a-garden:-b-(12-pm-2-pm)-linda-dounia",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.artxcode.io/journal/the-ever-expanding-world-of-linda-dounia",
+      "ids": [
+        "src-0269"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.artxcode.io/journal/the-ever-expanding-world-of-linda-dounia",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.artxlagos.com/art-x-talks/once-upon-a-garden",
+      "ids": [
+        "src-0270"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.artxlagos.com/art-x-talks/once-upon-a-garden",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://medium.com/@linda.rebeiz/once-upon-a-garden-fe020bc3fc2b",
+      "ids": [
+        "src-0272"
+      ],
+      "http_status": "403",
+      "final_url": "https://medium.com/@linda.rebeiz/once-upon-a-garden-fe020bc3fc2b",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://leidendeclaration.ai/",
+      "ids": [
+        "src-0273"
+      ],
+      "http_status": "200",
+      "final_url": "https://leidendeclaration.ai/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.mathunion.org/imu-news/archive/2026/imu-news-137-may-2026",
+      "ids": [
+        "src-0274"
+      ],
+      "http_status": "000",
+      "final_url": "https://www.mathunion.org/imu-news/archive/2026/imu-news-137-may-2026",
+      "status": "unresolved",
+      "network_error": "curl: (35) Recv failure: Connection reset by peer"
+    },
+    {
+      "url": "https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/",
+      "ids": [
+        "src-0275"
+      ],
+      "http_status": "200",
+      "final_url": "https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "ids": [
+        "src-0277"
+      ],
+      "http_status": "200",
+      "final_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://mathathonchallenge.com/",
+      "ids": [
+        "src-0278"
+      ],
+      "http_status": "200",
+      "final_url": "https://competition.sair.foundation/competitions/mathathon/overview",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://radius5.co.jp/news/posts/mimicbeta/",
+      "ids": [
+        "src-0279"
+      ],
+      "http_status": "200",
+      "final_url": "https://radius5.co.jp/news/posts/mimicbeta/",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://kai-you.net/article/92165",
+      "ids": [
+        "src-0282"
+      ],
+      "http_status": "200",
+      "final_url": "https://kai-you.net/article/92165",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.siam.org/publications/siam-news/articles/another-robust-year-for-siam-publications/",
+      "ids": [
+        "src-0284"
+      ],
+      "http_status": "403",
+      "final_url": "https://www.siam.org/publications/siam-news/articles/another-robust-year-for-siam-publications/",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://epubs.siam.org/artificial-intelligence",
+      "ids": [
+        "src-0285"
+      ],
+      "http_status": "403",
+      "final_url": "https://epubs.siam.org/artificial-intelligence",
+      "status": "access-restricted",
+      "network_error": null
+    },
+    {
+      "url": "https://www.ahmath.org/home",
+      "ids": [
+        "src-0294"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.ahmath.org/home",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.linkedin.com/posts/electric-south_electricsouth-aiconvening2025-artificialintelligence-activity-7483525442109566976-2R_G",
+      "ids": [
+        "src-0296"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.linkedin.com/posts/electric-south_electricsouth-aiconvening2025-artificialintelligence-activity-7483525442109566976-2R_G",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://ada.dibujantes.ar/articulo_26955_proteccion-contra-el-uso-indebido-de-las-inteligencias-artificiales-generativas",
+      "ids": [
+        "src-0297"
+      ],
+      "http_status": "200",
+      "final_url": "https://ada.dibujantes.ar/articulo_26955_proteccion-contra-el-uso-indebido-de-las-inteligencias-artificiales-generativas",
+      "status": "available",
+      "network_error": null
+    },
+    {
+      "url": "https://www.dibujantes.ar/seccion_9_asociate",
+      "ids": [
+        "src-0299"
+      ],
+      "http_status": "200",
+      "final_url": "https://www.dibujantes.ar/seccion_9_asociate",
+      "status": "available",
+      "network_error": null
+    }
+  ]
+}

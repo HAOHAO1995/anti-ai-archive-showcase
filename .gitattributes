@@ -1,0 +1,3 @@
+# Keep generated CSV bytes (UTF-8 BOM + RFC4180 CRLF) stable for manifest hashes.
+# Review semantic changes in their canonical same-name JSON files.
+data/*.csv -text -diff

@@ -6,8 +6,11 @@ authors:
   - family-names: "Chen"
     given-names: "Haohao"
 url: "https://salondesrefuses.cn"
+version: "2026.11.19"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/HAOHAO1995/anti-ai-archive-showcase"
 repository-artifact: "https://github.com/HAOHAO1995/anti-ai-archive-showcase"
-abstract: "A bilingual research archive of generative-AI resistance, negotiation and governance. Research identity: LUOCAO. This public showcase does not distribute the complete internal dataset. / 生成式 AI 抵抗、协商与治理的双语研究档案。研究身份：LUOCAO。本公开展示仓库不分发完整内部数据集。"
+abstract: "A bilingual research archive of generative-AI resistance, negotiation and governance. Research identity: LUOCAO. A selective public data snapshot and website source; excludes the complete internal archive. / 生成式 AI 抵抗、协商与治理的双语研究档案。研究身份：LUOCAO。提供选择性的公开数据快照与网站源码，排除完整内部研究库。"
 keywords:
   - generative AI
   - art history
