@@ -1,0 +1,14 @@
+{
+  "scope": "Largest compiled client JS asset, same locked dependencies before/after rendering-only translation projection; not a measured page-load/LCP claim.",
+  "before": {
+    "bytes": 16270828,
+    "gzip_bytes": 3635416
+  },
+  "after": {
+    "bytes": 11580759,
+    "gzip_bytes": 3206809
+  },
+  "raw_reduction_percent": 28.8,
+  "gzip_reduction_percent": 11.8,
+  "provenance": "Full translation catalogue and export hashes unchanged. All source keys and both language values checked for equality."
+}

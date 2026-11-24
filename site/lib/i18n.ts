@@ -1,6 +1,6 @@
 import {isLocale,localizedPath,unlocalizedPath,type Locale} from './locale';
 export {isLocale,localizedPath,unlocalizedPath,type Locale} from './locale';
-import translations from './data/i18n/translations.json';
+import translations from './data/i18n/display.json';
 import {siteDescriptions,siteName} from './site-identity.mjs';
 import {archive as originalArchive,type Data} from './archive';
 

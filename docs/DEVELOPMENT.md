@@ -42,3 +42,7 @@ npm run test:browser
 This starts an isolated local preview, checks sampled ZH/EN routes at 390/1440px in light/dark themes, keyboard skip links, page errors, canonical/hreflang, horizontal overflow and automated WCAG A/AA rules. It also downloads every JSON/CSV and verifies manifest hashes. Set `ARCHIVE_TEST_ORIGIN` only to reuse an already running local preview. Reports go to `reports/browser.json`. Automated success is not a full manual accessibility or semantic translation review.
 
 该命令启动独立本地预览，在手机、桌面与亮暗主题下抽查中英文路由、键盘、运行错误、规范与语言链接、横向溢出和自动无障碍规则，并逐个下载 JSON/CSV 核对哈希。可设置测试地址复用本地预览；结果见报告。自动通过不代替完整人工无障碍或译文审阅。
+
+The browser imports a generated `lib/data/i18n/display.json` projection containing only exact ZH/EN strings. The complete `translations.json` remains the provenance-bearing research source. `prepare-client-metadata.mjs` regenerates the projection before build/dev; regression tests compare every key and both values. Do not remove review metadata from the full catalogue to reduce bundle size.
+
+浏览器使用仅含双语显示值的生成字典；完整字典继续保留研究元数据。构建与开发前生成显示投影，测试逐键对照双语值；不能为减小体积而删除完整字典的审校资料。
