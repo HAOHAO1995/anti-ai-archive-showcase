@@ -1,0 +1,30 @@
+import {notFound} from 'next/navigation';
+import {Link} from '@/components/site-shell';
+import {isLocale,languageMetadata,siteOrigin} from '@/lib/i18n';
+import article from '@/lib/data/commentaries/disco-ai-2023.json';
+type Props={params:Promise<{locale:string}>};
+export async function generateMetadata({params}:Props){const {locale}=await params;return isLocale(locale)?{...languageMetadata('/documents/disco-ai-2023',locale,article.title[locale],article.description[locale]),authors:[{name:'Chen Haohao'}]}:{}}
+export default async function Page({params}:Props){
+ const {locale}=await params;if(!isLocale(locale))notFound();const zh=locale==='zh';const t=(cn:string,en:string)=>zh?cn:en;
+ const schema={'@context':'https://schema.org','@type':'Article',headline:article.title[locale],author:{'@type':'Person',name:'Chen Haohao',alternateName:'陈浩浩'},datePublished:zh?article.originalDate:article.archiveDate,translationOfWork:zh?undefined:{'@type':'Article',name:article.title.zh,datePublished:article.originalDate,inLanguage:'zh-CN',url:siteOrigin+'/zh/documents/disco-ai-2023'},dateModified:article.archiveDate,inLanguage:zh?'zh-CN':'en',genre:'Historical commentary',description:article.description[locale],url:siteOrigin+'/'+locale+'/documents/disco-ai-2023',isBasedOn:article.reprintUrl,publisher:{'@id':siteOrigin+'/#project'}};
+ return <main id="main" className="commentary-page"><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema).replaceAll('<','\\u003c')}}/>
+ <section className="page-heading"><span className="eyebrow">{t('历史文献 / 评论 · 2023','HISTORICAL DOCUMENT / COMMENTARY · 2023')}</span><h1>{article.title[locale]}</h1><p>{zh?article.author:'CHEN HAOHAO'} · {article.originalDate} {article.originalTime}</p></section>
+ <div className="detail-grid"><aside className="record-meta"><dl>
+ <dt>{t('原始发表','First publication')}</dt><dd><time dateTime={article.originalDate}>{article.originalDate} · {article.originalTime}</time><br/>{t('据作者提供；时区未提供','Supplied by the author; timezone unspecified')}</dd>
+ <dt>{t('图文版本','Illustrated edition')}</dt><dd>{t('无界版图 / 无界AI','Wujie / Unbounded AI')}<br/>{article.reprintDate}</dd>
+ <dt>{t('档案版本','Archive edition')}</dt><dd>{article.archiveDate} · v{article.archiveVersion}</dd>
+ <dt>{t('原语言','Original language')}</dt><dd>{t('中文','Chinese')}</dd>
+ <dt>{t('原文与视频','Originals & video')}</dt><dd><a href={article.wechatUrl} target="_blank" rel="noopener noreferrer">{t('微信原始链接 ↗','Original WeChat link ↗')}</a><br/><a href={article.reprintUrl} target="_blank" rel="noopener noreferrer">{t('无界图文版 ↗','Wujie illustrated edition ↗')}</a><br/><a href={article.videoUrl} target="_blank" rel="noopener noreferrer">{t('Bilibili 视频版 ↗','Video version on Bilibili ↗')}</a></dd>
+ <dt>{t('保存的文本','Preserved texts')}</dt><dd><a href="/documents/disco-ai-2023-original-zh.txt" download>{t('作者提供的中文文本 ↓','Author-supplied Chinese text ↓')}</a><br/><a href="/documents/disco-ai-2023-translation-en.txt" download>{t('档案英文全文译本 ↓','Full archive English translation ↓')}</a></dd>
+ </dl><Link href="/documents">← {t('文献目录','Document catalogue')}</Link></aside>
+ <article className="record-body commentary-body"><div className="research-note"><span className="eyebrow">{t('编者按 · 与原文分开','EDITOR’S NOTE · SEPARATE FROM THE ORIGINAL')}</span><p>{article.editorNote[locale]}</p></div>
+ <details className="commentary-version" open><summary>{t('版本、翻译与来源说明','Edition, translation & source note')}</summary><p>{article.versionNote[locale]}</p><p>{t('Bilibili链接由作者确认为同篇视频版本；未据分享参数推定视频发表时间，未声称已观看核验。','The author identifies the Bilibili link as the video version. No publication date is inferred from sharing parameters; the video has not been independently viewed or verified.')}</p></details>
+ <div className="commentary-original" lang={zh?'zh-CN':'en'}>{article.blocks[locale].map((b,i)=>{
+  if(b.type==='video'&&'role' in b){const video=article.videos.find(v=>v.role===b.role);return video?<figure className="commentary-video" key={i} id={'video-'+video.role}><video controls playsInline preload="none" poster={video.poster} aria-label={video.title[locale]} width="1280" height="720"><source src={video.src} type="video/mp4"/><a href={video.src}>{video.title[locale]}</a></video><figcaption>{video.title[locale]}<span>{t('作者提供的原刊配乐视频 · 点击播放','Original accompanying music video supplied by the author · Play on demand')}</span></figcaption></figure>:null;}
+  if(b.type==='figure'&&'image' in b&&typeof b.image==='number'){const im=article.images[b.image-1];return <figure key={i} id={'figure-'+im.number}><a href={im.src} target="_blank" rel="noopener noreferrer"><img src={im.src} width={im.width} height={im.height} loading="lazy" decoding="async" alt={im.caption[locale]||t('原刊插图 '+im.number,'Original illustration '+im.number)}/></a>{im.caption[locale]&&<figcaption>{im.caption[locale]}</figcaption>}</figure>}
+  const text='zh' in b?b.zh:'en' in b?b.en:'';return b.type==='heading'?<h2 key={i}>{text}</h2>:<p key={i}>{text}</p>;
+ })}</div>
+ <section className="detail-section"><h2>{t('跨年对读：原文之外的档案','Cross-reading across years: separate archive records')}</h2><p>{t('以下链接提供不同时间的材料，不据此改写2023年评论。','These links provide records from different moments without rewriting the 2023 commentary.')}</p><div className="commentary-related">{article.related.map(r=><Link key={r.path} href={r.path}>{r[locale]} ↗</Link>)}</div></section>
+ <section className="detail-section"><h2>{t('引用','Citation')}</h2><p className="citation">{zh?'陈浩浩 CHEN HAOHAO':'CHEN HAOHAO'}. “{article.title[locale]}.” 2023-03-14. ANTI-AI ARCHIVE, {t('历史评论档案版','historical commentary edition')}, 2026-09-25. {siteOrigin}/{locale}/documents/disco-ai-2023.</p><p className="muted small">{t('版本记录：2026-09-25，首次保存图文档案版与AI辅助英文译本，新增独立编者按及跨年关联；原有判断不重写。','Revision record: 25 September 2026 — first illustrated archive edition and AI-assisted English translation; separate editorial note and cross-year links added. Original judgements retained.')}</p></section>
+ </article></div></main>
+}

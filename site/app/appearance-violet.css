@@ -1,0 +1,73 @@
+html[data-theme=light]{
+ --background:#f7f6fb;--card:#fdfcff;--popover:#fdfcff;--primary-foreground:#fdfcff;--secondary:#eeebf4;
+ --muted:#f0edf6;--accent:#efecf5;--border:#dedbe7;--glass-body:rgba(253,252,255,.88);
+}
+html[data-theme=light] body{background:#f7f6fb}
+html[data-theme=light] .reading-room{--room-line:#dedbe7}
+html[data-theme=light] .viewport-frame :is(.room-cover,.room-record,.event-row,.catalog-row,.record-header,.record-meta,.research-note,.evidence,.reference-row,.plain-record,.citation,.method-step,.empty-state,.topic-case,.topic-index>a,.linked-cases>a,.region-grid>a,.people-grid>a,.genealogy-reading,.genealogy-text-node,[data-slot=card]){
+ background-color:rgba(253,252,255,.94);background-image:linear-gradient(140deg,rgba(255,255,255,.7),rgba(241,237,249,.25));border-color:#dedbe7;box-shadow:inset 0 1px 0 #fff,0 8px 24px -20px #56466b26;
+}
+html[data-theme=light] .viewport-frame .room-cover{background-image:radial-gradient(ellipse at var(--glass-x,12%) var(--glass-y,0%),#fff,transparent 70%),linear-gradient(135deg,#fdfcff,#eeebf6);box-shadow:inset 0 1px 0 #fff,0 20px 50px -35px #64507533}
+html[data-theme=light] .viewport-frame .room-record.is-selected{background-color:#f8f0ec;background-image:linear-gradient(130deg,#fffcfa,#f1e7e0)}
+html[data-theme=light] .viewport-frame :is(.searchbox,.room-search,.room-read,.primary-link,.genealogy-toggle,.room-pane-navigation button,.room-tools button,.room-tools select,.filter-select){background:#fdfcff;border-color:#d9d5e3;box-shadow:inset 0 1px 0 #fff,0 5px 14px -12px #56466b33}
+html[data-theme=light] .viewport-frame :is(.room-pane-navigation button,.room-tools button)[aria-pressed=true]{background:#eeebf4;border-color:#948ba4}
+html[data-theme=light] .viewport-frame .room-tools select option{background:#fdfcff}
+html[data-theme=light] .topbar nav a:hover{background:#efecf5}
+html[data-theme=light] :is(.header-research,.header-about,footer,.genealogy-heading,.genealogy-controls,.genealogy-reading-nav,.page-heading,.translation-note){border-color:#dedbe7}
+html[data-theme=light] :is(.history-illustration,.history-image-open,.room-card-image){background:#eeebf4;border-color:#dedbe7}
+html[data-theme=light] .history-visual-label{border-color:#dedbe7;background:#f5f2fa}
+html[data-theme=light] .history-illustration figcaption{background:#fdfcff}
+html[data-theme=light] :is(.genealogy-rail,.genealogy-controls){background:#f7f6fb}
+html[data-theme=light] .genealogy-list li{border-color:#dedbe7}
+html[data-theme=light] .genealogy-tick{background:#f7f6fb}
+html[data-theme=light] .year-link[aria-pressed=true]{background:#eeebf4;border-color:#d2cbdc}
+html[data-theme=light] :is(.page-heading,.active-filters,.section-heading>span){background:#f0edf6}
+@media(hover:hover) and (pointer:fine){
+ html[data-theme=light] .viewport-frame :is(.room-record,.event-row,.catalog-row,.topic-case,.topic-index>a,.linked-cases>a):hover{background-color:#fdfcff;border-color:#afa5bc;box-shadow:inset 0 1px 0 #fff,0 12px 28px -23px #56466b33}
+ html[data-theme=light] .viewport-frame .room-record.is-selected:hover{background-color:#f8f0ec}
+}
+html[data-theme=light] .year-link[aria-pressed=true]{background:#eeebf4;border-color:#948ba4}
+html[data-theme=light] .viewport-frame .index-tabs button[aria-selected=true]{background:#eeebf4;border-color:#948ba4}
+html[data-theme=light] .viewport-frame .genealogy-reading{box-shadow:0 12px 36px -20px #56466b26}
+
+/* Approved violet-white palette and LUOCAO red dark selection. */
+html[data-theme=light]{--selection-blue:#a38bd4;--selection-focus:#70509b;--selection-wash:#f2edf9}
+html[data-theme=light] .reading-room{--room-red:var(--selection-blue)}
+html[data-theme=light] .viewport-frame .room-record.is-selected,
+html[data-theme=light] .viewport-frame .room-record.is-selected:hover{
+ border-color:var(--selection-blue);background-color:var(--selection-wash);
+ background-image:linear-gradient(130deg,#fdfbff,#eee6f7);box-shadow:inset 0 1px 0 #fff;
+}
+html[data-theme=light] .viewport-frame .room-record.is-selected:before{background:var(--selection-blue)}
+html[data-theme=light] .viewport-frame :is(a,button,select,input):focus-visible,
+html[data-theme=light] .viewport-frame :is(.room-search,.searchbox):focus-within{outline-color:var(--selection-focus)}
+html[data-theme=light] .viewport-frame :is(.culture-section-controls button[aria-pressed=true],.room-tools button[aria-pressed=true],.room-pane-navigation button[aria-pressed=true],.year-link[aria-pressed=true],.index-tabs button[aria-selected=true],.room-reference-shortcut[aria-pressed=true]),
+html[data-theme=light] .header-preferences .preference-control[aria-current=true]{border-color:var(--selection-blue);background:var(--selection-wash)}
+html[data-theme=light] .culture-section-controls button[aria-pressed=true]{box-shadow:inset 0 -2px 0 var(--selection-blue)}
+html[data-theme=light] .topbar nav a[aria-current=page]{box-shadow:inset 0 -1px var(--selection-blue)}
+html[data-theme=light] .genealogy-node.is-current .genealogy-tick,
+html[data-theme=light] :is(.genealogy-ruler-marker,.genealogy-ruler-marker:after){background:var(--selection-blue);border-color:var(--selection-blue)}
+html[data-theme=light] .genealogy-node.is-current .genealogy-year{color:var(--selection-focus)}
+@media(forced-colors:active){html[data-theme=light] .viewport-frame .room-record.is-selected{border-color:Highlight;background:Canvas;background-image:none}}
+
+/* LUOCAO puzzle logo: saturated red midtone sampled from the original asset. */
+html[data-theme=dark]{--selection-logo-red:#d41f23;--selection-focus-red:#f2696c;--selection-dark-wash:#1c0d10}
+html[data-theme=dark] .reading-room{--room-red:var(--selection-logo-red)}
+html[data-theme=dark] .viewport-frame .room-record.is-selected,
+html[data-theme=dark] .viewport-frame .room-record.is-selected:hover{border-color:var(--selection-logo-red);background-color:#14090b;background-image:linear-gradient(130deg,#1c0e11,#0d0809);box-shadow:inset 0 1px 0 #ffffff0a}
+html[data-theme=dark] .viewport-frame .room-record.is-selected:before{background:var(--selection-logo-red)}
+html[data-theme=dark] .viewport-frame :is(a,button,select,input):focus-visible,
+html[data-theme=dark] .viewport-frame :is(.room-search,.searchbox):focus-within{outline-color:var(--selection-focus-red)}
+html[data-theme=dark] .viewport-frame :is(.culture-section-controls button[aria-pressed=true],.room-tools button[aria-pressed=true],.room-pane-navigation button[aria-pressed=true],.year-link[aria-pressed=true],.index-tabs button[aria-selected=true],.room-reference-shortcut[aria-pressed=true]),
+html[data-theme=dark] .header-preferences .preference-control[aria-current=true]{border-color:var(--selection-logo-red);background:var(--selection-dark-wash)}
+html[data-theme=dark] .culture-section-controls button[aria-pressed=true]{box-shadow:inset 0 -2px 0 var(--selection-logo-red)}
+html[data-theme=dark] .topbar nav a[aria-current=page]{box-shadow:inset 0 -1px var(--selection-logo-red)}
+html[data-theme=dark] .genealogy-node.is-current .genealogy-tick,
+html[data-theme=dark] :is(.genealogy-ruler-marker,.genealogy-ruler-marker:after){background:var(--selection-logo-red);border-color:var(--selection-logo-red)}
+html[data-theme=dark] .genealogy-node.is-current .genealogy-year{color:var(--selection-focus-red)}
+@media(forced-colors:active){html[data-theme=dark] .viewport-frame .room-record.is-selected{border-color:Highlight;background:Canvas;background-image:none}}
+
+/* Small chronology totals meet normal-text contrast on the paper surface. */
+html[data-theme=light] .year-heading>span{color:var(--muted-foreground)}
+html[data-theme=light] .viewport-frame :is(.rail-note,.rail-note small,.archive-stat span,.section-heading h2 span,.genealogy-heading span,.genealogy-controls p,.genealogy-text-link){color:var(--muted-foreground)}
+html[data-theme=dark] .viewport-frame :is(footer p,.year-link span,.rail-note small,.genealogy-controls output span,.breadcrumb>span){color:var(--muted-foreground)}

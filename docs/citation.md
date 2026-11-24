@@ -48,3 +48,10 @@ The existing release is [September 2026 research notes](https://github.com/HAOHA
 The [September update file](../updates/2026-09.md) also contains later entries from 28 and 30 September. Cite the relevant subsection and file commit when using those later additions; the original release tag does not include them. Statistics-sync dates, research-snapshot dates and release dates have different meanings.
 
 [九月更新文件](../updates/2026-09.md)另含 9 月 28 日和 30 日的后续条目。引用后续内容时请注明对应小节与文件提交，不将其归入原始 release 标签。统计同步日、研究快照日与版本发布日期含义不同。
+
+
+## Public data snapshot / 公开数据快照
+
+For downloaded data: Chen, Haohao (LUOCAO). *ANTI-AI ARCHIVE*, public snapshot 2026.11.19, collection and stable record ID, Git commit URL, access date. CC BY 4.0 applies only to original metadata/research. Cite the underlying original sources as well. [CITATION.cff](../CITATION.cff) supplies machine-readable citation metadata. No DOI is assigned; the older September showcase release is not this dataset release.
+
+引用下载数据时，列出作者、档案名称、公开快照 2026.11.19、集合与稳定条目 ID、Git 提交网址和访问日期，并另引原始证据。CC BY 4.0 仅适用于原创编目与研究。目前无 DOI；旧的 9 月展示版不是本数据版本。

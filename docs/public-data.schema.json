@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/HAOHAO1995/anti-ai-archive-showcase/public-data.schema.json",
+  "title": "ANTI-AI ARCHIVE public collection",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "anyOf": [
+      {
+        "required": [
+          "id"
+        ]
+      },
+      {
+        "required": [
+          "nodeId"
+        ]
+      }
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "nodeId": {
+        "type": "string",
+        "pattern": "^[0-9]{3}$"
+      },
+      "timeline_role": {
+        "enum": [
+          "milestone",
+          "context"
+        ]
+      },
+      "chronological_order": {
+        "type": "number"
+      },
+      "title": {
+        "$ref": "#/$defs/bilingual"
+      },
+      "date": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "date_precision": {
+        "type": "string"
+      },
+      "case_id": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "evidence": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "source_id",
+            "claim",
+            "locator"
+          ],
+          "properties": {
+            "source_id": {
+              "type": "string"
+            },
+            "claim": {
+              "$ref": "#/$defs/bilingual"
+            },
+            "locator": {
+              "$ref": "#/$defs/bilingual"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "bilingual": {
+      "type": "object",
+      "required": [
+        "zh",
+        "en"
+      ],
+      "properties": {
+        "zh": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

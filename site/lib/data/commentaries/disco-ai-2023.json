@@ -1,0 +1,1248 @@
+{
+  "id": "disco-ai-2023",
+  "title": {
+    "zh": "Disco与AI：反对AI的运动是新卢德主义吗？",
+    "en": "Disco and AI: Is the Movement Against AI a New Luddism?"
+  },
+  "author": "陈浩浩 Chen Haohao",
+  "originalDate": "2023-03-14",
+  "originalTime": "09:30",
+  "reprintDate": "2023-03-22 09:34:45",
+  "archiveDate": "2026-09-25",
+  "wechatUrl": "https://mp.weixin.qq.com/s/uUBrsB8lvyG8rYKx5sQIdw",
+  "reprintUrl": "https://www.wujiebantu.com/article/6765665",
+  "videoUrl": "https://www.bilibili.com/video/BV1N54y1T7t3/",
+  "videoStatus": "Author-identified video version; metadata and contents not independently checked",
+  "description": {
+    "zh": "陈浩浩2023年关于ArtStation抗议、新卢德主义与艺术技术史的评论。原有图文、首发信息与历史判断保留，另附英文全文译本及后续档案关联。",
+    "en": "Chen Haohao’s 2023 commentary on ArtStation protests, neo-Luddism and art and technology. Preserved illustrated text, an English archive translation and separately linked later records."
+  },
+  "editorNote": {
+    "zh": "编者按（2026-09-25）：本文作为2023年的历史评论保存，呈现作者当时的判断；收录不表示这些观点仍是作者今天的立场。原有论述、引文与图注不按后来的材料重写，包括尚待逐项核实的法律、技术及历史说法。2022年的抗议和2026年的平台变化在正文之外交叉关联，供读者比较。",
+    "en": "Editor’s note (25 September 2026): this text is preserved as a historical commentary from 2023, reflecting the author’s judgement at that time; inclusion does not imply that these remain the author’s views today. Its arguments, quotations and captions have not been rewritten in light of later evidence, including legal, technical and historical claims that await individual verification. The 2022 protests and 2026 platform changes are cross-referenced separately for comparison."
+  },
+  "versionNote": {
+    "zh": "图文阅读版依据无界版图2023-03-22 09:34:45刊载版本，保留正文段落顺序、32处插图与原图注；不将转载时间当作首发时间。作者另提供首发时间2023-03-14 09:30（时区未提供）、署名与纯文本，独立保留为可下载版本。两份文本的个别字词与标点有差异，独立保存。按作者要求移除转载平台的“粉丝投稿”前言及微信观看引导；正文观点不改写。微信页未能独立读取。英文为本档案AI辅助全文翻译，不是2023年官方英文版，尚未经独立人工审校；译文引语也是转译。图片内原语言文字保留；插图权利归相应权利人。 片头与片尾音乐视频由作者另行提供，网页副本保留完整时长与原音轨，未自动播放。",
+    "en": "The illustrated reading edition follows the version published by Wujie on 22 March 2023 at 09:34:45, preserving the article’s paragraph order, 32 image placements and original captions; this republication date is not treated as the first publication date. The author separately supplied a first-publication date of 14 March 2023 at 09:30 (timezone unspecified), credit and a plain-text version, retained as a separate download. Minor wording and punctuation differ between the separately preserved versions. At the author’s request, the republication platform’s reader-contribution preface and WeChat viewing instructions are omitted; the article’s arguments are unchanged. The WeChat page could not be independently read. English is an AI-assisted full archive translation, not an official English edition from 2023, and has not received independent human review; quotations are also translated. Original-language lettering within images is retained. Illustration rights remain with their respective rights holders. The author supplied the opening and closing music videos separately. Web copies preserve their complete duration and original audio tracks; playback is on demand."
+  },
+  "translation": {
+    "origin": "AI-assisted archive translation",
+    "reviewStatus": "ai-assisted-unreviewed",
+    "date": "2026-09-25",
+    "copyRevisionDate": "2026-10-01",
+    "copyRevisionNote": "Completed the English book-title rendering; historical argument unchanged; independent human review pending."
+  },
+  "sourceVerification": {
+    "wujie": "Page text, image order, captions and displayed date read on 2026-09-25",
+    "wechat": "Not independently accessed; metadata supplied by author",
+    "historicalClaims": "Not individually reverified; preserved as historical commentary"
+  },
+  "images": [
+    {
+      "number": 1,
+      "originalUrl": "https://data.wujiebantu.com/FhUQpFC8ASWtIzmvcK3_wiNFpVpJ",
+      "caption": {
+        "zh": "欢迎来到【艺术未来史】",
+        "en": "Welcome to “A Future History of Art”"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-01.jpg",
+      "width": 1080,
+      "height": 539,
+      "sha256": "a5864cc7ec061e87827f95719a276083ae3c6b7747bc21079b4fe82a64569216",
+      "bytes": 100537
+    },
+    {
+      "number": 2,
+      "originalUrl": "https://data.wujiebantu.com/FuCnserXVKuEXgwz-6IXMvVhzWIA",
+      "caption": {
+        "zh": "工人破坏机器的运动",
+        "en": "Workers’ movement to destroy machines"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-02.jpg",
+      "width": 640,
+      "height": 563,
+      "sha256": "48baa630a7755702f04e9ba69dbbe578fbda21f34023e190d2177661d27d29a9",
+      "bytes": 67477
+    },
+    {
+      "number": 3,
+      "originalUrl": "https://data.wujiebantu.com/FqWEZIYF5gy4iRh33QiorFnoG3KG",
+      "caption": {
+        "zh": "Jason M. Allen《太空歌剧院》",
+        "en": "Jason M. Allen, Théâtre D’opéra Spatial"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-03.jpg",
+      "width": 640,
+      "height": 427,
+      "sha256": "17c58aa02a0265b605931b376c3931e31596e7239328dfe49889e9244574cd46",
+      "bytes": 70609
+    },
+    {
+      "number": 4,
+      "originalUrl": "https://data.wujiebantu.com/FlOv02bple_XMyhUqYXJYBkvN13j",
+      "caption": {
+        "zh": "Greg Rutkowski作品",
+        "en": "Work by Greg Rutkowski"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-04.jpg",
+      "width": 1024,
+      "height": 512,
+      "sha256": "91f7b05f92aaf16ecc5540251e64b1c2389ff92f412f0e9de4533b7b63ffbccc",
+      "bytes": 46018
+    },
+    {
+      "number": 5,
+      "originalUrl": "https://data.wujiebantu.com/FhlIEKEnADtj0m3wxDXV-VI7RX67",
+      "caption": {
+        "zh": "Alexander Nanitchkov作品",
+        "en": "Work by Alexander Nanitchkov"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-05.jpg",
+      "width": 1080,
+      "height": 676,
+      "sha256": "824fd22aecd52f89bbe51a5ea14ca90e2128843be918f2191d162a6285962b73",
+      "bytes": 92515
+    },
+    {
+      "number": 6,
+      "originalUrl": "https://data.wujiebantu.com/FmrCg36G1o6e2fVaLc8SZ4zdf0WT",
+      "caption": {
+        "zh": "Art Station上的反对AI运动",
+        "en": "The anti-AI movement on ArtStation"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-06.jpg",
+      "width": 1080,
+      "height": 897,
+      "sha256": "ae2350e309243a7c16abc9f87d7e98be1da3e5811f04418c40c047cda51ccfc6",
+      "bytes": 310745
+    },
+    {
+      "number": 7,
+      "originalUrl": "https://data.wujiebantu.com/FgvACBKOhY5zmmfh4t2sUOX6gdBQ",
+      "caption": {
+        "zh": "支持反对AI的各国网友",
+        "en": "Internet users from different countries supporting the anti-AI movement"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-07.jpg",
+      "width": 1080,
+      "height": 635,
+      "sha256": "2d7cba23be918216c3aed2d5f7e0eb3d546109f51494a4cf01ebaab3695f4c29",
+      "bytes": 48477
+    },
+    {
+      "number": 8,
+      "originalUrl": "https://data.wujiebantu.com/FpbK_62YHBpgKLvFPctDzz5Q4gLN",
+      "caption": {
+        "zh": "Roope Rainisto做的讽刺海报",
+        "en": "Satirical posters by Roope Rainisto"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-08.jpg",
+      "width": 1080,
+      "height": 1051,
+      "sha256": "193d3e0c55690096beab66858e2f3cd83525420b9f6c4fba622e0cc94b0b456c",
+      "bytes": 141414
+    },
+    {
+      "number": 9,
+      "originalUrl": "https://data.wujiebantu.com/FjL8QStuo1PPcky59ZEGLtM6qfuX",
+      "caption": {
+        "zh": "Kristina作品《黎明的曙光》",
+        "en": "Kristina’s Zarya of the Dawn"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-09.jpg",
+      "width": 1080,
+      "height": 1396,
+      "sha256": "43b4b5222866d8aafcb79aa5876a464050cf103776e01722cb1001ce7fed6ff9",
+      "bytes": 175972
+    },
+    {
+      "number": 10,
+      "originalUrl": "https://data.wujiebantu.com/FuwfJ_0NkM3dganfJteCB-LKiPEt",
+      "caption": {
+        "zh": "",
+        "en": ""
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-10.jpg",
+      "width": 1080,
+      "height": 680,
+      "sha256": "ca6445ace02b345480314254b8ae409502b309a8724a74b34935900d3cd10bed",
+      "bytes": 61833
+    },
+    {
+      "number": 11,
+      "originalUrl": "https://data.wujiebantu.com/FqxdxGibqbND6S9enNl4YxofU_sK",
+      "caption": {
+        "zh": "安格尔《大宫女》",
+        "en": "Ingres, La Grande Odalisque"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-11.jpg",
+      "width": 640,
+      "height": 422,
+      "sha256": "155727ee36430617f14152767400a5808bae7259d84a8009cf56e2a462e9c328",
+      "bytes": 69490
+    },
+    {
+      "number": 12,
+      "originalUrl": "https://data.wujiebantu.com/Fl0ZYZ6KizNAKFd-PU84A1fDCG5o",
+      "caption": {
+        "zh": "达盖尔摄影作品",
+        "en": "A photograph by Daguerre"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-12.jpg",
+      "width": 790,
+      "height": 567,
+      "sha256": "94ebe1c0e62bc23361a8eac12e073cbc31c3313a133f3d9d1c6862b07435ab42",
+      "bytes": 133297
+    },
+    {
+      "number": 13,
+      "originalUrl": "https://data.wujiebantu.com/FrN_13uZEr_9qggNRIhJJ-QiHJGo",
+      "caption": {
+        "zh": "大卫·霍克尼模仿安格尔透镜画出的素描",
+        "en": "A drawing made by David Hockney using a lens in imitation of Ingres"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-13.jpg",
+      "width": 1080,
+      "height": 1477,
+      "sha256": "93ce3d926c2dee3d4120e6778cd78016c51390b77eb1ac63de385db105069d85",
+      "bytes": 344390
+    },
+    {
+      "number": 14,
+      "originalUrl": "https://data.wujiebantu.com/FsAXCy5UDCUNq1ql11saKgVkxMJC",
+      "caption": {
+        "zh": "维米尔和伦勃朗的作品",
+        "en": "Works by Vermeer and Rembrandt"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-14.jpg",
+      "width": 1080,
+      "height": 1487,
+      "sha256": "02f3a48be48f31b47c30e553d85f046210bf0e40f8336becfaf1d02375a25f1f",
+      "bytes": 405449
+    },
+    {
+      "number": 15,
+      "originalUrl": "https://data.wujiebantu.com/FgNU-cl2EzoZdsMnOtfTcMcj2QJp",
+      "caption": {
+        "zh": "莫奈《睡莲》1992",
+        "en": "Monet, Water Lilies, 1992"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-15.jpg",
+      "width": 1080,
+      "height": 1017,
+      "sha256": "6909d7d87c38b385d5a004a865d2efe2454ac379d1e46fe7a2f4df2a7dad4ce5",
+      "bytes": 234758
+    },
+    {
+      "number": 16,
+      "originalUrl": "https://data.wujiebantu.com/FmnfpKhcQu2Cqpf3iq6uEeW0AxSj",
+      "caption": {
+        "zh": "人面鱼纹陶盆 新石器时代 仰韶文化遗址",
+        "en": "Basin with human-face and fish designs; Neolithic Yangshao culture site"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-16.jpg",
+      "width": 1080,
+      "height": 810,
+      "sha256": "379b674de1b0f754b851d13bc822e207668ec09e85f19e12a200e01c0d4c4ad4",
+      "bytes": 75969
+    },
+    {
+      "number": 17,
+      "originalUrl": "https://data.wujiebantu.com/FmLTr3hGKuPjxuOuw3JcmYUlTsk4",
+      "caption": {
+        "zh": "列奥·施坦伯格论文集《另类准则》",
+        "en": "Leo Steinberg’s collected essays, Other Criteria"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-17.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "e2e266657e0e0567838e4eb8fcba1711b2ad443b8b04c46a5ccf51a8927734b2",
+      "bytes": 18182
+    },
+    {
+      "number": 18,
+      "originalUrl": "https://data.wujiebantu.com/FtkbS1JQjd0gaqP_nXjkYO2ZOf52",
+      "caption": {
+        "zh": "埃达女士与分析机",
+        "en": "Ada and the Analytical Engine"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-18.jpg",
+      "width": 404,
+      "height": 261,
+      "sha256": "528a653c4042722784d9f9ebf24895ed4a370ae165da07ff56d8e032dd486b75",
+      "bytes": 25029
+    },
+    {
+      "number": 19,
+      "originalUrl": "https://data.wujiebantu.com/Fgg6C_vD6JsaXvi9-0vrhvLj2hR_",
+      "caption": {
+        "zh": "拜伦·瑞希《人工智能哲学》",
+        "en": "Byron Reese, The Philosophy of Artificial Intelligence (translated Chinese title)"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-19.jpg",
+      "width": 1080,
+      "height": 1396,
+      "sha256": "7bb145f5c581d84e744e89ada549d2fead83ae8433fd576baa2932e119bdaa80",
+      "bytes": 113474
+    },
+    {
+      "number": 20,
+      "originalUrl": "https://data.wujiebantu.com/Fiy-o3EqCuGGvu82uCOGIcRdhRTO",
+      "caption": {
+        "zh": "哈罗德与AARON",
+        "en": "Harold and AARON"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-20.jpg",
+      "width": 640,
+      "height": 420,
+      "sha256": "92d38b91eadcb8faf9af79a89861c56db20692b2dbd7ae65ed2fde5248b8f67f",
+      "bytes": 88970
+    },
+    {
+      "number": 21,
+      "originalUrl": "https://data.wujiebantu.com/FjEwP_7il-77dcaI07rUoY5V_Thj",
+      "caption": {
+        "zh": "罗曼的AI水墨抽象画作",
+        "en": "Roman’s AI ink abstractions"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-21.jpg",
+      "width": 1080,
+      "height": 572,
+      "sha256": "51635d11088b5c5b74c29545b034338d233a4aa4c1581fb1910bdaec8f6e3b10",
+      "bytes": 54041
+    },
+    {
+      "number": 22,
+      "originalUrl": "https://data.wujiebantu.com/Fj2oTARg1dBObasNbLCWxnck_Qh0",
+      "caption": {
+        "zh": "Midjourney使用页面",
+        "en": "Midjourney interface"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-22.jpg",
+      "width": 1080,
+      "height": 619,
+      "sha256": "5a3da493ab68c96d5392f7c46885693ecd790f715750ed19d9a81709176f24b4",
+      "bytes": 107677
+    },
+    {
+      "number": 23,
+      "originalUrl": "https://data.wujiebantu.com/FiOux6CXdjszeBn5iH1JOctcY0VK",
+      "caption": {
+        "zh": "",
+        "en": ""
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-23.jpg",
+      "width": 1080,
+      "height": 855,
+      "sha256": "f7a7d14f3d47e93a5d549ebad86655b20c6af29094d3f3f12cdb2a830f2e9db8",
+      "bytes": 83516
+    },
+    {
+      "number": 24,
+      "originalUrl": "https://data.wujiebantu.com/Fny9VsizX3ea-CKSAhpK8paoF4nQ",
+      "caption": {
+        "zh": "林肯公园最新AI绘画MV《Lost》截图",
+        "en": "Still from Linkin Park’s latest AI-generated music video, “Lost”"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-24.jpg",
+      "width": 1080,
+      "height": 607,
+      "sha256": "78cd8e61566528d18a5779f0c23c480b6685a344999fc5be6e529c30ef8e4247",
+      "bytes": 126009
+    },
+    {
+      "number": 25,
+      "originalUrl": "https://data.wujiebantu.com/Fn9ZexCNfBbCPrERo3aPVFV1vsE3",
+      "caption": {
+        "zh": "让火箭起飞的女孩们",
+        "en": "The girls who made rockets fly"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-25.jpg",
+      "width": 765,
+      "height": 388,
+      "sha256": "8e770f35160d310d44b643ba6aa2af27467ec15e66b1d0acec0ae3b082519601",
+      "bytes": 76015
+    },
+    {
+      "number": 26,
+      "originalUrl": "https://data.wujiebantu.com/FowgzcWxYl7JIXu4PR4bOW4peCNb",
+      "caption": {
+        "zh": "工人们破坏机器",
+        "en": "Workers destroy machines"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-26.jpg",
+      "width": 1080,
+      "height": 607,
+      "sha256": "ece1716b2aaecde047eed4e92a1b7223d582fcc62045187e16011dd6b1cb7420",
+      "bytes": 153024
+    },
+    {
+      "number": 27,
+      "originalUrl": "https://data.wujiebantu.com/Fl4hcrVpRWx5ml4kD6-n-lCW9BqR",
+      "caption": {
+        "zh": "工人起义",
+        "en": "Workers’ uprising"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-27.jpg",
+      "width": 1080,
+      "height": 459,
+      "sha256": "eea6fededc0f08a3e354300c2fcdbf28c394232e573bf6e9bbeb9a0bf6000dac",
+      "bytes": 82042
+    },
+    {
+      "number": 28,
+      "originalUrl": "https://data.wujiebantu.com/FmFW46li9ViycB3FQbt0-J-eb31F",
+      "caption": {
+        "zh": "马克思《资本论》",
+        "en": "Marx, Capital"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-28.jpg",
+      "width": 1080,
+      "height": 862,
+      "sha256": "a8a458a4e37eb137f9177c05dc492cfc8ee8a2bee96ad5bc1bf0723bcca8c09f",
+      "bytes": 28381
+    },
+    {
+      "number": 29,
+      "originalUrl": "https://data.wujiebantu.com/FrCPNcctSs5w7a1_m2ZBmiA-B3J8",
+      "caption": {
+        "zh": "LOFTER上的反对AI运动",
+        "en": "The anti-AI movement on LOFTER"
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-29.jpg",
+      "width": 1080,
+      "height": 4466,
+      "sha256": "548019163c754c18d25592dfd0effe4ad61ec4ede073f4d887f97526fba91465",
+      "bytes": 406672
+    },
+    {
+      "number": 30,
+      "originalUrl": "https://data.wujiebantu.com/FhUQpFC8ASWtIzmvcK3_wiNFpVpJ",
+      "caption": {
+        "zh": "",
+        "en": ""
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-30.jpg",
+      "width": 1080,
+      "height": 539,
+      "sha256": "a5864cc7ec061e87827f95719a276083ae3c6b7747bc21079b4fe82a64569216",
+      "bytes": 100537
+    },
+    {
+      "number": 31,
+      "originalUrl": "https://data.wujiebantu.com/FjVSZfXX8xxChlcclKcfF6av5jqx",
+      "caption": {
+        "zh": "",
+        "en": ""
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-31.jpg",
+      "width": 1080,
+      "height": 617,
+      "sha256": "78712b85c4adfffc05229f17651fe0ca0622701f785d93c3c5b52e8788759537",
+      "bytes": 194568
+    },
+    {
+      "number": 32,
+      "originalUrl": "https://data.wujiebantu.com/FuTs3tbvn0v61z8DYSdhFbAii4DS.png",
+      "caption": {
+        "zh": "",
+        "en": ""
+      },
+      "src": "/images/commentaries/disco-ai-2023/figure-32.png",
+      "width": 1080,
+      "height": 606,
+      "sha256": "924ab1d9630bb11daa8e04f5cca875355da7af1406f7053b2c0bdfe09b5fd2b2",
+      "bytes": 644805
+    }
+  ],
+  "blocks": {
+    "zh": [
+      {
+        "type": "video",
+        "role": "opening"
+      },
+      {
+        "type": "heading",
+        "zh": "Disco与AI"
+      },
+      {
+        "type": "heading",
+        "zh": "反对AI的运动是新卢德主义吗？"
+      },
+      {
+        "type": "paragraph",
+        "zh": "你现在听到的是Donna Summer1977年发表的disco舞曲《I feel love》，这是世界上第一首电子舞曲。尽管写这个篇文章的时候，我一直在听disco歌单列表，但你可以先听完再继续看下去。【艺术未来史】这个专栏给我一种伊塔洛·卡尔维诺般的特权——随时打破次元壁与观众对话。"
+      },
+      {
+        "type": "figure",
+        "image": 1
+      },
+      {
+        "type": "paragraph",
+        "zh": "这首歌发表两年后，Disco遭遇了“灭顶之灾”——Disco Sucks运动，这个世界上很多的东西都曾遭遇灭顶之灾，蒸汽机，纺纱机，甚至摄影……与之相比，我们对AI简直太宽容了，仅仅是发起网络运动和打几场官司。"
+      },
+      {
+        "type": "figure",
+        "image": 2
+      },
+      {
+        "type": "paragraph",
+        "zh": "我并不认为ArtStation运动是新卢德主义或保守主义。作为一个艺术和人工智能领域的从业者，一个曾经的艺术生，我想从艺术史、技术史和哲学三个角度分别来谈一下对这个运动的看法。"
+      },
+      {
+        "type": "heading",
+        "zh": "ArtStation运动"
+      },
+      {
+        "type": "paragraph",
+        "zh": "2022年9月，艺术家杰森·艾伦（Jason M. Allen）的作品《太空歌剧院》获得了美国科罗拉多州艺术博览会的数字艺术金奖。Jason随即在推特上介绍了自己是一名游戏公司的老板，画作是使用AI技术外加自己的修改绘制而成。这件事情立刻在网络上引起了广泛讨论，大多是围绕AI绘画作品能不能算作艺术家作品的论题。"
+      },
+      {
+        "type": "figure",
+        "image": 3
+      },
+      {
+        "type": "paragraph",
+        "zh": "之后，陆续有艺术家认为自己的作品被非法利用于AI模型训练，包括最有名的CG艺术家，如格雷格·鲁特科夫斯基（Greg Rutkowski）就认为Disco diffusion模型盗用了他的作品作为训练数据集，以至于他的名字成为了diffusion模型上的热门提示词。"
+      },
+      {
+        "type": "figure",
+        "image": 4
+      },
+      {
+        "type": "paragraph",
+        "zh": "直到12月初，保加利亚艺术家亚历山大·纳尼奇科夫（Alexander Nanitchkov）在ArtStation上发表了一张抗议AI作品的绘画，随即便被Art Station删除，账号也被禁言。"
+      },
+      {
+        "type": "figure",
+        "image": 5
+      },
+      {
+        "type": "paragraph",
+        "zh": "12月14日，一些艺术家自发跟随亚历山大，发表了众多反对AI的图片，并且附带他们的诉求：NO TO AI GENERATED IMAGES（对AI制图说不）。至此，第一轮反对AI的运动展开帷幕，之后又有第二轮，第三轮的反对AI运动，战火也蔓延至其他网站，著名3D软件Blender和绘画软件Krita都宣布支持这些CG艺术家的立场。一时间世界各地社交媒体上众多艺术家也都纷纷表态反对AI艺术，整个运动逐渐形成全球化的趋势。"
+      },
+      {
+        "type": "figure",
+        "image": 6
+      },
+      {
+        "type": "paragraph",
+        "zh": "很快便有评论称他们是19世纪的工人运动，是新卢德主义（Neo-Luddism），没有统一的诉求和理论指导，只是简单粗暴地上传反对AI的图片，还有艺术家天真地认为只要不向平台上传自己的作品，便不会被侵权,甚至只要上传反对AI的图片，很快AI便会因为无法得到优秀的资源而无法训练。"
+      },
+      {
+        "type": "figure",
+        "image": 7
+      },
+      {
+        "type": "paragraph",
+        "zh": "芬兰设计师Roope Rainisto做了两张海报来讽刺这些艺术家天真的想法，在这些海报上，人物的身体都被贴上了好似宣传标语一样的红色条幅，并配文：大家的攻击已经影响到midjourney的训练程序，画出来的作品都废了……这种讽刺极具幽默感地表明所有的抗议都是徒劳的，人类艺术史从石器时代就开始了，当代的艺术家也如繁星般众多，更何况只要在算法里加几行代码，程序就会自动识别那些反对Ai图片……"
+      },
+      {
+        "type": "figure",
+        "image": 8
+      },
+      {
+        "type": "paragraph",
+        "zh": "同样是2022年秋天，美国作家Kristina Kashtanova向版权局（USCO）申请原创漫画《黎明的曙光》的著作权，版权局进行了正常的审批流程，但之后又驳回了最初给Kristina的版权。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "据 USCO 称，在最初的文件中，Kristina没有透露这本书的插画是使用 Midjourny 创作的，并要求Kristina证明自己对Midjourney的可控性。在作者以书面形式提供所要求的信息后， USCO向她发布了新的版权。USCO称未来将继续“注册包含由人类作者编辑、修改或以其他方式修改的”不受保护的材料的作品。“为了让事情在未来变得更加清晰，可能需要建立一个更具体的标准，即需要多少人工输入才能构成“人类创作产物”。这意味着，如果艺术家对诸如 Midiourney 这样的图像生成工具施加创造性控制，输出是可以保护的。对引导AI所用的文字、素材选取、文字与视觉元素的排版也是受版权保护的。"
+      },
+      {
+        "type": "figure",
+        "image": 9
+      },
+      {
+        "type": "paragraph",
+        "zh": "在Kristina的AI绘本拿到版权后，Midiourney 的总顾问 Max 表示：版权局的回复，属于Kashtanova女士、Midjourney和所有艺术家的伟大胜利。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "与此同时，美国的Concept Art协会（注：此处的Concept Art指游戏电影的概念设计艺术；非观念艺术Conceptual Art）也志愿成立，旨在保护那些概念设计艺术家的权利。欧洲也成立了EGAIR组织试图保护艺术家们的权利。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "可以总结一下这些艺术家们的诉求："
+      },
+      {
+        "type": "paragraph",
+        "zh": "1.希望保护自己的作品不被AI学习。这基本是不可能的，所有的作品放在公开媒体平台后都是免费学习的，这是由互联网的开源共享精神决定的，只要学习者并未将作品商用，就是合法的。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "2.希望保护自己赖以生存的艺术风格不被AI学习。这是不可能的，著作权法只保护作品本身，而不保护某种风格。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "3.希望自己不会被某种自动化的机器替代。这是完全可能的，这些艺术家里有很多都是行业翘楚，他们拥有的远远不仅仅是风格和技术，更是经验、创意、效率、高质量等等无法被取代的素质。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "4.希望自己所从事的行业不会被自动化技术所取代。这是可能的，一个行业之所以会吸引最前沿的技术来攻克，说明这个行业在社会中有着极高的地位，或者有着不得不解决的难题，即便AI成为了CG行业的标配，也依然需要大量人工来把控AI产出图片的质量，和负责审核这些图片使其到达商业要求，有经验的画师是最适合这个工作的。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "5.希望CG绘画依然可以保持手绘，画师可以保持当初选择绘画时的热爱，保持可以自己喜欢的形式从事这个行业。这是可能的，即便在今天，也依然有水墨动画、剪纸动画、沙画……等艺术形式，手绘的形式绝不会被取代，只是长期来看逐渐不再会是主流。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "6.年轻艺术家或者学生希望自己当下正在学习的东西不会过时。这是完全没有问题的，即便是在今天，艺术的入门训练也没有被取消，只是应该换成更适合学生自己发挥和自我表达的形式，而不用再为了某种商业样式去学习。"
+      },
+      {
+        "type": "heading",
+        "zh": "艺术史的递归"
+      },
+      {
+        "type": "paragraph",
+        "zh": "在讲艺术史之前，先简单讲一下卢德主义（Luddism）和新卢德主义（Neo-Luddism），卢德主义一词来源于19世纪初的工人运动，被工厂主压迫和饱受失业困扰的工人们联合起来，捣毁工厂的机器，并袭击了某些工厂主。后有学者将反对自动化和新技术的人们称作“卢德主义者”，但不可否认卢德运动是早期工人权利意识觉醒的体现。而新卢德主义是指20世纪后半叶以来的一种文化思潮，他们反对多种现代技术，认为现代科技污染了人们的生活和自然环境，将人类劳动和生活环境异化。"
+      },
+      {
+        "type": "figure",
+        "image": 10
+      },
+      {
+        "type": "paragraph",
+        "zh": "在卢德运动爆发的19世纪初，西方艺术依然是新古典主义和浪漫主义的舞台，贵族和资产阶级沉迷于安格尔（Jean Auguste Dominique Ingres）和戈雅（Francisco José de Goya y Lucientes）的神乎其技。直到1836年，法国画家达盖尔（Louis Daguerre）发明了摄影术，也就是银版摄影术，法国政府买下了摄影术的专利权，并在1839年宣布放弃专利，称摄影术是“送给全世界自由的礼物”。"
+      },
+      {
+        "type": "figure",
+        "image": 11
+      },
+      {
+        "type": "paragraph",
+        "zh": "顾铮的《世界摄影史》中记录：安格尔等艺术大师曾集体上书法国科学院，要求禁止摄影术的传播。但同时，安格尔又赞叹：“摄影术真是巧夺天工，我很希望达到这样的逼真，然而可能任何画家都办不到。”"
+      },
+      {
+        "type": "figure",
+        "image": 12
+      },
+      {
+        "type": "paragraph",
+        "zh": "在艺术家大卫·霍克尼（David Hockney)的著作《隐秘的知识：重新发现西方绘画大师的失传技艺》中，霍克尼发现，许多古代大师都有借助透镜来提高作画效率和精度的行为，包括刚提到安格尔。霍克尼不仅复现了这些大师简单的透镜装置，还用他们做出了类似的画作。早在17世纪，荷兰画家维米尔（Vermeer）就使用暗箱来作画了，英国艺术史家菲利普·斯塔德曼（Philip Steadman）著有《维米尔的暗箱：揭示杰作背后的真相》一书，对维米尔的暗箱技术进行了详尽的研究。"
+      },
+      {
+        "type": "figure",
+        "image": 13
+      },
+      {
+        "type": "paragraph",
+        "zh": "这些都说明了很多古代大师都是最会使用科技的人，以至于摄影术发明后，很大一部分艺术家，尤其是肖像艺术家和写实风景画行业受到了严重冲击。“人只不过按了一下按钮，机器就完成了所有的工作”。法国设计师保罗·德拉洛奇（Paul Delaroche）甚至说：“从今天起，绘画死亡了。”"
+      },
+      {
+        "type": "figure",
+        "image": 14
+      },
+      {
+        "type": "paragraph",
+        "zh": "但后来的事情我们都知道了，肖像画家很多都转行做了摄影师。而印象派则带领绘画艺术进行了另一场革命，印象主义、新印象主义、后印象主义、立体派、野兽派、至上主义、达达主义……等等现代艺术悉数登场，摄影不但没有杀死绘画，反而将绘画从古典主义的范式中解放了出来。摄影艺术本身也经历了从模仿绘画到形成自己独特风采的历史过程。"
+      },
+      {
+        "type": "figure",
+        "image": 15
+      },
+      {
+        "type": "paragraph",
+        "zh": "有些人危言耸听：当AI可以做艺术后，人类艺术家将会逐渐消亡，这是一种杞人忧天的自我焦虑，艺术从石器时代就存在了，经历了无数次的技术革新都没有消亡，更不会因为AI而有任何动摇，会因为AI而改变的是艺术家、艺术作品、艺术行业等艺术对象（ArtObject），而不是艺术本体。"
+      },
+      {
+        "type": "figure",
+        "image": 16
+      },
+      {
+        "type": "paragraph",
+        "zh": "正如美国批评家家列奥·施坦伯格（Leo Steinberg）在《当代艺术及其公众困境》中所指出的：每当出现一种确实新颖而又原创的艺术出现时，最早痛斥他，而且痛斥得最为响亮的，就是艺术家们。没有一个批评家，也没有一个愤怒的中产阶级，在拒斥这种新艺术方面可以跟艺术家相比。"
+      },
+      {
+        "type": "figure",
+        "image": 17
+      },
+      {
+        "type": "heading",
+        "zh": "埃达和让火箭起飞的女孩们"
+      },
+      {
+        "type": "heading",
+        "zh": "AI和计算机简史"
+      },
+      {
+        "type": "paragraph",
+        "zh": "无论是摄影还是AI都不是一夜之间出现的，我们提到过维米尔在17世纪就使用暗箱作画，大卫·霍克尼更是怀疑文艺复兴时期的卡拉瓦乔也使用透镜作画。而我们所说的AI也不是网络上说的“投喂一些人类作品”就直接诞生的。AI从19世纪埃达·奥格斯塔（Ada Augusta Byron）女士指出拆分机可以运行设定好的程序时，就已在人类历史中初见端倪。"
+      },
+      {
+        "type": "figure",
+        "image": 18
+      },
+      {
+        "type": "paragraph",
+        "zh": "拜伦·瑞希（Byron Reese）在《人工智能哲学》中曾简述过现代计算机的发展历程：巴贝奇意识到可以用机器做数学运算，图灵发现他们还可以运行程序，冯·诺伊曼想出了如构建计算机硬件，而香浓展示了软件如何做乍一看不像数学问题的事情。"
+      },
+      {
+        "type": "figure",
+        "image": 19
+      },
+      {
+        "type": "paragraph",
+        "zh": "早在50年代末，波音航空、IBM等公司就在用最早的CAD（Computer-Aided Design）软件辅助设计工作了。1952年美国艺术家兼科学家本·拉波斯基（Ben F. Laposky)用早期的计算机装置和电子阴极管示波器创作了他的黑白数字作品《电子抽象》。70年代美国画家哈罗德·科恩（Harold Cohen，加利福尼亚大学圣地亚哥分校教授）就开始打造一个名叫AARON的绘图软件，并让其控制机械臂作画，Harold用代码让AARON理解了自己的绘画，并仿造自己的风格进行绘画。1987年艺术家和艺术史学者罗曼·维斯托（Roman Verostko）设计了一个可以驱动毛笔绘画的软件，绘制了很多水墨和抽象结合的作品。"
+      },
+      {
+        "type": "figure",
+        "image": 20
+      },
+      {
+        "type": "figure",
+        "image": 21
+      },
+      {
+        "type": "paragraph",
+        "zh": "最近几年得益于大数据模型和深度学习算法，越来越多的人工智能绘图程序被开发出来，科学家们本着开源共享的原则，大多的模型都是免费的，只有极少数可以辅助设计生产的产品是收费的。2021年出现了Nvidia的众多Gan模型和OpenAI的dall-e，2022年让人惊讶的模型更是层出不穷，Disco Diffusion，Dall-E2，Midjourney，Stable Diffusion……AI绘图软件也在这一年实现了商用，如Dall-E和Midjourney都开启了订阅模式。对AI的反抗也是从这一年开始的。"
+      },
+      {
+        "type": "figure",
+        "image": 22
+      },
+      {
+        "type": "paragraph",
+        "zh": "并非每次技术革新都会让人们发生暴动，没人会因为火箭和飞机的发明而暴动，未来也不会因为马斯克发明了星际航行飞船而暴动。拜伦·瑞希在《人工智能哲学》中指出：人们只会为能替代人类劳动的技术发明而暴动。"
+      },
+      {
+        "type": "figure",
+        "image": 23
+      },
+      {
+        "type": "paragraph",
+        "zh": "人们总是认为艺术这种高创造力的工作是不容易被机器所替代的，在哲学家玛格丽特·博登（Margaret G. Boden）的《AI：人工智能的本质与未来》（AI：Its Nature and Future）中，她指出：人工智能更适合做人们认为有创造力的工作，而非是机械学习的技术类工种，甚至在组合型、变革型和探索型三种创造力中，AI更适合探索型和变革型的创造力工作。人们误以为AI是“缝合怪”“拼贴怪”“抄袭怪”的原因是因为现在的AI还处于初级的模仿阶段。但即便如此，林肯公园（Linkin Park）最新的AI动画MV就很有个性。依照现在的算法，不仅CG画师，那些自诩高贵的学院艺术家，观念艺术家也是可以被取代的，更尴尬的是：由于学院里的观念艺术家并不能为社会带来很多的生产力和经济效益，根本不会有科学家愿意花费时间开发AI程序取代他们。"
+      },
+      {
+        "type": "figure",
+        "image": 24
+      },
+      {
+        "type": "paragraph",
+        "zh": "在人们普遍认为AI或者计算机绘制的图像没有灵魂的时候，希望人们可以知道最早的计算机（Computer）是指经过数学训练来辅助计算的工人们，和埃达女士一样，她们大多是女孩，在现代计算机发明之前，她们帮忙计算了大量的密码破译和火箭弹道工作。美国作家娜塔莉娅·霍尔特有本《让火箭起飞的女孩：仰望星空的初代程序员》就是写的这些女Computers的故事。"
+      },
+      {
+        "type": "figure",
+        "image": 25
+      },
+      {
+        "type": "paragraph",
+        "zh": "认为AI绘画没有生命的观点，显然忽略了工具本质上是人类器官的延伸，而不是某种智慧生命体，他们本质上是一种高级铅笔，而不是与艺术家竞争的新艺术家。在这一点上，艺术家和大众都容易犯和卢德运动的工人一样的错误。"
+      },
+      {
+        "type": "heading",
+        "zh": "烧毁纺纱机：早期工人运动"
+      },
+      {
+        "type": "paragraph",
+        "zh": "在卢德运动之前，欧洲各国的工人们就有多次破坏机器的运动，如英国的施荣暴动（Swing Riots），抵制打谷机和蒸汽机，法国工人将木鞋扔进织布机中，德国工人举行了声势浩大的反对织带机抗议，以至政府下令烧毁织带机。"
+      },
+      {
+        "type": "figure",
+        "image": 26
+      },
+      {
+        "type": "heading",
+        "zh": "卢德运动"
+      },
+      {
+        "type": "paragraph",
+        "zh": "1811年，英国诺丁汉郡的工厂主，生产了一种劣质长筒袜，恶意压低袜子价格，压低工人工资。工人运动逐步发展成为了卢德运动（The Luddite Movement），卢德运动由青年工人内德·卢德领导，追随他的工人们称他为卢德王（Luddite the King),他们捣毁了织袜机。1812年，英国国会通过《保障治安法案》，勒令军警镇压工人运动，1813年国会颁布《捣毁机器惩治法》，对于工人运动中的活跃分子，可用死刑惩治。"
+      },
+      {
+        "type": "figure",
+        "image": 27
+      },
+      {
+        "type": "paragraph",
+        "zh": "尽管工人们的遭遇值得同情，但不可否认工人们将自己生活窘迫，生活环境恶劣等情况的原因错误地归咎于自动化技术和机器，早期工人没有能够指导运动的科学理论。马克思在《资本论》中对于英国工人运动和工人的悲惨处境做了详尽的描述，尽管对于工人阶级持有绝对的同情心理，但依然尖锐地指出工人们并未认识到自己生活窘迫的真实原因，“工人要学会把机器和机器的资本主义应用区别开来，从而学会把自己的攻击从物质生产资料本身转向物质生产资料的社会使用形式”。"
+      },
+      {
+        "type": "figure",
+        "image": 28
+      },
+      {
+        "type": "paragraph",
+        "zh": "很多学者认为，马克思认为人与机器是对立的，但其实马克思一方面肯定机器提高了生产力，一方面又认为在资本主义制度下，机器劳动会与工人劳动直接竞争。“一个无疑问的事实是：机器本身对于工人从生活资料中“游离”出来是没有责任的。”"
+      },
+      {
+        "type": "heading",
+        "zh": "ArtStation运动不是新卢德主义"
+      },
+      {
+        "type": "paragraph",
+        "zh": "虽然当代艺术已经脱离手工劳作的窠臼，但不可否认，CG艺术家某种程度上也属于手工业者。我们看到ArtStation运动中已经比早期工人运动更有组织，尽管我不认为他们的诉求都会实现，但还是为他们祝福。造成艺术家悲惨境遇的原因并不是AI技术，而是追逐利益的劳动力市场，当AI可以更加经济高效地实现市场需求的时候，市场会自动选择AI而不是人类劳动；侵害艺术家权利的是利用AI去伤害艺术家的人，而不是AI技术本身。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "当下国内的某些媒体也在宣传虚假的信息：如AI作画是缝合怪、AI作画不能拿到版权、反对AI运动可以阻止AI模型的训练……诸如此类的消息稍加辨别就可以知道是假消息，但互联网上依然有很多的追随者。前不久，网易lofter平台因为上线了某个AI绘画机，被平台创作者集体抵制，不到一天就草草下线。国内无界AI的二次元模型，在社区爱好者将中西方两种不同风格的模型混合后，居然出现类似著名画师的效果，然而两种模型都是用古代和近代大师的数据训练而成，并没有用到画师的材料。当画师和AI学习的艺术史和文化素材类似时，他们的风格也会类似。"
+      },
+      {
+        "type": "figure",
+        "image": 29
+      },
+      {
+        "type": "paragraph",
+        "zh": "我不认为Art Station运动是新卢德主义。新卢德主义者反对多种现代技术，认为技术是政治的，且污染自然环境。而Art Station运动的艺术家们只是受到技术冲击和惊吓的惊弓之鸟，他们的反抗也不会造成如卢德运动破坏机器和迫害工厂主，义和团运动破坏铁路和机器，杀死洋人传教士这样的恶劣后果。希望大家对他们多一些包容和理解，他们不是反对新技术的保守主义者，只是暂时因为新技术到来而不知所措，或者因为被利用新技术的人骚扰而困顿，未从失落中振作起来。"
+      },
+      {
+        "type": "paragraph",
+        "zh": "在视频末尾，我想用拜伦·瑞希在《人工智能哲学》讲的一个寓言故事来结束对ArtStation运动的讨论，并再放一首disco音乐，这是复古disco或叫post- disco风格的音乐风格："
+      },
+      {
+        "type": "heading",
+        "zh": "约翰•亨利的故事"
+      },
+      {
+        "type": "paragraph",
+        "zh": "在19世纪的民间故事中，约翰-亨利(Jobn Henry)被描述为一名“钢钻工”，他的工作是把钢钉锤入岩石。结合当时的历史环境看，这么做是为了在岩石上凿洞，以便在其中插入炸药，从而为铺设新的列车轨道扫清路障。约翰•亨利是当时最好的钢钻工，直到有一天，人们发明了蒸汽钻机来做同样的工作。约翰•亨利不认为自己会被机器取代，所以他告诉工头：“好吧，一个人必须表现得像个男人。在蒸汽钻机打败我之前，我不会屈服，即便我死，也要手握钢锤而死。”于是他向蒸汽钻机挑战，看到底谁更好。这是一场势均力敌的比赛，约翰.亨利最终获胜了。然而，这项比赛强度太大了，以至于比赛一结束约翰-亨利就当场瘫倒在地，手里拿着锤子精疲力竭地死去了。各地的人都感叹说，“约翰•亨利死得像个男人”。"
+      },
+      {
+        "type": "video",
+        "role": "closing"
+      },
+      {
+        "type": "figure",
+        "image": 30
+      },
+      {
+        "type": "figure",
+        "image": 31
+      },
+      {
+        "type": "figure",
+        "image": 32
+      }
+    ],
+    "en": [
+      {
+        "type": "video",
+        "role": "opening"
+      },
+      {
+        "type": "heading",
+        "en": "Disco and AI"
+      },
+      {
+        "type": "heading",
+        "en": "Is the movement against AI a new Luddism?"
+      },
+      {
+        "type": "paragraph",
+        "en": "What you are hearing now is Donna Summer’s disco track “I Feel Love”, released in 1977, the world’s first electronic dance track. Although I have been listening to a disco playlist while writing this article, you can finish listening before reading on. This column, “A Future History of Art”, gives me an Italo Calvino-like privilege: to break the fourth wall and speak to the audience whenever I like."
+      },
+      {
+        "type": "figure",
+        "image": 1
+      },
+      {
+        "type": "paragraph",
+        "en": "Two years after this song’s release, disco suffered a “catastrophe”: the Disco Sucks movement. Many things in this world have faced catastrophe — steam engines, spinning machines, even photography. By comparison, we have been extraordinarily tolerant of AI, merely organising online campaigns and fighting a few lawsuits."
+      },
+      {
+        "type": "figure",
+        "image": 2
+      },
+      {
+        "type": "paragraph",
+        "en": "I do not consider the ArtStation movement to be neo-Luddism or conservatism. As someone working in art and artificial intelligence, and as a former art student, I would like to discuss the movement from three perspectives: art history, the history of technology and philosophy."
+      },
+      {
+        "type": "heading",
+        "en": "The ArtStation movement"
+      },
+      {
+        "type": "paragraph",
+        "en": "In September 2022, Jason M. Allen’s Théâtre D’opéra Spatial won the digital-art gold award at the Colorado State Fair in the United States. Jason then explained on Twitter that he owned a games company and had made the image using AI together with his own modifications. This immediately prompted widespread online discussion, mostly about whether an AI painting could count as an artist’s work."
+      },
+      {
+        "type": "figure",
+        "image": 3
+      },
+      {
+        "type": "paragraph",
+        "en": "Afterwards, artists began saying that their work had been unlawfully used to train AI models. Even leading CG artists, such as Greg Rutkowski, believed that Disco Diffusion had appropriated their work for its training dataset, to the point that Rutkowski’s name became a popular prompt in diffusion models."
+      },
+      {
+        "type": "figure",
+        "image": 4
+      },
+      {
+        "type": "paragraph",
+        "en": "In early December, Bulgarian artist Alexander Nanitchkov posted an artwork protesting against AI on ArtStation. ArtStation promptly deleted it and muted his account."
+      },
+      {
+        "type": "figure",
+        "image": 5
+      },
+      {
+        "type": "paragraph",
+        "en": "On 14 December, artists spontaneously followed Alexander, posting many anti-AI images bearing their demand: “NO TO AI GENERATED IMAGES”. This opened the first wave of the movement against AI, followed by second and third waves. The conflict spread to other websites. Both the well-known 3D software Blender and painting software Krita announced support for these CG artists’ position. Artists on social media around the world began declaring their opposition to AI art, and the movement increasingly took on a global character."
+      },
+      {
+        "type": "figure",
+        "image": 6
+      },
+      {
+        "type": "paragraph",
+        "en": "Commentators soon compared the anti-AI movement on ArtStation to nineteenth-century workers’ movements and called it neo-Luddism: lacking unified demands or theoretical guidance, simply uploading anti-AI images in a crude, direct way. Some artists naively believed that they would avoid infringement if they stopped uploading their work, or even that posting anti-AI images would soon deprive AI of good resources and make training impossible."
+      },
+      {
+        "type": "figure",
+        "image": 7
+      },
+      {
+        "type": "paragraph",
+        "en": "Finnish designer Roope Rainisto made two posters mocking these artists’ naïve ideas. In them, people’s bodies are covered in red strips resembling propaganda slogans, with text saying that everyone’s attacks have already disrupted Midjourney’s training programme and ruined its output. This humorous satire suggests that all the protests are futile. Human art history began in the Stone Age, and contemporary artists are as numerous as the stars. Besides, adding a few lines of code would let a programme automatically recognise those anti-AI images."
+      },
+      {
+        "type": "figure",
+        "image": 8
+      },
+      {
+        "type": "paragraph",
+        "en": "Also in autumn 2022, American writer Kristina Kashtanova applied to the US Copyright Office (USCO) to register her original comic Zarya of the Dawn. The office followed its normal approval procedure, but subsequently revoked the copyright initially granted to Kristina. According to USCO, her initial filing had not disclosed that the book’s illustrations were made with Midjourney. It asked her to demonstrate her control over Midjourney. After the author supplied the requested information in writing, USCO issued her a new copyright registration."
+      },
+      {
+        "type": "paragraph",
+        "en": "USCO said it would continue to register works containing otherwise unprotected material “edited, modified, or otherwise revised by a human author”. To make matters clearer in future, a more specific standard might be needed for how much human input constitutes a “product of human authorship”. This means that if artists exercise creative control over an image-generation tool such as Midjourney, its output can be protected. The words used to guide AI, selection of materials, and arrangement of text and visual elements are also protected by copyright."
+      },
+      {
+        "type": "figure",
+        "image": 9
+      },
+      {
+        "type": "paragraph",
+        "en": "After Kristina’s AI picture book obtained copyright, Midjourney’s general counsel Max described the Copyright Office’s response as a great victory for Ms Kashtanova, Midjourney and all artists. Meanwhile, the Concept Art Association in the United States also formed voluntarily to protect concept artists’ rights. Here, “concept art” means concept design for games and film, not conceptual art. EGAIR was also established in Europe to try to protect artists’ rights."
+      },
+      {
+        "type": "paragraph",
+        "en": "The artists’ demands can be summarised as follows:"
+      },
+      {
+        "type": "paragraph",
+        "en": "1. They want to prevent AI from learning from their work. This is essentially impossible. Once works are placed on public media platforms, they are freely available to learn from, as determined by the internet’s spirit of open sharing. Provided the learner does not commercially use the works, it is legal."
+      },
+      {
+        "type": "paragraph",
+        "en": "2. They want to prevent AI from learning the artistic style on which their livelihood depends. This is impossible: copyright law protects a work itself, not a particular style."
+      },
+      {
+        "type": "paragraph",
+        "en": "3. They hope not to be replaced by an automated machine. This is entirely possible. Many of these artists are leaders in their fields and possess much more than style and technique: experience, ideas, efficiency, high quality and other irreplaceable qualities."
+      },
+      {
+        "type": "paragraph",
+        "en": "4. They hope their industry will not be replaced by automation. This is possible. If an industry attracts cutting-edge technology, it must have a very important place in society or problems that urgently need solving. Even if AI becomes standard in CG, substantial human labour will still be needed to control image quality and review images against commercial requirements. Experienced artists are best suited to this work."
+      },
+      {
+        "type": "paragraph",
+        "en": "5. They hope CG can remain hand-drawn, allowing artists to retain the love that first drew them to painting and work in their preferred form. This is possible. Ink-wash animation, paper-cut animation and sand painting still exist today. Hand drawing will never be replaced; over the long term, it will gradually cease to be the mainstream."
+      },
+      {
+        "type": "paragraph",
+        "en": "6. Young artists and students hope that what they are studying will not become obsolete. There is no problem here at all. Even today, introductory art training has not disappeared. It should simply take forms better suited to students’ own expression and exploration, without requiring them to learn a particular commercial style."
+      },
+      {
+        "type": "heading",
+        "en": "The recursion of art history"
+      },
+      {
+        "type": "paragraph",
+        "en": "Before discussing art history, let me briefly explain Luddism and neo-Luddism. The term Luddism comes from an early nineteenth-century workers’ movement. Oppressed by factory owners and suffering unemployment, workers joined together, destroyed factory machinery and attacked some owners. Later scholars called people opposed to automation and new technology “Luddites”. Yet the Luddite movement undeniably expressed an early awakening of workers’ awareness of their rights. Neo-Luddism, by contrast, refers to a cultural current emerging in the second half of the twentieth century, opposing various modern technologies on the grounds that they pollute human life and nature and alienate human labour and living conditions."
+      },
+      {
+        "type": "figure",
+        "image": 10
+      },
+      {
+        "type": "paragraph",
+        "en": "In the early nineteenth century, when the Luddite movement erupted, Western art remained the stage of neoclassicism and Romanticism. Aristocrats and the bourgeoisie were captivated by the extraordinary skill of Jean Auguste Dominique Ingres and Francisco José de Goya y Lucientes. In 1836, French painter Louis Daguerre invented photography — the daguerreotype. The French government bought its patent and announced in 1839 that it would relinquish the patent, calling photography “a free gift to the whole world”."
+      },
+      {
+        "type": "figure",
+        "image": 11
+      },
+      {
+        "type": "paragraph",
+        "en": "Gu Zheng’s A History of World Photography records that Ingres and other masters jointly petitioned the French Academy of Sciences to prohibit the spread of photography. Yet Ingres also marvelled: “Photography is truly ingenious. I would very much like to achieve such lifelikeness, although perhaps no painter can do so.”"
+      },
+      {
+        "type": "figure",
+        "image": 12
+      },
+      {
+        "type": "paragraph",
+        "en": "In Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters, artist David Hockney found that many old masters used lenses to improve the speed and precision of painting, including Ingres. Hockney reconstructed their simple optical devices and used them to produce similar pictures. As early as the seventeenth century, Dutch painter Vermeer was using a camera obscura. British art historian Philip Steadman’s Vermeer’s Camera: Uncovering the Truth behind the Masterpieces examines Vermeer’s camera-obscura technique in detail."
+      },
+      {
+        "type": "figure",
+        "image": 13
+      },
+      {
+        "type": "paragraph",
+        "en": "These examples show that many old masters were exceptionally adept at using technology. After photography’s invention, many artists — especially those working in portraiture and realistic landscape painting — suffered a severe shock. “A person merely presses a button, and the machine does all the work.” French designer Paul Delaroche even said: “From today, painting is dead.”"
+      },
+      {
+        "type": "figure",
+        "image": 14
+      },
+      {
+        "type": "paragraph",
+        "en": "But we know what happened next. Many portrait painters became photographers, while the Impressionists led painting into another revolution. Impressionism, Neo-Impressionism, Post-Impressionism, Cubism, Fauvism, Suprematism, Dada and the other modern movements emerged in turn. Photography did not kill painting; it liberated painting from the classical paradigm. Photography itself also developed from imitating painting towards a distinctive character of its own."
+      },
+      {
+        "type": "figure",
+        "image": 15
+      },
+      {
+        "type": "paragraph",
+        "en": "Some people make alarmist claims that once AI can make art, human artists will gradually disappear. This is needless, self-generated anxiety. Art has existed since the Stone Age and survived countless technological revolutions. It will not be shaken by AI. What AI will change are artists, artworks, art industries and other art objects (ArtObject), not art itself."
+      },
+      {
+        "type": "figure",
+        "image": 16
+      },
+      {
+        "type": "paragraph",
+        "en": "As American critic Leo Steinberg observed in “Contemporary Art and the Plight of Its Public”, whenever genuinely new and original art appears, artists are the first to condemn it, and condemn it the most loudly. No critic or angry bourgeois can rival artists in rejecting such art."
+      },
+      {
+        "type": "figure",
+        "image": 17
+      },
+      {
+        "type": "heading",
+        "en": "Ada and the girls who made rockets fly\nA brief history of AI and computers"
+      },
+      {
+        "type": "paragraph",
+        "en": "Neither photography nor AI appeared overnight. We have mentioned Vermeer’s seventeenth-century camera obscura, while David Hockney even suspects that Renaissance painter Caravaggio used lenses. Nor did what we call AI simply emerge from “feeding it some human works”, as people say online. Its beginnings can be traced to the nineteenth century, when Ada Augusta Byron pointed out that the calculating machine could run preset programmes."
+      },
+      {
+        "type": "figure",
+        "image": 18
+      },
+      {
+        "type": "paragraph",
+        "en": "In The Philosophy of Artificial Intelligence (translated Chinese title), Byron Reese briefly outlined the development of modern computers: Babbage realised that machines could perform mathematical operations; Turing discovered they could also run programmes; von Neumann worked out how to construct computer hardware; and Shannon showed how software could do things that did not initially look like mathematical problems."
+      },
+      {
+        "type": "figure",
+        "image": 19
+      },
+      {
+        "type": "paragraph",
+        "en": "By the late 1950s, Boeing, IBM and other companies were already using the earliest CAD — computer-aided design — software. In 1952, American artist and scientist Ben F. Laposky used early computer equipment and a cathode-ray oscilloscope to create the black-and-white digital work Electronic Abstractions. In the 1970s, American painter Harold Cohen, a professor at the University of California, San Diego, began building a drawing programme called AARON and had it control a mechanical arm. Harold used code to make AARON understand his painting and imitate his style. In 1987, artist and art historian Roman Verostko designed software to control a painting brush and produced many works combining ink painting and abstraction."
+      },
+      {
+        "type": "figure",
+        "image": 20
+      },
+      {
+        "type": "figure",
+        "image": 21
+      },
+      {
+        "type": "paragraph",
+        "en": "In recent years, big-data models and deep-learning algorithms have enabled the development of more and more AI drawing programmes. In the spirit of open sharing, scientists have made most models free, with only a very small number of products assisting design and production carrying a charge. Numerous NVIDIA GAN models and OpenAI’s DALL·E appeared in 2021. Surprising models arrived one after another in 2022: Disco Diffusion, DALL·E 2, Midjourney, Stable Diffusion. AI drawing software also became commercial that year, with DALL·E and Midjourney launching subscriptions. Resistance to AI also began that year."
+      },
+      {
+        "type": "figure",
+        "image": 22
+      },
+      {
+        "type": "paragraph",
+        "en": "Not every technological innovation causes riots. Nobody riots over the invention of rockets or aeroplanes, and people will not riot if Musk invents an interstellar spacecraft. In The Philosophy of Artificial Intelligence, Byron Reese argues that people riot only over technological inventions capable of replacing human labour."
+      },
+      {
+        "type": "figure",
+        "image": 23
+      },
+      {
+        "type": "paragraph",
+        "en": "People tend to think highly creative work such as art is difficult for machines to replace. In AI: Its Nature and Future, philosopher Margaret G. Boden argues that AI is better suited to work people regard as creative than to technical occupations involving mechanical learning. Among combinational, transformational and exploratory creativity, AI is particularly suited to exploratory and transformational work. People mistake AI for a “stitching monster”, a “collage monster” or a “plagiarism monster” because today’s AI is still at an early stage of imitation. Even so, Linkin Park’s latest AI-animated music video has considerable individuality."
+      },
+      {
+        "type": "paragraph",
+        "en": "With present algorithms, not only CG artists but also self-proclaimed elite academic and conceptual artists could be replaced. More awkwardly, because conceptual artists in academies contribute relatively little productivity or economic benefit to society, scientists are unlikely to spend time developing programmes to replace them."
+      },
+      {
+        "type": "figure",
+        "image": 24
+      },
+      {
+        "type": "paragraph",
+        "en": "When people say that images made by AI or computers lack a soul, I hope they remember that the earliest “computers” were mathematically trained workers who assisted with calculations. Like Ada, most were girls. Before modern computers were invented, they did extensive calculations for codebreaking and rocket trajectories. American writer Nathalia Holt tells these female computers’ stories in Rise of the Rocket Girls, whose Chinese title describes the first generation of programmers looking towards the stars."
+      },
+      {
+        "type": "figure",
+        "image": 25
+      },
+      {
+        "type": "paragraph",
+        "en": "The view that AI painting is lifeless overlooks that tools are fundamentally extensions of human organs, not intelligent living beings. They are essentially advanced pencils, not new artists competing with existing ones. Here, artists and the public are liable to make the same mistake as workers in the Luddite movement."
+      },
+      {
+        "type": "heading",
+        "en": "Burning spinning machines: early workers’ movements"
+      },
+      {
+        "type": "paragraph",
+        "en": "Even before the Luddite movement, workers in European countries repeatedly destroyed machines. Britain’s Swing Riots opposed threshing machines and steam engines; French workers threw wooden shoes into looms; and German workers mounted such large protests against ribbon looms that the government ordered the machines burnt."
+      },
+      {
+        "type": "figure",
+        "image": 26
+      },
+      {
+        "type": "heading",
+        "en": "The Luddite movement"
+      },
+      {
+        "type": "paragraph",
+        "en": "In 1811, factory owners in Nottinghamshire, England, produced inferior stockings, deliberately lowering prices and workers’ wages. The workers’ movement gradually developed into the Luddite movement. Led by the young worker Ned Ludd, whom his followers called “Luddite the King”, they destroyed stocking frames. In 1812, Parliament passed a peace-preservation law ordering the military and police to suppress the movement. In 1813, it enacted a machine-breaking punishment law allowing active participants to be sentenced to death."
+      },
+      {
+        "type": "figure",
+        "image": 27
+      },
+      {
+        "type": "paragraph",
+        "en": "Although the workers’ plight deserves sympathy, they undeniably misattributed their poverty and poor living conditions to automation and machines. Early workers lacked a scientific theory to guide their movement. In Capital, Marx described British workers’ movements and their miserable circumstances in detail. Despite his complete sympathy for the working class, he sharply pointed out that workers had not understood the real cause of their hardship: they had to learn to distinguish machinery from its capitalist application, and thus to redirect their attacks from the material instruments of production to their social form of use."
+      },
+      {
+        "type": "figure",
+        "image": 28
+      },
+      {
+        "type": "paragraph",
+        "en": "Many scholars think Marx regarded humans and machines as opposed. In fact, he both recognised that machines increased productivity and argued that, under capitalism, machine labour competed directly with workers’ labour. “One fact is beyond doubt: machinery itself is not responsible for setting workers ‘free’ from the means of subsistence.”"
+      },
+      {
+        "type": "heading",
+        "en": "The ArtStation movement is not neo-Luddism"
+      },
+      {
+        "type": "paragraph",
+        "en": "Although contemporary art has moved beyond the confines of manual craft, CG artists remain, to some extent, artisans. The ArtStation movement is already more organised than early workers’ movements. Although I do not think all its demands will be realised, I still wish the artists well."
+      },
+      {
+        "type": "paragraph",
+        "en": "The cause of artists’ miserable circumstances is not AI technology but a labour market pursuing profit. When AI can meet demand more economically and efficiently, the market will choose it over human labour. It is people using AI to harm artists who violate their rights, not AI itself. Some media in China currently spread false claims: that AI painting is a stitching monster, that AI painting cannot obtain copyright, or that anti-AI campaigns can stop model training. Such claims are easily recognised as false with a little discernment, yet they still attract many followers online."
+      },
+      {
+        "type": "paragraph",
+        "en": "Recently, NetEase’s LOFTER platform introduced an AI drawing tool. A collective boycott by creators prompted its hasty withdrawal in less than a day. Community enthusiasts combined models with Chinese and Western styles in the anime-style model of China’s Unbounded AI, unexpectedly producing effects resembling a famous illustrator. Yet both models had been trained on work by old and modern masters, without that illustrator’s material. When an artist and AI learn from similar art history and cultural material, their styles can also resemble one another."
+      },
+      {
+        "type": "figure",
+        "image": 29
+      },
+      {
+        "type": "paragraph",
+        "en": "I do not consider the ArtStation movement neo-Luddism. Neo-Luddites oppose various modern technologies, regard technology as political and believe it pollutes nature. ArtStation’s artists are instead startled birds frightened by technological upheaval. Their resistance will not have the harmful consequences of Luddites destroying machines and persecuting factory owners, or of the Boxer movement destroying railways and machines and killing foreign missionaries."
+      },
+      {
+        "type": "paragraph",
+        "en": "I hope people will be more tolerant and understanding. These artists are not conservatives opposed to new technology. They are temporarily at a loss in the face of its arrival, or distressed by harassment from people using it, and have not yet recovered from that sense of loss. At the end of the video, I would like to conclude this discussion of ArtStation with a fable from Byron Reese’s The Fourth Age, and play another disco track — in a retro-disco or post-disco style."
+      },
+      {
+        "type": "heading",
+        "en": "The story of John Henry"
+      },
+      {
+        "type": "paragraph",
+        "en": "In a nineteenth-century folktale, John Henry is described as a “steel driver” whose work was to hammer steel spikes into rock. In its historical context, this meant making holes for explosives to clear obstacles for new railway tracks. John Henry was the best steel driver of his day until a steam drill was invented to do the same job."
+      },
+      {
+        "type": "paragraph",
+        "en": "John Henry did not believe a machine would replace him. He told his foreman: “Well, a man must act like a man. Before that steam drill beats me, I will not give in. Even if I die, I will die with a steel hammer in my hand.” He challenged the drill to see who was better. The contest was evenly matched, and John Henry eventually won. But the effort was so great that, as soon as it ended, he collapsed and died of exhaustion, hammer still in hand. People everywhere lamented: “John Henry died like a man.”"
+      },
+      {
+        "type": "video",
+        "role": "closing"
+      },
+      {
+        "type": "figure",
+        "image": 30
+      },
+      {
+        "type": "figure",
+        "image": 31
+      },
+      {
+        "type": "figure",
+        "image": 32
+      }
+    ]
+  },
+  "authorSuppliedTextSha256": "2841b4439166753a2ba6b7e2ce22c984afe9df9f6ba180f75701fdd77806e75c",
+  "related": [
+    {
+      "path": "/cases/case-0001",
+      "zh": "ArtStation / NoAI：完整案例档案",
+      "en": "ArtStation / NoAI: case history"
+    },
+    {
+      "path": "/events/evt-0001",
+      "zh": "2022年抗议背景：ArtStation推出自选NoAI标签",
+      "en": "2022 protest context: ArtStation introduces an optional NoAI tag"
+    },
+    {
+      "path": "/events/evt-0002",
+      "zh": "2023年：AI内容筛选与商品NoAI设置",
+      "en": "2023: AI-content filters and product NoAI settings"
+    },
+    {
+      "path": "/events/evt-0003",
+      "zh": "2026年：默认NoAI与既有上传覆盖公告",
+      "en": "2026: announcement of default NoAI and coverage of existing uploads"
+    },
+    {
+      "path": "/events/evt-0004",
+      "zh": "2026年：Cloudflare爬取阻挡公告",
+      "en": "2026: announcement of crawler blocking through Cloudflare"
+    },
+    {
+      "path": "/events/evt-0118",
+      "zh": "另读原始制度材料：《黎明的曙光》登记范围通知",
+      "en": "Read the institutional record separately: Zarya of the Dawn registration notice"
+    }
+  ],
+  "videos": [
+    {
+      "role": "opening",
+      "title": {
+        "zh": "片头曲 · I Feel Love — Donna Summer",
+        "en": "Opening song · I Feel Love — Donna Summer"
+      },
+      "originalFilename": "I Feel Love.mp4",
+      "originalSha256": "1d4fe96cb446b506432502be4928f7b1279194d9c33acc4e46488477afedd314",
+      "src": "/media/disco-ai-2023/i-feel-love.mp4",
+      "poster": "/media/disco-ai-2023/i-feel-love.jpg",
+      "bytes": 24453145,
+      "sha256": "97de1b902a04f6f84ca0f603892acaef03e70e37b82984407a988d3f5fb878c0",
+      "encoding": "H.264 1280×720, original AAC audio copied, full duration, faststart",
+      "durationSeconds": 264.1,
+      "source": "Local video supplied by the author on 2026-09-25"
+    },
+    {
+      "role": "closing",
+      "title": {
+        "zh": "片尾曲 · 别再问我什么是Disco — 张蔷 & 新裤子",
+        "en": "Closing song · Don’t Ask Me What Disco Is — Zhang Qiang & New Pants"
+      },
+      "originalFilename": "别再问我什么是Disco.mp4",
+      "originalSha256": "26ccd58d6ed9be345033f18c16b95cdcb9bcb5869f7ee043d29964ab29513988",
+      "src": "/media/disco-ai-2023/dont-ask-me-what-disco-is.mp4",
+      "poster": "/media/disco-ai-2023/dont-ask-me-what-disco-is.jpg",
+      "bytes": 23676221,
+      "sha256": "0535fa9a0d9a157bc407b969579845127f757f61729d1207931ceff5869715e2",
+      "encoding": "H.264 1280×720, original AAC audio copied, full duration, faststart",
+      "durationSeconds": 211.3,
+      "source": "Local video supplied by the author on 2026-09-25"
+    }
+  ],
+  "archiveVersion": 2
+}

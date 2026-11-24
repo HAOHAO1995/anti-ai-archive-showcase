@@ -1,0 +1,107 @@
+{
+  "source_snapshot": "2026-11-19; through batch 1306",
+  "history_source_verification": {
+    "pending": 211,
+    "verified": 170,
+    "release-date-confirmed": 10
+  },
+  "history_translation_review": {
+    "pending": 391
+  },
+  "account_fact_review": {
+    "assistant-source-reading; independent-human-review-pending": 352,
+    "master-based-account; original-full-text-access-pending; independent-human-review-pending": 2,
+    "master-based-account; historical-announcement-recheck-pending; independent-human-review-pending": 2,
+    "master-based-account; historical-announcement-follow-up-pending; independent-human-review-pending": 1,
+    "prior-official-index-reading; full-pdf-retrieval-pending; independent-human-review-pending": 1,
+    "primary-metadata-and-bounded-source-reading; independent-human-review-pending": 33
+  },
+  "translation_review_versions": {
+    "original": 4625,
+    "ai-assisted-unreviewed": 17419
+  },
+  "source_verification": {
+    "read": 2183,
+    "read-metadata": 3,
+    "read-selected-sections": 14,
+    "read-search-excerpts;direct403": 1
+  },
+  "limits": "Recorded workflow statuses, not independently re-read in this code-audit round; structural bilingual checks do not establish semantic equivalence.",
+  "shared_history_source_candidates": [
+    {
+      "ids": [
+        "143",
+        "144",
+        "152"
+      ],
+      "source_url": "https://docs.midjourney.com/hc/en-us/articles/33329788681101-Legacy-Features",
+      "year": 2022,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "158",
+        "160",
+        "161",
+        "163"
+      ],
+      "source_url": "https://docs.midjourney.com/hc/en-us/articles/33329788681101-Legacy-Features",
+      "year": 2023,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "174",
+        "179"
+      ],
+      "source_url": "https://stability.ai/news-updates/category/Product",
+      "year": 2024,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "126",
+        "186"
+      ],
+      "source_url": "https://stability.ai/news/introducing-stable-diffusion-3-5",
+      "year": 2024,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "322",
+        "323"
+      ],
+      "source_url": "https://cdn.shopify.com/s/files/1/0660/8165/3002/files/CP_GALERIE_DATA_DISRUPT_ENG.pdf?v=1727803705",
+      "year": 2024,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "196",
+        "199"
+      ],
+      "source_url": "https://docs.ideogram.ai/using-ideogram/generation-settings/available-models",
+      "year": 2025,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "134",
+        "197"
+      ],
+      "source_url": "https://news.adobe.com/news/2025/04/adobe-revolutionizes-ai-assisted-creativity-firefly",
+      "year": 2025,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    },
+    {
+      "ids": [
+        "200",
+        "202"
+      ],
+      "source_url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+      "year": 2025,
+      "status": "needs contextual review; shared URL alone is not a duplicate"
+    }
+  ]
+}

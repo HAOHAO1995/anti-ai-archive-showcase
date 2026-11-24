@@ -1,0 +1,20 @@
+{
+  "version": "2026.11.19",
+  "counts": {
+    "cases": 385,
+    "events": 624,
+    "catalogue_documents": 1028,
+    "authored_documents": 2,
+    "documents_total": 1030,
+    "sources": 2201,
+    "stored_entities": 417,
+    "distinct_entities": 416,
+    "event_linked_entity_ids": 414,
+    "event_linked_entities": 413,
+    "history_timeline_nodes": 336,
+    "history_context_records": 55,
+    "history_records": 391,
+    "history_accounts": 391,
+    "history_guides": 5
+  }
+}

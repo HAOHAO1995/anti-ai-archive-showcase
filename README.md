@@ -21,6 +21,26 @@ LUOCAO / CHEN HAOHAO
 | Illustrated documents & essays / 已配图文献与文章 | **342 / 1030** |
 | Languages / 语言 | Chinese / English / 中英双语 |
 
+
+## Research infrastructure / 研究基础设施
+
+This repository now contains the public website source and a reproducible, selective data snapshot derived from the accepted **2026-11-19** release. The infrastructure changes are under development; they do not imply a new production deployment or a complete release of the internal archive.
+
+本仓库现含公开网站源码及可复现的选择性数据快照，基于已验收的 **2026-11-19** 版本。基础设施改动仍在开发分支，不代表已部署生产站点或公开完整内部研究库。
+
+- [Download JSON / CSV and verify SHA-256 / 下载与校验](data/manifest.json)
+- [Data model / 数据模型](docs/DATA_MODEL.md) · [Counting / 统计口径](docs/COUNTING.md)
+- [Methodology / 研究方法](METHODOLOGY.md) · [Citation / 引用](CITATION.cff)
+- [Run the website and checks / 本地运行](docs/DEVELOPMENT.md)
+- [Contribute / 参与贡献](CONTRIBUTING.md) · [Audit / 审计](docs/AUDIT.md)
+- [MIT software / 代码许可](LICENSE) · [CC BY 4.0 research / 数据许可](DATA_LICENSE.md) · [Rights exclusions / 权利排除](docs/RIGHTS.md)
+- [Changes / 变更](CHANGELOG.md) · [Roadmap / 路线图](ROADMAP.md)
+
+Nine download collections: [cases](data/cases.json), [events](data/events.json), [documents](data/documents.json), [sources](data/sources.json), [entities](data/entities.json), [history records](data/genealogy.json), [historical accounts](data/history-accounts.json), [authored essay catalogue](data/authored-documents.json), [guides](data/guides.json). Each has a same-name CSV. No third-party full texts or media are granted under the data licence.
+
+提供案例、事件、文献、来源、实体、历史记录、历史正文、原创文章目录与导读九类数据，各含 JSON 与同名 CSV。数据许可不授权第三方全文或媒体。
+
+
 ## Explore / 探索
 
 - [中文网站](https://salondesrefuses.cn/zh)
@@ -168,9 +188,9 @@ The website provides Chinese and English reading routes while retaining original
 
 ## Public Repository Scope / 公开仓库范围
 
-This is ANTI-AI ARCHIVE’s **public research showcase and entry point**. It contains selected descriptions, methodological guidance, public notes, update records, citation metadata and visuals. It does not contain the complete internal dataset, private drafts, unpublished source notes, website development source, private automation workflows or deployment credentials.
+This is ANTI-AI ARCHIVE’s **public research infrastructure and entry point**. It contains public website source, selective JSON/CSV data, methods, public notes, update records, citation metadata and preview visuals. It does not contain the complete internal dataset, private drafts, unpublished source notes, private automation workflows or deployment credentials.
 
-这里是 ANTI-AI ARCHIVE 的**公共研究展示与入口**，保存选定介绍、方法说明、公开笔记、更新记录、引用元数据和视觉材料，不包含完整内部数据集、私有草稿、未公开来源笔记、网站开发源码、私有自动化工作流或部署凭据。
+这里是 ANTI-AI ARCHIVE 的**公共研究基础设施与入口**，保存公开网站源码、选择性 JSON/CSV、方法说明、公开笔记、更新记录、引用元数据和截图，不包含完整内部数据集、私有草稿、未公开来源笔记、私有自动化工作流或部署凭据。
 
 [Public data release policy / 公开数据发布政策](docs/data-release-policy.md) · [Release types and existing releases / 发布类型与已有版本](docs/releases.md) · [Repository settings record / 仓库设置记录](docs/github-settings.md)
 

@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.wrangler/
+dist/
+outputs/
+*.tsbuildinfo
+.env*
+!.env.example
+__pycache__/
+.venv/
+reports/
+site/public/datasets/
+site/maintenance/
+.dev.vars*
+.vinext/

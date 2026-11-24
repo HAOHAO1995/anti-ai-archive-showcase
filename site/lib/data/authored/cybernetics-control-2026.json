@@ -1,0 +1,926 @@
+{
+  "id": "cybernetics-control-2026",
+  "title": {
+    "zh": "控制论与控制欲：从风格到主权",
+    "en": "From Style to Sovereignty"
+  },
+  "subtitle": {
+    "zh": "2022—2026 年反 AI 运动中的生成控制政治",
+    "en": "The Politics of Generative Control in Anti-AI Movements, 2022–2026"
+  },
+  "author": "陈浩浩 CHEN HAOHAO",
+  "year": "2026",
+  "archiveDate": "2026-09-25",
+  "edition": 2,
+  "description": {
+    "zh": "陈浩浩论2022—2026年反AI运动中控制权如何从风格、作品与身体，扩展到版权、平台和生成基础设施。",
+    "en": "Chen Haohao examines how disputes over style, works and bodies developed into struggles over rights, platforms and generative infrastructure in anti-AI movements from 2022 to 2026."
+  },
+  "sourceFilename": "From Style to Sovereignty_The Politics of Generative Control in Anti-AI Movements, 2022–2026.docx",
+  "sourceDownload": "/documents/Cybernetics_and_the_Desire_for_Control_Bilingual_2022-2026.docx",
+  "sourceSha256": "a2d5f59c4379ac115d2a5f3d13ee4910b15b2248037abdac05d8f62cf5fef83c",
+  "translation": {
+    "origin": "Both Chinese and English supplied by the author in the uploaded document",
+    "method": "Not independently specified by the author",
+    "reviewStatus": "No independent translation review claimed"
+  },
+  "verification": {
+    "source": "Verbatim text and structure checked against supplied DOCX",
+    "claims": "Authorial research interpretation; no new independent factual verification claimed"
+  },
+  "blocks": {
+    "zh": [
+      {
+        "type": "heading",
+        "text": "摘要",
+        "runs": [
+          {
+            "text": "摘要",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 7
+      },
+      {
+        "type": "paragraph",
+        "text": "自 2022 年生成式人工智能进入大规模文化生产以来，围绕其展开的反对、抵制、诉讼、工会行动、技术防御与平台治理，往往被笼统地归入“反 AI”这一名称之下。然而，这些事件并不构成一个统一的技术保守主义阵营，也不能被简化为“人类反对机器”的叙事。相反，2022—2026 年的反 AI 运动更接近一部生成控制权不断迁移的历史：视觉艺术家首先感受到风格被抽取与调用的失控，作家面对文本进入训练系统后的权利稀释，演员与音乐人进一步面对声音、面孔、动作与表演被分离于身体之外而继续运转的可能性，随后，版权资本、平台公司与国家治理主体也开始进入这一冲突结构，对模型能力、知识产权边界、数据流动与基础设施进行重新规训。由此，“反 AI”逐渐从个体创作者的情感抵抗演变为不同权力主体围绕生成条件展开的制度竞争。",
+        "runs": [
+          {
+            "text": "自 2022 年生成式人工智能进入大规模文化生产以来，围绕其展开的反对、抵制、诉讼、工会行动、技术防御与平台治理，往往被笼统地归入“反 AI”这一名称之下。然而，这些事件并不构成一个统一的技术保守主义阵营，也不能被简化为“人类反对机器”的叙事。相反，2022—2026 年的反 AI 运动更接近一部生成控制权不断迁移的历史：视觉艺术家首先感受到风格被抽取与调用的失控，作家面对文本进入训练系统后的权利稀释，演员与音乐人进一步面对声音、面孔、动作与表演被分离于身体之外而继续运转的可能性，随后，版权资本、平台公司与国家治理主体也开始进入这一冲突结构，对模型能力、知识产权边界、数据流动与基础设施进行重新规训。由此，“反 AI”逐渐从个体创作者的情感抵抗演变为不同权力主体围绕生成条件展开的制度竞争。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 8
+      },
+      {
+        "type": "paragraph",
+        "text": "本文试图将这一变化理解为一种从“风格”走向“主权”的历史过程。这里的“主权”并非泛指国家政治，而是指主体对自身作品、身体、声音、身份、数据、IP 与技术基础设施之可调用状态所拥有的决定权。2022 年的 ArtStation “No AI” 图像占领、2023 年以来围绕版权、署名与 opt-out 的法律索权、Glaze 与 Nightshade 等技术防御、WGA 与 SAG-AFTRA 围绕数字替身和表演权展开的劳资谈判、2025 年艺术市场对 AI 艺术的制度性吸纳，以及 2025—2026 年 Disney、MPA、Seedance 等版权资本与模型企业之间的冲突，共同呈现出一种结构性变化：拒绝不再只是态度，而是在逐渐进入合同、平台、技术、法律与基础设施之中。反 AI 运动的真正历史意义，因此并不在于它是否成功阻止了人工智能，而在于它如何迫使文化生产重新提出一个更根本的问题——谁有权决定文化信息可以如何被使用，以及这种决定权如何被制度化。",
+        "runs": [
+          {
+            "text": "本文试图将这一变化理解为一种从“风格”走向“主权”的历史过程。这里的“主权”并非泛指国家政治，而是指主体对自身作品、身体、声音、身份、数据、IP 与技术基础设施之可调用状态所拥有的决定权。2022 年的 ArtStation “No AI” 图像占领、2023 年以来围绕版权、署名与 opt-out 的法律索权、Glaze 与 Nightshade 等技术防御、WGA 与 SAG-AFTRA 围绕数字替身和表演权展开的劳资谈判、2025 年艺术市场对 AI 艺术的制度性吸纳，以及 2025—2026 年 Disney、MPA、Seedance 等版权资本与模型企业之间的冲突，共同呈现出一种结构性变化：拒绝不再只是态度，而是在逐渐进入合同、平台、技术、法律与基础设施之中。反 AI 运动的真正历史意义，因此并不在于它是否成功阻止了人工智能，而在于它如何迫使文化生产重新提出一个更根本的问题——谁有权决定文化信息可以如何被使用，以及这种决定权如何被制度化。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 9
+      },
+      {
+        "type": "paragraph",
+        "text": "关键词：生成式人工智能；反 AI 运动；艺术家劳动；风格；数字替身；控制权；基础设施；主权",
+        "runs": [
+          {
+            "text": "关键词：生成式人工智能；反 AI 运动；艺术家劳动；风格；数字替身；控制权；基础设施；主权",
+            "bold": true,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 10
+      },
+      {
+        "type": "heading",
+        "text": "一、从技术恐惧到控制权危机",
+        "runs": [
+          {
+            "text": "一、从技术恐惧到控制权危机",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 11
+      },
+      {
+        "type": "paragraph",
+        "text": "反 AI 运动并非一种统一的技术恐惧，也并不天然等同于新卢德主义。自 2022 年以来，被归入“反 AI”的各种行动事实上来自彼此差异极大的社会位置：插画师反对风格被未经授权地抽取和模拟，作家反对文本进入训练系统后的不可追踪性，演员和配音工作者抵抗声音、面孔与表演被数字化复制，音乐人质疑声音克隆及其收益结构，版权公司试图重新确立 IP 世界的边界，而平台与国家所关切的，则逐渐转向数据访问、模型能力与基础设施控制。它们共享同一套关于人工智能的语言，却并不共享相同的利益、风险与权力结构。因此，所谓“反 AI 运动”更适合被理解为一系列不同主体在生成式系统中感受到控制权被重新分配之后所产生的防御反应，而不是一个立场统一的政治共同体。",
+        "runs": [
+          {
+            "text": "反 AI 运动并非一种统一的技术恐惧，也并不天然等同于新卢德主义。自 2022 年以来，被归入“反 AI”的各种行动事实上来自彼此差异极大的社会位置：插画师反对风格被未经授权地抽取和模拟，作家反对文本进入训练系统后的不可追踪性，演员和配音工作者抵抗声音、面孔与表演被数字化复制，音乐人质疑声音克隆及其收益结构，版权公司试图重新确立 IP 世界的边界，而平台与国家所关切的，则逐渐转向数据访问、模型能力与基础设施控制。它们共享同一套关于人工智能的语言，却并不共享相同的利益、风险与权力结构。因此，所谓“反 AI 运动”更适合被理解为一系列不同主体在生成式系统中感受到控制权被重新分配之后所产生的防御反应，而不是一个立场统一的政治共同体。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 12
+      },
+      {
+        "type": "paragraph",
+        "text": "这里所说的“控制”，首先不是抽象的权力修辞，而是对生成条件的具体支配：谁能够决定一件作品是否进入训练语料，谁能够调用某种风格，谁可以复制一张脸、一种声音或一段表演，谁能够允许模型生成既有 IP 世界中的角色与叙事，谁又能够通过平台规则、合同、默认设置、技术屏障和法律程序规定这些能力的边界。生成式人工智能的特殊性，并不只是它能够生产新的图像、文本和声音，而在于它将原先相对分散的文化痕迹——作品、风格、身体、声音、行为和身份——转化为可被学习、调用、组合和再生产的资源。正是在这一过程中，原本属于创作者人格、劳动与历史的部分内容被重新编码为一种可操作能力，而所谓“反 AI”，首先就是对这种可操作性的拒绝。",
+        "runs": [
+          {
+            "text": "这里所说的“控制”，首先不是抽象的权力修辞，而是对生成条件的具体支配：谁能够决定一件作品是否进入训练语料，谁能够调用某种风格，谁可以复制一张脸、一种声音或一段表演，谁能够允许模型生成既有 IP 世界中的角色与叙事，谁又能够通过平台规则、合同、默认设置、技术屏障和法律程序规定这些能力的边界。生成式人工智能的特殊性，并不只是它能够生产新的图像、文本和声音，而在于它将原先相对分散的文化痕迹——作品、风格、身体、声音、行为和身份——转化为可被学习、调用、组合和再生产的资源。正是在这一过程中，原本属于创作者人格、劳动与历史的部分内容被重新编码为一种可操作能力，而所谓“反 AI”，首先就是对这种可操作性的拒绝。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 13
+      },
+      {
+        "type": "paragraph",
+        "text": "因此，反 AI 的历史不是关于机器“入侵艺术”的线性故事，而是一部围绕生成控制权不断发生的转译史。最初，创作者以情绪性的语言表达被偷窃、被模仿与被替代的感受；随后，他们不得不将这种感受翻译为版权、署名、数据授权、opt-out、集体协议、技术干扰与平台治理的语言；到 2025—2026 年，冲突进一步进入资本与基础设施层面，弱势创作者的自卫与大型版权主体对模型能力的治理同时被纳入“反 AI”的语义框架之中。正是在这里，“控制论”与“控制欲”发生了重叠：生成式系统本身依赖对信息、条件与输出的技术控制，而围绕生成式系统展开的政治冲突，则表现为各类主体对这种控制能力的重新占有。",
+        "runs": [
+          {
+            "text": "因此，反 AI 的历史不是关于机器“入侵艺术”的线性故事，而是一部围绕生成控制权不断发生的转译史。最初，创作者以情绪性的语言表达被偷窃、被模仿与被替代的感受；随后，他们不得不将这种感受翻译为版权、署名、数据授权、opt-out、集体协议、技术干扰与平台治理的语言；到 2025—2026 年，冲突进一步进入资本与基础设施层面，弱势创作者的自卫与大型版权主体对模型能力的治理同时被纳入“反 AI”的语义框架之中。正是在这里，“控制论”与“控制欲”发生了重叠：生成式系统本身依赖对信息、条件与输出的技术控制，而围绕生成式系统展开的政治冲突，则表现为各类主体对这种控制能力的重新占有。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 14
+      },
+      {
+        "type": "heading",
+        "text": "二、风格：2022 年的审美伤害与主体性危机",
+        "runs": [
+          {
+            "text": "二、风格：2022 年的审美伤害与主体性危机",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 15
+      },
+      {
+        "type": "paragraph",
+        "text": "如果需要为这一历史寻找一个真正的起点，那么它并不首先发生在国家政策、劳动协议或大型版权诉讼之中，而发生在“风格”这一看似最私人、最难以界定的对象上。视觉艺术家是最早感受到生成式人工智能所带来的控制权危机的群体之一。他们突然发现，多年训练形成的构图习惯、笔触、色彩倾向、人物处理方式和视觉语言，可以在生成模型中被快速调用；艺术家的名字甚至能够直接进入提示词，成为一种视觉效果的检索方式。当创作者的姓名从作者身份转化为生成条件时，真正发生的并不是传统意义上的“作品复制”，而是一种更复杂的主体性变化：艺术家的历史、劳动与视觉人格被压缩为一种可以被他人调用的功能。",
+        "runs": [
+          {
+            "text": "如果需要为这一历史寻找一个真正的起点，那么它并不首先发生在国家政策、劳动协议或大型版权诉讼之中，而发生在“风格”这一看似最私人、最难以界定的对象上。视觉艺术家是最早感受到生成式人工智能所带来的控制权危机的群体之一。他们突然发现，多年训练形成的构图习惯、笔触、色彩倾向、人物处理方式和视觉语言，可以在生成模型中被快速调用；艺术家的名字甚至能够直接进入提示词，成为一种视觉效果的检索方式。当创作者的姓名从作者身份转化为生成条件时，真正发生的并不是传统意义上的“作品复制”，而是一种更复杂的主体性变化：艺术家的历史、劳动与视觉人格被压缩为一种可以被他人调用的功能。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 16
+      },
+      {
+        "type": "paragraph",
+        "text": "这一变化解释了 2022 年 ArtStation “No AI” 图像占领的情绪强度。它并不是一场逻辑严密的版权论证，而首先是一种视觉性的阻塞行动：创作者使用图像淹没图像平台，使反对 AI 的标识本身进入作品展示系统，从而中断 AI 图像在平台中的顺畅流通。其重要性不在于这些图像是否构成“艺术”，而在于创作者第一次以平台本身为战场，将“拒绝”视觉化。与后来合同、诉讼和技术工具所使用的制度语言相比，2022 年的反抗仍然主要是情感和象征层面的，它的关键词是被偷窃、被模仿、被替代、被羞辱以及被平台背叛。真正受到冲击的不是某一幅作品，而是创作者对其风格与人格之间关系的理解。",
+        "runs": [
+          {
+            "text": "这一变化解释了 2022 年 ArtStation “No AI” 图像占领的情绪强度。它并不是一场逻辑严密的版权论证，而首先是一种视觉性的阻塞行动：创作者使用图像淹没图像平台，使反对 AI 的标识本身进入作品展示系统，从而中断 AI 图像在平台中的顺畅流通。其重要性不在于这些图像是否构成“艺术”，而在于创作者第一次以平台本身为战场，将“拒绝”视觉化。与后来合同、诉讼和技术工具所使用的制度语言相比，2022 年的反抗仍然主要是情感和象征层面的，它的关键词是被偷窃、被模仿、被替代、被羞辱以及被平台背叛。真正受到冲击的不是某一幅作品，而是创作者对其风格与人格之间关系的理解。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 17
+      },
+      {
+        "type": "paragraph",
+        "text": "也正因此，2022 年的争议无法被传统版权语言完全吸收。版权制度擅长处理作品、复制、授权、损害和权利归属，却很难描述“风格被稀释”“姓名被提示词化”“长期训练被压缩为模型能力”以及“创作人格被统计化”等感受。视觉艺术家面对的是一种法律语言尚未成熟的审美伤害：其被夺走的并不一定是一件可指认的物，而是对自身创作连续性的控制感。此时，“风格”既不是纯粹的形式特征，也不只是市场品牌，而开始成为生成式时代最早暴露出来的控制权问题。",
+        "runs": [
+          {
+            "text": "也正因此，2022 年的争议无法被传统版权语言完全吸收。版权制度擅长处理作品、复制、授权、损害和权利归属，却很难描述“风格被稀释”“姓名被提示词化”“长期训练被压缩为模型能力”以及“创作人格被统计化”等感受。视觉艺术家面对的是一种法律语言尚未成熟的审美伤害：其被夺走的并不一定是一件可指认的物，而是对自身创作连续性的控制感。此时，“风格”既不是纯粹的形式特征，也不只是市场品牌，而开始成为生成式时代最早暴露出来的控制权问题。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 18
+      },
+      {
+        "type": "heading",
+        "text": "三、索权：从审美伤害到制度语言",
+        "runs": [
+          {
+            "text": "三、索权：从审美伤害到制度语言",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 19
+      },
+      {
+        "type": "paragraph",
+        "text": "进入 2023 年以后，反 AI 运动的结构发生了明显变化。随着诉讼、版权争议、数据授权与 opt-out 工具不断出现，创作者开始将此前主要以情感形式表达的伤害转换成制度性权利主张。从“不要偷我的风格”到“我要你承认我的劳动、作品与数据权利”，二者并不是同一句话的强化，而意味着反抗逻辑的根本变化：前者仍以主体受伤为中心，后者则试图迫使法律和平台承认这种伤害能够被制度化地描述、界定和补偿。",
+        "runs": [
+          {
+            "text": "进入 2023 年以后，反 AI 运动的结构发生了明显变化。随着诉讼、版权争议、数据授权与 opt-out 工具不断出现，创作者开始将此前主要以情感形式表达的伤害转换成制度性权利主张。从“不要偷我的风格”到“我要你承认我的劳动、作品与数据权利”，二者并不是同一句话的强化，而意味着反抗逻辑的根本变化：前者仍以主体受伤为中心，后者则试图迫使法律和平台承认这种伤害能够被制度化地描述、界定和补偿。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 20
+      },
+      {
+        "type": "paragraph",
+        "text": "这也是 2023 年最重要的矛盾之一：创作者遭遇损害的方式，远比既有法律能够描述的方式复杂。风格并不天然等于作品，统计学习也不等同于传统复制，而训练行为又往往处于数据抓取、模型优化与最终生成之间的中间位置。因此，反 AI 运动不得不进行一种语言上的自我改造，将原本关于创作尊严、审美人格和劳动历史的诉求翻译为版权、数据授权、署名、退出权与训练许可的术语。",
+        "runs": [
+          {
+            "text": "这也是 2023 年最重要的矛盾之一：创作者遭遇损害的方式，远比既有法律能够描述的方式复杂。风格并不天然等于作品，统计学习也不等同于传统复制，而训练行为又往往处于数据抓取、模型优化与最终生成之间的中间位置。因此，反 AI 运动不得不进行一种语言上的自我改造，将原本关于创作尊严、审美人格和劳动历史的诉求翻译为版权、数据授权、署名、退出权与训练许可的术语。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 21
+      },
+      {
+        "type": "paragraph",
+        "text": "这种翻译既扩大了反 AI 的制度效力，也暴露了其局限。法律能够识别一件作品是否构成复制，却未必能够回答一种风格是否属于某一主体；能够界定授权关系，却难以衡量一个名字成为 prompt 之后所发生的人格性变化；能够处理损害赔偿，却不容易理解创作者多年经验如何在模型中被重新组织为一种可被无限调用的生成能力。由此，2023 年的反 AI 运动并没有真正解决“风格”问题，而是迫使这一问题进入更大的制度场域。风格从私人性的审美特征，转化为权利语言无法完全容纳的争议对象，这为之后围绕身体、声音、劳动与数字替身展开的冲突奠定了基础。",
+        "runs": [
+          {
+            "text": "这种翻译既扩大了反 AI 的制度效力，也暴露了其局限。法律能够识别一件作品是否构成复制，却未必能够回答一种风格是否属于某一主体；能够界定授权关系，却难以衡量一个名字成为 prompt 之后所发生的人格性变化；能够处理损害赔偿，却不容易理解创作者多年经验如何在模型中被重新组织为一种可被无限调用的生成能力。由此，2023 年的反 AI 运动并没有真正解决“风格”问题，而是迫使这一问题进入更大的制度场域。风格从私人性的审美特征，转化为权利语言无法完全容纳的争议对象，这为之后围绕身体、声音、劳动与数字替身展开的冲突奠定了基础。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 22
+      },
+      {
+        "type": "heading",
+        "text": "四、身体：从作品权利到可分离的人格",
+        "runs": [
+          {
+            "text": "四、身体：从作品权利到可分离的人格",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 23
+      },
+      {
+        "type": "paragraph",
+        "text": "当争议在 2023—2024 年间进一步进入演员、配音工作者、音乐人和游戏表演者的劳动领域时，反 AI 的对象开始从作品转向身体。对于视觉艺术家而言，生成式人工智能首先意味着风格可以脱离具体作品被学习和调用；对于演员和音乐人而言，问题则更加直接：声音、面孔、动作、表演乃至人格特征，都可能脱离其原始身体而持续参与生产。艺术家担忧的是“我的风格可以不需要我”，而表演者所面对的则是“我的身体可以不再需要我”。",
+        "runs": [
+          {
+            "text": "当争议在 2023—2024 年间进一步进入演员、配音工作者、音乐人和游戏表演者的劳动领域时，反 AI 的对象开始从作品转向身体。对于视觉艺术家而言，生成式人工智能首先意味着风格可以脱离具体作品被学习和调用；对于演员和音乐人而言，问题则更加直接：声音、面孔、动作、表演乃至人格特征，都可能脱离其原始身体而持续参与生产。艺术家担忧的是“我的风格可以不需要我”，而表演者所面对的则是“我的身体可以不再需要我”。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 24
+      },
+      {
+        "type": "paragraph",
+        "text": "这一变化使反 AI 运动的政治重心从作者身份进一步推进到人格与劳动。声音克隆、数字替身、动作捕捉与合成表演并不是简单的“机器抢工作”，它们真正制造的是身体的可分离化：原本与具体劳动者生命时间绑定的声音、脸部、姿态和表演能力，被转换为一种可以被存储、授权、复制和重复调用的资产。",
+        "runs": [
+          {
+            "text": "这一变化使反 AI 运动的政治重心从作者身份进一步推进到人格与劳动。声音克隆、数字替身、动作捕捉与合成表演并不是简单的“机器抢工作”，它们真正制造的是身体的可分离化：原本与具体劳动者生命时间绑定的声音、脸部、姿态和表演能力，被转换为一种可以被存储、授权、复制和重复调用的资产。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 25
+      },
+      {
+        "type": "paragraph",
+        "text": "因此，WGA、SAG-AFTRA 等工会行动的重要意义，不仅在于争取报酬，也在于重新确立身体与数字替身之间的控制关系。当一名演员的表演可以被数据化并在其缺席的情况下继续生成时，劳动不再只发生于具体的拍摄和录音现场，而可能转化为对既有身体信息的持续调用。控制权于是进入人格层面：是否允许复制、允许使用多久、在什么语境中使用、是否需要重新授权、收益如何分配，成为比“AI 是否应该被使用”更具体也更复杂的问题。反 AI 由此从关于作品和风格的争论，扩展为对人格可调用性的治理。",
+        "runs": [
+          {
+            "text": "因此，WGA、SAG-AFTRA 等工会行动的重要意义，不仅在于争取报酬，也在于重新确立身体与数字替身之间的控制关系。当一名演员的表演可以被数据化并在其缺席的情况下继续生成时，劳动不再只发生于具体的拍摄和录音现场，而可能转化为对既有身体信息的持续调用。控制权于是进入人格层面：是否允许复制、允许使用多久、在什么语境中使用、是否需要重新授权、收益如何分配，成为比“AI 是否应该被使用”更具体也更复杂的问题。反 AI 由此从关于作品和风格的争论，扩展为对人格可调用性的治理。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 26
+      },
+      {
+        "type": "heading",
+        "text": "五、制度化：当人工智能进入艺术系统",
+        "runs": [
+          {
+            "text": "五、制度化：当人工智能进入艺术系统",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 27
+      },
+      {
+        "type": "paragraph",
+        "text": "到 2025 年，反 AI 运动面对的对象再次发生变化。此前，创作者主要担忧平台和模型公司对作品、风格与劳动的抽取；当人工智能艺术进一步进入拍卖、展览和机构体系时，争议开始指向艺术世界本身的合法化机制。Christie’s AI 拍卖之所以重要，并不只是因为“AI 艺术被卖了”，而在于传统艺术市场开始将此前受到创作者质疑的生成机制转化为可以收藏、估价与交易的对象。对于反对者而言，这意味着伤害不再只是由技术系统造成，而可能通过艺术制度获得新的价值证明。",
+        "runs": [
+          {
+            "text": "到 2025 年，反 AI 运动面对的对象再次发生变化。此前，创作者主要担忧平台和模型公司对作品、风格与劳动的抽取；当人工智能艺术进一步进入拍卖、展览和机构体系时，争议开始指向艺术世界本身的合法化机制。Christie’s AI 拍卖之所以重要，并不只是因为“AI 艺术被卖了”，而在于传统艺术市场开始将此前受到创作者质疑的生成机制转化为可以收藏、估价与交易的对象。对于反对者而言，这意味着伤害不再只是由技术系统造成，而可能通过艺术制度获得新的价值证明。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 28
+      },
+      {
+        "type": "paragraph",
+        "text": "艺术系统长期具有一种强大的吸纳能力：原本处于制度边缘的冲突、批判和异议，一旦进入展览、收藏和市场体系，就可能被重新编码为可观看、可交易和可书写的对象。人工智能艺术的制度化同样如此。当拍卖行、博物馆和其他艺术机构开始将生成式人工智能视为一种可以被纳入既有价值体系的媒介时，争议的中心就从“这种技术是否属于艺术”转向“谁有资格为这种技术提供合法性”。在这一意义上，2025 年的反 AI 情绪已经超出了工具层面的排斥，转而质疑艺术制度是否正在通过自身的价值认证功能，将尚未解决的训练、授权与劳动争议重新包装为艺术创新。",
+        "runs": [
+          {
+            "text": "艺术系统长期具有一种强大的吸纳能力：原本处于制度边缘的冲突、批判和异议，一旦进入展览、收藏和市场体系，就可能被重新编码为可观看、可交易和可书写的对象。人工智能艺术的制度化同样如此。当拍卖行、博物馆和其他艺术机构开始将生成式人工智能视为一种可以被纳入既有价值体系的媒介时，争议的中心就从“这种技术是否属于艺术”转向“谁有资格为这种技术提供合法性”。在这一意义上，2025 年的反 AI 情绪已经超出了工具层面的排斥，转而质疑艺术制度是否正在通过自身的价值认证功能，将尚未解决的训练、授权与劳动争议重新包装为艺术创新。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 29
+      },
+      {
+        "type": "paragraph",
+        "text": "因此，Christie’s 并不是一个孤立的市场事件，而可以被视为一种制度性转折：生成式人工智能不再仅仅作为艺术世界外部的技术力量出现，而开始从内部参与价值分配。反 AI 运动的对象也随之扩大，创作者不再只要求模型公司改变训练方式，也开始质疑展览、拍卖与文化机构如何参与 AI 艺术的正常化过程。所谓“合法化焦虑”，正发生在这里。",
+        "runs": [
+          {
+            "text": "因此，Christie’s 并不是一个孤立的市场事件，而可以被视为一种制度性转折：生成式人工智能不再仅仅作为艺术世界外部的技术力量出现，而开始从内部参与价值分配。反 AI 运动的对象也随之扩大，创作者不再只要求模型公司改变训练方式，也开始质疑展览、拍卖与文化机构如何参与 AI 艺术的正常化过程。所谓“合法化焦虑”，正发生在这里。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 30
+      },
+      {
+        "type": "heading",
+        "text": "六、资本：从弱者的抗议到强者的治理",
+        "runs": [
+          {
+            "text": "六、资本：从弱者的抗议到强者的治理",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 31
+      },
+      {
+        "type": "paragraph",
+        "text": "2025—2026 年间，Disney、Universal、MPA、Seedance 等事件进一步暴露了“反 AI”这一名称内部最重要的权力差异。ArtStation 运动中的视觉创作者主要处于被平台与模型抽取的弱势位置，他们所争取的是对自身风格、作品和劳动的最低控制权；大型影视公司和版权组织所面对的，则是另一个层面的风险：生成式模型可能突破既有 IP 宇宙的边界，削弱其长期建立的产权控制能力。因此，当大型版权资本开始限制、诉讼或协商模型能力时，“反 AI”已经不能继续被描述为创作者对技术资本的单向抵抗。",
+        "runs": [
+          {
+            "text": "2025—2026 年间，Disney、Universal、MPA、Seedance 等事件进一步暴露了“反 AI”这一名称内部最重要的权力差异。ArtStation 运动中的视觉创作者主要处于被平台与模型抽取的弱势位置，他们所争取的是对自身风格、作品和劳动的最低控制权；大型影视公司和版权组织所面对的，则是另一个层面的风险：生成式模型可能突破既有 IP 宇宙的边界，削弱其长期建立的产权控制能力。因此，当大型版权资本开始限制、诉讼或协商模型能力时，“反 AI”已经不能继续被描述为创作者对技术资本的单向抵抗。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 32
+      },
+      {
+        "type": "paragraph",
+        "text": "在这里，必须区分两种完全不同的控制逻辑。一种是劳动者试图防止自己的作品、身体和身份被无授权调用；另一种则是既有资本主体试图维持其对文化资产、角色世界和商业授权的垄断。前者是防御性的主体保护，后者则更接近对生成基础设施的再治理。二者都可能使用版权、授权和许可的语言，也都可能要求模型公司建立限制机制，但其权力位置并不相同。若将它们全部简单归入“反 AI”，历史就会变得平面化；更准确的判断应该是：反 AI 运动既包含弱势创作者的自卫，也包含强势版权资本对生成式基础设施的重新规训。",
+        "runs": [
+          {
+            "text": "在这里，必须区分两种完全不同的控制逻辑。一种是劳动者试图防止自己的作品、身体和身份被无授权调用；另一种则是既有资本主体试图维持其对文化资产、角色世界和商业授权的垄断。前者是防御性的主体保护，后者则更接近对生成基础设施的再治理。二者都可能使用版权、授权和许可的语言，也都可能要求模型公司建立限制机制，但其权力位置并不相同。若将它们全部简单归入“反 AI”，历史就会变得平面化；更准确的判断应该是：反 AI 运动既包含弱势创作者的自卫，也包含强势版权资本对生成式基础设施的重新规训。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 33
+      },
+      {
+        "type": "paragraph",
+        "text": "这一变化也使“主权”成为理解 2026 年冲突结构的重要概念。这里的主权不是传统国家主权的简单延伸，而是不同主体对于可生成范围的最终决定权。插画师希望重新控制风格，演员要求控制身体和声音，作家试图控制文本进入训练系统的方式，音乐人要求控制声音与收益，影视公司要求维持 IP 宇宙的边界，模型公司则试图扩大对训练数据和生成能力的控制，而国家最终关心的是算力、数据、模型与基础设施本身。在这一层面上，生成式人工智能的政治性不再来自“AI 是否有意识”之类的哲学争论，而来自一个更实际的问题：谁能够定义什么可以被生成。",
+        "runs": [
+          {
+            "text": "这一变化也使“主权”成为理解 2026 年冲突结构的重要概念。这里的主权不是传统国家主权的简单延伸，而是不同主体对于可生成范围的最终决定权。插画师希望重新控制风格，演员要求控制身体和声音，作家试图控制文本进入训练系统的方式，音乐人要求控制声音与收益，影视公司要求维持 IP 宇宙的边界，模型公司则试图扩大对训练数据和生成能力的控制，而国家最终关心的是算力、数据、模型与基础设施本身。在这一层面上，生成式人工智能的政治性不再来自“AI 是否有意识”之类的哲学争论，而来自一个更实际的问题：谁能够定义什么可以被生成。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 34
+      },
+      {
+        "type": "heading",
+        "text": "七、拒绝：从政治姿态到文化形式",
+        "runs": [
+          {
+            "text": "七、拒绝：从政治姿态到文化形式",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 35
+      },
+      {
+        "type": "paragraph",
+        "text": "与法律、资本和制度治理并行的，是另一条更为分散却同样重要的历史线索：拒绝正在逐渐形式化。从 ArtStation 的 “No AI” 图像，到 silent album 的沉默曲目，再到 Glaze、Nightshade 等技术防御，以及 QuitGPT 一类用户抵制，反 AI 行动越来越不只是“发声”，而开始通过不上传、不授权、不订阅、不生成、不观看、不合作以及阻碍模型顺畅训练等方式，将“不参与”本身转化为一种行动结构。",
+        "runs": [
+          {
+            "text": "与法律、资本和制度治理并行的，是另一条更为分散却同样重要的历史线索：拒绝正在逐渐形式化。从 ArtStation 的 “No AI” 图像，到 silent album 的沉默曲目，再到 Glaze、Nightshade 等技术防御，以及 QuitGPT 一类用户抵制，反 AI 行动越来越不只是“发声”，而开始通过不上传、不授权、不订阅、不生成、不观看、不合作以及阻碍模型顺畅训练等方式，将“不参与”本身转化为一种行动结构。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 36
+      },
+      {
+        "type": "paragraph",
+        "text": "然而，将“拒绝”理解为文化形式，并不意味着必须把所有抵制行为艺术化。QuitGPT 不是艺术事件，Glaze 与 Nightshade 也首先是技术工具；它们的重要性在于共同揭示了一个变化：当获取技术不再等同于获得自主性时，退出、干扰、拒绝授权和限制流通本身就开始具有文化政治意义。生成式系统的扩张建立在数据可访问、内容可调用、用户持续参与和平台顺畅运行的基础之上，因此，“不参与”恰恰成为一种针对基础设施的负向行动。它并不创造新的图像，却改变图像如何能够被训练；不创造新的平台，却改变平台默认可获得的资源；不创造新的模型，却试图限制模型可以吸收和生成的边界。",
+        "runs": [
+          {
+            "text": "然而，将“拒绝”理解为文化形式，并不意味着必须把所有抵制行为艺术化。QuitGPT 不是艺术事件，Glaze 与 Nightshade 也首先是技术工具；它们的重要性在于共同揭示了一个变化：当获取技术不再等同于获得自主性时，退出、干扰、拒绝授权和限制流通本身就开始具有文化政治意义。生成式系统的扩张建立在数据可访问、内容可调用、用户持续参与和平台顺畅运行的基础之上，因此，“不参与”恰恰成为一种针对基础设施的负向行动。它并不创造新的图像，却改变图像如何能够被训练；不创造新的平台，却改变平台默认可获得的资源；不创造新的模型，却试图限制模型可以吸收和生成的边界。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 37
+      },
+      {
+        "type": "paragraph",
+        "text": "如果说 2022 年的 “No AI” 仍然主要是一种象征性的视觉拒绝，那么到 2026 年，拒绝已经逐渐进入更具体的制度结构：opt-out、许可机制、集体协议、防爬与技术屏障、模型限制、平台默认设置以及商业授权。反 AI 运动由此呈现出一种重要的历史变化——拒绝不再停留于否定，而开始成为对生成条件的重新设计。它的目标不一定是消灭人工智能，而是迫使人工智能在新的限制条件下运行。",
+        "runs": [
+          {
+            "text": "如果说 2022 年的 “No AI” 仍然主要是一种象征性的视觉拒绝，那么到 2026 年，拒绝已经逐渐进入更具体的制度结构：opt-out、许可机制、集体协议、防爬与技术屏障、模型限制、平台默认设置以及商业授权。反 AI 运动由此呈现出一种重要的历史变化——拒绝不再停留于否定，而开始成为对生成条件的重新设计。它的目标不一定是消灭人工智能，而是迫使人工智能在新的限制条件下运行。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 38
+      },
+      {
+        "type": "heading",
+        "text": "八、从风格到主权：生成控制政治的形成",
+        "runs": [
+          {
+            "text": "八、从风格到主权：生成控制政治的形成",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 39
+      },
+      {
+        "type": "paragraph",
+        "text": "回顾 2022—2026 年的反 AI 运动，可以看到一条并非预先设计、却逐渐显现出来的历史弧线：争议从风格开始，经过作品、数据、劳动、身体和身份，最终进入 IP、平台、模型与基础设施层面。各阶段并不是彼此取代，而是不断叠加。风格问题并未因劳动协议的出现而消失，身体权利也不会因为大型版权主体进入冲突而失去意义；相反，生成式人工智能不断扩大文化信息可操作的范围，使越来越多此前被认为属于主体内部、行业惯例或制度默契的内容，被转化为可以被训练、复制、生成和交易的对象。",
+        "runs": [
+          {
+            "text": "回顾 2022—2026 年的反 AI 运动，可以看到一条并非预先设计、却逐渐显现出来的历史弧线：争议从风格开始，经过作品、数据、劳动、身体和身份，最终进入 IP、平台、模型与基础设施层面。各阶段并不是彼此取代，而是不断叠加。风格问题并未因劳动协议的出现而消失，身体权利也不会因为大型版权主体进入冲突而失去意义；相反，生成式人工智能不断扩大文化信息可操作的范围，使越来越多此前被认为属于主体内部、行业惯例或制度默契的内容，被转化为可以被训练、复制、生成和交易的对象。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 40
+      },
+      {
+        "type": "paragraph",
+        "text": "因此，所谓“从风格到主权”，并不是要制造一条整齐的进化论，而是指出争议对象的尺度不断扩大。最初，创作者要求模型不要调用某种风格；随后，他们要求法律承认作品和训练数据的边界；再之后，工会要求控制数字替身与表演权；版权资本要求模型服从授权体系；平台和国家则进一步争夺数据、模型能力与基础设施的治理权。风格之所以重要，不在于它是最终问题，而在于它是最早使这一控制危机显形的地方。",
+        "runs": [
+          {
+            "text": "因此，所谓“从风格到主权”，并不是要制造一条整齐的进化论，而是指出争议对象的尺度不断扩大。最初，创作者要求模型不要调用某种风格；随后，他们要求法律承认作品和训练数据的边界；再之后，工会要求控制数字替身与表演权；版权资本要求模型服从授权体系；平台和国家则进一步争夺数据、模型能力与基础设施的治理权。风格之所以重要，不在于它是最终问题，而在于它是最早使这一控制危机显形的地方。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 41
+      },
+      {
+        "type": "paragraph",
+        "text": "在这一意义上，反 AI 运动真正揭示的，并非“人类是否接受人工智能”，而是生成式文化的政治结构。人工智能从未只是一个中立媒介；它始终依赖数据的获得、模型的训练、平台的分发、版权的边界、劳动的组织以及基础设施的控制。随着这些条件逐渐显露，反 AI 也从一种对技术的情感反应，转化为对生成条件本身的争夺。技术系统中的控制与社会关系中的控制欲由此彼此映照：一方面，生成模型不断扩大对文化信息的编码和调用能力；另一方面，不同主体也不断试图把这种能力重新锁定在自身的许可、产权、身份与制度边界之内。",
+        "runs": [
+          {
+            "text": "在这一意义上，反 AI 运动真正揭示的，并非“人类是否接受人工智能”，而是生成式文化的政治结构。人工智能从未只是一个中立媒介；它始终依赖数据的获得、模型的训练、平台的分发、版权的边界、劳动的组织以及基础设施的控制。随着这些条件逐渐显露，反 AI 也从一种对技术的情感反应，转化为对生成条件本身的争夺。技术系统中的控制与社会关系中的控制欲由此彼此映照：一方面，生成模型不断扩大对文化信息的编码和调用能力；另一方面，不同主体也不断试图把这种能力重新锁定在自身的许可、产权、身份与制度边界之内。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 42
+      },
+      {
+        "type": "paragraph",
+        "text": "因此，2022—2026 年反 AI 运动最值得记录的，并不是它是否最终“阻止”了人工智能，而是它如何使文化生产中的控制权问题变得可见。它迫使艺术家、劳动者、平台、资本和国家重新回答：一件作品、一种风格、一副身体、一种声音、一个 IP 世界乃至一套文化基础设施，在进入生成系统之后，究竟仍然属于谁；而“属于”又意味着什么。反 AI 的历史，最终不是机器与人的对立史，而是一部关于文化信息如何被调用、拒绝、授权、复制、治理和重新占有的历史。",
+        "runs": [
+          {
+            "text": "因此，2022—2026 年反 AI 运动最值得记录的，并不是它是否最终“阻止”了人工智能，而是它如何使文化生产中的控制权问题变得可见。它迫使艺术家、劳动者、平台、资本和国家重新回答：一件作品、一种风格、一副身体、一种声音、一个 IP 世界乃至一套文化基础设施，在进入生成系统之后，究竟仍然属于谁；而“属于”又意味着什么。反 AI 的历史，最终不是机器与人的对立史，而是一部关于文化信息如何被调用、拒绝、授权、复制、治理和重新占有的历史。",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 43
+      }
+    ],
+    "en": [
+      {
+        "type": "heading",
+        "text": "Abstract",
+        "runs": [
+          {
+            "text": "Abstract",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 46
+      },
+      {
+        "type": "paragraph",
+        "text": "Since generative artificial intelligence entered large-scale cultural production in 2022, the protests, boycotts, lawsuits, union actions, technical defenses, and platform-governance measures surrounding it have often been grouped under the broad label of “anti-AI.” Yet these events do not constitute a unified camp of technological conservatism, nor can they be reduced to a simple narrative of humans resisting machines. Rather, the anti-AI movements of 2022–2026 are better understood as a history of shifting control over the conditions of generation. Visual artists first experienced a loss of control over the extraction and invocation of style; writers confronted the dilution of rights once texts entered training systems; performers and musicians faced the possibility that voices, faces, gestures, and performances could be detached from their bodies and made to work in their absence. Copyright capital, platforms, and state actors subsequently entered the same conflict, seeking to regulate model capabilities, intellectual-property boundaries, data flows, and infrastructure. In this process, “anti-AI” moved from the affective resistance of individual creators toward an institutional contest among differently positioned actors over the conditions under which generation is allowed to occur.",
+        "runs": [
+          {
+            "text": "Since generative artificial intelligence entered large-scale cultural production in 2022, the protests, boycotts, lawsuits, union actions, technical defenses, and platform-governance measures surrounding it have often been grouped under the broad label of “anti-AI.” Yet these events do not constitute a unified camp of technological conservatism, nor can they be reduced to a simple narrative of humans resisting machines. Rather, the anti-AI movements of 2022–2026 are better understood as a history of shifting control over the conditions of generation. Visual artists first experienced a loss of control over the extraction and invocation of style; writers confronted the dilution of rights once texts entered training systems; performers and musicians faced the possibility that voices, faces, gestures, and performances could be detached from their bodies and made to work in their absence. Copyright capital, platforms, and state actors subsequently entered the same conflict, seeking to regulate model capabilities, intellectual-property boundaries, data flows, and infrastructure. In this process, “anti-AI” moved from the affective resistance of individual creators toward an institutional contest among differently positioned actors over the conditions under which generation is allowed to occur.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 47
+      },
+      {
+        "type": "paragraph",
+        "text": "This essay interprets that transformation as a historical movement from “style” toward “sovereignty.” Sovereignty here does not refer only to the state. It names the authority to determine the callable status of one’s works, body, voice, identity, data, intellectual property, and technological infrastructure. The 2022 ArtStation “No AI” occupation, legal claims over copyright, attribution, and opt-out mechanisms from 2023 onward, technical defenses such as Glaze and Nightshade, WGA and SAG-AFTRA negotiations over digital replicas and performance rights, the institutional incorporation of AI art by the art market in 2025, and the 2025–2026 conflicts involving Disney, the MPA, Seedance, and other rights holders together reveal a structural shift: refusal no longer remains merely an attitude; it increasingly enters contracts, platforms, technical systems, law, and infrastructure. The historical significance of anti-AI movements therefore lies less in whether they succeed in stopping artificial intelligence than in how they compel cultural production to ask a more fundamental question: who has the authority to decide how cultural information may be used, and through what institutions is that authority made durable?",
+        "runs": [
+          {
+            "text": "This essay interprets that transformation as a historical movement from “style” toward “sovereignty.” Sovereignty here does not refer only to the state. It names the authority to determine the callable status of one’s works, body, voice, identity, data, intellectual property, and technological infrastructure. The 2022 ArtStation “No AI” occupation, legal claims over copyright, attribution, and opt-out mechanisms from 2023 onward, technical defenses such as Glaze and Nightshade, WGA and SAG-AFTRA negotiations over digital replicas and performance rights, the institutional incorporation of AI art by the art market in 2025, and the 2025–2026 conflicts involving Disney, the MPA, Seedance, and other rights holders together reveal a structural shift: refusal no longer remains merely an attitude; it increasingly enters contracts, platforms, technical systems, law, and infrastructure. The historical significance of anti-AI movements therefore lies less in whether they succeed in stopping artificial intelligence than in how they compel cultural production to ask a more fundamental question: who has the authority to decide how cultural information may be used, and through what institutions is that authority made durable?",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 48
+      },
+      {
+        "type": "paragraph",
+        "text": "Keywords: generative AI; anti-AI movements; creative labour; style; digital replicas; control; infrastructure; sovereignty",
+        "runs": [
+          {
+            "text": "Keywords: generative AI; anti-AI movements; creative labour; style; digital replicas; control; infrastructure; sovereignty",
+            "bold": true,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 49
+      },
+      {
+        "type": "heading",
+        "text": "1. From Technological Fear to a Crisis of Control",
+        "runs": [
+          {
+            "text": "1. From Technological Fear to a Crisis of Control",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 50
+      },
+      {
+        "type": "paragraph",
+        "text": "Anti-AI movements do not represent a single technological fear, nor are they naturally equivalent to a new Luddism. Since 2022, the actions gathered under the label “anti-AI” have emerged from radically different social positions. Illustrators have opposed the unauthorized extraction and imitation of style; writers have challenged the untraceability of texts once absorbed into training systems; actors and voice performers have resisted the digital replication of voices, faces, and performances; musicians have questioned voice cloning and its revenue structures; copyright holders have attempted to re-establish the boundaries of intellectual-property worlds; while platforms and states have increasingly turned toward questions of data access, model capability, and infrastructural control. These actors share a vocabulary about artificial intelligence without sharing the same interests, risks, or power. “Anti-AI” is therefore better understood as a series of defensive responses produced when differently situated actors perceive that generative systems are redistributing control, rather than as a politically unified community.",
+        "runs": [
+          {
+            "text": "Anti-AI movements do not represent a single technological fear, nor are they naturally equivalent to a new Luddism. Since 2022, the actions gathered under the label “anti-AI” have emerged from radically different social positions. Illustrators have opposed the unauthorized extraction and imitation of style; writers have challenged the untraceability of texts once absorbed into training systems; actors and voice performers have resisted the digital replication of voices, faces, and performances; musicians have questioned voice cloning and its revenue structures; copyright holders have attempted to re-establish the boundaries of intellectual-property worlds; while platforms and states have increasingly turned toward questions of data access, model capability, and infrastructural control. These actors share a vocabulary about artificial intelligence without sharing the same interests, risks, or power. “Anti-AI” is therefore better understood as a series of defensive responses produced when differently situated actors perceive that generative systems are redistributing control, rather than as a politically unified community.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 51
+      },
+      {
+        "type": "paragraph",
+        "text": "Control, in this context, is not an abstract metaphor for power. It concerns concrete authority over the conditions of generation: who decides whether a work may enter a training corpus; who may invoke a style; who may reproduce a face, a voice, or a performance; who may authorize a model to generate characters and narratives from an existing IP universe; and who may set the boundaries of these capacities through platform rules, contracts, defaults, technical barriers, and legal procedures. The distinctive force of generative AI lies not simply in its ability to produce images, texts, and sounds, but in its conversion of previously dispersed cultural traces—works, styles, bodies, voices, behaviours, and identities—into resources that can be learned, invoked, recombined, and reproduced. In that conversion, elements once bound to a creator’s personhood, labour, and history are recoded as operational capacities. “Anti-AI,” at its most basic level, begins as a refusal of that operability.",
+        "runs": [
+          {
+            "text": "Control, in this context, is not an abstract metaphor for power. It concerns concrete authority over the conditions of generation: who decides whether a work may enter a training corpus; who may invoke a style; who may reproduce a face, a voice, or a performance; who may authorize a model to generate characters and narratives from an existing IP universe; and who may set the boundaries of these capacities through platform rules, contracts, defaults, technical barriers, and legal procedures. The distinctive force of generative AI lies not simply in its ability to produce images, texts, and sounds, but in its conversion of previously dispersed cultural traces—works, styles, bodies, voices, behaviours, and identities—into resources that can be learned, invoked, recombined, and reproduced. In that conversion, elements once bound to a creator’s personhood, labour, and history are recoded as operational capacities. “Anti-AI,” at its most basic level, begins as a refusal of that operability.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 52
+      },
+      {
+        "type": "paragraph",
+        "text": "The history of anti-AI is therefore not a linear story of machines “invading art,” but a history of translation around generative control. At first, creators described their experience through the affective language of theft, imitation, humiliation, and replacement. They were then compelled to translate those injuries into the institutional languages of copyright, attribution, data authorization, opt-out mechanisms, collective agreements, technical interference, and platform governance. By 2025–2026, the conflict had moved further into capital and infrastructure, where the self-defense of precarious creators and the governance demands of powerful rights holders could both appear under the same semantic umbrella of “anti-AI.” It is here that cybernetics and the desire for control begin to overlap: generative systems depend upon technical control over information, conditions, and outputs, while the politics surrounding them increasingly concern the reappropriation of that capacity by competing social actors.",
+        "runs": [
+          {
+            "text": "The history of anti-AI is therefore not a linear story of machines “invading art,” but a history of translation around generative control. At first, creators described their experience through the affective language of theft, imitation, humiliation, and replacement. They were then compelled to translate those injuries into the institutional languages of copyright, attribution, data authorization, opt-out mechanisms, collective agreements, technical interference, and platform governance. By 2025–2026, the conflict had moved further into capital and infrastructure, where the self-defense of precarious creators and the governance demands of powerful rights holders could both appear under the same semantic umbrella of “anti-AI.” It is here that cybernetics and the desire for control begin to overlap: generative systems depend upon technical control over information, conditions, and outputs, while the politics surrounding them increasingly concern the reappropriation of that capacity by competing social actors.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 53
+      },
+      {
+        "type": "heading",
+        "text": "2. Style: Aesthetic Injury and the Crisis of Subjecthood in 2022",
+        "runs": [
+          {
+            "text": "2. Style: Aesthetic Injury and the Crisis of Subjecthood in 2022",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 54
+      },
+      {
+        "type": "paragraph",
+        "text": "If this history requires a point of departure, it did not begin with national policy, labour agreements, or large-scale copyright litigation, but with the apparently private and difficult-to-define object of style. Visual artists were among the first groups to experience the crisis of control produced by generative AI. They discovered that habits of composition, brushwork, palette, figure treatment, and visual language developed over years could be rapidly invoked through generative systems; artists’ names themselves could enter prompts and function as retrieval cues for a visual effect. Once the creator’s name shifts from authorial identity to generative condition, what occurs is not merely the copying of works in a traditional sense, but a more complex transformation of subjecthood: the artist’s history, labour, and visual persona are compressed into a function callable by others.",
+        "runs": [
+          {
+            "text": "If this history requires a point of departure, it did not begin with national policy, labour agreements, or large-scale copyright litigation, but with the apparently private and difficult-to-define object of style. Visual artists were among the first groups to experience the crisis of control produced by generative AI. They discovered that habits of composition, brushwork, palette, figure treatment, and visual language developed over years could be rapidly invoked through generative systems; artists’ names themselves could enter prompts and function as retrieval cues for a visual effect. Once the creator’s name shifts from authorial identity to generative condition, what occurs is not merely the copying of works in a traditional sense, but a more complex transformation of subjecthood: the artist’s history, labour, and visual persona are compressed into a function callable by others.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 55
+      },
+      {
+        "type": "paragraph",
+        "text": "This helps explain the emotional intensity of the 2022 ArtStation “No AI” image occupation. It was not primarily a rigorous copyright argument, but a visual act of obstruction. Artists flooded an image platform with anti-AI imagery, inserting the sign of refusal into the exhibition system itself and interrupting the frictionless circulation of AI imagery. Its significance does not depend on whether those protest images count as art. What matters is that the platform itself became the site of struggle and refusal became visible as an image. Compared with the later institutional languages of contracts, litigation, and technical tools, the 2022 protests remained largely symbolic and affective: their keywords were theft, imitation, replacement, humiliation, and betrayal by the platform. What was threatened was not simply a particular work but the creator’s understanding of the relation between style and personhood.",
+        "runs": [
+          {
+            "text": "This helps explain the emotional intensity of the 2022 ArtStation “No AI” image occupation. It was not primarily a rigorous copyright argument, but a visual act of obstruction. Artists flooded an image platform with anti-AI imagery, inserting the sign of refusal into the exhibition system itself and interrupting the frictionless circulation of AI imagery. Its significance does not depend on whether those protest images count as art. What matters is that the platform itself became the site of struggle and refusal became visible as an image. Compared with the later institutional languages of contracts, litigation, and technical tools, the 2022 protests remained largely symbolic and affective: their keywords were theft, imitation, replacement, humiliation, and betrayal by the platform. What was threatened was not simply a particular work but the creator’s understanding of the relation between style and personhood.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 56
+      },
+      {
+        "type": "paragraph",
+        "text": "For precisely this reason, the disputes of 2022 could not be fully absorbed by conventional copyright language. Copyright is well equipped to address works, copies, permissions, damages, and ownership, but is far less capable of describing experiences such as the dilution of style, the conversion of a name into a prompt, the compression of long-term training into model capability, or the statisticalization of creative persona. Visual artists confronted an aesthetic injury for which legal language remained underdeveloped. What appeared to be taken was not always an identifiable object, but a sense of control over the continuity of one’s own practice. Style thus ceased to be merely a formal property or a market signature and became one of the first sites at which the politics of generative control became visible.",
+        "runs": [
+          {
+            "text": "For precisely this reason, the disputes of 2022 could not be fully absorbed by conventional copyright language. Copyright is well equipped to address works, copies, permissions, damages, and ownership, but is far less capable of describing experiences such as the dilution of style, the conversion of a name into a prompt, the compression of long-term training into model capability, or the statisticalization of creative persona. Visual artists confronted an aesthetic injury for which legal language remained underdeveloped. What appeared to be taken was not always an identifiable object, but a sense of control over the continuity of one’s own practice. Style thus ceased to be merely a formal property or a market signature and became one of the first sites at which the politics of generative control became visible.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 57
+      },
+      {
+        "type": "heading",
+        "text": "3. Claiming Rights: From Aesthetic Injury to Institutional Language",
+        "runs": [
+          {
+            "text": "3. Claiming Rights: From Aesthetic Injury to Institutional Language",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 58
+      },
+      {
+        "type": "paragraph",
+        "text": "After 2023, the structure of anti-AI movements changed markedly. As lawsuits, copyright disputes, data-authorization mechanisms, and opt-out tools proliferated, creators began converting injuries previously expressed in affective terms into institutional claims. The shift from “do not steal my style” to “recognize my labour, my works, and my rights over data” is not merely a stronger version of the same statement. It signals a transformation in the logic of resistance. The former centres the injured subject; the latter attempts to compel law and platforms to recognize that injury as something that can be described, delimited, and compensated institutionally.",
+        "runs": [
+          {
+            "text": "After 2023, the structure of anti-AI movements changed markedly. As lawsuits, copyright disputes, data-authorization mechanisms, and opt-out tools proliferated, creators began converting injuries previously expressed in affective terms into institutional claims. The shift from “do not steal my style” to “recognize my labour, my works, and my rights over data” is not merely a stronger version of the same statement. It signals a transformation in the logic of resistance. The former centres the injured subject; the latter attempts to compel law and platforms to recognize that injury as something that can be described, delimited, and compensated institutionally.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 59
+      },
+      {
+        "type": "paragraph",
+        "text": "This was one of the central contradictions of 2023: the modes of harm experienced by creators were more complex than the modes available to existing law for describing them. Style is not naturally equivalent to a copyrighted work; statistical learning is not identical to conventional copying; and training often occupies an intermediate zone between data acquisition, model optimization, and final generation. Anti-AI movements therefore had to remake their own language, translating claims about creative dignity, aesthetic personhood, and the history of labour into the vocabulary of copyright, data authorization, attribution, withdrawal rights, and permission to train.",
+        "runs": [
+          {
+            "text": "This was one of the central contradictions of 2023: the modes of harm experienced by creators were more complex than the modes available to existing law for describing them. Style is not naturally equivalent to a copyrighted work; statistical learning is not identical to conventional copying; and training often occupies an intermediate zone between data acquisition, model optimization, and final generation. Anti-AI movements therefore had to remake their own language, translating claims about creative dignity, aesthetic personhood, and the history of labour into the vocabulary of copyright, data authorization, attribution, withdrawal rights, and permission to train.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 60
+      },
+      {
+        "type": "paragraph",
+        "text": "This translation expanded the institutional force of anti-AI claims while simultaneously revealing their limits. Law may determine whether a work has been copied, yet remain unable to decide whether a style belongs to a subject; it may define an authorization relationship, yet struggle to evaluate the transformation that occurs when a person’s name becomes a prompt; it may calculate damages, yet find it difficult to describe how years of creative experience are reorganized inside a model as an indefinitely callable capability. The anti-AI movements of 2023 therefore did not resolve the problem of style. They forced it into a larger institutional field. Style shifted from a private aesthetic attribute into a contested object that rights language could not entirely contain, preparing the ground for later conflicts over bodies, voices, labour, and digital replicas.",
+        "runs": [
+          {
+            "text": "This translation expanded the institutional force of anti-AI claims while simultaneously revealing their limits. Law may determine whether a work has been copied, yet remain unable to decide whether a style belongs to a subject; it may define an authorization relationship, yet struggle to evaluate the transformation that occurs when a person’s name becomes a prompt; it may calculate damages, yet find it difficult to describe how years of creative experience are reorganized inside a model as an indefinitely callable capability. The anti-AI movements of 2023 therefore did not resolve the problem of style. They forced it into a larger institutional field. Style shifted from a private aesthetic attribute into a contested object that rights language could not entirely contain, preparing the ground for later conflicts over bodies, voices, labour, and digital replicas.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 61
+      },
+      {
+        "type": "heading",
+        "text": "4. The Body: From Rights in Works to the Separability of Personhood",
+        "runs": [
+          {
+            "text": "4. The Body: From Rights in Works to the Separability of Personhood",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 62
+      },
+      {
+        "type": "paragraph",
+        "text": "As the conflict expanded into the labour of actors, voice performers, musicians, and game performers in 2023–2024, the object of anti-AI resistance began to move from the work toward the body. For visual artists, generative AI had first made it possible for style to be learned and invoked apart from particular works. For performers and musicians, the problem was more immediate: voices, faces, gestures, performances, and elements of persona could be detached from the originating body and made to continue working in its absence. The artist fears that “my style no longer needs me”; the performer confronts the possibility that “my body no longer needs me.”",
+        "runs": [
+          {
+            "text": "As the conflict expanded into the labour of actors, voice performers, musicians, and game performers in 2023–2024, the object of anti-AI resistance began to move from the work toward the body. For visual artists, generative AI had first made it possible for style to be learned and invoked apart from particular works. For performers and musicians, the problem was more immediate: voices, faces, gestures, performances, and elements of persona could be detached from the originating body and made to continue working in its absence. The artist fears that “my style no longer needs me”; the performer confronts the possibility that “my body no longer needs me.”",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 63
+      },
+      {
+        "type": "paragraph",
+        "text": "This shift moved the politics of anti-AI beyond authorship toward personhood and labour. Voice cloning, digital replicas, motion capture, and synthetic performance are not adequately described as machines “taking jobs.” More fundamentally, they produce the separability of the body. Voice, face, posture, and performance—capacities previously bound to the living time of a particular worker—are transformed into assets that can be stored, licensed, copied, and repeatedly invoked.",
+        "runs": [
+          {
+            "text": "This shift moved the politics of anti-AI beyond authorship toward personhood and labour. Voice cloning, digital replicas, motion capture, and synthetic performance are not adequately described as machines “taking jobs.” More fundamentally, they produce the separability of the body. Voice, face, posture, and performance—capacities previously bound to the living time of a particular worker—are transformed into assets that can be stored, licensed, copied, and repeatedly invoked.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 64
+      },
+      {
+        "type": "paragraph",
+        "text": "The significance of actions by the WGA, SAG-AFTRA, and related labour organizations therefore lies not only in compensation but in the re-establishment of control over the relation between the body and its digital replica. Once an actor’s performance can be datafied and regenerated in the actor’s absence, labour is no longer confined to the concrete site of recording or production; it can become the repeated invocation of previously captured bodily information. Control therefore enters the domain of personhood: whether replication is permitted, for how long, in what context, whether renewed consent is required, and how revenues are distributed all become more precise and consequential questions than whether “AI should be used.” Anti-AI thus expands from a dispute over works and styles into the governance of callable personhood.",
+        "runs": [
+          {
+            "text": "The significance of actions by the WGA, SAG-AFTRA, and related labour organizations therefore lies not only in compensation but in the re-establishment of control over the relation between the body and its digital replica. Once an actor’s performance can be datafied and regenerated in the actor’s absence, labour is no longer confined to the concrete site of recording or production; it can become the repeated invocation of previously captured bodily information. Control therefore enters the domain of personhood: whether replication is permitted, for how long, in what context, whether renewed consent is required, and how revenues are distributed all become more precise and consequential questions than whether “AI should be used.” Anti-AI thus expands from a dispute over works and styles into the governance of callable personhood.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 65
+      },
+      {
+        "type": "heading",
+        "text": "5. Institutionalization: When Artificial Intelligence Enters the Art System",
+        "runs": [
+          {
+            "text": "5. Institutionalization: When Artificial Intelligence Enters the Art System",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 66
+      },
+      {
+        "type": "paragraph",
+        "text": "By 2025, the object of anti-AI resistance shifted again. Earlier disputes had centred on the extraction of works, styles, and labour by platforms and model companies. As AI art entered auctions, exhibitions, and institutional frameworks, conflict increasingly targeted the mechanisms by which the art world confers legitimacy. The significance of Christie’s AI auction lies not simply in the fact that “AI art was sold,” but in the conversion of generative mechanisms previously contested by creators into objects that could be collected, priced, and traded within the conventional art market. For opponents, this suggested that injury was no longer produced only by technological systems; it could receive renewed validation through art institutions themselves.",
+        "runs": [
+          {
+            "text": "By 2025, the object of anti-AI resistance shifted again. Earlier disputes had centred on the extraction of works, styles, and labour by platforms and model companies. As AI art entered auctions, exhibitions, and institutional frameworks, conflict increasingly targeted the mechanisms by which the art world confers legitimacy. The significance of Christie’s AI auction lies not simply in the fact that “AI art was sold,” but in the conversion of generative mechanisms previously contested by creators into objects that could be collected, priced, and traded within the conventional art market. For opponents, this suggested that injury was no longer produced only by technological systems; it could receive renewed validation through art institutions themselves.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 67
+      },
+      {
+        "type": "paragraph",
+        "text": "The art system has long possessed a powerful capacity for absorption. Conflicts, critiques, and dissident practices that begin at the margins of institutions can, once admitted into exhibition, collection, and market systems, be recoded as objects to be viewed, traded, and historicized. The institutionalization of AI art follows a similar pattern. As auction houses, museums, and other cultural organizations begin treating generative AI as a medium that can be incorporated into established systems of value, the question shifts from “does this technology belong to art?” to “who has the authority to legitimize it?” In this sense, the anti-AI sentiment of 2025 exceeded rejection of a tool and turned toward the possibility that art institutions themselves were repackaging unresolved disputes over training, consent, and labour as artistic innovation.",
+        "runs": [
+          {
+            "text": "The art system has long possessed a powerful capacity for absorption. Conflicts, critiques, and dissident practices that begin at the margins of institutions can, once admitted into exhibition, collection, and market systems, be recoded as objects to be viewed, traded, and historicized. The institutionalization of AI art follows a similar pattern. As auction houses, museums, and other cultural organizations begin treating generative AI as a medium that can be incorporated into established systems of value, the question shifts from “does this technology belong to art?” to “who has the authority to legitimize it?” In this sense, the anti-AI sentiment of 2025 exceeded rejection of a tool and turned toward the possibility that art institutions themselves were repackaging unresolved disputes over training, consent, and labour as artistic innovation.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 68
+      },
+      {
+        "type": "paragraph",
+        "text": "Christie’s should therefore be understood not as an isolated market event but as an institutional turning point. Generative AI no longer appeared only as an external technological force acting upon the art world; it began to participate internally in the distribution of value. The object of anti-AI resistance expanded accordingly. Creators no longer asked only that model companies change their training practices, but also questioned how exhibitions, auctions, and cultural institutions participated in the normalization of AI art. It is here that anxiety over legitimation emerges.",
+        "runs": [
+          {
+            "text": "Christie’s should therefore be understood not as an isolated market event but as an institutional turning point. Generative AI no longer appeared only as an external technological force acting upon the art world; it began to participate internally in the distribution of value. The object of anti-AI resistance expanded accordingly. Creators no longer asked only that model companies change their training practices, but also questioned how exhibitions, auctions, and cultural institutions participated in the normalization of AI art. It is here that anxiety over legitimation emerges.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 69
+      },
+      {
+        "type": "heading",
+        "text": "6. Capital: From the Protest of the Weak to the Governance of the Powerful",
+        "runs": [
+          {
+            "text": "6. Capital: From the Protest of the Weak to the Governance of the Powerful",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 70
+      },
+      {
+        "type": "paragraph",
+        "text": "The disputes involving Disney, Universal, the MPA, Seedance, and related actors in 2025–2026 exposed one of the most important differences hidden inside the term “anti-AI”: the difference in power among those who resist. Visual creators in the ArtStation movement largely occupied a weaker position relative to platforms and model companies; they sought a minimum degree of control over their own styles, works, and labour. Major film studios and copyright organizations faced a different kind of risk: generative models threatened to cross the boundaries of established IP universes and weaken long-standing systems of proprietary control. Once powerful copyright holders began restricting, litigating, or negotiating model capabilities, “anti-AI” could no longer be described simply as creators resisting technological capital from below.",
+        "runs": [
+          {
+            "text": "The disputes involving Disney, Universal, the MPA, Seedance, and related actors in 2025–2026 exposed one of the most important differences hidden inside the term “anti-AI”: the difference in power among those who resist. Visual creators in the ArtStation movement largely occupied a weaker position relative to platforms and model companies; they sought a minimum degree of control over their own styles, works, and labour. Major film studios and copyright organizations faced a different kind of risk: generative models threatened to cross the boundaries of established IP universes and weaken long-standing systems of proprietary control. Once powerful copyright holders began restricting, litigating, or negotiating model capabilities, “anti-AI” could no longer be described simply as creators resisting technological capital from below.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 71
+      },
+      {
+        "type": "paragraph",
+        "text": "Two distinct logics of control must therefore be separated. One is the defensive protection of subjects attempting to prevent unauthorized use of their works, bodies, and identities. The other is the effort of established capital to preserve monopolistic control over cultural assets, character worlds, and commercial licensing. The former is a politics of protection; the latter approaches the re-governance of generative infrastructure. Both may speak the language of copyright, permission, and licensing, and both may demand constraints from model companies, yet their positions in the structure of power are fundamentally different. To collapse them under the single heading of “anti-AI” would flatten the history. A more precise account must recognize that anti-AI movements include both the self-defense of precarious creators and the re-regulation of generative infrastructure by powerful copyright capital.",
+        "runs": [
+          {
+            "text": "Two distinct logics of control must therefore be separated. One is the defensive protection of subjects attempting to prevent unauthorized use of their works, bodies, and identities. The other is the effort of established capital to preserve monopolistic control over cultural assets, character worlds, and commercial licensing. The former is a politics of protection; the latter approaches the re-governance of generative infrastructure. Both may speak the language of copyright, permission, and licensing, and both may demand constraints from model companies, yet their positions in the structure of power are fundamentally different. To collapse them under the single heading of “anti-AI” would flatten the history. A more precise account must recognize that anti-AI movements include both the self-defense of precarious creators and the re-regulation of generative infrastructure by powerful copyright capital.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 72
+      },
+      {
+        "type": "paragraph",
+        "text": "This development makes “sovereignty” a useful concept for interpreting the conflicts of 2026. Sovereignty here is not merely an extension of state sovereignty. It concerns the final authority to determine the permissible scope of generation. Illustrators seek control over style; actors over body and voice; writers over the conditions under which texts enter training systems; musicians over voice and revenue; film companies over the boundaries of IP universes; model companies over training data and generative capability; and states increasingly over compute, data, models, and infrastructure themselves. At this level, the politics of generative AI no longer derives primarily from philosophical questions about whether AI is conscious, but from a more practical question: who gets to define what may be generated?",
+        "runs": [
+          {
+            "text": "This development makes “sovereignty” a useful concept for interpreting the conflicts of 2026. Sovereignty here is not merely an extension of state sovereignty. It concerns the final authority to determine the permissible scope of generation. Illustrators seek control over style; actors over body and voice; writers over the conditions under which texts enter training systems; musicians over voice and revenue; film companies over the boundaries of IP universes; model companies over training data and generative capability; and states increasingly over compute, data, models, and infrastructure themselves. At this level, the politics of generative AI no longer derives primarily from philosophical questions about whether AI is conscious, but from a more practical question: who gets to define what may be generated?",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 73
+      },
+      {
+        "type": "heading",
+        "text": "7. Refusal: From Political Gesture to Cultural Form",
+        "runs": [
+          {
+            "text": "7. Refusal: From Political Gesture to Cultural Form",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 74
+      },
+      {
+        "type": "paragraph",
+        "text": "Running parallel to law, capital, and institutional governance is another, more dispersed but equally important historical line: the formalization of refusal. From ArtStation’s “No AI” images and the silence of protest albums to technical defenses such as Glaze and Nightshade and user boycotts such as QuitGPT, anti-AI action increasingly operates not only by speaking but by refusing to upload, authorize, subscribe, generate, watch, collaborate, or allow models to train smoothly. Non-participation becomes an action structure in its own right.",
+        "runs": [
+          {
+            "text": "Running parallel to law, capital, and institutional governance is another, more dispersed but equally important historical line: the formalization of refusal. From ArtStation’s “No AI” images and the silence of protest albums to technical defenses such as Glaze and Nightshade and user boycotts such as QuitGPT, anti-AI action increasingly operates not only by speaking but by refusing to upload, authorize, subscribe, generate, watch, collaborate, or allow models to train smoothly. Non-participation becomes an action structure in its own right.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 75
+      },
+      {
+        "type": "paragraph",
+        "text": "To understand refusal as a cultural form does not require treating every act of resistance as art. QuitGPT is not an art event, and Glaze and Nightshade are first of all technical tools. Their significance lies in what they reveal together: when access to technology no longer guarantees autonomy, withdrawal, interference, withholding permission, and restricting circulation acquire cultural-political significance. Generative systems expand through accessible data, callable content, continuous user participation, and frictionless platform operation. Under those conditions, non-participation becomes a negative action directed at infrastructure. It does not create a new image, but changes whether images can become training material; it does not create a new platform, but changes what a platform may treat as available by default; it does not create a new model, but attempts to constrain what models may absorb and generate.",
+        "runs": [
+          {
+            "text": "To understand refusal as a cultural form does not require treating every act of resistance as art. QuitGPT is not an art event, and Glaze and Nightshade are first of all technical tools. Their significance lies in what they reveal together: when access to technology no longer guarantees autonomy, withdrawal, interference, withholding permission, and restricting circulation acquire cultural-political significance. Generative systems expand through accessible data, callable content, continuous user participation, and frictionless platform operation. Under those conditions, non-participation becomes a negative action directed at infrastructure. It does not create a new image, but changes whether images can become training material; it does not create a new platform, but changes what a platform may treat as available by default; it does not create a new model, but attempts to constrain what models may absorb and generate.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 76
+      },
+      {
+        "type": "paragraph",
+        "text": "If the “No AI” images of 2022 were still primarily a symbolic visual refusal, by 2026 refusal had increasingly entered concrete institutional structures: opt-out mechanisms, licensing systems, collective agreements, anti-scraping tools, model restrictions, platform defaults, and commercial licensing. Anti-AI movements thus reveal a crucial historical transformation. Refusal no longer stops at negation; it begins to redesign the conditions of generation. Its aim is not necessarily to abolish artificial intelligence, but to force it to operate under newly contested conditions.",
+        "runs": [
+          {
+            "text": "If the “No AI” images of 2022 were still primarily a symbolic visual refusal, by 2026 refusal had increasingly entered concrete institutional structures: opt-out mechanisms, licensing systems, collective agreements, anti-scraping tools, model restrictions, platform defaults, and commercial licensing. Anti-AI movements thus reveal a crucial historical transformation. Refusal no longer stops at negation; it begins to redesign the conditions of generation. Its aim is not necessarily to abolish artificial intelligence, but to force it to operate under newly contested conditions.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 77
+      },
+      {
+        "type": "heading",
+        "text": "8. From Style to Sovereignty: The Formation of a Politics of Generative Control",
+        "runs": [
+          {
+            "text": "8. From Style to Sovereignty: The Formation of a Politics of Generative Control",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 78
+      },
+      {
+        "type": "paragraph",
+        "text": "Looking back across anti-AI movements from 2022 to 2026, one can discern a historical arc that was not designed in advance but has gradually become visible. Conflict begins with style, passes through works, data, labour, bodies, and identities, and eventually reaches intellectual property, platforms, models, and infrastructure. These phases do not replace one another; they accumulate. The problem of style does not disappear when labour agreements emerge, nor do bodily rights become irrelevant once powerful copyright actors enter the conflict. Rather, generative AI continually expands the domain of cultural information that can be operationalized, transforming increasing amounts of what had previously belonged to subjectivity, professional convention, or institutional tacit knowledge into objects that can be trained, copied, generated, and traded.",
+        "runs": [
+          {
+            "text": "Looking back across anti-AI movements from 2022 to 2026, one can discern a historical arc that was not designed in advance but has gradually become visible. Conflict begins with style, passes through works, data, labour, bodies, and identities, and eventually reaches intellectual property, platforms, models, and infrastructure. These phases do not replace one another; they accumulate. The problem of style does not disappear when labour agreements emerge, nor do bodily rights become irrelevant once powerful copyright actors enter the conflict. Rather, generative AI continually expands the domain of cultural information that can be operationalized, transforming increasing amounts of what had previously belonged to subjectivity, professional convention, or institutional tacit knowledge into objects that can be trained, copied, generated, and traded.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 79
+      },
+      {
+        "type": "paragraph",
+        "text": "“From style to sovereignty” therefore does not describe a neat evolutionary sequence. It names an expansion in the scale of the object under dispute. At first, creators ask models not to invoke a style; then they ask law to recognize boundaries around works and training data; unions seek control over digital replicas and performance rights; copyright capital demands that models conform to licensing systems; and platforms and states compete over the governance of data, model capability, and infrastructure. Style matters not because it is the final issue, but because it was one of the first places where this broader crisis of control became perceptible.",
+        "runs": [
+          {
+            "text": "“From style to sovereignty” therefore does not describe a neat evolutionary sequence. It names an expansion in the scale of the object under dispute. At first, creators ask models not to invoke a style; then they ask law to recognize boundaries around works and training data; unions seek control over digital replicas and performance rights; copyright capital demands that models conform to licensing systems; and platforms and states compete over the governance of data, model capability, and infrastructure. Style matters not because it is the final issue, but because it was one of the first places where this broader crisis of control became perceptible.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 80
+      },
+      {
+        "type": "paragraph",
+        "text": "In this sense, anti-AI movements reveal not whether “humanity accepts artificial intelligence,” but the political structure of generative culture. AI has never been merely a neutral medium. It depends on the acquisition of data, the training of models, platform distribution, copyright boundaries, the organization of labour, and the control of infrastructure. As these conditions become visible, anti-AI shifts from an affective reaction to technology toward a struggle over the conditions of generation themselves. Technical control and the social desire for control mirror one another: generative models expand their capacity to encode and invoke cultural information, while different actors attempt to lock that capacity back within their own regimes of permission, property, identity, and institutional authority.",
+        "runs": [
+          {
+            "text": "In this sense, anti-AI movements reveal not whether “humanity accepts artificial intelligence,” but the political structure of generative culture. AI has never been merely a neutral medium. It depends on the acquisition of data, the training of models, platform distribution, copyright boundaries, the organization of labour, and the control of infrastructure. As these conditions become visible, anti-AI shifts from an affective reaction to technology toward a struggle over the conditions of generation themselves. Technical control and the social desire for control mirror one another: generative models expand their capacity to encode and invoke cultural information, while different actors attempt to lock that capacity back within their own regimes of permission, property, identity, and institutional authority.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 81
+      },
+      {
+        "type": "paragraph",
+        "text": "The most significant aspect of anti-AI movements from 2022 to 2026 is therefore not whether they ultimately “stopped” artificial intelligence, but how they made the problem of control in cultural production visible. They force artists, workers, platforms, capital, and states to answer anew: once a work, a style, a body, a voice, an IP universe, or an entire cultural infrastructure enters a generative system, to whom does it still belong, and what does belonging mean under those conditions? The history of anti-AI is ultimately not a history of humans against machines, but a history of how cultural information is invoked, refused, authorized, copied, governed, and reappropriated.",
+        "runs": [
+          {
+            "text": "The most significant aspect of anti-AI movements from 2022 to 2026 is therefore not whether they ultimately “stopped” artificial intelligence, but how they made the problem of control in cultural production visible. They force artists, workers, platforms, capital, and states to answer anew: once a work, a style, a body, a voice, an IP universe, or an entire cultural infrastructure enters a generative system, to whom does it still belong, and what does belonging mean under those conditions? The history of anti-AI is ultimately not a history of humans against machines, but a history of how cultural information is invoked, refused, authorized, copied, governed, and reappropriated.",
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "sourceParagraph": 82
+      }
+    ]
+  },
+  "sourceCoverCredit": "陈浩浩 · Chen Haohao"
+}

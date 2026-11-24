@@ -1,0 +1,48 @@
+[
+  {
+    "id": "cybernetics-control-2026",
+    "title": {
+      "zh": "控制论与控制欲：从风格到主权",
+      "en": "From Style to Sovereignty"
+    },
+    "year": "2026",
+    "dateLabel": {
+      "zh": "2026",
+      "en": "2026"
+    },
+    "author": "陈浩浩 CHEN HAOHAO",
+    "pinned": true,
+    "kind": {
+      "zh": "研究文章",
+      "en": "Research essay"
+    },
+    "description": {
+      "zh": "陈浩浩论2022—2026年反AI运动中控制权如何从风格、作品与身体，扩展到版权、平台和生成基础设施。",
+      "en": "Chen Haohao examines how disputes over style, works and bodies developed into struggles over rights, platforms and generative infrastructure in anti-AI movements from 2022 to 2026."
+    },
+    "searchTerms": "控制论 控制欲 主权 风格 Cybernetics Desire Control Sovereignty Generative Anti-AI 生成控制 政治 CHEN HAOHAO 陈浩浩"
+  },
+  {
+    "id": "disco-ai-2023",
+    "title": {
+      "zh": "Disco与AI：反对AI的运动是新卢德主义吗？",
+      "en": "Disco and AI: Is the Movement Against AI a New Luddism?"
+    },
+    "year": "2023",
+    "dateLabel": {
+      "zh": "2023-03-14",
+      "en": "14 MARCH 2023"
+    },
+    "author": "陈浩浩 CHEN HAOHAO",
+    "pinned": false,
+    "kind": {
+      "zh": "历史评论",
+      "en": "Historical commentary"
+    },
+    "description": {
+      "zh": "保留2023年判断的图文版、英文全文译本与独立编者按。",
+      "en": "The illustrated 2023 commentary, a full English translation and a separate editor’s note."
+    },
+    "searchTerms": "ArtStation LUOCAO historical commentary 历史评论 disco-ai-2023"
+  }
+]

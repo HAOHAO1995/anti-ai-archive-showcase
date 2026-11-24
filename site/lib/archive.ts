@@ -1,0 +1,16 @@
+import {normalizePeople} from './entity-aliases.mjs';
+import snapshot from './data/archive.json';
+export type Event = {id:string; title:string; date:string|null; date_precision:string; case_id:string; summary:string; what_changed:string; historical_significance:string; notes:string; fields:string[]; regions:string[]; actors:string[]; organizations:string[]; tags:string[]; primary_sources:string[]; secondary_sources:string[]; document_ids:string[]; claims_status:string; review_status:string; updated_at:string; evidence:{claim:string;source_id:string;locator:string}[]};
+export type Case = {id:string; title:string; summary:string; start_date:string|null; research_significance:string; notes:string; timeline:string[]; related_cases:string[]; primary_sources:string[]; secondary_sources:string[]; updated_at:string};
+export type Document = {id:string;title:string;date:string|null;date_precision:string;document_type:string;language:string;creator_credit:string;description:string;event_ids:string[];case_ids:string[];source_ids:string[];material_description:string;rights_status:string;original_excerpt:string|null;translation_zh:string|null;translation_status:string;updated_at:string};
+export type Source = {id:string;title:string;publisher:string;author:string|null;publication_date:string|null;access_date:string;original_url:string;archive_url:string|null;archive_status:string;source_type:string;language:string;locator:string;notes:string};
+export type Person = {id:string;name:string};
+export type Data = {events:Event[];cases:Case[];documents:Document[];sources:Source[];people:Person[];updated:string;taxonomy:{fields:Record<string,string>;claims_status:Record<string,string>;scope_roles:Record<string,string>}};
+export const archive = normalizePeople(snapshot as unknown as Data);
+export const years = [...new Set(archive.events.map(e=>e.date?.slice(0,4)).filter(Boolean))].sort((a,b)=>(a??'').localeCompare(b??'')) as string[];
+export const range = `${years[0]}–${years.at(-1)}`;
+export const orderedEvents = [...archive.events].sort((a,b)=>(a.date??'9999').localeCompare(b.date??'9999') || a.id.localeCompare(b.id));
+export const personName = (id:string)=>archive.people.find(p=>p.id===id)?.name??id;
+export const fieldName = (id:string)=>archive.taxonomy.fields[id]??(id==='games-performance'?'电子游戏表演':id);
+export const regionName = (id:string,lang='zh')=> id==='Europe' ? (lang==='zh'?'欧洲':'Europe') : id==='global-online' ? (lang==='zh'?'全球／线上':'Global / online') : id==='global' ? (lang==='zh'?'全球':'Global') : (()=>{try{return new Intl.DisplayNames([lang],{type:'region'}).of(id)??id}catch{return id}})();
+export const eventUrl=(id:string)=>`/events/${id}`;

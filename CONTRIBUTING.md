@@ -44,8 +44,19 @@ Issues are public. Do not submit sensitive personal information, credentials, pr
 
 Issues 为公开内容。请勿提交敏感个人信息、凭据、私人通信、未公开来源笔记或第三方全文。提交 Issue 不等于转让著作权或授予整体复用许可；原创投稿请注明署名和相关授权。
 
-The complete internal dataset is not published in this repository. Report metadata problems through page URLs and stable IDs; do not assume a downloadable dataset exists. See the [public data release policy](docs/data-release-policy.md).
+A selective public snapshot is downloadable under `data/`; the complete internal dataset remains excluded. Report metadata problems through collection names, stable IDs, snapshot version and evidence. See the [public data release policy](docs/data-release-policy.md).
 
-完整内部数据集未在本仓库公开。元数据问题请通过页面网址与稳定编号提交，不以存在可下载数据集为前提。参见[公开数据发布政策](docs/data-release-policy.md)。
+`data/` 提供选择性公开快照，完整内部数据集仍不公开。问题请提供集合、稳定 ID、快照版本与证据。参见[公开数据发布政策](docs/data-release-policy.md)。
 
 [Existing introductory tasks / 已有入门任务](docs/GOOD_FIRST_ISSUES.md)
+
+
+## Code and data changes / 代码与数据改动
+
+Fork the repository, create a branch, make a focused change and submit a pull request. Run the commands in [Development](docs/DEVELOPMENT.md). A data correction must preserve IDs, specify the supporting original source and locator, explain date precision and procedural status, update bilingual versions and state translation-review limits. Do not edit generated exports alone; update the approved source and regenerate after maintainer review. Snapshot hash changes require an explicitly accepted research release.
+
+Fork 后建立分支，提交范围明确的 PR，并运行开发指南中的检查。数据更正须保留 ID、给出原始来源与定位、说明日期精度和程序状态，同步双语并标明审校局限。不要只改生成文件，应修改获批准的来源并重新导出；更改快照哈希必须经过研究发布验收。
+
+For pull-request contributions, submit only material you have the right to license. Original code contributions use MIT; original metadata and research text use CC BY 4.0. Preserve attribution and identify third-party material with its separate rights. This does not retroactively relicense existing issue submissions.
+
+PR 仅提交你有权授权的材料。原创代码采用 MIT；原创编目与研究文字采用 CC BY 4.0。保留署名，第三方材料单列权利；这不追溯改变既有 issue 投稿的许可。

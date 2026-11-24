@@ -23,10 +23,12 @@ At the statistics sync of 28 September 2026, the reading room counted 516 docume
 
 2026 年 9 月 28 日统计同步时，阅览室将 516 条文献编目与 2 篇作者文章合计为 518 项；关联事件的人物与机构索引显示 351 条记录中的 349 项，另有 40 个地区分类。不同统计范围不可互换。
 
-The 222 art-history nodes have 444 Chinese/English detail-page URLs; pages are not extra historical nodes. The three introductory guide cards have bilingual reading pages. See the [30 September reading update](../updates/2026-09.md) for the recorded navigation changes.
+In the September30 version, the 222 art-history nodes had 444 Chinese/English detail-page URLs; pages are not extra historical nodes. The three introductory guide cards had bilingual reading pages. See the [30 September reading update](../updates/2026-09.md) for the recorded navigation changes.
 
-222 个艺术史节点对应 444 个中英文详情页网址；阅读页面不能重复计为历史节点。前三张导读卡片也有双语阅读页。已记录的阅读方式变化见[9 月 30 日阅读更新](../updates/2026-09.md)。
+9 月 30 日版本的 222 个艺术史节点对应 444 个中英文详情页网址；阅读页面不能重复计为历史节点。前三张导读卡片也有双语阅读页。已记录的阅读方式变化见[9 月 30 日阅读更新](../updates/2026-09.md)。
 
 Repository research notes and historical statistics are indexed under [updates](../updates/README.md). The [data release policy](data-release-policy.md) distinguishes these public materials from the private internal dataset.
 
 仓库研究札记和历史统计见[更新索引](../updates/README.md)。[数据发布政策](data-release-policy.md)区分这些公开材料与内部私有数据集。
+
+Current snapshot counts and guide/context distinctions are documented in [COUNTING](COUNTING.md). 当前快照口径与导读、背景作品的区分见该文档。
