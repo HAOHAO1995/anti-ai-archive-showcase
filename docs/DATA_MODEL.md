@@ -31,3 +31,7 @@ CSV 使用 UTF-8 BOM，对象以点号展平、数组编码为 JSON、null 写�
 The draft structural [JSON Schema](public-data.schema.json) documents the common envelope and history distinctions. Full cross-file integrity is enforced by `scripts/validate-data.py` and the site content validators. Schema acceptance alone does not certify research accuracy.
 
 [JSON Schema](public-data.schema.json)描述通用结构与历史记录的区别；跨集合完整性由 Python 与站点校验器共同检查。Schema 通过不代表研究结论已证实。
+
+`manifest.vocabularies` records the codes observed in this frozen event snapshot (fields, regions, jurisdiction, tags, event type, scope, claim and review status). They are snapshot vocabularies, not a universal classification. Event `created_at`/`ingested_at` describe record processing, separate from the historical `date`; original location notes are retained as `location_detail_as_recorded` without an invented translation.
+
+清单提供本快照事件中实际出现的受控代码，不将其当作全球通用分类。记录创建、入库日期与历史事件日期分开，地点注释以原始写法保留，不编造译文。

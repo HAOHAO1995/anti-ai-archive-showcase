@@ -24,6 +24,9 @@ def validate(root=ROOT):
             for field,target in relations.items():
                 for ref in r.get(field,[]) or []:check(ref in ids[target],f'{kind}/{ident}/{field}: missing {ref}')
             if kind=='events':
+                for field,allowed in manifest['vocabularies'].items():
+                    values=r[field] if isinstance(r[field],list) else [r[field]]
+                    check(set(values)<=set(allowed),f'{ident}: unregistered vocabulary {field}')
                 check(r['case_id'] in ids['cases'],f'{ident}: unknown case')
                 check(bool(r['evidence']),f'{ident}: no evidence')
                 cited=set(r['primary_sources']+r['secondary_sources'])

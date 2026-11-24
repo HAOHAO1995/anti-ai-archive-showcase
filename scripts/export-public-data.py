@@ -40,20 +40,21 @@ def basic(kind,r):return {'id':r['id'],'title':bilingual(r['title']),'website_ur
 out={}
 out['cases']=[]
 for r in a['cases']:
-    d=basic('cases',r);d.update(pick(r,['start_date','end_date','status','actors','organizations','jurisdiction','tags','related_cases','primary_sources','secondary_sources','updated_at']))
+    d=basic('cases',r);d.update(pick(r,['start_date','end_date','status','actors','organizations','jurisdiction','tags','related_cases','primary_sources','secondary_sources','created_at','updated_at']))
     d.update(texts(r,['summary','research_significance']));d['public_annotation']=bilingual(r.get('notes'))
     d['event_ids']=[e['id'] for e in a['events'] if e['case_id']==r['id']]
     out['cases'].append(d)
 out['events']=[]
 for r in a['events']:
     if r['review_status'] not in ['source-checked','publish-ready']:raise ValueError('Unpublished event')
-    d=basic('events',r);d.update(pick(r,['date','date_precision','case_id','status','actors','organizations','regions','fields','tags','primary_sources','secondary_sources','source_confidence','claims_status','review_status','related_events','related_cases','document_ids','updated_at']))
+    d=basic('events',r);d.update(pick(r,['date','date_precision','case_id','status','actors','organizations','regions','fields','tags','primary_sources','secondary_sources','source_confidence','claims_status','review_status','related_events','related_cases','document_ids','event_type','scope_role','jurisdiction','created_at','ingested_at','updated_at']))
+    d['location_detail_as_recorded']=r.get('location_detail')
     d.update(texts(r,['summary','what_changed','historical_significance']));d['public_annotation']=bilingual(r.get('notes'))
     d['evidence']=[{'source_id':e['source_id'],'claim':bilingual(e['claim']),'locator':bilingual(e['locator'])} for e in r['evidence']]
     out['events'].append(d)
 out['documents']=[]
 for r in a['documents']:
-    d=basic('documents',r);d.update(pick(r,['date','date_precision','document_type','language','event_ids','case_ids','source_ids','rights_status','translation_status','updated_at']))
+    d=basic('documents',r);d.update(pick(r,['date','date_precision','document_type','language','event_ids','case_ids','source_ids','rights_status','translation_status','created_at','updated_at']))
     d.update(texts(r,['description','material_description']));
     if d['date_precision']=='unknown':d['date_as_recorded']=d['date'];d['date']=None
     d['creator_credit']=bilingual(r.get('creator_credit'),True)
@@ -103,6 +104,7 @@ manifest={'schema_version':'1.0.0','code_license':'MIT','license_scope':'Origina
           'snapshot_updated':a['updated'],'license':args.license,'source_snapshot_sha256':digest,
           'genealogy_snapshot_sha256':hashlib.sha256(args.genealogy.read_bytes()).hexdigest(),
           'translation_snapshot_sha256':hashlib.sha256(args.translations.read_bytes()).hexdigest(),
+          'approved_input_hashes':approved['files'],'vocabularies':{**{k:sorted({code for row in out['events'] for code in row.get(k,[])}) for k in ['fields','regions','jurisdiction','tags']},**{k:sorted({row[k] for row in out['events']}) for k in ['event_type','scope_role','claims_status','review_status']}},
           'scope':'Published catalogue metadata and archive-authored bilingual accounts; no third-party full texts or private drafts.',
           'files':files,
           'counts':{'cases':len(out['cases']),'events':len(out['events']),'catalogue_documents':len(out['documents']),'authored_documents':len(out['authored-documents']),'documents_total':len(out['documents'])+len(out['authored-documents']),'sources':len(out['sources']),'stored_entities':len(out['entities']),'distinct_entities':len({x['canonical_id'] for x in out['entities']}),'event_linked_entity_ids':len({v for e in out['events'] for k in ['actors','organizations'] for v in e.get(k,[])}),'event_linked_entities':len({{'org-beijing-court':'org-beijing-internet-court'}.get(v,v) for e in out['events'] for k in ['actors','organizations'] for v in e.get(k,[])}),'history_timeline_nodes':sum(r['timeline_role']!='context' for r in out['genealogy']),'history_context_records':sum(r['timeline_role']=='context' for r in out['genealogy']),'history_records':len(out['genealogy']),'history_accounts':len(out['history-accounts']),'history_guides':len(out['guides'])}}
